@@ -14,6 +14,19 @@
 #
 # Source health is printed in every build log (the "Probe sources" step in
 # the Actions tab), so you never have to guess which one went quiet.
+#
+# ── A standing note about Substack ────────────────────────────────────────
+# Substack returns HTTP 403 to GitHub's servers for any address ending in
+# .substack.com. The same publication on its OWN domain answers fine — this
+# is a rule about the hostname, not about the publisher or the feed.
+#
+#   works:  acl.news · oneusefulthing.org · vittlesmagazine.com · jack-clark.net
+#   blocked: iknow.substack.com · aprivatechef.substack.com · wmbrown.substack.com
+#
+# So before adding a Substack, open <name>.substack.com and see whether it
+# redirects to a custom domain. If it does, use that domain and it will work.
+# If it doesn't, it can't be fetched here, and Substack Notes (which live on
+# substack.com itself) can't be fetched at all.
 
 settings:
   timezone: America/New_York
@@ -63,14 +76,20 @@ sections:
     title: Artificial Intelligence
     kind: headlines
     sources:
-      # Substack refused the request (HTTP error) on the first real build.
-      # Jack Clark publishes the same newsletter on his own site, which is
-      # the more durable address anyway — Substack is the fallback now.
+      # Substack refused the request on the first real build. Jack Clark
+      # publishes the same newsletter on his own site — the durable address.
       - type: rss
         name: Import AI
         url:
           - https://jack-clark.net/feed/
           - https://importai.substack.com/feed
+      # Ethan Mollick. One of Paul's subscriptions, and one of only two that
+      # sit on a custom domain, which is why this one can be included.
+      - type: rss
+        name: One Useful Thing
+        url:
+          - https://www.oneusefulthing.org/feed
+          - https://oneusefulthing.substack.com/feed
       - type: rss
         name: Simon Willison
         url: https://simonwillison.net/atom/everything/
@@ -95,8 +114,7 @@ sections:
       # "new" in the handle, which is why the first two runs came back empty.
       # With no handle set, the adapter reads the whole store and takes the
       # most recently published items — which is what "new in" means anyway,
-      # and it survives a brand renaming its collections. Both stores returned
-      # 8 items on the first real build.
+      # and it survives a brand renaming its collections.
       #
       # Mashburn is two stores under one roof; the tag filter keeps this to
       # Sid rather than filling the section with Ann's womenswear.
@@ -129,28 +147,22 @@ sections:
       #   image_selector: "img"
       #   price_selector: "[class*='price']"
 
-  # The two Substacks Paul actually subscribes to that aren't food — they sit
-  # next to New In because they're about the same things the brands are.
+  # Paul's reading that isn't news and isn't food. Sits next to New In
+  # because it's about the same things the brands are.
+  #
+  # The other subscriptions belong here too — The Wm Brown Weekly, RILEY
+  # HARPER, IYKYK — but all three are on *.substack.com and return 403.
+  # If any of them ever moves to a custom domain, add it here.
   - id: dispatches
     title: Dispatches
     kind: headlines
     sources:
-      # Michael Williams' ACL. The Substack address redirects to the
-      # publication's own domain, so that's the one used here — a custom
-      # domain is the more durable address and sidesteps whatever made
-      # Substack refuse the Import AI request.
+      # Michael Williams' ACL, on its own domain.
       - type: rss
         name: A Continuous Lean
         url:
           - https://www.acl.news/feed
           - https://acontinuouslean.substack.com/feed
-      # Dominic Scalise's weekly. Note the address: the publication is called
-      # IYKYK but it is served from iknow.substack.com. There IS an
-      # iykyk.substack.com — it belongs to someone else entirely, so don't
-      # "correct" this one.
-      - type: rss
-        name: IYKYK
-        url: https://iknow.substack.com/feed
 
   - id: garden-table
     title: Garden & Table
@@ -159,13 +171,6 @@ sections:
       - type: rss
         name: Vittles
         url: https://www.vittlesmagazine.com/feed
-      # Will Cooper. The one food publication among Paul's subscriptions.
-      - type: rss
-        name: A Private Chef
-        url: https://aprivatechef.substack.com/feed
-      # The plain /feed/ address parsed but held no entries on the first real
-      # build, which usually means the site serves a different format there.
-      # The explicit Atom and RSS paths are tried ahead of it now.
       - type: rss
         name: Margaret Roach
         url:
@@ -178,10 +183,9 @@ sections:
       - type: rss
         name: NYBG Plant Talk
         url: https://www.nybg.org/blogs/plant-talk/feed/
-      # blog.rss returned an HTTP error on the first real build. These are the
-      # other two addresses Food52 has served this feed from. All three failed
-      # on the second build too — Food52 appears to block datacenter traffic
-      # outright, the same way J.Crew does. Left in place, and harmless.
+      # Food52 returns 429 — rate limiting, not refusal — on all three of its
+      # addresses. That's GitHub's shared IPs being throttled rather than a
+      # wrong URL. Left in place; it costs nothing and may start answering.
       - type: rss
         name: Food52
         url:
