@@ -142,17 +142,21 @@ sections:
         price_selector: "span.Heading--serif"
         currency_symbol: "$"
         limit: 2
-      # Buck Mason IS Shopify — their images sit on cdn.shopify.com — but
-      # they've disabled /products.json, so it has to be scraped.
-      # article[handle] is semantic markup and should outlive a restyle;
-      # their CSS class names carry build hashes and won't.
+      # Shopify headless — /products.json and .atom all 404, confirmed from
+      # the browser. Tiles are empty shells server-side: no name, no price,
+      # just an image and a link, everything else painted in by JavaScript.
+      # But the tile carries a `handle` attribute holding the product slug,
+      # so title_attr rebuilds the name from that. No price is available
+      # anywhere server-side — these cards show a name and photo only.
+      # The first image is often a different product's lifestyle shot; the
+      # real product photos are the ones filed under BM<style number>.
       - type: html
         name: Buck Mason
         url: https://www.buckmason.com/collections/mens-new-arrivals
         item_selector: "article[handle]"
-        title_selector: 'a[href*="/products/"]'
+        title_attr: handle
         link_selector: 'a[href*="/products/"]'
-        image_selector: "img"
+        image_selector: 'img[src*="/BM"], img'
         limit: 2
 
   - id: dispatches
