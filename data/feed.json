@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-13T18:24:14.746237+00:00",
+ "generated_at": "2026-08-13T18:29:57.426384+00:00",
  "sections": [
   {
    "id": "world",
@@ -86,27 +86,15 @@
    "kind": "headlines",
    "items": [
     {
-     "title": "Goldman Sachs Is Bullish on Active ETFs With Purchase of SPYI, QQQI Issuer",
-     "url": "https://www.bloomberg.com/news/newsletters/2026-08-13/goldman-sachs-is-bullish-on-active-etfs-with-purchase-of-spyi-qqqi-issuer",
-     "source": "Bloomberg",
-     "summary": "The firm is pushing further into a market where investors are willing to pay for ETFs that promise something more specific than simply tracking an index.",
-     "published": "2026-08-13T18:21:38+00:00",
-     "image": null,
-     "kind": "article",
-     "id": "b495ea5b2366acc7",
-     "first_seen": "2026-08-13T18:24:14.746237+00:00",
-     "is_new": true
-    },
-    {
-     "title": "OpenAI revenue chief Denise Dresser leaving, second major executive departure in days",
-     "url": "https://www.cnbc.com/2026/08/13/openai-denise-dresser-executive-exits.html",
+     "title": "Cisco shares slide 9% despite earnings beat and stronger-than-expected guidance",
+     "url": "https://www.cnbc.com/2026/08/13/cisco-shares-slide-9percent-despite-earnings-beat-and-strong-guidance.html",
      "source": "CNBC",
-     "summary": "Denise Dresser's sudden departure could be a major blow to OpenAI as it pursues a blockbuster IPO.",
-     "published": "2026-08-13T17:56:39+00:00",
+     "summary": "Cisco is showing booming demand for AI infrastructure, but its results weren't good enough to satisfy investors.",
+     "published": "2026-08-13T18:17:37+00:00",
      "image": null,
      "kind": "article",
-     "id": "3dfefed754fb3301",
-     "first_seen": "2026-08-13T17:13:41.231451+00:00",
+     "id": "39878960c41d8be1",
+     "first_seen": "2026-08-13T18:29:57.426384+00:00",
      "is_new": true
     },
     {
@@ -119,6 +107,18 @@
      "kind": "article",
      "id": "d867e10880adaace",
      "first_seen": "2026-08-13T17:54:45.246162+00:00",
+     "is_new": true
+    },
+    {
+     "title": "Anthropic CFO Krishna Rao is leading early IPO meetings with investors and has not discussed valuation, sources say",
+     "url": "https://www.cnbc.com/2026/08/13/anthropic-cfo-early-ipo-meetings-valuation.html",
+     "source": "CNBC",
+     "summary": "Anthropic CFO Krishna Rao is leading early investor meetings, which have focused on big-picture themes like its Claude AI models, management and more.",
+     "published": "2026-08-13T17:00:49+00:00",
+     "image": null,
+     "kind": "article",
+     "id": "e25cdc034b226471",
+     "first_seen": "2026-08-13T18:29:57.426384+00:00",
      "is_new": true
     },
     {
@@ -391,7 +391,7 @@
  ],
  "errors": [
   "Reuters: RuntimeError \u2014 https://www.reutersagency.com/feed/?best-topics=business-finance&post_type=best \u2192 HTTP 404; https://feeds.reuters.com/reuters/businessNews \u2192 ConnectionError",
-  "Margaret Roach: RuntimeError \u2014 https://awaytogarden.com/feed/atom/ \u2192 ConnectTimeout; https://awaytogarden.com/feed/rss2/ \u2192 ConnectTimeout; https://awaytogarden.com/feed/ \u2192 ConnectTimeout",
+  "Margaret Roach: RuntimeError \u2014 https://awaytogarden.com/feed/atom/ \u2192 no entries; https://awaytogarden.com/feed/rss2/ \u2192 no entries; https://awaytogarden.com/feed/ \u2192 no entries",
   "Food52: RuntimeError \u2014 https://food52.com/blog/feed \u2192 HTTP 429; https://food52.com/rss \u2192 HTTP 429; https://food52.com/blog.rss \u2192 HTTP 429"
  ]
 }
