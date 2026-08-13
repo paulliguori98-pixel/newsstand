@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-13T16:21:06.911148+00:00",
+ "generated_at": "2026-08-13T17:13:41.231451+00:00",
  "sections": [
   {
    "id": "world",
@@ -7,11 +7,35 @@
    "kind": "headlines",
    "items": [
     {
-     "title": "U.S. Investigated Left-Leaning Groups During Minnesota\u2019s Immigration Crackdown",
+     "title": "Trump-Led Board Votes Again to Close Kennedy Center for Renovations",
+     "url": "https://www.nytimes.com/2026/08/13/arts/design/kennedy-center-closure-board-vote-trump.html",
+     "source": "New York Times",
+     "summary": "The decision will be reviewed by a federal judge who previously said the board had not thoroughly evaluated the president\u2019s plan.",
+     "published": "2026-08-13T16:47:28+00:00",
+     "image": "https://static01.nyt.com/images/2026/08/13/multimedia/13cul-kennedy-center-gqfj/13cul-kennedy-center-gqfj-mediumSquareAt3X.jpg",
+     "kind": "article",
+     "id": "429ffea98d5c2376",
+     "first_seen": "2026-08-13T17:13:41.231451+00:00",
+     "is_new": true
+    },
+    {
+     "title": "Vladimir Putin's first visit to disputed Pacific islands draws Tokyo protest",
+     "url": "https://www.npr.org/2026/08/13/g-s1-138631/vladimir-putins-first-visit-to-disputed-pacific-islands-draws-tokyo-protest",
+     "source": "NPR",
+     "summary": "The four southernmost islands of the chain also are claimed by Japan, which calls them the Northern Territories.",
+     "published": "2026-08-13T16:40:26+00:00",
+     "image": null,
+     "kind": "article",
+     "id": "7c7a50dd6aa5dd16",
+     "first_seen": "2026-08-13T17:13:41.231451+00:00",
+     "is_new": true
+    },
+    {
+     "title": "U.S. Investigated Left-Leaning Groups During Minnesota Immigration Crackdown",
      "url": "https://www.nytimes.com/2026/08/13/us/politics/dhs-inquiry-immigration-protests-minnesota.html",
      "source": "New York Times",
      "summary": "The government conducted expansive surveillance, infiltrated group chats and obtained financial records of organizations never accused of crimes.",
-     "published": "2026-08-13T16:01:32+00:00",
+     "published": "2026-08-13T16:35:42+00:00",
      "image": "https://static01.nyt.com/images/2026/08/12/multimedia/dc-minn-whjk/dc-minn-whjk-mediumSquareAt3X.jpg",
      "kind": "article",
      "id": "812d8bb371f91101",
@@ -53,30 +77,6 @@
      "id": "294c783f8bd47b17",
      "first_seen": "2026-08-13T15:17:50.783323+00:00",
      "is_new": true
-    },
-    {
-     "title": "Taiwan briefly slows its mobile internet to text-only speed as part of defense drill",
-     "url": "https://www.npr.org/2026/08/13/g-s1-138581/taiwan-briefly-slows-its-mobile-internet-to-text-only-speed-as-part-of-defense-drill",
-     "source": "NPR",
-     "summary": "The drills come amid rising tensions with China, which frequently sends military planes and ships towards Taiwan.",
-     "published": "2026-08-13T13:18:43+00:00",
-     "image": null,
-     "kind": "article",
-     "id": "40aebc05da074e97",
-     "first_seen": "2026-08-13T16:21:06.911148+00:00",
-     "is_new": true
-    },
-    {
-     "title": "Inflation eased slightly in July. And, ICE plans to give officers electric shock gloves",
-     "url": "https://www.npr.org/2026/08/13/g-s1-138578/up-first-newsletter-inflation-colombia-earthquake-ice-gloves-migrant-children-karolina-leavitt",
-     "source": "NPR",
-     "summary": "Inflation cooled a bit last month, according to a new report from the Labor Department. And, ICE plans to equip its officers with electric shock gloves.",
-     "published": "2026-08-13T11:31:18+00:00",
-     "image": null,
-     "kind": "article",
-     "id": "233cd5c0a51d49fe",
-     "first_seen": "2026-08-13T16:21:06.911148+00:00",
-     "is_new": true
     }
    ]
   },
@@ -86,27 +86,15 @@
    "kind": "headlines",
    "items": [
     {
-     "title": "Trump-linked oil venture delays Greenland drilling plans after government warning",
-     "url": "https://www.cnbc.com/2026/08/13/greenland-energy-oil-drilling-trump.html",
+     "title": "OpenAI revenue chief Denise Dresser leaving, second major executive departure in days",
+     "url": "https://www.cnbc.com/2026/08/13/openai-denise-dresser-executive-exits.html",
      "source": "CNBC",
-     "summary": "Greenland Energy Co. and joint venture partner 80 Mile have delayed planned oil drilling in Greenland until winter 2027.",
-     "published": "2026-08-13T16:06:38+00:00",
+     "summary": "Denise Dresser's sudden departure could be a major blow to OpenAI as it pursues a blockbuster IPO.",
+     "published": "2026-08-13T16:56:01+00:00",
      "image": null,
      "kind": "article",
-     "id": "7f14c7259d5456f9",
-     "first_seen": "2026-08-13T16:21:06.911148+00:00",
-     "is_new": true
-    },
-    {
-     "title": "Thousands of Lawyers and Bankers Predicted To Leave London",
-     "url": "https://www.bloomberg.com/news/videos/2026-08-13/thousands-of-lawyers-bankers-predicted-to-exit-london-video",
-     "source": "Bloomberg",
-     "summary": "Thousands of bankers and lawyers are poised to leave London over the next few years. Irina Anghel explains where they're going and why. (Source: Bloomberg)",
-     "published": "2026-08-13T16:04:33+00:00",
-     "image": null,
-     "kind": "article",
-     "id": "9c162dad6ff3e490",
-     "first_seen": "2026-08-13T16:21:06.911148+00:00",
+     "id": "3dfefed754fb3301",
+     "first_seen": "2026-08-13T17:13:41.231451+00:00",
      "is_new": true
     },
     {
@@ -132,6 +120,18 @@
      "id": "3ef38ebf2d989d9e",
      "first_seen": "2026-08-13T16:21:06.911148+00:00",
      "is_new": true
+    },
+    {
+     "title": "Wholesale prices were flat in July, below expectations for 0.2% increase",
+     "url": "https://www.cnbc.com/2026/08/13/wholesale-prices-were-flat-in-july-below-expectations-for-0point2percent-increase.html",
+     "source": "CNBC",
+     "summary": "The producer price index was expected to increase by 0.2% in July, according to the Dow Jones consensus.",
+     "published": "2026-08-13T13:18:36+00:00",
+     "image": null,
+     "kind": "article",
+     "id": "715f1ee2e943cf23",
+     "first_seen": "2026-08-13T15:19:32.699836+00:00",
+     "is_new": true
     }
    ]
   },
@@ -141,15 +141,27 @@
    "kind": "headlines",
    "items": [
     {
-     "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
-     "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
-     "source": "OpenAI",
-     "summary": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.",
-     "published": "2026-08-13T09:00:00+00:00",
+     "title": "Introducing Gemini 3.7 Flash",
+     "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+     "source": "Google DeepMind",
+     "summary": "",
+     "published": "2026-08-13T17:04:18+00:00",
      "image": null,
      "kind": "article",
-     "id": "9e022b7caa78cba4",
-     "first_seen": "2026-08-13T16:21:06.911148+00:00",
+     "id": "068e562e05123807",
+     "first_seen": "2026-08-13T17:13:41.231451+00:00",
+     "is_new": true
+    },
+    {
+     "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+     "url": "https://openai.com/index/previewing-ultrafast",
+     "source": "OpenAI",
+     "summary": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14\u00d7 faster. Powered by Cerebras, it delivers up to 750 output tokens per second.",
+     "published": "2026-08-13T10:00:00+00:00",
+     "image": null,
+     "kind": "article",
+     "id": "6357d7795d215a7f",
+     "first_seen": "2026-08-13T17:13:41.231451+00:00",
      "is_new": true
     },
     {
@@ -161,18 +173,6 @@
      "image": "https://static.simonwillison.net/static/2026/deepseek-pro-low.png",
      "kind": "article",
      "id": "04d62565190e878d",
-     "first_seen": "2026-08-13T13:18:48.510709+00:00",
-     "is_new": true
-    },
-    {
-     "title": "Terabytes of credentials leaked in massive supply-chain attack",
-     "url": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/",
-     "source": "Ars Technica",
-     "summary": "The data was scraped and exfiltrated from 2,500 users of a compromised AI package.",
-     "published": "2026-08-12T21:43:21+00:00",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2021/07/data-breach.jpeg",
-     "kind": "article",
-     "id": "80c120873d58c484",
      "first_seen": "2026-08-13T13:18:48.510709+00:00",
      "is_new": true
     }
@@ -219,6 +219,45 @@
      "price": "$195",
      "kind": "product",
      "id": "b14099ad34df5877",
+     "first_seen": "2026-08-13T13:58:09.770489+00:00",
+     "is_new": true
+    },
+    {
+     "title": "Chore Jacket in Spruce Cashmere Flannel",
+     "url": "https://shopmashburn.com/products/sid-mashburn-chore-jacket-spruce-cashmere-flannel-s80196",
+     "source": "Sid Mashburn",
+     "summary": "Sid Outerwear",
+     "published": "2026-08-13T09:54:52-04:00",
+     "image": "https://cdn.shopify.com/s/files/1/0414/4532/6999/files/S80196_0085.jpg?v=1786541445",
+     "price": "$795",
+     "kind": "product",
+     "id": "71b0ab491594978a",
+     "first_seen": "2026-08-13T13:58:09.770489+00:00",
+     "is_new": true
+    },
+    {
+     "title": "Chore Jacket in Red Melton",
+     "url": "https://shopmashburn.com/products/sid-mashburn-chore-jacket-red-melton-s80198",
+     "source": "Sid Mashburn",
+     "summary": "Sid Outerwear",
+     "published": "2026-08-13T09:54:52-04:00",
+     "image": "https://cdn.shopify.com/s/files/1/0414/4532/6999/files/S80198_0017.jpg?v=1786541467",
+     "price": "$450",
+     "kind": "product",
+     "id": "fc594ae18159e4dc",
+     "first_seen": "2026-08-13T13:58:09.770489+00:00",
+     "is_new": true
+    },
+    {
+     "title": "Cashpad Field Jacket in Navy Dry Waxed Poplin",
+     "url": "https://shopmashburn.com/products/sid-mashburn-cashpad-field-jacket-navy-dry-waxed-poplin-s80498",
+     "source": "Sid Mashburn",
+     "summary": "Sid Outerwear",
+     "published": "2026-08-13T09:54:52-04:00",
+     "image": "https://cdn.shopify.com/s/files/1/0414/4532/6999/files/S80498_0120.jpg?v=1786541606",
+     "price": "$895",
+     "kind": "product",
+     "id": "a0430a15f9edaca0",
      "first_seen": "2026-08-13T13:58:09.770489+00:00",
      "is_new": true
     }
