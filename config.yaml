@@ -206,6 +206,7 @@ sections:
           - https://food52.com/rss
           - https://food52.com/blog.rss
         limit: 2
+        
 
 # The Vibes section is gone. It fed the interstitial photo bands from Sight
 # Unseen — a design magazine picked as a Pinterest stand-in, not something
