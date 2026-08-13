@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-13T21:15:56.008788+00:00",
+ "generated_at": "2026-08-13T21:20:24.528930+00:00",
  "sections": [
   {
    "id": "world",
@@ -40,15 +40,15 @@
      ]
     },
     {
-     "title": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
-     "url": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "summary": "The mayor of Qusra says Israeli troops have been telling families to leave their houses, using some as barracks.",
-     "published": "2026-08-13T20:12:17+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4905/live/113cee30-9736-11f1-870d-5d08c49babb2.jpg",
+     "title": "Kushner plans to visit Israel next week for Gaza talks",
+     "url": "https://www.axios.com/2026/08/13/kushner-israel-gaza-netanyahu",
+     "source": "Axios",
+     "summary": "Jared Kushner, President Trump's envoy and son-in-law, is planning to visit Israel next week for talks on the situation in Gaza, according to five sources with knowledge of the pl\u2026",
+     "published": "2026-08-13T21:14:24+00:00",
+     "image": "https://images.axios.com/9UCp6FWmeWNMM598eH39JaIUjWk=/0x0:3000x1688/1366x768/2026/08/13/1786650051760.jpeg",
      "kind": "article",
-     "id": "09443cca3dddb1a7",
-     "first_seen": "2026-08-13T20:55:23.714875+00:00",
+     "id": "ed9b11949c113ea5",
+     "first_seen": "2026-08-13T20:40:11.305324+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": []
@@ -60,18 +60,6 @@
    "title": "Business",
    "kind": "headlines",
    "items": [
-    {
-     "title": "Why It\u2019s So Hard to Measure the Economy\u2019s Real Potential",
-     "url": "https://www.bloomberg.com/news/newsletters/2026-08-13/why-it-s-so-hard-to-measure-the-economy-s-real-potential",
-     "source": "Bloomberg",
-     "summary": "It\u2019s tough to measure the economy\u2019s true potential",
-     "published": "2026-08-13T21:06:00+00:00",
-     "image": null,
-     "kind": "article",
-     "id": "0902fcf1a90877d5",
-     "first_seen": "2026-08-13T21:15:56.008788+00:00",
-     "is_new": true
-    },
     {
      "title": "Cool Inflation Data Propels Stocks to Fresh Records",
      "url": "https://www.wsj.com/finance/stocks/cool-inflation-data-propels-stocks-to-fresh-records-cf7e46a9?mod=rss_markets_main",
@@ -106,6 +94,18 @@
      "kind": "article",
      "id": "c3517f2463e86ebe",
      "first_seen": "2026-08-13T19:01:18.715704+00:00",
+     "is_new": true
+    },
+    {
+     "title": "Trade court upholds Trump's closure of 'de minimis' loophole",
+     "url": "https://www.cnbc.com/2026/08/13/trump-trade-court-de-minimis-tariffs-ieepa.html",
+     "source": "CNBC",
+     "summary": "President Donald Trump in a Truth Social post celebrated the continued closure of the deminimis exemption as a \"BIG WIN.\"",
+     "published": "2026-08-13T19:56:06+00:00",
+     "image": null,
+     "kind": "article",
+     "id": "ebd99f7192aa6a07",
+     "first_seen": "2026-08-13T20:40:11.305324+00:00",
      "is_new": true
     }
    ]
