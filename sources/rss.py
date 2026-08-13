@@ -1,11 +1,10 @@
 """RSS and Atom feeds — the backbone of the edition.
 
 A note on Substack: publications served from a *.substack.com subdomain are
-refused when the build runs on GitHub's servers, while the same publication on
-its own custom domain answers fine (A Continuous Lean via acl.news, Import AI
-via jack-clark.net). So prefer a custom domain whenever a publication has one.
-The extra request headers below are an attempt to look enough like a browser
-to get through the bot filter that causes it.
+refused (HTTP 403) when the build runs on GitHub's servers, while the same
+publication on its own custom domain answers fine — A Continuous Lean via
+acl.news, One Useful Thing via oneusefulthing.org, Vittles via
+vittlesmagazine.com. Prefer a custom domain whenever a publication has one.
 """
 
 from __future__ import annotations
@@ -63,6 +62,11 @@ def fetch(source: dict, settings: dict) -> list[dict]:
     Publishers move and retire feed URLs constantly, so a source can list
     several addresses and let the run settle which one is alive. The winner
     is recorded on the source so --probe can print it.
+
+    A source may set `limit` to cap how many of its items reach the section.
+    This is what stops a wire service that publishes hourly from taking every
+    slot and burying a newsletter that publishes weekly — sections sort by
+    date, so without a cap the most prolific feed simply wins.
     """
     parsed, failures = None, []
     headers = {
@@ -108,4 +112,5 @@ def fetch(source: dict, settings: dict) -> list[dict]:
                 "kind": "article",
             }
         )
-    return items
+
+    return items[: source.get("limit", 25)]
