@@ -1,28 +1,39 @@
 """Substack Notes.
 
 Notes are the short posts people write on Substack itself rather than in a
-publication — closer to a timeline than a newsletter. There's no RSS for
-them, but there is an unauthenticated JSON endpoint behind the profile page,
-and it answers without a login:
+publication. There's no RSS for them, but there is an unauthenticated JSON
+endpoint behind the profile page:
 
     /api/v1/reader/feed/profile/<user_id>?types[]=note
 
-The config lists handles, not numeric ids, because handles are readable and
-stable while ids are neither. Each handle is resolved once per run via
-/api/v1/user/<handle>/public_profile.
+It answers instantly from a browser and returns 403 to a plain Python
+request from GitHub's servers.
 
-── The thing to know before trusting this ────────────────────────────────
-Substack returns HTTP 403 to GitHub's servers for every *.substack.com
-SUBDOMAIN — importai, iknow, aprivatechef all fail that way, which is why
-those publications aren't in this project. Notes live on the APEX domain,
-substack.com, which was never tested until now. If the apex is blocked too,
-this adapter will fail exactly like the others and the probe log will say
-so. If it isn't, Notes work. There was no way to find out except by asking
-the build.
+── Why this file uses curl_cffi ──────────────────────────────────────────
+The first assumption was that Substack blocks datacenter IPs. Probably
+wrong. Cloudflare's usual defence is TLS fingerprinting: the handshake that
+Python's `requests` performs looks nothing like a browser's, and no amount
+of setting a Chrome User-Agent changes that, because the tell is a layer
+below the headers.
 
-Notes are also unlike everything else here: no headline, no dek, just a body
-of text. So the first line becomes the title and the rest is dropped, which
-suits a feed of short posts and would suit nothing longer.
+curl_cffi performs a handshake that matches real Chrome, which is the one
+thing a header can't fake. If Notes start working, that was the block. If
+they still 403, the block is something else — probably the IP after all —
+and this adapter can't win from a datacenter.
+
+The import is optional on purpose. If curl_cffi isn't installed the module
+still loads and falls back to plain requests, so a missing dependency
+degrades to "Notes don't work" rather than taking down the whole build.
+
+── What this is and isn't ────────────────────────────────────────────────
+This reads public, unauthenticated data — the same notes anyone sees on a
+public profile, from people Paul follows, for his own reading. It isn't
+getting past a login or a paywall. It is deliberately making an automated
+request look like a browser, which Substack may not want, so it's fair to
+expect it could stop working without notice.
+
+Notes have no headline — just a body of text — so the first sentence becomes
+the title. That suits short posts and nothing longer.
 """
 
 from __future__ import annotations
@@ -31,6 +42,13 @@ import re
 from datetime import datetime, timezone
 
 import requests
+
+try:  # optional: absent locally, present on the build
+    from curl_cffi import requests as browser
+    IMPERSONATE = "chrome"
+except ImportError:  # pragma: no cover
+    browser = None
+    IMPERSONATE = None
 
 PROFILE = "https://substack.com/api/v1/user/{handle}/public_profile"
 NOTES = "https://substack.com/api/v1/reader/feed/profile/{user_id}?types%5B%5D=note"
@@ -42,16 +60,24 @@ def _headers(settings: dict) -> dict:
         "User-Agent": settings.get("user_agent", "Newsstand/1.0"),
         "Accept": "application/json",
         "Accept-Language": "en-US,en;q=0.9",
+        "Referer": "https://substack.com/",
     }
 
 
+def _get(url: str, settings: dict):
+    """Chrome's TLS handshake if available, plain requests if not."""
+    timeout = settings.get("timeout", 20)
+    if browser is not None:
+        return browser.get(url, timeout=timeout, headers=_headers(settings),
+                           impersonate=IMPERSONATE)
+    return requests.get(url, timeout=timeout, headers=_headers(settings))
+
+
 def _clean(text: str) -> str:
-    text = TAG.sub(" ", text or "")
-    return " ".join(text.split())
+    return " ".join(TAG.sub(" ", text or "").split())
 
 
 def _first_line(body: str, limit: int = 140) -> str:
-    """Notes have no title, so the opening sentence becomes one."""
     text = _clean(body)
     if not text:
         return ""
@@ -73,66 +99,65 @@ def _published(raw: str | None) -> str | None:
     return parsed.isoformat()
 
 
-def _resolve(handle: str, settings: dict) -> tuple[int, str] | None:
-    response = requests.get(
-        PROFILE.format(handle=handle),
-        timeout=settings.get("timeout", 20),
-        headers=_headers(settings),
-    )
-    if response.status_code != 200:
-        raise RuntimeError(f"@{handle} → HTTP {response.status_code}")
-    data = response.json()
-    return data.get("id"), data.get("name") or handle
+def _notes_for(handle: str, settings: dict, per_person: int, label: str | None) -> list[dict]:
+    profile = _get(PROFILE.format(handle=handle), settings)
+    if profile.status_code != 200:
+        raise RuntimeError(f"profile HTTP {profile.status_code}")
+
+    data = profile.json()
+    user_id = data.get("id")
+    if not user_id:
+        raise RuntimeError("profile had no id")
+
+    feed = _get(NOTES.format(user_id=user_id), settings)
+    if feed.status_code != 200:
+        raise RuntimeError(f"notes HTTP {feed.status_code}")
+
+    items = []
+    for entry in feed.json().get("items", []):
+        comment = entry.get("comment") or {}
+        title = _first_line(comment.get("body"))
+        if not title:
+            continue
+        items.append(
+            {
+                "title": title,
+                "url": f"https://substack.com/@{handle}/note/c-{comment.get('id')}",
+                "source": label or data.get("name") or handle,
+                "summary": "",
+                "published": _published(comment.get("date")),
+                "image": comment.get("photo_url"),
+                "kind": "note",
+            }
+        )
+        if len(items) >= per_person:
+            break
+    return items
 
 
 def fetch(source: dict, settings: dict) -> list[dict]:
-    """Notes from every handle listed, newest first."""
+    """Notes from every handle listed, newest first.
+
+    One person failing doesn't lose the others; every handle failing raises,
+    with each status code intact so the build log can say what happened.
+    """
     handles = source.get("handles") or []
     handles = handles if isinstance(handles, list) else [handles]
     per_person = source.get("per_person", 3)
+    label = source.get("name")
 
     items: list[dict] = []
     failures: list[str] = []
 
     for handle in handles:
         try:
-            user_id, name = _resolve(handle, settings)
-            response = requests.get(
-                NOTES.format(user_id=user_id),
-                timeout=settings.get("timeout", 20),
-                headers=_headers(settings),
-            )
-            response.raise_for_status()
-            payload = response.json()
+            items.extend(_notes_for(handle, settings, per_person, label))
         except Exception as exc:
-            status = getattr(getattr(exc, "response", None), "status_code", None)
-            failures.append(f"@{handle} → {f'HTTP {status}' if status else type(exc).__name__}")
-            continue
+            failures.append(f"@{handle} → {exc}")
 
-        taken = 0
-        for entry in payload.get("items", []):
-            comment = entry.get("comment") or {}
-            body = comment.get("body")
-            title = _first_line(body)
-            if not title:
-                continue
-            items.append(
-                {
-                    "title": title,
-                    "url": f"https://substack.com/@{handle}/note/c-{comment.get('id')}",
-                    "source": source.get("name") or name,
-                    "summary": "",
-                    "published": _published(comment.get("date")),
-                    "image": comment.get("photo_url"),
-                    "kind": "note",
-                }
-            )
-            taken += 1
-            if taken >= per_person:
-                break
-
-    if not items and failures:
-        raise RuntimeError("; ".join(failures))
+    if not items:
+        how = "curl_cffi" if browser is not None else "plain requests (curl_cffi missing)"
+        raise RuntimeError(f"[{how}] " + ("; ".join(failures) or "no notes returned"))
 
     source["_resolved"] = f"{len(handles) - len(failures)}/{len(handles)} handles"
     return items
