@@ -1,11 +1,71 @@
 {
- "generated_at": "2026-08-13T14:07:44.263451+00:00",
+ "generated_at": "2026-08-13T14:13:15.546967+00:00",
  "sections": [
   {
    "id": "business",
    "title": "Business",
    "kind": "headlines",
    "items": [
+    {
+     "title": "Inside Wealth: Monterey Car Week auctions could hit a record $500 million, with help from younger buyers",
+     "url": "https://www.cnbc.com/2026/08/13/monterey-car-week-auctions-sales-estimates.html",
+     "source": "CNBC",
+     "summary": "A new generation of millennials and Gen Zers is taking over the collecting market from baby boomers and bidding up modern supercars at Monterey Car Week.",
+     "published": "2026-08-13T14:08:19+00:00",
+     "image": null,
+     "kind": "article",
+     "id": "87ae1a126c5121ec",
+     "first_seen": "2026-08-13T13:18:48.510709+00:00",
+     "is_new": true
+    },
+    {
+     "title": "Frasers Group confirms acquisition of Harvey Nichols, warns of \u2018significant restructuring\u2019",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/frasers-group-confirms-acquisition-harvey-140814782.html",
+     "source": "Yahoo Finance",
+     "summary": "",
+     "published": "2026-08-13T14:08:14+00:00",
+     "image": "https://media.zenfs.com/en/just_style_482/beffd87096adbd680fb9f9c4130ad9a9.jpg",
+     "kind": "article",
+     "id": "279d920018bc9d80",
+     "first_seen": "2026-08-13T14:13:15.546967+00:00",
+     "is_new": true
+    },
+    {
+     "title": "Dell\u2019s stock has beaten Micron and AMD this year \u2014 and now it\u2019s adding to its gains",
+     "url": "https://www.marketwatch.com/story/dells-stock-has-beaten-micron-and-amd-this-year-and-now-its-adding-to-its-gains-11c00117?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "summary": "Shares of Dell have roughly quadrupled in price this year, with Lenovo\u2019s earnings report helping to drive the latest bout of momentum for the PC and server maker.",
+     "published": "2026-08-13T14:08:00+00:00",
+     "image": "https://images.mktw.net/im-49882740",
+     "kind": "article",
+     "id": "471d3fd9e9ad2860",
+     "first_seen": "2026-08-13T14:13:15.546967+00:00",
+     "is_new": true
+    },
+    {
+     "title": "Arla warns skills gap poses \u201cfood resilience\u201d risk",
+     "url": "https://finance.yahoo.com/economy/articles/arla-warns-skills-gap-poses-140457234.html",
+     "source": "Yahoo Finance",
+     "summary": "",
+     "published": "2026-08-13T14:04:57+00:00",
+     "image": "https://media.zenfs.com/en/just_food_692/e49e7a686708f77aaad21c8bcc97f758.jpg",
+     "kind": "article",
+     "id": "519433d478a2f462",
+     "first_seen": "2026-08-13T14:13:15.546967+00:00",
+     "is_new": true
+    },
+    {
+     "title": "He Expects to Retire With Less Than $250,000, Nowhere Near the $1.2 Million Target. His Social Security Timing Matters More Than Ever.",
+     "url": "https://finance.yahoo.com/markets/articles/expects-retire-less-250-000-140416174.html",
+     "source": "Yahoo Finance",
+     "summary": "",
+     "published": "2026-08-13T14:04:16+00:00",
+     "image": "https://media.zenfs.com/en/24_7_wall_st__718/9f5265a3b461ac3a5f92beb728af75e5.jpg",
+     "kind": "article",
+     "id": "3b6ef83c9c961156",
+     "first_seen": "2026-08-13T14:13:15.546967+00:00",
+     "is_new": true
+    },
     {
      "title": "\u2018I unexpectedly came into some money\u2019: Is putting $20,000 into CDs a smart move?",
      "url": "https://www.marketwatch.com/story/i-unexpectedly-came-into-some-money-is-putting-20-000-into-cds-a-smart-move-6c410458?mod=mw_rss_topstories",
@@ -27,18 +87,6 @@
      "image": "https://images.mktw.net/im-23020538",
      "kind": "article",
      "id": "8645ac90ab5a59a6",
-     "first_seen": "2026-08-13T14:07:44.263451+00:00",
-     "is_new": true
-    },
-    {
-     "title": "Nomad Foods slashes EPS forecast on debt restructuring",
-     "url": "https://finance.yahoo.com/markets/stocks/articles/nomad-foods-slashes-eps-forecast-135849452.html",
-     "source": "Yahoo Finance",
-     "summary": "",
-     "published": "2026-08-13T13:58:49+00:00",
-     "image": "https://media.zenfs.com/en/just_food_692/50d536a30b17cde0195cd29cadcf8d26.jpg",
-     "kind": "article",
-     "id": "92abeba74e63d29a",
      "first_seen": "2026-08-13T14:07:44.263451+00:00",
      "is_new": true
     },
@@ -79,18 +127,6 @@
      "is_new": true
     },
     {
-     "title": "Novanta (NOVT) Q2 2026 Earnings Call Transcript",
-     "url": "https://finance.yahoo.com/markets/stocks/articles/novanta-novt-q2-2026-earnings-135316356.html",
-     "source": "Yahoo Finance",
-     "summary": "",
-     "published": "2026-08-13T13:53:16+00:00",
-     "image": "https://media.zenfs.com/en/motleyfool.com/a726d4819c9ce56f8dbd126ba4eb20c8.png",
-     "kind": "article",
-     "id": "f7b7b5aff58f4910",
-     "first_seen": "2026-08-13T14:07:44.263451+00:00",
-     "is_new": true
-    },
-    {
      "title": "Robinhood's second venture fund debuts, drawing retail money into private markets",
      "url": "https://finance.yahoo.com/small-business/articles/robinhoods-second-venture-fund-debuts-134953508.html",
      "source": "Yahoo Finance",
@@ -103,18 +139,6 @@
      "is_new": true
     },
     {
-     "title": "Wall Street Analysts Predict 70% Upside for This AI Memory Stock in 2027",
-     "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-predict-70-134914581.html",
-     "source": "Yahoo Finance",
-     "summary": "",
-     "published": "2026-08-13T13:49:14+00:00",
-     "image": "https://media.zenfs.com/en/beincrypto_us_662/c0ecefce01574acffe05ba5524ab2425.png",
-     "kind": "article",
-     "id": "07f88f7d98a8861e",
-     "first_seen": "2026-08-13T14:07:44.263451+00:00",
-     "is_new": true
-    },
-    {
      "title": "Micron Technology (MU): A Clear Beneficiary of the AI Infrastructure Buildout?",
      "url": "https://finance.yahoo.com/technology/ai/articles/micron-technology-mu-clear-beneficiary-134458056.html",
      "source": "Yahoo Finance",
@@ -123,30 +147,6 @@
      "image": "https://media.zenfs.com/en/insidermonkey.com/a797141023ed476bcd7a09019de5dcc3.jpg",
      "kind": "article",
      "id": "5655212bb7cddf6f",
-     "first_seen": "2026-08-13T14:07:44.263451+00:00",
-     "is_new": true
-    },
-    {
-     "title": "KLA Corporation (KLAC) Positioned to Benefit from Semiconductor Chip Complexity",
-     "url": "https://finance.yahoo.com/markets/stocks/articles/kla-corporation-klac-positioned-benefit-134336145.html",
-     "source": "Yahoo Finance",
-     "summary": "",
-     "published": "2026-08-13T13:43:36+00:00",
-     "image": "https://media.zenfs.com/en/insidermonkey.com/117415b1841a6c1ecf8d94495ff3999f.jpg",
-     "kind": "article",
-     "id": "b3c43bf6fdd4149b",
-     "first_seen": "2026-08-13T13:52:10.538900+00:00",
-     "is_new": true
-    },
-    {
-     "title": "Metaplanet Denies Bitcoin Sale",
-     "url": "https://finance.yahoo.com/markets/crypto/articles/metaplanet-denies-bitcoin-sale-134200849.html",
-     "source": "Yahoo Finance",
-     "summary": "",
-     "published": "2026-08-13T13:42:00+00:00",
-     "image": "https://media.zenfs.com/en/cryptoprowl_304/4fa233a1cfe87f0b568a3d77853f012b.jpg",
-     "kind": "article",
-     "id": "8dbb85ecdc6726df",
      "first_seen": "2026-08-13T14:07:44.263451+00:00",
      "is_new": true
     }
@@ -400,32 +400,6 @@
      "is_new": true
     },
     {
-     "title": "Chore Jacket in Navy Corduroy",
-     "url": "https://shopmashburn.com/products/sid-mashburn-chore-jacket-navy-corduroy-s80201",
-     "source": "Sid Mashburn",
-     "summary": "Sid Outerwear",
-     "published": "2026-08-13T09:54:52-04:00",
-     "image": "https://cdn.shopify.com/s/files/1/0414/4532/6999/files/S80201_0041.jpg?v=1786541491",
-     "price": "$425",
-     "kind": "product",
-     "id": "553fbf678beb836b",
-     "first_seen": "2026-08-13T13:58:09.770489+00:00",
-     "is_new": true
-    },
-    {
-     "title": "Shoe Cleaning Box With Folding Lid in Oiled Beechwood",
-     "url": "https://shopmashburn.com/products/redecker-shoe-cleaning-box-with-folding-lid-oiled-beechwood-s79258",
-     "source": "Sid Mashburn",
-     "summary": "Sid Shoe Care",
-     "published": "2026-08-13T09:54:51-04:00",
-     "image": "https://cdn.shopify.com/s/files/1/0414/4532/6999/files/S79258_0022-1.jpg?v=1763008260",
-     "price": "$115",
-     "kind": "product",
-     "id": "4743bb087447a470",
-     "first_seen": "2026-08-13T13:58:09.770489+00:00",
-     "is_new": true
-    },
-    {
      "title": "Indigo Dyed Chore Jacket",
      "url": "https://www.drakes.com/products/indigo-dyed-chore-jacket",
      "source": "Drake's",
@@ -461,6 +435,32 @@
      "price": "\u00a3295",
      "kind": "product",
      "id": "908030e3cd5b34fd",
+     "first_seen": "2026-08-13T13:18:48.510709+00:00",
+     "is_new": true
+    },
+    {
+     "title": "Stone Wash Selvedge Denim Artist Chore Jacket",
+     "url": "https://www.drakes.com/products/stone-wash-selvedge-denim-artist-chore-jacket",
+     "source": "Drake's",
+     "summary": "Chore Jackets",
+     "published": "2026-08-06T09:38:05+01:00",
+     "image": "https://cdn.shopify.com/s/files/1/0640/6121/0837/files/634200810007B.jpg?v=1785945297",
+     "price": "\u00a3595",
+     "kind": "product",
+     "id": "29d2c5993926c3dd",
+     "first_seen": "2026-08-13T13:18:48.510709+00:00",
+     "is_new": true
+    },
+    {
+     "title": "Brown Linen Drawstring Shorts",
+     "url": "https://www.drakes.com/products/brown-linen-drawstring-shorts",
+     "source": "Drake's",
+     "summary": "Shorts",
+     "published": "2026-07-28T11:38:42+01:00",
+     "image": "https://cdn.shopify.com/s/files/1/0640/6121/0837/files/StillLife5013DR2A6F26032-02300.jpg?v=1778760001",
+     "price": "\u00a3195",
+     "kind": "product",
+     "id": "5c75003875d44432",
      "first_seen": "2026-08-13T13:18:48.510709+00:00",
      "is_new": true
     }
@@ -695,30 +695,6 @@
      "is_new": true
     },
     {
-     "title": "really getting to know radicchio, with lane selman",
-     "url": "https://awaytogarden.com/really-getting-to-know-radicchio-with-lane-selman/",
-     "source": "Margaret Roach",
-     "summary": "WHEN WAS THE last time you made room in your vegetable garden for something a little out of the ordinary that you&#8217;d never grown or maybe even tasted before? I don&#8217;t kn\u2026",
-     "published": "2026-08-08T13:59:23+00:00",
-     "image": null,
-     "kind": "article",
-     "id": "05080af74ab2bbcb",
-     "first_seen": "2026-08-13T13:23:34.201676+00:00",
-     "is_new": true
-    },
-    {
-     "title": "free pop-up native plant class with elise howard 8/20/26",
-     "url": "https://awaytogarden.com/free-pop-up-native-plant-class-with-elise-howard-8-20-26/",
-     "source": "Margaret Roach",
-     "summary": "WHEN I ANNOUNCED in June that the Virtual Garden Club would take a summer break, I promised we would, however, get together in a free pop-up webinar, and you\u2019re invited&#8230; Joi\u2026",
-     "published": "2026-08-08T10:59:35+00:00",
-     "image": null,
-     "kind": "article",
-     "id": "f7ee49d3e26c476c",
-     "first_seen": "2026-08-13T13:23:34.201676+00:00",
-     "is_new": true
-    },
-    {
      "title": "Current Obsessions: Effortlessness",
      "url": "https://www.gardenista.com/posts/current-obsessions-effortlessness/",
      "source": "Gardenista",
@@ -763,6 +739,30 @@
      "image": "https://substackcdn.com/image/fetch/$s_!W0O_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff79d88dc-28ae-4acf-b732-955670660e8d_4024x6048.png",
      "kind": "article",
      "id": "b777a473ee7b70f0",
+     "first_seen": "2026-08-13T13:18:48.510709+00:00",
+     "is_new": true
+    },
+    {
+     "title": "A Garden in Progress: Landscape Architect Marissa Angell Tackles Her First Own Garden",
+     "url": "https://www.gardenista.com/posts/marissa-angell-hudson-valley-garden/",
+     "source": "Gardenista",
+     "summary": "Documenting a garden is a tricky business. Gardens often take years to come into their own; filled with living, growing things, they are also in a constant state of flux. As a res\u2026",
+     "published": "2026-08-06T08:00:00+00:00",
+     "image": null,
+     "kind": "article",
+     "id": "4c5cb74b147bf00f",
+     "first_seen": "2026-08-13T13:18:48.510709+00:00",
+     "is_new": true
+    },
+    {
+     "title": "Trend Alert: Figurative Outdoor Chairs",
+     "url": "https://www.gardenista.com/posts/trend-alert-artful-face-chairs/",
+     "source": "Gardenista",
+     "summary": "Aside from a weakness for a surprising color palette here and there, I generally always go for classic, timeless design that&#8217;s on the quiet side. Which is why I&#8217;m so s\u2026",
+     "published": "2026-08-05T08:00:45+00:00",
+     "image": null,
+     "kind": "article",
+     "id": "cc0005de3cd881a3",
      "first_seen": "2026-08-13T13:18:48.510709+00:00",
      "is_new": true
     }
@@ -921,6 +921,7 @@
   }
  ],
  "errors": [
+  "Margaret Roach: RuntimeError \u2014 https://awaytogarden.com/feed/atom/ \u2192 ConnectTimeout; https://awaytogarden.com/feed/rss2/ \u2192 ConnectTimeout; https://awaytogarden.com/feed/ \u2192 ConnectTimeout",
   "Food52: RuntimeError \u2014 https://food52.com/blog/feed \u2192 HTTP 429; https://food52.com/rss \u2192 HTTP 429; https://food52.com/blog.rss \u2192 HTTP 429"
  ]
 }
