@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-13T18:03:12.118473+00:00",
+ "generated_at": "2026-08-13T18:04:04.749007+00:00",
  "sections": [
   {
    "id": "world",
@@ -183,6 +183,32 @@
    "title": "New In",
    "kind": "goods",
    "items": [
+    {
+     "title": "Japanese Chambray Station Shirt",
+     "url": "https://www.buckmason.com/products/b015-japanese-chambray-station-shirt",
+     "source": "Buck Mason",
+     "summary": "",
+     "published": null,
+     "image": "https://cdn.shopify.com/s/files/1/0123/5065/2473/files/BM13215.1402_JAPANESE-CHAMBRAY-STATION-SHIRT_B015_51858_1.jpg?v=1786385011&format=webp&width=700&height=700",
+     "price": "$ 168",
+     "kind": "product",
+     "id": "a250b48948eeba97",
+     "first_seen": "2026-08-13T18:04:04.749007+00:00",
+     "is_new": true
+    },
+    {
+     "title": "Classic Khaki Big Chino",
+     "url": "https://www.buckmason.com/products/classic-khaki-big-chino",
+     "source": "Buck Mason",
+     "summary": "",
+     "published": null,
+     "image": "https://cdn.shopify.com/s/files/1/0123/5065/2473/files/BM14194.1155CKH_Classic-Khaki-HARDTACK-TWILL-BIG-CHINO.jpg?v=1771618617&format=webp&width=700&height=700",
+     "price": "$28",
+     "kind": "product",
+     "id": "cdb0a068166745ec",
+     "first_seen": "2026-08-13T18:04:04.749007+00:00",
+     "is_new": true
+    },
     {
      "title": "Tracksmith Eliot Ryder",
      "url": "https://www.tracksmith.com/products/m-tracksmith-eliot-ryder?sku=FT1005070KHAW",
