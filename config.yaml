@@ -1,0 +1,168 @@
+# ─── Newsstand ────────────────────────────────────────────────────────────
+# This is the only file you need to edit.
+#
+# Section kinds:
+#   headlines    → text rows (source · headline · one-line dek)
+#   goods        → image grid with price (new product releases)
+#   interstitial → no section of its own; the images get woven between
+#                  the other sections as silent bands
+#
+# Any source's `url` can be a single address or a list of candidates. The run
+# tries them in order and keeps the first that actually returns entries, so
+# when a publisher moves a feed you add the new address above the old one
+# instead of having to know which is live. Same for a Shopify `handle`.
+#
+# After any edit: python fetch.py --probe
+
+settings:
+  timezone: America/New_York
+  new_window_days: 4
+  per_section_limit: 12
+  timeout: 20
+  # Some publishers reject unfamiliar agents with a 403; this one gets through.
+  user_agent: "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36"
+
+sections:
+
+  - id: business
+    title: Business
+    kind: headlines
+    sources:
+      # The only one that answered on the first run.
+      - type: rss
+        name: NPR Business
+        url: https://feeds.npr.org/1006/rss.xml
+      # Reuters retired its public feeds entirely. These are the standard
+      # replacements, each listed with a backup address.
+      - type: rss
+        name: CNBC
+        url:
+          - https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10001147
+          - https://www.cnbc.com/id/10001147/device/rss/rss.html
+      - type: rss
+        name: MarketWatch
+        url:
+          - https://feeds.content.dowjones.io/public/rss/mw_topstories
+          - https://www.marketwatch.com/rss/topstories
+      - type: rss
+        name: Yahoo Finance
+        url:
+          - https://finance.yahoo.com/news/rssindex
+          - https://finance.yahoo.com/rss/topstories
+      - type: rss
+        name: Axios
+        url:
+          - https://api.axios.com/feed/
+          - https://api.axios.com/feed/business
+    mute:
+      - crypto
+      - "stock to buy"
+      - "shares to watch"
+
+  - id: ai
+    title: Artificial Intelligence
+    kind: headlines
+    sources:
+      # These three answered on the first run.
+      - type: rss
+        name: Import AI
+        url: https://importai.substack.com/feed
+      - type: rss
+        name: Simon Willison
+        url: https://simonwillison.net/atom/everything/
+      - type: rss
+        name: Ars Technica
+        url: https://feeds.arstechnica.com/arstechnica/technology-lab
+      # Anthropic publishes no official feed — only community mirrors, which
+      # break without warning. Lab announcements come from the ones that do.
+      - type: rss
+        name: OpenAI
+        url: https://openai.com/news/rss.xml
+      - type: rss
+        name: Google DeepMind
+        url: https://deepmind.google/blog/feed/basic/
+
+  - id: goods
+    title: New In
+    kind: goods
+    sources:
+      # No `handle` here on purpose. Guessing collection names was the wrong
+      # approach: Mashburn publishes 400+ collections and not one contains
+      # "new" in the handle, which is why the first two runs came back empty.
+      # With no handle set, the adapter reads the whole store and takes the
+      # most recently published items — which is what "new in" means anyway,
+      # and it survives a brand renaming its collections.
+      #
+      # Mashburn is two stores under one roof; the tag filter keeps this to
+      # Sid rather than filling the section with Ann's womenswear.
+      - type: shopify
+        name: Sid Mashburn
+        domain: shopmashburn.com
+        require_tags: [LineDescr_Mens]
+        limit: 8
+      # Drake's prices in sterling — the storefront is UK/ROW.
+      - type: shopify
+        name: Drake's
+        domain: www.drakes.com
+        currency_symbol: "£"
+        limit: 8
+      # Buck Mason returns nothing at /products.json on either www or the bare
+      # domain, so it isn't a Shopify storefront and never could have worked
+      # this way. Off until it's worth a scraper.
+      # - type: shopify
+      #   name: Buck Mason
+      #   domain: buckmason.com
+      # J.Crew returned 403 — they block non-browser clients outright, which is
+      # exactly the risk the scraper approach carries. Off for now; their email
+      # list is the honest fallback.
+      # - type: html
+      #   name: J.Crew
+      #   url: https://www.jcrew.com/plp/mens/categories/new-arrivals
+      #   item_selector: "[data-testid='product-tile'], .product-tile"
+      #   title_selector: "[class*='product-name'], .product-tile__name"
+      #   link_selector: "a"
+      #   image_selector: "img"
+      #   price_selector: "[class*='price']"
+
+  - id: garden-table
+    title: Garden & Table
+    kind: headlines
+    sources:
+      # All four answered on the first run.
+      - type: rss
+        name: Vittles
+        url: https://www.vittlesmagazine.com/feed
+      - type: rss
+        name: Margaret Roach
+        url: https://awaytogarden.com/feed/
+      - type: rss
+        name: Gardenista
+        url: https://www.gardenista.com/feed/
+      - type: rss
+        name: NYBG Plant Talk
+        url: https://www.nybg.org/blogs/plant-talk/feed/
+      # Food52 rate-limited the first run (429) rather than refusing — it
+      # should answer fine on a once-a-day schedule.
+      - type: rss
+        name: Food52
+        url: https://food52.com/blog.rss
+      # Add the Substacks you actually read here — any publication serves a
+      # full feed at <name>.substack.com/feed.
+
+  # Not a section you scroll to — these images are dealt out between the
+  # sections above, one band at a time.
+  - id: vibes
+    title: Vibes
+    kind: interstitial
+    sources:
+      # Answered on the first run, needs no auth.
+      - type: rss
+        name: Sight Unseen
+        url: https://www.sightunseen.com/feed/
+        images_only: true
+      # Pinterest needs a token that expires monthly — see README. Off for now.
+      - type: pinterest
+        name: Pinterest
+        enabled: false
+        board_id: ""
+        access_token_env: PINTEREST_TOKEN
