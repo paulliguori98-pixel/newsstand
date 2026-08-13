@@ -1,7 +1,11 @@
 """RSS and Atom feeds — the backbone of the edition.
 
-Substack publications need no special handling: any publication at
-<name>.substack.com serves a full feed at <name>.substack.com/feed.
+A note on Substack: publications served from a *.substack.com subdomain are
+refused when the build runs on GitHub's servers, while the same publication on
+its own custom domain answers fine (A Continuous Lean via acl.news, Import AI
+via jack-clark.net). So prefer a custom domain whenever a publication has one.
+The extra request headers below are an attempt to look enough like a browser
+to get through the bot filter that causes it.
 """
 
 from __future__ import annotations
@@ -13,6 +17,13 @@ import feedparser
 import requests
 
 TAG = re.compile(r"<[^>]+>")
+
+# A browser sends more than a User-Agent. Bot filters in front of some
+# publishers reject requests that carry a browser UA and nothing else.
+BROWSER_HEADERS = {
+    "Accept": "application/rss+xml, application/atom+xml, application/xml;q=0.9, text/xml;q=0.8, */*;q=0.5",
+    "Accept-Language": "en-US,en;q=0.9",
+}
 
 
 def _clean(text: str, limit: int = 180) -> str:
@@ -54,12 +65,17 @@ def fetch(source: dict, settings: dict) -> list[dict]:
     is recorded on the source so --probe can print it.
     """
     parsed, failures = None, []
+    headers = {
+        "User-Agent": settings.get("user_agent", "Newsstand/1.0"),
+        **BROWSER_HEADERS,
+    }
+
     for candidate in _candidates(source):
         try:
             response = requests.get(
                 candidate,
                 timeout=settings.get("timeout", 20),
-                headers={"User-Agent": settings.get("user_agent", "Newsstand/1.0")},
+                headers=headers,
             )
             response.raise_for_status()
             attempt = feedparser.parse(response.content)
@@ -69,7 +85,9 @@ def fetch(source: dict, settings: dict) -> list[dict]:
                 break
             failures.append(f"{candidate} → no entries")
         except Exception as exc:
-            failures.append(f"{candidate} → {type(exc).__name__}")
+            status = getattr(getattr(exc, "response", None), "status_code", None)
+            detail = f"HTTP {status}" if status else type(exc).__name__
+            failures.append(f"{candidate} → {detail}")
 
     if parsed is None:
         raise RuntimeError("; ".join(failures))
