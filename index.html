@@ -57,6 +57,14 @@ img{border-radius:var(--soft)}
   font-family:var(--sans);font-weight:300;font-size:.76rem;
   letter-spacing:.05em;color:var(--muted);margin-top:.85rem;
 }
+  .tabs{display:flex;gap:1.6rem;justify-content:center;margin:1.8rem 0 0}
+.tabs a{
+  font-family:var(--sans);font-weight:400;font-size:.68rem;
+  letter-spacing:.2em;text-transform:uppercase;color:var(--muted);
+  padding-bottom:.4rem;border-bottom:1px solid transparent;transition:all .2s;
+}
+.tabs a:hover{color:var(--ink)}
+.tabs a.on{color:var(--ink);border-bottom-color:var(--accent)}
 
 /* The edition rule: one pill per section, width set by how much of
    today it is, filling as you read past it. */
