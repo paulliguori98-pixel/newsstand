@@ -1,11 +1,23 @@
 {
- "generated_at": "2026-08-13T14:13:15.546967+00:00",
+ "generated_at": "2026-08-13T14:18:59.348076+00:00",
  "sections": [
   {
    "id": "business",
    "title": "Business",
    "kind": "headlines",
    "items": [
+    {
+     "title": "\u2018My husband and I are at odds\u2019: Should we tap our home equity or sell stocks to build a $100,000 emergency fund?",
+     "url": "https://www.marketwatch.com/story/my-husband-and-i-are-at-odds-should-we-tap-our-home-equity-or-sell-stocks-to-build-a-100-000-emergency-fund-097d36a4?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "summary": "\u201cWe have about $1.7 million invested but only around $20,000 in cash.\u201d",
+     "published": "2026-08-13T14:15:00+00:00",
+     "image": "https://images.mktw.net/im-52639788",
+     "kind": "article",
+     "id": "d6a452c92d575369",
+     "first_seen": "2026-08-13T14:18:59.348076+00:00",
+     "is_new": true
+    },
     {
      "title": "Inside Wealth: Monterey Car Week auctions could hit a record $500 million, with help from younger buyers",
      "url": "https://www.cnbc.com/2026/08/13/monterey-car-week-auctions-sales-estimates.html",
@@ -19,18 +31,6 @@
      "is_new": true
     },
     {
-     "title": "Frasers Group confirms acquisition of Harvey Nichols, warns of \u2018significant restructuring\u2019",
-     "url": "https://finance.yahoo.com/markets/stocks/articles/frasers-group-confirms-acquisition-harvey-140814782.html",
-     "source": "Yahoo Finance",
-     "summary": "",
-     "published": "2026-08-13T14:08:14+00:00",
-     "image": "https://media.zenfs.com/en/just_style_482/beffd87096adbd680fb9f9c4130ad9a9.jpg",
-     "kind": "article",
-     "id": "279d920018bc9d80",
-     "first_seen": "2026-08-13T14:13:15.546967+00:00",
-     "is_new": true
-    },
-    {
      "title": "Dell\u2019s stock has beaten Micron and AMD this year \u2014 and now it\u2019s adding to its gains",
      "url": "https://www.marketwatch.com/story/dells-stock-has-beaten-micron-and-amd-this-year-and-now-its-adding-to-its-gains-11c00117?mod=mw_rss_topstories",
      "source": "MarketWatch",
@@ -39,30 +39,6 @@
      "image": "https://images.mktw.net/im-49882740",
      "kind": "article",
      "id": "471d3fd9e9ad2860",
-     "first_seen": "2026-08-13T14:13:15.546967+00:00",
-     "is_new": true
-    },
-    {
-     "title": "Arla warns skills gap poses \u201cfood resilience\u201d risk",
-     "url": "https://finance.yahoo.com/economy/articles/arla-warns-skills-gap-poses-140457234.html",
-     "source": "Yahoo Finance",
-     "summary": "",
-     "published": "2026-08-13T14:04:57+00:00",
-     "image": "https://media.zenfs.com/en/just_food_692/e49e7a686708f77aaad21c8bcc97f758.jpg",
-     "kind": "article",
-     "id": "519433d478a2f462",
-     "first_seen": "2026-08-13T14:13:15.546967+00:00",
-     "is_new": true
-    },
-    {
-     "title": "He Expects to Retire With Less Than $250,000, Nowhere Near the $1.2 Million Target. His Social Security Timing Matters More Than Ever.",
-     "url": "https://finance.yahoo.com/markets/articles/expects-retire-less-250-000-140416174.html",
-     "source": "Yahoo Finance",
-     "summary": "",
-     "published": "2026-08-13T14:04:16+00:00",
-     "image": "https://media.zenfs.com/en/24_7_wall_st__718/9f5265a3b461ac3a5f92beb728af75e5.jpg",
-     "kind": "article",
-     "id": "3b6ef83c9c961156",
      "first_seen": "2026-08-13T14:13:15.546967+00:00",
      "is_new": true
     },
@@ -79,75 +55,99 @@
      "is_new": true
     },
     {
-     "title": "Can I claim 50% of my husband\u2019s Social Security now \u2014 and switch to my higher benefit at 70?",
-     "url": "https://www.marketwatch.com/story/can-i-claim-50-of-my-husbands-social-security-now-and-switch-to-my-higher-benefit-at-70-5518700b?mod=mw_rss_topstories",
-     "source": "MarketWatch",
-     "summary": "\u201cI would like to offer a piece of advice for women who are or have been married.\u201d",
-     "published": "2026-08-13T14:00:00+00:00",
-     "image": "https://images.mktw.net/im-23020538",
+     "title": "The \u201820% rule\u2019 behind Giorgos Tsetis\u2019 blueprint for a new kind of family office",
+     "url": "https://www.cnbc.com/2026/08/13/family-office-giorgos-tsetis-nutrafol.html",
+     "source": "CNBC",
+     "summary": "Family offices are built to be patient with their money. Giorgos Tsetis is not.",
+     "published": "2026-08-13T12:20:46+00:00",
+     "image": null,
      "kind": "article",
-     "id": "8645ac90ab5a59a6",
-     "first_seen": "2026-08-13T14:07:44.263451+00:00",
-     "is_new": true
-    },
-    {
-     "title": "Stock Market Today: Dow Rises On Surprise Inflation Data; Cisco, AI Name Dive On Earnings (Live Coverage)",
-     "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-inflation-data-cisco-cerebras-earnings/?src=A00220&yptr=yahoo",
-     "source": "Yahoo Finance",
-     "summary": "",
-     "published": "2026-08-13T13:55:59+00:00",
-     "image": "https://media.zenfs.com/en/ibd.com/87c39a949f97ed3e7beb2b2a786c1d3d.jpg",
-     "kind": "article",
-     "id": "3bfb34b3cef1245d",
+     "id": "a77004c6ecc7a102",
      "first_seen": "2026-08-13T13:18:48.510709+00:00",
      "is_new": true
     },
     {
-     "title": "Stocks rise on broad sector strength: AlphaCheck",
-     "url": "https://finance.yahoo.com/markets/article/stocks-rise-on-broad-sector-strength-alphacheck-135545759.html",
-     "source": "Yahoo Finance",
-     "summary": "",
-     "published": "2026-08-13T13:55:45+00:00",
-     "image": "https://s.yimg.com/uu/api/res/1.2/p502yFRICkRtChSp7iktjw--~B/aD0zODMxO3c9NTc0NzthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-08/b09a56ad-07fa-4d12-b56d-0547344927d8",
+     "title": "Maggie Haberman says 70% of Trump's attention goes to monuments, renovations and legacy",
+     "url": "https://www.axios.com/2026/08/13/trump-haberman-legacy-projects-behind-the-curtain",
+     "source": "Axios",
+     "summary": "The New York Times' Maggie Haberman tells me 70% of President Trump's mindshare (\"maybe plus or minus 5%\") goes to his gilding, construction, renovation, renaming and tribute proj\u2026",
+     "published": "2026-08-13T10:37:44+00:00",
+     "image": "https://images.axios.com/SBL34vfUVBemebNx5nM0j-XGaEI=/128x128/smart/2026/08/13/1786616283911.jpg",
      "kind": "article",
-     "id": "99a37feaa60abe15",
-     "first_seen": "2026-08-13T14:07:44.263451+00:00",
+     "id": "eafc30bc6d984f08",
+     "first_seen": "2026-08-13T13:18:48.510709+00:00",
      "is_new": true
     },
     {
-     "title": "Ducommun Incorporated (DCO)\u2019s Quiet Comeback: How It Doubled Investors\u2019 Money in 2026",
-     "url": "https://finance.yahoo.com/markets/stocks/articles/ducommun-incorporated-dco-quiet-comeback-135438046.html",
-     "source": "Yahoo Finance",
-     "summary": "",
-     "published": "2026-08-13T13:54:38+00:00",
-     "image": "https://media.zenfs.com/en/insidermonkey.com/5b85749f1c6f4476a3c141afe05dfc1e.jpg",
+     "title": "Musk and Zuckerberg claw back into AI race with new model momentum",
+     "url": "https://www.axios.com/2026/08/13/grok-elon-musk-ai-zuckerberg-and-meta",
+     "source": "Axios",
+     "summary": "Elon Musk and Mark Zuckerberg have muscled their way back into AI's elite ranks, defying early obituaries to close the gap on a new generation of Silicon Valley startups.Why it ma\u2026",
+     "published": "2026-08-13T10:00:40+00:00",
+     "image": "https://images.axios.com/TNXy-jkXC2Yg1uFmEn6Mc_qh77c=/0x0:1920x1080/1366x768/2026/07/28/1785257580576.jpeg",
      "kind": "article",
-     "id": "fef4e99cdad41050",
-     "first_seen": "2026-08-13T14:07:44.263451+00:00",
+     "id": "2736efaa221e7451",
+     "first_seen": "2026-08-13T13:18:48.510709+00:00",
      "is_new": true
     },
     {
-     "title": "Robinhood's second venture fund debuts, drawing retail money into private markets",
-     "url": "https://finance.yahoo.com/small-business/articles/robinhoods-second-venture-fund-debuts-134953508.html",
-     "source": "Yahoo Finance",
-     "summary": "",
-     "published": "2026-08-13T13:49:53+00:00",
-     "image": "https://media.zenfs.com/en/reuters-finance.com/c5787be50bc1a5cf93e0e16fe2e95885.jpg",
+     "title": "Pollsters missed again in Wisconsin. Here's why.",
+     "url": "https://www.axios.com/2026/08/13/pollsters-missed-again-in-wisconsin-heres-why",
+     "source": "Axios",
+     "summary": "Pollsters appeared to blow another high-stakes Midwest election Tuesday, as center-left Democrat David Crowley stunned socialist Francesca Hong in Wisconsin's primary for governor\u2026",
+     "published": "2026-08-13T09:58:28+00:00",
+     "image": "https://images.axios.com/t8UvS96B4NyDVhb1Si5wYauJpOY=/0x0:7987x4493/1366x768/2026/08/13/1786584382256.jpg",
      "kind": "article",
-     "id": "04d0b973ae653a4a",
-     "first_seen": "2026-08-13T14:07:44.263451+00:00",
+     "id": "bff503e87c0f2898",
+     "first_seen": "2026-08-13T13:18:48.510709+00:00",
      "is_new": true
     },
     {
-     "title": "Micron Technology (MU): A Clear Beneficiary of the AI Infrastructure Buildout?",
-     "url": "https://finance.yahoo.com/technology/ai/articles/micron-technology-mu-clear-beneficiary-134458056.html",
+     "title": "Trump sued over service selling faster access to Truth Social posts",
+     "url": "https://www.npr.org/2026/08/12/nx-s1-5929391/trump-truth-social-api-lawsuit",
+     "source": "NPR Business",
+     "summary": "The federal lawsuit alleges that the service from the president's media company violates the Constitution. Meanwhile, Trump Media executives say they have signed up more than 10 c\u2026",
+     "published": "2026-08-12T20:33:10+00:00",
+     "image": null,
+     "kind": "article",
+     "id": "d628016738937d5c",
+     "first_seen": "2026-08-13T13:18:48.510709+00:00",
+     "is_new": true
+    },
+    {
+     "title": "Bank of America sends blunt message to Nvidia stock investors",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-sends-blunt-message-174700491.html",
      "source": "Yahoo Finance",
      "summary": "",
-     "published": "2026-08-13T13:44:58+00:00",
-     "image": "https://media.zenfs.com/en/insidermonkey.com/a797141023ed476bcd7a09019de5dcc3.jpg",
+     "published": "2026-08-12T17:47:00+00:00",
+     "image": "https://media.zenfs.com/en/thestreet_881/585c93261da2ee7be75429fd48a4a6d6.jpg",
      "kind": "article",
-     "id": "5655212bb7cddf6f",
-     "first_seen": "2026-08-13T14:07:44.263451+00:00",
+     "id": "8c4c36e8731ef058",
+     "first_seen": "2026-08-13T13:18:48.510709+00:00",
+     "is_new": true
+    },
+    {
+     "title": "Bob Iger, Joshua Kushner buy Los Angeles Lakers at a $12.5 billion valuation, source says",
+     "url": "https://www.cnbc.com/2026/08/12/bob-iger-joshua-kushner-buy-los-angeles-lakers-from-mark-walter.html",
+     "source": "CNBC",
+     "summary": "Venture capital founder Joshua Kushner and former Disney CEO Bob Iger acquire Mark Walter's stake in Los Angeles Lakers at valuation of more than $12 billion.",
+     "published": "2026-08-12T16:59:49+00:00",
+     "image": null,
+     "kind": "article",
+     "id": "15637ab72d8f59e1",
+     "first_seen": "2026-08-13T13:18:48.510709+00:00",
+     "is_new": true
+    },
+    {
+     "title": "Inflation eases in July as gasoline and grocery prices fall",
+     "url": "https://www.npr.org/2026/08/12/nx-s1-5929122/inflation-cpi-economy-gas-grocery",
+     "source": "NPR Business",
+     "summary": "Consumer prices in July were up 3.4% from a year ago \u2014 a smaller annual increase than in May or June. The news makes it less likely the Fed will feel the need to raise interest ra\u2026",
+     "published": "2026-08-12T14:00:29+00:00",
+     "image": null,
+     "kind": "article",
+     "id": "79e825cd0f151a97",
+     "first_seen": "2026-08-13T13:18:48.510709+00:00",
      "is_new": true
     }
    ]
@@ -254,30 +254,6 @@
      "is_new": true
     },
     {
-     "title": "There are no lossless transformations of natural-language text",
-     "url": "https://simonwillison.net/2026/Aug/11/there-are-no-lossless-transformations-of-natural-language-text/",
-     "source": "Simon Willison",
-     "summary": "There are no lossless transformations of natural-language text Sophie Alpert shares her \"internal policy on acceptable use of AI writing by engineers\". It's a short read (supporti\u2026",
-     "published": "2026-08-11T23:48:35+00:00",
-     "image": null,
-     "kind": "article",
-     "id": "56be583fe5c24ff1",
-     "first_seen": "2026-08-13T13:18:48.510709+00:00",
-     "is_new": true
-    },
-    {
-     "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
-     "url": "https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/",
-     "source": "Simon Willison",
-     "summary": "Stealing Reasoning Traces from Proprietary LLM APIs A vanity domain name (stolen-thoughts.com) for a neat paper: Anthropic, OpenAI, and Google return encrypted chain-of-thought bl\u2026",
-     "published": "2026-08-11T22:40:45+00:00",
-     "image": null,
-     "kind": "article",
-     "id": "5121059c9365ab44",
-     "first_seen": "2026-08-13T13:18:48.510709+00:00",
-     "is_new": true
-    },
-    {
      "title": "Chrome adopts what may be the best protection yet against account takeovers",
      "url": "https://arstechnica.com/security/2026/08/chrome-adopts-what-may-be-the-best-protection-yet-against-account-takeovers/",
      "source": "Ars Technica",
@@ -290,15 +266,39 @@
      "is_new": true
     },
     {
-     "title": "datasette-upload-dbs 0.5a0",
-     "url": "https://simonwillison.net/2026/Aug/11/datasette-upload-dbs/",
-     "source": "Simon Willison",
-     "summary": "Release: datasette-upload-dbs 0.5a0 This plugin has been around for a while - it lets users upload a brand new SQLite database to a hosted Datasette instance, at which point that \u2026",
-     "published": "2026-08-11T20:35:13+00:00",
-     "image": null,
+     "title": "Import AI 468: 23 RSI ideas; PostTrainBench+; and how trust and transparency interplay with AI racing",
+     "url": "https://jack-clark.net/2026/08/10/import-ai-468-23-rsi-ideas-posttrainbench-and-how-trust-and-transparency-interplay-with-ai-racing/",
+     "source": "Import AI",
+     "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you\u2019d like to support this, please subscribe. Subscribe n\u2026",
+     "published": "2026-08-10T12:32:20+00:00",
+     "image": "https://i0.wp.com/jack-clark.net/wp-content/uploads/2026/08/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258-VIkdsj.png?resize=150%2C150&amp;ssl=1",
      "kind": "article",
-     "id": "e163f4189a41176a",
+     "id": "5d7f488d8c07ed9b",
+     "first_seen": "2026-08-13T13:23:34.201676+00:00",
+     "is_new": true
+    },
+    {
+     "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
+     "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+     "source": "Google DeepMind",
+     "summary": "",
+     "published": "2026-08-06T15:06:15+00:00",
+     "image": "https://lh3.googleusercontent.com/Mj8GyJnsjROScr1hYl7PL_QCAaLGukliPCTMUlpKiQtZuVkmh2ouydYh80ibejg9vWgKkg2dYPx2jCJOOohKid5P-dLzwvIyB4-fZjWXYIx0ImZd=w528-h297-n-nu-rw-lo",
+     "kind": "article",
+     "id": "7fa201e30c7e3776",
      "first_seen": "2026-08-13T13:18:48.510709+00:00",
+     "is_new": true
+    },
+    {
+     "title": "Import AI 467: Self-sustaining AI viruses; pacing AI progress; confusion about AI and creativity",
+     "url": "https://jack-clark.net/2026/08/03/import-ai-467-self-sustaining-ai-viruses-pacing-ai-progress-confusion-about-ai-and-creativity/",
+     "source": "Import AI",
+     "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you\u2019d like to support this, please subscribe. Subscribe n\u2026",
+     "published": "2026-08-03T13:31:22+00:00",
+     "image": "https://i0.wp.com/jack-clark.net/wp-content/uploads/2026/08/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258-2OSHWi.png?resize=150%2C150&amp;ssl=1",
+     "kind": "article",
+     "id": "a208b0fcae9c5c24",
+     "first_seen": "2026-08-13T13:23:34.201676+00:00",
      "is_new": true
     }
    ]
@@ -542,78 +542,6 @@
      "id": "b5909f8f9619516e",
      "first_seen": "2026-08-13T13:52:10.538900+00:00",
      "is_new": true
-    },
-    {
-     "title": "The Print Edition",
-     "url": "https://www.acl.news/p/the-print-edition-847",
-     "source": "A Continuous Lean",
-     "summary": "Watch now | The Summer Issue is Here",
-     "published": "2026-07-11T12:32:18+00:00",
-     "image": null,
-     "kind": "article",
-     "id": "ca8130bbb71a9cbc",
-     "first_seen": "2026-08-13T13:52:10.538900+00:00",
-     "is_new": true
-    },
-    {
-     "title": "The Long Way Round",
-     "url": "https://www.acl.news/p/the-long-way-round",
-     "source": "A Continuous Lean",
-     "summary": "A Q&amp;A with Tom Kay of Finisterre.",
-     "published": "2026-07-07T12:03:58+00:00",
-     "image": "https://substackcdn.com/image/fetch/$s_!B4UR!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F06d87dfd-fda1-4c6a-ad25-a1ca9b46d51a_3200x2133.jpeg",
-     "kind": "article",
-     "id": "6708096a14bd3213",
-     "first_seen": "2026-08-13T13:52:10.538900+00:00",
-     "is_new": true
-    },
-    {
-     "title": "The Magical Partnership",
-     "url": "https://www.acl.news/p/the-magical-partnership",
-     "source": "A Continuous Lean",
-     "summary": "Thoughts on fatherhood",
-     "published": "2026-06-21T11:01:39+00:00",
-     "image": "https://substackcdn.com/image/fetch/$s_!9gqZ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F16428dec-8693-44a1-b197-9184a17c7c77_900x1300.jpeg",
-     "kind": "article",
-     "id": "78c9a0b1661942fb",
-     "first_seen": "2026-08-13T13:52:10.538900+00:00",
-     "is_new": true
-    },
-    {
-     "title": "Shopping Philadelphia: Junior's",
-     "url": "https://www.acl.news/p/shopping-philadelphia-juniors",
-     "source": "A Continuous Lean",
-     "summary": "When I knew that I was headed to Wayne, PA, for the golf tournament at Aronimink, the first person I reached out to was Glenn Au from Junior&#8217;s. I&#8217;m interested in what \u2026",
-     "published": "2026-06-14T11:17:57+00:00",
-     "image": "https://substackcdn.com/image/fetch/$s_!nuCz!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b43e061-6556-4448-a7c7-eeb46e3179d7_2048x1358.jpeg",
-     "kind": "article",
-     "id": "83b5c89fef87b749",
-     "first_seen": "2026-08-13T13:52:10.538900+00:00",
-     "is_new": true
-    },
-    {
-     "title": "FATHER'S DAY GIFT GUIDE",
-     "url": "https://www.acl.news/p/fathers-day-gift-guide-4ca",
-     "source": "A Continuous Lean",
-     "summary": "Gifts for Dad",
-     "published": "2026-06-09T11:15:29+00:00",
-     "image": "https://substackcdn.com/image/fetch/$s_!LtHx!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd273be92-ec2c-4010-9d0b-e5f452c817cb_979x1024.jpeg",
-     "kind": "article",
-     "id": "6fe3eb32b7f63a6d",
-     "first_seen": "2026-08-13T13:52:10.538900+00:00",
-     "is_new": true
-    },
-    {
-     "title": "Vacationland",
-     "url": "https://www.acl.news/p/vacationland-045",
-     "source": "A Continuous Lean",
-     "summary": "Getting Out of Town. Central Division #213",
-     "published": "2026-06-08T12:01:25+00:00",
-     "image": "https://substack-video.s3.amazonaws.com/video_upload/post/201092310/ebaf6971-e90c-4606-ab72-a2680ed50d87/transcoded-1780889268.png",
-     "kind": "article",
-     "id": "ddaf76157565d114",
-     "first_seen": "2026-08-13T13:52:10.538900+00:00",
-     "is_new": true
     }
    ]
   },
@@ -659,18 +587,6 @@
      "is_new": true
     },
     {
-     "title": "Allium \u2018Millenium\u2019 101: An Effortless Ornamental Onion",
-     "url": "https://www.gardenista.com/posts/allium-millenium-101/",
-     "source": "Gardenista",
-     "summary": "The cellpacks of Allium &#8216;Millenium&#8217; that I ordered last fall for the Alice Austen House garden on Staten Island arrived in April this year. They did not look promising\u2026",
-     "published": "2026-08-10T08:00:39+00:00",
-     "image": null,
-     "kind": "article",
-     "id": "5c0148bb415c0c07",
-     "first_seen": "2026-08-13T13:18:48.510709+00:00",
-     "is_new": true
-    },
-    {
      "title": "The rise of tablescaping influencers",
      "url": "https://www.vittlesmagazine.com/p/tablescalping",
      "source": "Vittles",
@@ -679,30 +595,6 @@
      "image": "https://substackcdn.com/image/fetch/$s_!WSYl!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F12ac251f-ba3c-4b40-93ed-6a211a3532f9_1800x1200.heic",
      "kind": "article",
      "id": "35abfafc9b016636",
-     "first_seen": "2026-08-13T13:18:48.510709+00:00",
-     "is_new": true
-    },
-    {
-     "title": "Mini Essay: My Garden of Misfits",
-     "url": "https://www.gardenista.com/posts/mini-essay-garden-misfits/",
-     "source": "Gardenista",
-     "summary": "I&#8217;ve always loved the classic Christmas story where Rudolph and his friend Hermey encounter the Island of Misfit Toys. Now that my garden, too, has become an orphanage for c\u2026",
-     "published": "2026-08-09T08:00:00+00:00",
-     "image": null,
-     "kind": "article",
-     "id": "50ef34478f6f853b",
-     "first_seen": "2026-08-13T13:18:48.510709+00:00",
-     "is_new": true
-    },
-    {
-     "title": "Current Obsessions: Effortlessness",
-     "url": "https://www.gardenista.com/posts/current-obsessions-effortlessness/",
-     "source": "Gardenista",
-     "summary": "Happy weekend! For you, a collection of links to peruse, from a poetic coffee table book to gravel gardens. Read on: Looking for quality outdoor fabric that&#8217;s actually taste\u2026",
-     "published": "2026-08-08T08:00:34+00:00",
-     "image": null,
-     "kind": "article",
-     "id": "2dcbc7ac8dcdb9c5",
      "first_seen": "2026-08-13T13:18:48.510709+00:00",
      "is_new": true
     },
@@ -719,18 +611,6 @@
      "is_new": true
     },
     {
-     "title": "The Life Amphibian: A Garden That Has a Place for Everything\u2014Even Weeds and Frogs",
-     "url": "https://www.gardenista.com/posts/catherine-desmond-walled-garden-cotswolds-frog-pond-james-alexander-smith/",
-     "source": "Gardenista",
-     "summary": "If there&#8217;s one way to spot an American abroad when visiting their house or garden, it&#8217;s in the design efficiency. Just as Americans introduced heat and comfort to Engl\u2026",
-     "published": "2026-08-07T08:00:42+00:00",
-     "image": null,
-     "kind": "article",
-     "id": "d239be4b2e74d611",
-     "first_seen": "2026-08-13T13:18:48.510709+00:00",
-     "is_new": true
-    },
-    {
      "title": "Finding Madhukar",
      "url": "https://www.vittlesmagazine.com/p/finding-madhukar",
      "source": "Vittles",
@@ -743,26 +623,38 @@
      "is_new": true
     },
     {
-     "title": "A Garden in Progress: Landscape Architect Marissa Angell Tackles Her First Own Garden",
-     "url": "https://www.gardenista.com/posts/marissa-angell-hudson-valley-garden/",
-     "source": "Gardenista",
-     "summary": "Documenting a garden is a tricky business. Gardens often take years to come into their own; filled with living, growing things, they are also in a constant state of flux. As a res\u2026",
-     "published": "2026-08-06T08:00:00+00:00",
+     "title": "Moving to Read & Watch",
+     "url": "https://www.nybg.org/blogs/plant-talk/2020/02/around-the-garden/moving-to-read-watch/",
+     "source": "NYBG Plant Talk",
+     "summary": "Big news! In our ongoing efforts to bring you the best of what's happening at the Garden, Plant Talk and Science Talk are merging to create Read &#038; Watch, a new media hub on N\u2026",
+     "published": "2020-02-13T18:24:27+00:00",
      "image": null,
      "kind": "article",
-     "id": "4c5cb74b147bf00f",
+     "id": "6991ea6ced4e7768",
      "first_seen": "2026-08-13T13:18:48.510709+00:00",
      "is_new": true
     },
     {
-     "title": "Trend Alert: Figurative Outdoor Chairs",
-     "url": "https://www.gardenista.com/posts/trend-alert-artful-face-chairs/",
-     "source": "Gardenista",
-     "summary": "Aside from a weakness for a surprising color palette here and there, I generally always go for classic, timeless design that&#8217;s on the quiet side. Which is why I&#8217;m so s\u2026",
-     "published": "2026-08-05T08:00:45+00:00",
+     "title": "What\u2019s Beautiful Now: Bright & Sunny Aloe",
+     "url": "https://www.nybg.org/blogs/plant-talk/2020/01/around-the-garden/whats-beautiful-now/whats-beautiful-now-bright-sunny-aloe/",
+     "source": "NYBG Plant Talk",
+     "summary": "In the desert houses of the Haupt Conservatory right now, you\u2019ll find respite from the chill of winter with these blooming aloes (Aloe speciosa). The post What&#8217;s Beautiful N\u2026",
+     "published": "2020-01-31T17:58:17+00:00",
      "image": null,
      "kind": "article",
-     "id": "cc0005de3cd881a3",
+     "id": "1cc17fbe2ebd6940",
+     "first_seen": "2026-08-13T13:18:48.510709+00:00",
+     "is_new": true
+    },
+    {
+     "title": "Flavors of Morocco: Saffron",
+     "url": "https://www.nybg.org/blogs/plant-talk/2020/01/exhibit-news/flavors-of-morocco-saffron/",
+     "source": "NYBG Plant Talk",
+     "summary": "This is just one of many herbs and spices featured in our new Exhibit Lab, Flavors of Morocco, highlighting this North African cultural crossroads, its culinary traditions, and th\u2026",
+     "published": "2020-01-28T19:46:36+00:00",
+     "image": null,
+     "kind": "article",
+     "id": "4429cc2c3f88d143",
      "first_seen": "2026-08-13T13:18:48.510709+00:00",
      "is_new": true
     }
@@ -921,7 +813,7 @@
   }
  ],
  "errors": [
-  "Margaret Roach: RuntimeError \u2014 https://awaytogarden.com/feed/atom/ \u2192 ConnectTimeout; https://awaytogarden.com/feed/rss2/ \u2192 ConnectTimeout; https://awaytogarden.com/feed/ \u2192 ConnectTimeout",
+  "Margaret Roach: RuntimeError \u2014 https://awaytogarden.com/feed/atom/ \u2192 no entries; https://awaytogarden.com/feed/rss2/ \u2192 no entries; https://awaytogarden.com/feed/ \u2192 no entries",
   "Food52: RuntimeError \u2014 https://food52.com/blog/feed \u2192 HTTP 429; https://food52.com/rss \u2192 HTTP 429; https://food52.com/blog.rss \u2192 HTTP 429"
  ]
 }
