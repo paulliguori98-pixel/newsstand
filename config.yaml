@@ -206,7 +206,177 @@ sections:
           - https://food52.com/rss
           - https://food52.com/blog.rss
         limit: 2
-        
+        settings:
+  timezone: America/New_York
+  per_section_limit: 3
+  new_window_days: 4
+  timeout: 20
+  user_agent: "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36"
+
+sections:
+
+  - id: world
+    title: World & Nation
+    kind: headlines
+    limit: 6
+    max_age_hours: 36
+    sources:
+      - type: rss
+        name: New York Times
+        url:
+          - https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml
+          - https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+          - https://rss.nytimes.com/services/xml/rss/nyt/US.xml
+        limit: 3
+      - type: rss
+        name: NPR
+        url: https://feeds.npr.org/1001/rss.xml
+        limit: 3
+      - type: rss
+        name: Axios
+        url:
+          - https://api.axios.com/feed/
+          - https://api.axios.com/feed/business
+        limit: 2
+
+  - id: business
+    title: Business
+    kind: headlines
+    limit: 4
+    max_age_hours: 36
+    sources:
+      - type: rss
+        name: WSJ
+        url:
+          - https://feeds.content.dowjones.io/public/rss/RSSMarketsMain
+          - https://feeds.content.dowjones.io/public/rss/WSJcomUSBusiness
+          - https://feeds.content.dowjones.io/public/rss/RSSWorldNews
+        limit: 3
+      - type: rss
+        name: CNBC
+        url:
+          - https://www.cnbc.com/id/100003114/device/rss/rss.html
+          - https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10001147
+        limit: 3
+      - type: rss
+        name: Bloomberg
+        url:
+          - https://feeds.bloomberg.com/markets/news.rss
+          - https://feeds.bloomberg.com/business/news.rss
+        limit: 2
+      - type: rss
+        name: Reuters
+        url:
+          - https://www.reutersagency.com/feed/?best-topics=business-finance&post_type=best
+          - https://feeds.reuters.com/reuters/businessNews
+        limit: 2
+    mute:
+      - crypto
+      - "stock to buy"
+      - "stocks to buy"
+      - "shares to watch"
+      - "upside for"
+      - "analysts predict"
+      - "should i"
+      - "can i claim"
+      - "is $1 million enough"
+      - "my friend"
+      - "my husband"
+      - "my wife"
+      - "i inherited"
+      - "here's why you"
+      - "inside wealth"
+
+  - id: ai
+    title: Artificial Intelligence
+    kind: headlines
+    sources:
+      - type: rss
+        name: Import AI
+        url:
+          - https://jack-clark.net/feed/
+          - https://importai.substack.com/feed
+        limit: 2
+      - type: rss
+        name: One Useful Thing
+        url:
+          - https://www.oneusefulthing.org/feed
+          - https://oneusefulthing.substack.com/feed
+        limit: 2
+      - type: rss
+        name: Simon Willison
+        url: https://simonwillison.net/atom/everything/
+        limit: 2
+      - type: rss
+        name: Ars Technica
+        url: https://feeds.arstechnica.com/arstechnica/technology-lab
+        limit: 2
+      - type: rss
+        name: OpenAI
+        url: https://openai.com/news/rss.xml
+        limit: 1
+      - type: rss
+        name: Google DeepMind
+        url: https://deepmind.google/blog/feed/basic/
+        limit: 1
+
+  - id: goods
+    title: New In
+    kind: goods
+    sources:
+      - type: shopify
+        name: Sid Mashburn
+        domain: shopmashburn.com
+        require_tags: [LineDescr_Mens]
+        limit: 4
+      - type: shopify
+        name: Drake's
+        domain: www.drakes.com
+        currency_symbol: "£"
+        limit: 4
+
+  - id: dispatches
+    title: Dispatches
+    kind: headlines
+    sources:
+      - type: rss
+        name: A Continuous Lean
+        url:
+          - https://www.acl.news/feed
+          - https://acontinuouslean.substack.com/feed
+        limit: 3
+
+  - id: garden-table
+    title: Garden & Table
+    kind: headlines
+    sources:
+      - type: rss
+        name: Vittles
+        url: https://www.vittlesmagazine.com/feed
+        limit: 2
+      - type: rss
+        name: Margaret Roach
+        url:
+          - https://awaytogarden.com/feed/atom/
+          - https://awaytogarden.com/feed/rss2/
+          - https://awaytogarden.com/feed/
+        limit: 2
+      - type: rss
+        name: Gardenista
+        url: https://www.gardenista.com/feed/
+        limit: 2
+      - type: rss
+        name: NYBG Plant Talk
+        url: https://www.nybg.org/blogs/plant-talk/feed/
+        limit: 2
+      - type: rss
+        name: Food52
+        url:
+          - https://food52.com/blog/feed
+          - https://food52.com/rss
+          - https://food52.com/blog.rss
+        limit: 2
+      
 
 # The Vibes section is gone. It fed the interstitial photo bands from Sight
 # Unseen — a design magazine picked as a Pinterest stand-in, not something
