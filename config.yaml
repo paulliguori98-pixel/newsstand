@@ -9,16 +9,25 @@
 # them in order and keeps the first that returns entries, so when a publisher
 # moves a feed you add the new address above the old one.
 #
-# `limit:`          caps how many items one source contributes, so a wire
-#                   service posting hourly can't take every slot.
-# `max_age_hours:`  set on a SECTION. Drops anything older. This is what
-#                   separates news from articles — see the News section.
+# `limit:`          on a SOURCE, caps how many items it contributes.
+#                   on a SECTION, overrides per_section_limit for that one.
+# `max_age_hours:`  on a section. Drops stale items. Note what it does NOT
+#                   do — see the News section.
+#
+# ── What actually separates news from features ────────────────────────────
+# Not recency. Wealth columns and service journalism ("Is $1 million enough
+# to retire?") are published fresh every day and sit inside any sensible
+# time window. What separates them is WHICH FEED you point at. Most outlets
+# run a headline wire and a features stream; the wire is the one you want.
+#
+# There's a second trap: items are sorted by publish time, so with a small
+# limit the highest-frequency publisher takes every slot. CNBC and
+# MarketWatch push columns out constantly and were beating Axios and NPR by
+# minutes. Per-source `limit:` is what keeps that honest.
 #
 # ── On summaries ──────────────────────────────────────────────────────────
 # The dek under each headline is written by the publisher; nothing here
-# rewrites anything. So the choice of source is the whole game. Axios and NPR
-# write plain, explanatory deks. Yahoo Finance was removed — it sends
-# headlines with no dek at all, plus the advice-column and stock-tout genres.
+# rewrites anything. Axios and NPR write plain, explanatory deks.
 #
 # ── A standing note about Substack ────────────────────────────────────────
 # Substack returns HTTP 403 to GitHub's servers for any *.substack.com
@@ -29,9 +38,8 @@
 
 settings:
   timezone: America/New_York
-  new_window_days: 4
-  # Three per section. The page should be readable in a few minutes.
   per_section_limit: 3
+  new_window_days: 4
   timeout: 20
   user_agent: "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36"
 
@@ -40,15 +48,12 @@ sections:
   - id: business
     title: News
     kind: headlines
-    # News only. In these feeds, anything older than a day and a half is
-    # almost never reporting — it's service journalism ("Should I pay off my
-    # car loan?") or an evergreen feature that lingers for weeks and keeps
-    # resurfacing. Dropping it removes the genre without guessing at wording.
+    # News is the reason to open the page, so it runs longer than the rest.
+    limit: 8
     max_age_hours: 36
     sources:
-      # Axios first on purpose: their house style is a plain-English line on
-      # why a story matters — the closest thing to a real summary available
-      # without paying a model to write one.
+      # Axios first: their house style is a plain-English line on why a story
+      # matters — the closest thing to a real summary without paying a model.
       - type: rss
         name: Axios
         url:
@@ -59,25 +64,28 @@ sections:
         name: NPR Business
         url: https://feeds.npr.org/1006/rss.xml
         limit: 3
+      # CNBC's 10001147 is the Inside Wealth / features stream — it supplied
+      # the Monterey Car Week auction piece and the family-office profile.
+      # 100003114 is Top News. Old address kept below as a fallback only.
       - type: rss
         name: CNBC
         url:
+          - https://www.cnbc.com/id/100003114/device/rss/rss.html
           - https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10001147
-          - https://www.cnbc.com/id/10001147/device/rss/rss.html
         limit: 2
+      # Likewise MarketWatch: mw_topstories carries the personal-finance
+      # columns ("Is $1 million enough to retire?"). Real-time headlines is
+      # the wire.
       - type: rss
         name: MarketWatch
         url:
+          - https://feeds.content.dowjones.io/public/rss/mw_realtimeheadlines
+          - http://feeds.marketwatch.com/marketwatch/realtimeheadlines/
           - https://feeds.content.dowjones.io/public/rss/mw_topstories
-          - https://www.marketwatch.com/rss/topstories
         limit: 2
       # Yahoo Finance removed: no deks, and the source of the advice-column
       # and "analysts predict 70% upside" items.
-      # - type: rss
-      #   name: Yahoo Finance
-      #   url: https://finance.yahoo.com/news/rssindex
-    # Substring match on the headline, case-insensitive. Backstop for the
-    # advice-column and stock-tout genres that slip inside the age window.
+    # Backstop for anything that slips through on a wire feed.
     mute:
       - crypto
       - "stock to buy"
@@ -87,6 +95,7 @@ sections:
       - "analysts predict"
       - "should i"
       - "can i claim"
+      - "is $1 million enough"
       - "my friend"
       - "my husband"
       - "my wife"
@@ -95,6 +104,7 @@ sections:
       - "i inherited"
       - "i found a"
       - "here's why you"
+      - "inside wealth"
 
   # No max_age_hours here on purpose: these are newsletters and essays, and a
   # good one doesn't expire in 36 hours the way a market story does.
