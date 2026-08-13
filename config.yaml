@@ -121,12 +121,12 @@ sections:
         name: Sid Mashburn
         domain: shopmashburn.com
         require_tags: [LineDescr_Mens]
-        limit: 6
+        limit: 3
       - type: shopify
         name: Drake's
         domain: www.drakes.com
         currency_symbol: "£"
-        limit: 6
+        limit: 3
 
   - id: dispatches
     title: Dispatches
