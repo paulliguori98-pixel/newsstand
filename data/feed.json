@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-08-13T14:32:59.119159+00:00",
+ "generated_at": "2026-08-13T14:42:13.562874+00:00",
  "sections": [
   {
    "id": "business",
-   "title": "Business",
+   "title": "News",
    "kind": "headlines",
    "items": [
     {
@@ -221,7 +221,6 @@
   }
  ],
  "errors": [
-  "Margaret Roach: RuntimeError \u2014 https://awaytogarden.com/feed/atom/ \u2192 ConnectTimeout; https://awaytogarden.com/feed/rss2/ \u2192 ConnectTimeout; https://awaytogarden.com/feed/ \u2192 ConnectTimeout",
   "Food52: RuntimeError \u2014 https://food52.com/blog/feed \u2192 HTTP 429; https://food52.com/rss \u2192 HTTP 429; https://food52.com/blog.rss \u2192 HTTP 429"
  ]
 }
