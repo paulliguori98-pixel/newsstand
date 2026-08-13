@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-13T18:00:59.063593+00:00",
+ "generated_at": "2026-08-13T18:03:12.118473+00:00",
  "sections": [
   {
    "id": "world",
@@ -365,7 +365,7 @@
  ],
  "errors": [
   "Reuters: RuntimeError \u2014 https://www.reutersagency.com/feed/?best-topics=business-finance&post_type=best \u2192 HTTP 404; https://feeds.reuters.com/reuters/businessNews \u2192 ConnectionError",
-  "Margaret Roach: RuntimeError \u2014 https://awaytogarden.com/feed/atom/ \u2192 ConnectTimeout; https://awaytogarden.com/feed/rss2/ \u2192 ConnectTimeout; https://awaytogarden.com/feed/ \u2192 ConnectTimeout",
+  "Margaret Roach: RuntimeError \u2014 https://awaytogarden.com/feed/atom/ \u2192 no entries; https://awaytogarden.com/feed/rss2/ \u2192 no entries; https://awaytogarden.com/feed/ \u2192 no entries",
   "Food52: RuntimeError \u2014 https://food52.com/blog/feed \u2192 HTTP 429; https://food52.com/rss \u2192 HTTP 429; https://food52.com/blog.rss \u2192 HTTP 429"
  ]
 }
