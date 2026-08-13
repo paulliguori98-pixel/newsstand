@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-13T21:35:01.649404+00:00",
+ "generated_at": "2026-08-13T21:44:52.142712+00:00",
  "sections": [
   {
    "id": "world",
@@ -7,20 +7,20 @@
    "kind": "headlines",
    "items": [
     {
-     "title": "Kennedy Center Board Decides to Inscribe Trump\u2019s Name on Building",
-     "url": "https://www.nytimes.com/2026/08/13/arts/design/kennedy-center-closure-board-vote-trump.html",
-     "source": "New York Times",
-     "summary": "The vote to add \u201cRestored and Renovated by President Donald J. Trump\u201d is an aggressive test of a judge\u2019s order to remove his name.",
-     "published": "2026-08-13T20:20:38+00:00",
-     "image": "https://static01.nyt.com/images/2026/08/13/multimedia/13cul-kennedy-center-gqfj/13cul-kennedy-center-gqfj-mediumSquareAt3X.jpg",
+     "title": "Kennedy Center board restores Trump's name, testing judge",
+     "url": "https://www.axios.com/2026/08/13/trump-kennedy-center-name-board-court-order",
+     "source": "Axios",
+     "summary": "The Kennedy Center board voted Thursday to again add President Trump's name to the John F. Kennedy Center for the Performing Arts, two anonymous sources told Axios.Why it matters:\u2026",
+     "published": "2026-08-13T21:36:42+00:00",
+     "image": "https://images.axios.com/w6ExgMJ2kdzuC_YaITmL8TtHXsQ=/0x521:5000x3333/1366x768/2026/08/13/1786646275395.jpeg",
      "kind": "article",
-     "id": "429ffea98d5c2376",
-     "first_seen": "2026-08-13T17:13:41.231451+00:00",
+     "id": "37cca3a248012828",
+     "first_seen": "2026-08-13T18:46:10.395167+00:00",
      "is_new": true,
      "corroboration": 3,
      "also_in": [
-      "Axios",
-      "NPR"
+      "NPR",
+      "New York Times"
      ]
     },
     {
@@ -40,15 +40,15 @@
      ]
     },
     {
-     "title": "Female Afghans Erased From Public Life in Five Years of Taliban Rule",
-     "url": "https://www.nytimes.com/2026/08/13/world/asia/afghan-women-taliban-rule.html",
+     "title": "U.S.S. Abraham Lincoln Has Been Deployed for Months, Prompting Concerns",
+     "url": "https://www.nytimes.com/2026/08/13/us/uss-abraham-lincoln-iran-navy.html",
      "source": "New York Times",
-     "summary": "Decrees restricting women\u2019s rights to study, work, travel and act independently now threaten to damage Afghanistan permanently, experts say.",
-     "published": "2026-08-13T21:21:57+00:00",
-     "image": "https://static01.nyt.com/images/2026/08/13/multimedia/13int-afghanistan-women-1-fjtm/13int-afghanistan-women-1-fjtm-mediumSquareAt3X.jpg",
+     "summary": "The U.S.S. Abraham Lincoln has been deployed for nearly nine months. Members of Congress are worried about the crew\u2019s well-being.",
+     "published": "2026-08-13T21:39:15+00:00",
+     "image": "https://static01.nyt.com/images/2026/08/13/multimedia/13dc-military-iran-kqvm/13dc-military-iran-kqvm-mediumSquareAt3X.jpg",
      "kind": "article",
-     "id": "5b2d12cb6f7f3f53",
-     "first_seen": "2026-08-13T21:35:01.649404+00:00",
+     "id": "eb83b53503b81eb8",
+     "first_seen": "2026-08-13T21:25:15.115586+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": []
@@ -116,10 +116,10 @@
    "kind": "headlines",
    "items": [
     {
-     "title": "White House recruits security firms to hack overseas cybercriminals",
+     "title": "Private security firms will soon be allowed to hack overseas cybercriminals",
      "url": "https://arstechnica.com/security/2026/08/white-house-recruits-security-firms-to-hack-overseas-cybercriminals/",
      "source": "Ars Technica",
-     "summary": "Trump memo is first time gov't has authorized private sector to perform cyber attacks.",
+     "summary": "Trump memo is first time gov't has authorized private sector to perform cyberattacks.",
      "published": "2026-08-13T19:38:58+00:00",
      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/security-illustration-skull-1152x648-1783710141.jpg",
      "kind": "article",
@@ -371,7 +371,8 @@
   }
  ],
  "errors": [
+  "Margaret Roach: RuntimeError \u2014 https://awaytogarden.com/feed/atom/ \u2192 ConnectTimeout; https://awaytogarden.com/feed/rss2/ \u2192 ConnectTimeout; https://awaytogarden.com/feed/ \u2192 ConnectTimeout",
   "Food52: RuntimeError \u2014 https://food52.com/blog/feed \u2192 HTTP 429; https://food52.com/rss \u2192 HTTP 429; https://food52.com/blog.rss \u2192 HTTP 429",
-  "Substack: RuntimeError \u2014 @dominicscalise \u2192 RuntimeError; @acontinuouslean \u2192 RuntimeError; @aprivatechef \u2192 RuntimeError"
+  "Substack: RuntimeError \u2014 [curl_cffi] @dominicscalise \u2192 profile HTTP 403; @acontinuouslean \u2192 profile HTTP 403; @aprivatechef \u2192 profile HTTP 403"
  ]
 }
