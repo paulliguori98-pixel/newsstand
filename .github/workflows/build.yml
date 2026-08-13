@@ -43,7 +43,7 @@ jobs:
         run: |
           git config user.name "newsstand"
           git config user.email "newsstand@users.noreply.github.com"
-          git add data/feed.json data/feed.js data/seen.json
+          git add data/feed.json data/feed.js data/seen.json data/archive.json data/archive.js
           git diff --staged --quiet || git commit -m "Edition $(date -u +%Y-%m-%d)"
           git push
       - uses: actions/configure-pages@v5
