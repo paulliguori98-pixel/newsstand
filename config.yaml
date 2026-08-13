@@ -129,6 +129,29 @@ sections:
       #   image_selector: "img"
       #   price_selector: "[class*='price']"
 
+  # The two Substacks Paul actually subscribes to that aren't food — they sit
+  # next to New In because they're about the same things the brands are.
+  - id: dispatches
+    title: Dispatches
+    kind: headlines
+    sources:
+      # Michael Williams' ACL. The Substack address redirects to the
+      # publication's own domain, so that's the one used here — a custom
+      # domain is the more durable address and sidesteps whatever made
+      # Substack refuse the Import AI request.
+      - type: rss
+        name: A Continuous Lean
+        url:
+          - https://www.acl.news/feed
+          - https://acontinuouslean.substack.com/feed
+      # Dominic Scalise's weekly. Note the address: the publication is called
+      # IYKYK but it is served from iknow.substack.com. There IS an
+      # iykyk.substack.com — it belongs to someone else entirely, so don't
+      # "correct" this one.
+      - type: rss
+        name: IYKYK
+        url: https://iknow.substack.com/feed
+
   - id: garden-table
     title: Garden & Table
     kind: headlines
@@ -136,6 +159,10 @@ sections:
       - type: rss
         name: Vittles
         url: https://www.vittlesmagazine.com/feed
+      # Will Cooper. The one food publication among Paul's subscriptions.
+      - type: rss
+        name: A Private Chef
+        url: https://aprivatechef.substack.com/feed
       # The plain /feed/ address parsed but held no entries on the first real
       # build, which usually means the site serves a different format there.
       # The explicit Atom and RSS paths are tried ahead of it now.
@@ -152,15 +179,15 @@ sections:
         name: NYBG Plant Talk
         url: https://www.nybg.org/blogs/plant-talk/feed/
       # blog.rss returned an HTTP error on the first real build. These are the
-      # other two addresses Food52 has served this feed from.
+      # other two addresses Food52 has served this feed from. All three failed
+      # on the second build too — Food52 appears to block datacenter traffic
+      # outright, the same way J.Crew does. Left in place, and harmless.
       - type: rss
         name: Food52
         url:
           - https://food52.com/blog/feed
           - https://food52.com/rss
           - https://food52.com/blog.rss
-      # Add the Substacks you actually read here — any publication serves a
-      # full feed at <name>.substack.com/feed.
 
   # Not a section you scroll to — these images are dealt out between the
   # sections above, one band at a time.
