@@ -122,12 +122,14 @@ sections:
         domain: shopmashburn.com
         handle: sid-mashburn-new-arrivals
         require_tags: [LineDescr_Mens]
-        limit: 3
+        limit: 24
+        show: 3
       - type: shopify
         name: Drake's
         domain: us.drakes.com
         currency_symbol: "$"
-        limit: 2
+        limit: 24
+        show: 2
         # Not Shopify. Server-rendered, so the scraper can read it. The :has()
       # selector keeps this to men's — their new-arrivals page mixes genders
       # and men's product URLs are prefixed /products/m-.
@@ -141,7 +143,8 @@ sections:
         image_selector: "img:not(.has-focal-point)"
         price_selector: "span.Heading--serif"
         currency_symbol: "$"
-        limit: 2
+        limit: 24
+        show: 2
       # Shopify headless — /products.json and .atom all 404, confirmed from
       # the browser. Tiles are empty shells server-side: no name, no price,
       # just an image and a link, everything else painted in by JavaScript.
@@ -157,7 +160,8 @@ sections:
         title_attr: handle
         link_selector: 'a[href*="/products/"]'
         image_selector: 'img[src*="/BM"], img'
-        limit: 2
+        limit: 24
+        show: 2
 
   - id: dispatches
     title: Dispatches
