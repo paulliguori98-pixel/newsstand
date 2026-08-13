@@ -1,23 +1,11 @@
 {
- "generated_at": "2026-08-13T15:17:50.783323+00:00",
+ "generated_at": "2026-08-13T15:19:32.699836+00:00",
  "sections": [
   {
    "id": "business",
    "title": "News",
    "kind": "headlines",
    "items": [
-    {
-     "title": "Rich Americans are propping up the travel economy as airfares soar 25% higher than last year",
-     "url": "https://www.marketwatch.com/story/rich-americans-are-propping-up-the-travel-economy-as-airfares-soar-25-higher-than-last-year-c76067a5?mod=mw_rss_topstories",
-     "source": "MarketWatch",
-     "summary": "The cost of plane tickets has soared over the past year, but consumer demand has yet to slow down during this summer travel season.",
-     "published": "2026-08-13T15:08:00+00:00",
-     "image": "https://images.mktw.net/im-06649723",
-     "kind": "article",
-     "id": "d6465beaf2670cca",
-     "first_seen": "2026-08-13T15:17:50.783323+00:00",
-     "is_new": true
-    },
     {
      "title": "Trump's White House remodel tab keeps growing",
      "url": "https://www.axios.com/2026/08/13/trump-white-house-projects-cost",
@@ -31,15 +19,87 @@
      "is_new": true
     },
     {
-     "title": "Your prescription drugs shouldn\u2019t cost more than your mortgage. Inside the broken math that got us here.",
-     "url": "https://www.marketwatch.com/story/your-prescription-drugs-shouldnt-cost-more-than-your-mortgage-inside-the-broken-math-that-got-us-here-b5a2c4aa?mod=mw_rss_topstories",
-     "source": "MarketWatch",
-     "summary": "We will never make medicine affordable if how to tie a drug\u2019s price to its value is solely determined by the companies creating the drugs.",
-     "published": "2026-08-13T15:01:00+00:00",
-     "image": "https://images.mktw.net/im-05734301",
+     "title": "Wholesale prices were flat in July, below expectations for 0.2% increase",
+     "url": "https://www.cnbc.com/2026/08/13/wholesale-prices-were-flat-in-july-below-expectations-for-0point2percent-increase.html",
+     "source": "CNBC",
+     "summary": "The producer price index was expected to increase by 0.2% in July, according to the Dow Jones consensus.",
+     "published": "2026-08-13T13:18:36+00:00",
+     "image": null,
      "kind": "article",
-     "id": "174b0dc0b53f5ca0",
-     "first_seen": "2026-08-13T15:17:50.783323+00:00",
+     "id": "715f1ee2e943cf23",
+     "first_seen": "2026-08-13T15:19:32.699836+00:00",
+     "is_new": true
+    },
+    {
+     "title": "Iran looks to ramp up economic alliance with BRICS nations as war with U.S. drags on",
+     "url": "https://www.cnbc.com/2026/08/13/iran-war-brics-bank.html",
+     "source": "CNBC",
+     "summary": "Iran\u2019s central bank chief said Thursday that the country is set to join the BRICS New Development Bank.",
+     "published": "2026-08-13T13:01:37+00:00",
+     "image": null,
+     "kind": "article",
+     "id": "474ec1a7ca003c65",
+     "first_seen": "2026-08-13T15:19:32.699836+00:00",
+     "is_new": true
+    },
+    {
+     "title": "Maggie Haberman says 70% of Trump's attention goes to monuments, renovations and legacy",
+     "url": "https://www.axios.com/2026/08/13/trump-haberman-legacy-projects-behind-the-curtain",
+     "source": "Axios",
+     "summary": "The New York Times' Maggie Haberman tells me 70% of President Trump's mindshare (\"maybe plus or minus 5%\") goes to his gilding, construction, renovation, renaming and tribute proj\u2026",
+     "published": "2026-08-13T10:37:44+00:00",
+     "image": "https://images.axios.com/SBL34vfUVBemebNx5nM0j-XGaEI=/128x128/smart/2026/08/13/1786616283911.jpg",
+     "kind": "article",
+     "id": "eafc30bc6d984f08",
+     "first_seen": "2026-08-13T13:18:48.510709+00:00",
+     "is_new": true
+    },
+    {
+     "title": "Musk and Zuckerberg claw back into AI race with new model momentum",
+     "url": "https://www.axios.com/2026/08/13/grok-elon-musk-ai-zuckerberg-and-meta",
+     "source": "Axios",
+     "summary": "Elon Musk and Mark Zuckerberg have muscled their way back into AI's elite ranks, defying early obituaries to close the gap on a new generation of Silicon Valley startups.Why it ma\u2026",
+     "published": "2026-08-13T10:00:40+00:00",
+     "image": "https://images.axios.com/TNXy-jkXC2Yg1uFmEn6Mc_qh77c=/0x0:1920x1080/1366x768/2026/07/28/1785257580576.jpeg",
+     "kind": "article",
+     "id": "2736efaa221e7451",
+     "first_seen": "2026-08-13T13:18:48.510709+00:00",
+     "is_new": true
+    },
+    {
+     "title": "Trump sued over service selling faster access to Truth Social posts",
+     "url": "https://www.npr.org/2026/08/12/nx-s1-5929391/trump-truth-social-api-lawsuit",
+     "source": "NPR Business",
+     "summary": "The federal lawsuit alleges that the service from the president's media company violates the Constitution. Meanwhile, Trump Media executives say they have signed up more than 10 c\u2026",
+     "published": "2026-08-12T20:33:10+00:00",
+     "image": null,
+     "kind": "article",
+     "id": "d628016738937d5c",
+     "first_seen": "2026-08-13T13:18:48.510709+00:00",
+     "is_new": true
+    },
+    {
+     "title": "Inflation eases in July as gasoline and grocery prices fall",
+     "url": "https://www.npr.org/2026/08/12/nx-s1-5929122/inflation-cpi-economy-gas-grocery",
+     "source": "NPR Business",
+     "summary": "Consumer prices in July were up 3.4% from a year ago \u2014 a smaller annual increase than in May or June. The news makes it less likely the Fed will feel the need to raise interest ra\u2026",
+     "published": "2026-08-12T14:00:29+00:00",
+     "image": null,
+     "kind": "article",
+     "id": "79e825cd0f151a97",
+     "first_seen": "2026-08-13T13:18:48.510709+00:00",
+     "is_new": true
+    },
+    {
+     "title": "Here's how gyms, salons and ice cream are changing America's Main Streets",
+     "url": "https://www.npr.org/2026/08/12/nx-s1-5928083/retail-services-gyms-salons-restaurants-downtown-main-street",
+     "source": "NPR Business",
+     "summary": "Shoppers' changing habits are fueling a major shift in what types of businesses are occupying storefronts.",
+     "published": "2026-08-12T09:00:00+00:00",
+     "image": null,
+     "kind": "article",
+     "id": "35c5c54688fea10b",
+     "first_seen": "2026-08-13T13:18:48.510709+00:00",
      "is_new": true
     }
    ]
@@ -221,7 +281,6 @@
   }
  ],
  "errors": [
-  "Margaret Roach: RuntimeError \u2014 https://awaytogarden.com/feed/atom/ \u2192 no entries; https://awaytogarden.com/feed/rss2/ \u2192 no entries; https://awaytogarden.com/feed/ \u2192 no entries",
   "Food52: RuntimeError \u2014 https://food52.com/blog/feed \u2192 HTTP 429; https://food52.com/rss \u2192 HTTP 429; https://food52.com/blog.rss \u2192 HTTP 429"
  ]
 }
