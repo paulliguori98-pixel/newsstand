@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-13T18:04:04.749007+00:00",
+ "generated_at": "2026-08-13T18:09:39.180940+00:00",
  "sections": [
   {
    "id": "world",
@@ -190,7 +190,7 @@
      "summary": "",
      "published": null,
      "image": "https://cdn.shopify.com/s/files/1/0123/5065/2473/files/BM13215.1402_JAPANESE-CHAMBRAY-STATION-SHIRT_B015_51858_1.jpg?v=1786385011&format=webp&width=700&height=700",
-     "price": "$ 168",
+     "price": null,
      "kind": "product",
      "id": "a250b48948eeba97",
      "first_seen": "2026-08-13T18:04:04.749007+00:00",
@@ -203,7 +203,7 @@
      "summary": "",
      "published": null,
      "image": "https://cdn.shopify.com/s/files/1/0123/5065/2473/files/BM14194.1155CKH_Classic-Khaki-HARDTACK-TWILL-BIG-CHINO.jpg?v=1771618617&format=webp&width=700&height=700",
-     "price": "$28",
+     "price": null,
      "kind": "product",
      "id": "cdb0a068166745ec",
      "first_seen": "2026-08-13T18:04:04.749007+00:00",
