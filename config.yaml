@@ -115,7 +115,7 @@ sections:
   - id: goods
     title: New In
     kind: goods
-    limit: 6
+    limit: 9
     sources:
       - type: shopify
         name: Sid Mashburn
@@ -127,7 +127,33 @@ sections:
         name: Drake's
         domain: us.drakes.com
         currency_symbol: "$"
-        limit: 3
+        limit: 2
+        # Not Shopify. Server-rendered, so the scraper can read it. The :has()
+      # selector keeps this to men's — their new-arrivals page mixes genders
+      # and men's product URLs are prefixed /products/m-.
+      # Price renders as "220" with the $ drawn in CSS, hence currency_symbol.
+      - type: html
+        name: Tracksmith
+        url: https://www.tracksmith.com/collections/new-arrivals
+        item_selector: '.product-card:has(a[href*="/products/m-"])'
+        title_selector: ".product-card__title"
+        link_selector: "a"
+        image_selector: "img"
+        price_selector: "span.Heading--serif"
+        currency_symbol: "$"
+        limit: 2
+      # Buck Mason IS Shopify — their images sit on cdn.shopify.com — but
+      # they've disabled /products.json, so it has to be scraped.
+      # article[handle] is semantic markup and should outlive a restyle;
+      # their CSS class names carry build hashes and won't.
+      - type: html
+        name: Buck Mason
+        url: https://www.buckmason.com/collections/mens-new-arrivals
+        item_selector: "article[handle]"
+        title_selector: 'a[href*="/products/"]'
+        link_selector: 'a[href*="/products/"]'
+        image_selector: "img"
+        limit: 2
 
   - id: dispatches
     title: Dispatches
