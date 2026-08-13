@@ -4,26 +4,19 @@
 # `limit:`   on a source — how many items to COLLECT each run
 #            on a section — the cap for that whole section
 # `show:`    on a source — how many of those reach the front page
+# `rank:`    on a section — `corroboration` ranks by how many outlets ran
+#            the same story, and shows one line per story
 # `max_age_hours:` on a section — drops stale items
 #
 # Everything collected from a `goods` section is merged into
-# data/archive.json and shown on all.html. That file only grows, and it's
-# the point: retailers don't publish backdated arrivals, so a record of what
-# came out can only be built forward from the day you start.
-#
-# ── What separates news from features ─────────────────────────────────────
-# Not recency — wealth columns and service journalism are published fresh
-# every day. It's WHICH FEED you point at. Most outlets run a headline wire
-# and a features stream; the wire is the one you want. And because items
-# sort by time, a high-frequency publisher will take every slot unless
-# per-source `show` holds it back.
+# data/archive.json and shown on all.html. That file only grows: retailers
+# don't publish backdated arrivals, so a record can only be built forward.
 #
 # ── Substack ──────────────────────────────────────────────────────────────
 # Substack returns HTTP 403 to GitHub's servers for any *.substack.com
 # address. The same publication on its OWN domain answers fine.
 #   works:   acl.news · oneusefulthing.org · vittlesmagazine.com · jack-clark.net
 #   blocked: iknow.substack.com · aprivatechef.substack.com · wmbrown.substack.com
-# Substack Notes live on substack.com itself, so they can't be fetched at all.
 
 settings:
   timezone: America/New_York
@@ -34,7 +27,7 @@ settings:
 
 sections:
 
-    - id: world
+  - id: world
     title: World & Nation
     kind: headlines
     # Three lines, ranked by how many outlets ran the story. On a big day
@@ -57,8 +50,8 @@ sections:
       # BBC and the Guardian aren't here for their politics — they're here
       # because agreement only means something across independent
       # newsrooms, and two non-US outlets change what registers as major.
-      # A strait closure leads everywhere; a Washington process story
-      # often doesn't leave the country.
+      # A strait closure leads everywhere; a Washington process story often
+      # doesn't leave the country.
       - type: rss
         name: BBC
         url: https://feeds.bbci.co.uk/news/world/rss.xml
@@ -105,7 +98,6 @@ sections:
           - https://feeds.bloomberg.com/markets/news.rss
           - https://feeds.bloomberg.com/business/news.rss
         limit: 2
-      # Reuters retired its public feeds — confirmed failing in the build log.
     mute:
       - crypto
       - "stock to buy"
@@ -122,6 +114,8 @@ sections:
       - "i inherited"
       - "here's why you"
       - "inside wealth"
+      # Bloomberg TV segments — market chatter, not news.
+      - "belly of the curve"
 
   # No max_age_hours here on purpose: these are newsletters and essays, and
   # a good one doesn't expire in 36 hours the way a market story does.
