@@ -1,11 +1,47 @@
 {
- "generated_at": "2026-08-13T15:19:32.699836+00:00",
+ "generated_at": "2026-08-13T16:21:06.911148+00:00",
  "sections": [
   {
-   "id": "business",
-   "title": "News",
+   "id": "world",
+   "title": "World & Nation",
    "kind": "headlines",
    "items": [
+    {
+     "title": "U.S. Investigated Left-Leaning Groups During Minnesota\u2019s Immigration Crackdown",
+     "url": "https://www.nytimes.com/2026/08/13/us/politics/dhs-inquiry-immigration-protests-minnesota.html",
+     "source": "New York Times",
+     "summary": "The government conducted expansive surveillance, infiltrated group chats and obtained financial records of organizations never accused of crimes.",
+     "published": "2026-08-13T16:01:32+00:00",
+     "image": "https://static01.nyt.com/images/2026/08/12/multimedia/dc-minn-whjk/dc-minn-whjk-mediumSquareAt3X.jpg",
+     "kind": "article",
+     "id": "812d8bb371f91101",
+     "first_seen": "2026-08-13T16:21:06.911148+00:00",
+     "is_new": true
+    },
+    {
+     "title": "Older Democrats walloped by midterms anti-establishment revolt",
+     "url": "https://www.axios.com/2026/08/13/democrats-old-age-larson-bronin-young-primaries",
+     "source": "Axios",
+     "summary": "House Democrats who have comfortably held their seats for decades are suddenly finding the ground shifting beneath their feet as primary voters revolt against the party's old guar\u2026",
+     "published": "2026-08-13T15:34:17+00:00",
+     "image": "https://images.axios.com/RSgShIyzYNVU4IK4-F4zlYTGf0w=/0x639:7026x4591/1366x768/2026/08/12/1786572800183.jpeg",
+     "kind": "article",
+     "id": "814a2bb315a7d879",
+     "first_seen": "2026-08-13T13:18:48.510709+00:00",
+     "is_new": true
+    },
+    {
+     "title": "By sky and sea, Ukraine's drone strikes challenge Russia's grip on Crimea",
+     "url": "https://www.npr.org/2026/08/13/nx-s1-5904418/ukraine-crimea-russia-drone-strikes",
+     "source": "NPR",
+     "summary": "Russia maintained an iron grip on Crimea since seizing it from Ukraine in 2014. Many Russian civilians go there to enjoy the beaches. But now Ukraine is hitting Crimea hard, upend\u2026",
+     "published": "2026-08-13T15:18:27+00:00",
+     "image": null,
+     "kind": "article",
+     "id": "ad5b2579a2616097",
+     "first_seen": "2026-08-13T16:21:06.911148+00:00",
+     "is_new": true
+    },
     {
      "title": "Trump's White House remodel tab keeps growing",
      "url": "https://www.axios.com/2026/08/13/trump-white-house-projects-cost",
@@ -19,87 +55,82 @@
      "is_new": true
     },
     {
-     "title": "Wholesale prices were flat in July, below expectations for 0.2% increase",
-     "url": "https://www.cnbc.com/2026/08/13/wholesale-prices-were-flat-in-july-below-expectations-for-0point2percent-increase.html",
+     "title": "Taiwan briefly slows its mobile internet to text-only speed as part of defense drill",
+     "url": "https://www.npr.org/2026/08/13/g-s1-138581/taiwan-briefly-slows-its-mobile-internet-to-text-only-speed-as-part-of-defense-drill",
+     "source": "NPR",
+     "summary": "The drills come amid rising tensions with China, which frequently sends military planes and ships towards Taiwan.",
+     "published": "2026-08-13T13:18:43+00:00",
+     "image": null,
+     "kind": "article",
+     "id": "40aebc05da074e97",
+     "first_seen": "2026-08-13T16:21:06.911148+00:00",
+     "is_new": true
+    },
+    {
+     "title": "Inflation eased slightly in July. And, ICE plans to give officers electric shock gloves",
+     "url": "https://www.npr.org/2026/08/13/g-s1-138578/up-first-newsletter-inflation-colombia-earthquake-ice-gloves-migrant-children-karolina-leavitt",
+     "source": "NPR",
+     "summary": "Inflation cooled a bit last month, according to a new report from the Labor Department. And, ICE plans to equip its officers with electric shock gloves.",
+     "published": "2026-08-13T11:31:18+00:00",
+     "image": null,
+     "kind": "article",
+     "id": "233cd5c0a51d49fe",
+     "first_seen": "2026-08-13T16:21:06.911148+00:00",
+     "is_new": true
+    }
+   ]
+  },
+  {
+   "id": "business",
+   "title": "Business",
+   "kind": "headlines",
+   "items": [
+    {
+     "title": "Trump-linked oil venture delays Greenland drilling plans after government warning",
+     "url": "https://www.cnbc.com/2026/08/13/greenland-energy-oil-drilling-trump.html",
      "source": "CNBC",
-     "summary": "The producer price index was expected to increase by 0.2% in July, according to the Dow Jones consensus.",
-     "published": "2026-08-13T13:18:36+00:00",
+     "summary": "Greenland Energy Co. and joint venture partner 80 Mile have delayed planned oil drilling in Greenland until winter 2027.",
+     "published": "2026-08-13T16:06:38+00:00",
      "image": null,
      "kind": "article",
-     "id": "715f1ee2e943cf23",
-     "first_seen": "2026-08-13T15:19:32.699836+00:00",
+     "id": "7f14c7259d5456f9",
+     "first_seen": "2026-08-13T16:21:06.911148+00:00",
      "is_new": true
     },
     {
-     "title": "Iran looks to ramp up economic alliance with BRICS nations as war with U.S. drags on",
-     "url": "https://www.cnbc.com/2026/08/13/iran-war-brics-bank.html",
+     "title": "Thousands of Lawyers and Bankers Predicted To Leave London",
+     "url": "https://www.bloomberg.com/news/videos/2026-08-13/thousands-of-lawyers-bankers-predicted-to-exit-london-video",
+     "source": "Bloomberg",
+     "summary": "Thousands of bankers and lawyers are poised to leave London over the next few years. Irina Anghel explains where they're going and why. (Source: Bloomberg)",
+     "published": "2026-08-13T16:04:33+00:00",
+     "image": null,
+     "kind": "article",
+     "id": "9c162dad6ff3e490",
+     "first_seen": "2026-08-13T16:21:06.911148+00:00",
+     "is_new": true
+    },
+    {
+     "title": "The Lakers\u2019 Owner Needed Cash. Then Came a $12.5 Billion Offer to Buy the Team.",
+     "url": "https://www.wsj.com/finance/lakers-mark-walter-joshua-kushner-bob-iger-0ceeea23?mod=rss_markets_main",
+     "source": "WSJ",
+     "summary": "Facing a federal investigation and a liquidity crunch, Mark Walter needed only 72 hours to accept an out-of-the-blue offer to sell the Lakers to Joshua Kushner and Bob Iger.",
+     "published": "2026-08-13T16:00:00+00:00",
+     "image": "https://images.wsj.net/im-15413357",
+     "kind": "article",
+     "id": "186238970c210947",
+     "first_seen": "2026-08-13T16:21:06.911148+00:00",
+     "is_new": true
+    },
+    {
+     "title": "'Big Short' investor Steve Eisman sees an Achilles' heel in the AI boom",
+     "url": "https://www.cnbc.com/2026/08/13/big-short-investor-steve-eisman-sees-an-achilles-heel-in-the-ai-boom.html",
      "source": "CNBC",
-     "summary": "Iran\u2019s central bank chief said Thursday that the country is set to join the BRICS New Development Bank.",
-     "published": "2026-08-13T13:01:37+00:00",
+     "summary": "Steve Eisman is warning that the artificial intelligence boom has become increasingly dependent on the fortunes of just two companies: OpenAI and Anthropic.",
+     "published": "2026-08-13T15:16:00+00:00",
      "image": null,
      "kind": "article",
-     "id": "474ec1a7ca003c65",
-     "first_seen": "2026-08-13T15:19:32.699836+00:00",
-     "is_new": true
-    },
-    {
-     "title": "Maggie Haberman says 70% of Trump's attention goes to monuments, renovations and legacy",
-     "url": "https://www.axios.com/2026/08/13/trump-haberman-legacy-projects-behind-the-curtain",
-     "source": "Axios",
-     "summary": "The New York Times' Maggie Haberman tells me 70% of President Trump's mindshare (\"maybe plus or minus 5%\") goes to his gilding, construction, renovation, renaming and tribute proj\u2026",
-     "published": "2026-08-13T10:37:44+00:00",
-     "image": "https://images.axios.com/SBL34vfUVBemebNx5nM0j-XGaEI=/128x128/smart/2026/08/13/1786616283911.jpg",
-     "kind": "article",
-     "id": "eafc30bc6d984f08",
-     "first_seen": "2026-08-13T13:18:48.510709+00:00",
-     "is_new": true
-    },
-    {
-     "title": "Musk and Zuckerberg claw back into AI race with new model momentum",
-     "url": "https://www.axios.com/2026/08/13/grok-elon-musk-ai-zuckerberg-and-meta",
-     "source": "Axios",
-     "summary": "Elon Musk and Mark Zuckerberg have muscled their way back into AI's elite ranks, defying early obituaries to close the gap on a new generation of Silicon Valley startups.Why it ma\u2026",
-     "published": "2026-08-13T10:00:40+00:00",
-     "image": "https://images.axios.com/TNXy-jkXC2Yg1uFmEn6Mc_qh77c=/0x0:1920x1080/1366x768/2026/07/28/1785257580576.jpeg",
-     "kind": "article",
-     "id": "2736efaa221e7451",
-     "first_seen": "2026-08-13T13:18:48.510709+00:00",
-     "is_new": true
-    },
-    {
-     "title": "Trump sued over service selling faster access to Truth Social posts",
-     "url": "https://www.npr.org/2026/08/12/nx-s1-5929391/trump-truth-social-api-lawsuit",
-     "source": "NPR Business",
-     "summary": "The federal lawsuit alleges that the service from the president's media company violates the Constitution. Meanwhile, Trump Media executives say they have signed up more than 10 c\u2026",
-     "published": "2026-08-12T20:33:10+00:00",
-     "image": null,
-     "kind": "article",
-     "id": "d628016738937d5c",
-     "first_seen": "2026-08-13T13:18:48.510709+00:00",
-     "is_new": true
-    },
-    {
-     "title": "Inflation eases in July as gasoline and grocery prices fall",
-     "url": "https://www.npr.org/2026/08/12/nx-s1-5929122/inflation-cpi-economy-gas-grocery",
-     "source": "NPR Business",
-     "summary": "Consumer prices in July were up 3.4% from a year ago \u2014 a smaller annual increase than in May or June. The news makes it less likely the Fed will feel the need to raise interest ra\u2026",
-     "published": "2026-08-12T14:00:29+00:00",
-     "image": null,
-     "kind": "article",
-     "id": "79e825cd0f151a97",
-     "first_seen": "2026-08-13T13:18:48.510709+00:00",
-     "is_new": true
-    },
-    {
-     "title": "Here's how gyms, salons and ice cream are changing America's Main Streets",
-     "url": "https://www.npr.org/2026/08/12/nx-s1-5928083/retail-services-gyms-salons-restaurants-downtown-main-street",
-     "source": "NPR Business",
-     "summary": "Shoppers' changing habits are fueling a major shift in what types of businesses are occupying storefronts.",
-     "published": "2026-08-12T09:00:00+00:00",
-     "image": null,
-     "kind": "article",
-     "id": "35c5c54688fea10b",
-     "first_seen": "2026-08-13T13:18:48.510709+00:00",
+     "id": "3ef38ebf2d989d9e",
+     "first_seen": "2026-08-13T16:21:06.911148+00:00",
      "is_new": true
     }
    ]
@@ -109,6 +140,18 @@
    "title": "Artificial Intelligence",
    "kind": "headlines",
    "items": [
+    {
+     "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+     "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+     "source": "OpenAI",
+     "summary": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.",
+     "published": "2026-08-13T09:00:00+00:00",
+     "image": null,
+     "kind": "article",
+     "id": "9e022b7caa78cba4",
+     "first_seen": "2026-08-13T16:21:06.911148+00:00",
+     "is_new": true
+    },
     {
      "title": "DeepSeek V4 Pro 0813 (on OpenRouter)",
      "url": "https://simonwillison.net/2026/Aug/12/deepseek-v4-pro-0813/",
@@ -130,18 +173,6 @@
      "image": "https://cdn.arstechnica.net/wp-content/uploads/2021/07/data-breach.jpeg",
      "kind": "article",
      "id": "80c120873d58c484",
-     "first_seen": "2026-08-13T13:18:48.510709+00:00",
-     "is_new": true
-    },
-    {
-     "title": "alchemy-utils 0.1a0",
-     "url": "https://simonwillison.net/2026/Aug/12/alchemy-utils/",
-     "source": "Simon Willison",
-     "summary": "Release: alchemy-utils 0.1a0 I've long pondered what a database agnostic version of my sqlite-utils Python library and CLI utility might look like. This morning (literally a showe\u2026",
-     "published": "2026-08-12T19:51:30+00:00",
-     "image": null,
-     "kind": "article",
-     "id": "96d1d535cf9d161f",
      "first_seen": "2026-08-13T13:18:48.510709+00:00",
      "is_new": true
     }
@@ -281,6 +312,8 @@
   }
  ],
  "errors": [
+  "Reuters: RuntimeError \u2014 https://www.reutersagency.com/feed/?best-topics=business-finance&post_type=best \u2192 HTTP 404; https://feeds.reuters.com/reuters/businessNews \u2192 ConnectionError",
+  "Margaret Roach: RuntimeError \u2014 https://awaytogarden.com/feed/atom/ \u2192 no entries; https://awaytogarden.com/feed/rss2/ \u2192 no entries; https://awaytogarden.com/feed/ \u2192 no entries",
   "Food52: RuntimeError \u2014 https://food52.com/blog/feed \u2192 HTTP 429; https://food52.com/rss \u2192 HTTP 429; https://food52.com/blog.rss \u2192 HTTP 429"
  ]
 }
