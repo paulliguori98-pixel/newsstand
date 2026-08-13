@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-13T20:40:11.305324+00:00",
+ "generated_at": "2026-08-13T20:55:23.714875+00:00",
  "sections": [
   {
    "id": "world",
@@ -16,67 +16,42 @@
      "kind": "article",
      "id": "429ffea98d5c2376",
      "first_seen": "2026-08-13T17:13:41.231451+00:00",
-     "is_new": true
+     "is_new": true,
+     "corroboration": 3,
+     "also_in": [
+      "Axios",
+      "NPR"
+     ]
     },
     {
-     "title": "Judge Dismisses Trump Administration\u2019s Antisemitism Case Against Harvard",
-     "url": "https://www.nytimes.com/2026/08/13/us/harvard-antisemitism-case-dismissed.html",
+     "title": "Luigi Mangione, Facing Stalking Charges in Federal Court, Is Expected to Plead Guilty",
+     "url": "https://www.nytimes.com/2026/08/13/nyregion/luigi-mangione-guilty-plea-federal.html",
      "source": "New York Times",
-     "summary": "The government argued the university had not done enough to combat antisemitism during campus protests. A judge called the incidents \u201cisolated and episodic.\u201d",
-     "published": "2026-08-13T20:02:43+00:00",
-     "image": "https://static01.nyt.com/images/2026/08/13/multimedia/13nat-harvard-1-mbqh/13nat-harvard-1-mbqh-mediumSquareAt3X.jpg",
+     "summary": "He is charged with stalking resulting in the death of an executive, but the specifics of his plea were unclear. A murder trial in state court is set for next month.",
+     "published": "2026-08-13T20:19:28+00:00",
+     "image": "https://static01.nyt.com/images/2026/08/12/multimedia/00met-mangione-gbqv/00met-mangione-gbqv-mediumSquareAt3X-v2.jpg",
      "kind": "article",
-     "id": "d6509f09855d769d",
-     "first_seen": "2026-08-13T20:40:11.305324+00:00",
-     "is_new": true
+     "id": "62ed335704f4f9b0",
+     "first_seen": "2026-08-13T20:55:23.714875+00:00",
+     "is_new": true,
+     "corroboration": 2,
+     "also_in": [
+      "NPR"
+     ]
     },
     {
-     "title": "Kushner plans to visit Israel next week for Gaza talks",
-     "url": "https://www.axios.com/2026/08/13/kushner-israel-gaza-netanyahu",
-     "source": "Axios",
-     "summary": "Jared Kushner, President Trump's envoy and son-in-law, is planning to visit Israel next week for talks on the situation in Gaza, according to five sources with knowledge of the pl\u2026",
-     "published": "2026-08-13T20:02:42+00:00",
-     "image": "https://images.axios.com/9UCp6FWmeWNMM598eH39JaIUjWk=/0x0:3000x1688/1366x768/2026/08/13/1786650051760.jpeg",
+     "title": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
+     "url": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "summary": "The mayor of Qusra says Israeli troops have been telling families to leave their houses, using some as barracks.",
+     "published": "2026-08-13T20:12:17+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4905/live/113cee30-9736-11f1-870d-5d08c49babb2.jpg",
      "kind": "article",
-     "id": "ed9b11949c113ea5",
-     "first_seen": "2026-08-13T20:40:11.305324+00:00",
-     "is_new": true
-    },
-    {
-     "title": "Kennedy Center board restores Trump's name, testing judge",
-     "url": "https://www.axios.com/2026/08/13/trump-kennedy-center-name-board-court-order",
-     "source": "Axios",
-     "summary": "The Kennedy Center board voted Thursday to again add President Trump's name to the John F. Kennedy Center for the Performing Arts, per multiple reports.Why it matters: The move ch\u2026",
-     "published": "2026-08-13T19:32:34+00:00",
-     "image": "https://images.axios.com/w6ExgMJ2kdzuC_YaITmL8TtHXsQ=/0x521:5000x3333/1366x768/2026/08/13/1786646275395.jpeg",
-     "kind": "article",
-     "id": "37cca3a248012828",
-     "first_seen": "2026-08-13T18:46:10.395167+00:00",
-     "is_new": true
-    },
-    {
-     "title": "Kennedy Center Board votes again to shut main building down \u2014 and add Trump's name back",
-     "url": "https://www.npr.org/2026/08/13/nx-s1-5930349/kennedy-center-shut-down-board-vote-trump",
-     "source": "NPR",
-     "summary": "The board voted to close the Washington, D.C., arts complex's main campus for a $250 million renovation \u2014 three months after a federal judge temporarily blocked a similar closure.",
-     "published": "2026-08-13T18:55:30+00:00",
-     "image": null,
-     "kind": "article",
-     "id": "b1f66856d84ddc4f",
-     "first_seen": "2026-08-13T19:01:18.715704+00:00",
-     "is_new": true
-    },
-    {
-     "title": "Mangione could plead guilty in federal case ahead of N.Y. murder trial",
-     "url": "https://www.npr.org/2026/08/13/nx-s1-5930397/mangione-federal-court-hearing-guilty-plea",
-     "source": "NPR",
-     "summary": "A surprise hearing this Friday in federal court has added to speculation that Luigi Mangione could enter a plea, which could derail a state murder trial.",
-     "published": "2026-08-13T17:29:15+00:00",
-     "image": null,
-     "kind": "article",
-     "id": "d556db5e72e48fc2",
-     "first_seen": "2026-08-13T17:54:45.246162+00:00",
-     "is_new": true
+     "id": "09443cca3dddb1a7",
+     "first_seen": "2026-08-13T20:55:23.714875+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": []
     }
    ]
   },
@@ -86,15 +61,27 @@
    "kind": "headlines",
    "items": [
     {
-     "title": "UAE, Qatari Firms Debut in Venezuela Through BP-Led Gas Deal",
-     "url": "https://www.bloomberg.com/news/articles/2026-08-13/uae-qatari-firms-debut-in-venezuela-through-bp-led-gas-deal",
+     "title": "Cool Inflation Data Propels Stocks to Fresh Records",
+     "url": "https://www.wsj.com/finance/stocks/cool-inflation-data-propels-stocks-to-fresh-records-cf7e46a9?mod=rss_markets_main",
+     "source": "WSJ",
+     "summary": "Wall Street now expects the Federal Reserve to hold rates steady next month.",
+     "published": "2026-08-13T20:47:00+00:00",
+     "image": "https://images.wsj.net/im-37188867",
+     "kind": "article",
+     "id": "a9985fe138212184",
+     "first_seen": "2026-08-13T20:55:23.714875+00:00",
+     "is_new": true
+    },
+    {
+     "title": "Fmr. NBA Executive: Lakers a \u2018Special Asset\u2019 in Sports",
+     "url": "https://www.bloomberg.com/news/videos/2026-08-13/fmr-nba-executive-lakers-a-special-asset-in-sports-video",
      "source": "Bloomberg",
-     "summary": "Arab Gulf companies are making their debut in Venezuela through an offshore natural gas project to be operated by BP Plc.",
-     "published": "2026-08-13T20:26:54+00:00",
+     "summary": "Bobby Sharma, Founder and Managing Partner at Bluestone Equity Partners, discussed the recent $12.5 billion valuation of the Los Angeles Lakers, highlighting the extraordinary pri\u2026",
+     "published": "2026-08-13T20:46:20+00:00",
      "image": null,
      "kind": "article",
-     "id": "9fa693a96fd93a08",
-     "first_seen": "2026-08-13T20:40:11.305324+00:00",
+     "id": "e297592523b6329f",
+     "first_seen": "2026-08-13T20:55:23.714875+00:00",
      "is_new": true
     },
     {
@@ -119,18 +106,6 @@
      "kind": "article",
      "id": "c3517f2463e86ebe",
      "first_seen": "2026-08-13T19:01:18.715704+00:00",
-     "is_new": true
-    },
-    {
-     "title": "Trade court upholds Trump's closure of 'de minimis' loophole",
-     "url": "https://www.cnbc.com/2026/08/13/trump-trade-court-de-minimis-tariffs-ieepa.html",
-     "source": "CNBC",
-     "summary": "President Donald Trump in a Truth Social post celebrated the continued closure of the deminimis exemption as a \"BIG WIN.\"",
-     "published": "2026-08-13T19:56:06+00:00",
-     "image": null,
-     "kind": "article",
-     "id": "ebd99f7192aa6a07",
-     "first_seen": "2026-08-13T20:40:11.305324+00:00",
      "is_new": true
     }
    ]
@@ -390,6 +365,7 @@
   }
  ],
  "errors": [
+  "Margaret Roach: RuntimeError \u2014 https://awaytogarden.com/feed/atom/ \u2192 ConnectTimeout; https://awaytogarden.com/feed/rss2/ \u2192 ConnectTimeout; https://awaytogarden.com/feed/ \u2192 ConnectTimeout",
   "Food52: RuntimeError \u2014 https://food52.com/blog/feed \u2192 HTTP 429; https://food52.com/rss \u2192 HTTP 429; https://food52.com/blog.rss \u2192 HTTP 429"
  ]
 }
