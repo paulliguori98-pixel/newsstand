@@ -12,19 +12,22 @@ like `img_grid-module--grid--304f7`, which carry a build hash and change on
 every deploy. When a store goes quiet in the build log, open the page, look
 at the markup, update the selector. That's the whole maintenance story.
 
-Two wrinkles worth knowing, both learned the hard way:
+Three wrinkles, all learned the hard way:
 
-Prices differ per site. Tracksmith renders "220" and draws the dollar sign in
-CSS; Buck Mason doesn't render a price server-side at all. So if
-`price_selector` is set that element's text is used, otherwise the tile text
-is searched for a price-shaped number, and `currency_symbol` is prepended
-when nothing carries one. A card with no price is fine — it just omits it.
+PRICES ARE OPT-IN. A price is only ever read from `price_selector`. There is
+deliberately no "search the tile for a number" fallback: Buck Mason's tiles
+carry size buttons, so scanning found "28" on a chino and published it as
+$28 when the trousers cost $248. A missing price is fine — the card just
+omits it. A wrong price is not.
 
-Titles differ too. Buck Mason's tiles are empty shells server-side: no name,
-no price, just an image and a link, with everything painted in by JavaScript
-afterwards. But the tile carries a `handle` attribute holding the product
-slug. `title_attr: handle` turns that slug into a readable name, which is the
-only way to read a site that renders its text client-side.
+Currency varies. Tracksmith renders "220" and draws the dollar sign in CSS,
+so `currency_symbol` is prepended when the matched text carries none.
+
+Titles vary. Buck Mason's tiles are empty shells server-side: no name, no
+price, just an image and a link, everything painted in by JavaScript. But the
+tile carries a `handle` attribute holding the product slug, so
+`title_attr: handle` rebuilds a readable name from it. That's the only way to
+read a site that renders its text client-side.
 """
 
 from __future__ import annotations
@@ -73,16 +76,14 @@ def _from_slug(slug: str) -> str:
 
 
 def _price(tile, selector: str, symbol: str) -> str | None:
-    raw = _text(tile, selector) if selector else ""
-    if not raw:
-        match = PRICE.search(tile.get_text(" ", strip=True))
-        raw = match.group(0) if match else ""
-    if not raw:
+    """Read a price from `selector` only. No selector, no price."""
+    if not selector:
         return None
-    match = PRICE.search(raw)
+    raw = _text(tile, selector)
+    match = PRICE.search(raw) if raw else None
     if not match:
         return None
-    found = match.group(0).strip()
+    found = re.sub(r"\s+", "", match.group(0))
     return found if found[0] in "$£€" else f"{symbol}{found}"
 
 
