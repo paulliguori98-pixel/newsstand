@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-13T20:55:23.714875+00:00",
+ "generated_at": "2026-08-13T21:15:56.008788+00:00",
  "sections": [
   {
    "id": "world",
@@ -61,6 +61,18 @@
    "kind": "headlines",
    "items": [
     {
+     "title": "Why It\u2019s So Hard to Measure the Economy\u2019s Real Potential",
+     "url": "https://www.bloomberg.com/news/newsletters/2026-08-13/why-it-s-so-hard-to-measure-the-economy-s-real-potential",
+     "source": "Bloomberg",
+     "summary": "It\u2019s tough to measure the economy\u2019s true potential",
+     "published": "2026-08-13T21:06:00+00:00",
+     "image": null,
+     "kind": "article",
+     "id": "0902fcf1a90877d5",
+     "first_seen": "2026-08-13T21:15:56.008788+00:00",
+     "is_new": true
+    },
+    {
      "title": "Cool Inflation Data Propels Stocks to Fresh Records",
      "url": "https://www.wsj.com/finance/stocks/cool-inflation-data-propels-stocks-to-fresh-records-cf7e46a9?mod=rss_markets_main",
      "source": "WSJ",
@@ -69,18 +81,6 @@
      "image": "https://images.wsj.net/im-37188867",
      "kind": "article",
      "id": "a9985fe138212184",
-     "first_seen": "2026-08-13T20:55:23.714875+00:00",
-     "is_new": true
-    },
-    {
-     "title": "Fmr. NBA Executive: Lakers a \u2018Special Asset\u2019 in Sports",
-     "url": "https://www.bloomberg.com/news/videos/2026-08-13/fmr-nba-executive-lakers-a-special-asset-in-sports-video",
-     "source": "Bloomberg",
-     "summary": "Bobby Sharma, Founder and Managing Partner at Bluestone Equity Partners, discussed the recent $12.5 billion valuation of the Los Angeles Lakers, highlighting the extraordinary pri\u2026",
-     "published": "2026-08-13T20:46:20+00:00",
-     "image": null,
-     "kind": "article",
-     "id": "e297592523b6329f",
      "first_seen": "2026-08-13T20:55:23.714875+00:00",
      "is_new": true
     },
@@ -365,7 +365,6 @@
   }
  ],
  "errors": [
-  "Margaret Roach: RuntimeError \u2014 https://awaytogarden.com/feed/atom/ \u2192 ConnectTimeout; https://awaytogarden.com/feed/rss2/ \u2192 ConnectTimeout; https://awaytogarden.com/feed/ \u2192 ConnectTimeout",
   "Food52: RuntimeError \u2014 https://food52.com/blog/feed \u2192 HTTP 429; https://food52.com/rss \u2192 HTTP 429; https://food52.com/blog.rss \u2192 HTTP 429"
  ]
 }
