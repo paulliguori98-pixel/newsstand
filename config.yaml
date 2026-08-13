@@ -120,12 +120,13 @@ sections:
       - type: shopify
         name: Sid Mashburn
         domain: shopmashburn.com
+        handle: sid-mashburn-new-arrivals
         require_tags: [LineDescr_Mens]
         limit: 3
       - type: shopify
         name: Drake's
-        domain: www.drakes.com
-        currency_symbol: "£"
+        domain: us.drakes.com
+        currency_symbol: "$"
         limit: 3
 
   - id: dispatches
