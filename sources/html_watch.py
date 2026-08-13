@@ -5,21 +5,26 @@ aren't Shopify at all (Tracksmith, J.Crew). For those, this reads the
 new-arrivals page and pulls product tiles using the CSS selectors in
 config.yaml.
 
-This is the most fragile source type in the project, and it's worth being
-honest about why: retailers restyle their sites a few times a year. Prefer
-selectors built on semantic markup or on href patterns, which tend to
-survive a redesign, over CSS-module class names like
-`img_grid-module--grid--304f7` — those carry a build hash and change every
-time the site is redeployed.
+This is the most fragile source type in the project. Retailers restyle a few
+times a year, so prefer selectors built on semantic markup or href patterns —
+`article[handle]`, `a[href*="/products/m-"]` — over CSS-module class names
+like `img_grid-module--grid--304f7`, which carry a build hash and change on
+every deploy. When a store goes quiet in the build log, open the page, look
+at the markup, update the selector. That's the whole maintenance story.
 
-When a store goes quiet in the build log, open the page, look at the markup,
-and update the selector. That's the whole maintenance story.
+Two wrinkles worth knowing, both learned the hard way:
 
-Prices need care. Tracksmith renders "220" and draws the dollar sign in CSS,
-so nothing in the text carries a currency. Buck Mason renders "$168" inside
-an unclassed span. So: if `price_selector` is set, that element's text is
-used; otherwise the tile's own text is searched for the first price-shaped
-number. Either way `currency_symbol` is prepended when the text lacks one.
+Prices differ per site. Tracksmith renders "220" and draws the dollar sign in
+CSS; Buck Mason doesn't render a price server-side at all. So if
+`price_selector` is set that element's text is used, otherwise the tile text
+is searched for a price-shaped number, and `currency_symbol` is prepended
+when nothing carries one. A card with no price is fine — it just omits it.
+
+Titles differ too. Buck Mason's tiles are empty shells server-side: no name,
+no price, just an image and a link, with everything painted in by JavaScript
+afterwards. But the tile carries a `handle` attribute holding the product
+slug. `title_attr: handle` turns that slug into a readable name, which is the
+only way to read a site that renders its text client-side.
 """
 
 from __future__ import annotations
@@ -31,6 +36,9 @@ import requests
 from bs4 import BeautifulSoup
 
 PRICE = re.compile(r"[$£€]\s?\d[\d,]*(?:\.\d{2})?|\d[\d,]*(?:\.\d{2})?")
+# Leading style codes on Buck Mason handles: b015-, m090-.
+STYLE_CODE = re.compile(r"^[a-z]\d{2,4}-")
+LOWER_WORDS = {"a", "an", "and", "the", "of", "in", "with", "for"}
 
 
 def _first(node, selector: str):
@@ -48,13 +56,25 @@ def _text(node, selector: str) -> str:
     return found.get_text(strip=True) if found else ""
 
 
+def _from_slug(slug: str) -> str:
+    """Turn a product handle into something readable.
+
+    "b015-japanese-chambray-station-shirt" → "Japanese Chambray Station Shirt"
+    """
+    slug = STYLE_CODE.sub("", (slug or "").strip().lower())
+    words = [w for w in slug.split("-") if w]
+    if not words:
+        return ""
+    titled = [
+        w if w in LOWER_WORDS and i else w.capitalize()
+        for i, w in enumerate(words)
+    ]
+    return " ".join(titled)
+
+
 def _price(tile, selector: str, symbol: str) -> str | None:
-    """Pull a price from the tile and make sure it carries a currency mark."""
     raw = _text(tile, selector) if selector else ""
     if not raw:
-        # No selector, or it matched nothing — find the first price-shaped
-        # run of digits anywhere in the tile. Works where the price sits in
-        # an unclassed element.
         match = PRICE.search(tile.get_text(" ", strip=True))
         raw = match.group(0) if match else ""
     if not raw:
@@ -81,10 +101,14 @@ def fetch(source: dict, settings: dict) -> list[dict]:
 
     symbol = source.get("currency_symbol", "$")
     limit = source.get("limit", 24)
+    title_attr = source.get("title_attr")
 
     items = []
     for tile in soup.select(source["item_selector"]):
-        title = _text(tile, source.get("title_selector", "")) or tile.get("aria-label", "")
+        if title_attr:
+            title = _from_slug(tile.get(title_attr, ""))
+        else:
+            title = _text(tile, source.get("title_selector", "")) or tile.get("aria-label", "")
         if not title:
             continue
 
