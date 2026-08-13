@@ -34,30 +34,49 @@ settings:
 
 sections:
 
-  - id: world
+    - id: world
     title: World & Nation
     kind: headlines
-    limit: 6
+    # Three lines, ranked by how many outlets ran the story. On a big day
+    # that's the big thing; on a quiet day you get three lines and move on,
+    # which is the correct outcome and something a feed never gives you.
+    limit: 3
+    rank: corroboration
     max_age_hours: 36
     sources:
+      # Order matters under corroboration ranking: when several outlets have
+      # the same story, the one listed first supplies the headline. So this
+      # is an editorial preference, not a roster.
       - type: rss
         name: New York Times
         url:
           - https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml
           - https://rss.nytimes.com/services/xml/rss/nyt/World.xml
           - https://rss.nytimes.com/services/xml/rss/nyt/US.xml
-        limit: 3
-      # NPR's main news feed (1001), not the business one (1006).
+        limit: 12
+      # BBC and the Guardian aren't here for their politics — they're here
+      # because agreement only means something across independent
+      # newsrooms, and two non-US outlets change what registers as major.
+      # A strait closure leads everywhere; a Washington process story
+      # often doesn't leave the country.
+      - type: rss
+        name: BBC
+        url: https://feeds.bbci.co.uk/news/world/rss.xml
+        limit: 12
       - type: rss
         name: NPR
         url: https://feeds.npr.org/1001/rss.xml
-        limit: 3
+        limit: 12
+      - type: rss
+        name: Guardian
+        url: https://www.theguardian.com/world/rss
+        limit: 12
       - type: rss
         name: Axios
         url:
           - https://api.axios.com/feed/
           - https://api.axios.com/feed/business
-        limit: 2
+        limit: 12
 
   - id: business
     title: Business
