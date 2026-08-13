@@ -138,7 +138,7 @@ sections:
         item_selector: '.product-card:has(a[href*="/products/m-"])'
         title_selector: ".product-card__title"
         link_selector: "a"
-        image_selector: "img"
+        image_selector: "img:not(.has-focal-point)"
         price_selector: "span.Heading--serif"
         currency_symbol: "$"
         limit: 2
