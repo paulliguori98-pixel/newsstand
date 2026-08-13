@@ -17,18 +17,14 @@ and shown on all.html. That file only grows: retailers don't publish
 backdated arrivals, so a record can only be built forward.
 
 ── Ranking by corroboration ──────────────────────────────────────────────
-A section with `rank: corroboration` groups headlines that describe the same
-event and ranks them by how many different outlets ran it. The premise is
-that if NYT, NPR, the BBC and the Guardian all lead with something within a
-few hours, that's what "major" looks like, and a story only one outlet is
-running is that outlet's editorial choice rather than an event.
+A section with `rank: corroboration` groups headlines describing the same
+event and ranks them by how many outlets ran it. If NYT, NPR, the BBC and
+the Guardian all lead with something, that's what "major" looks like; a
+story only one outlet is running is that outlet's editorial choice.
 
-It's a proxy, and worth knowing where it's weak: it measures how much
-coverage something got, not how much it matters. Those agree on strait
-closures and plane crashes and disagree on whatever the press is
-collectively excited about. It's still the best signal available without
-paying a model to judge importance, and it fixes the failure it was built
-for — one story appearing three times and crowding out three others.
+It measures coverage, not importance. Those agree on strait closures and
+plane crashes and disagree on whatever the press is collectively excited
+about. Still the best signal available without paying a model to judge.
 """
 
 from __future__ import annotations
@@ -45,15 +41,15 @@ import yaml
 
 from sources import html_watch, notes, pinterest, rss, shopify
 
-VERSION = "0.7"
+VERSION = "0.8"
 ROOT = Path(__file__).parent
 DATA = ROOT / "data"
 ADAPTERS = {
     "rss": rss.fetch,
     "shopify": shopify.fetch,
     "html": html_watch.fetch,
-    "pinterest": pinterest.fetch,
     "notes": notes.fetch,
+    "pinterest": pinterest.fetch,
 }
 
 WORD = re.compile(r"[a-z0-9']+")
@@ -121,18 +117,12 @@ def sort_key(item: dict) -> str:
 
 
 def keywords(title: str) -> set[str]:
-    """The words in a headline that actually identify the story."""
     return {w for w in WORD.findall((title or "").lower()) if w not in STOP and len(w) > 2}
 
 
 def same_story(a: set[str], b: set[str]) -> bool:
-    """Whether two headlines look like the same event.
-
-    Overlap coefficient rather than Jaccard: headlines vary a lot in length
-    ("Putin visits islands" vs "Vladimir Putin's first visit to disputed
-    Pacific islands draws Tokyo protest") and Jaccard punishes that
-    unfairly, so genuinely matching stories score too low to group.
-    """
+    """Overlap coefficient, not Jaccard — headlines vary wildly in length
+    and Jaccard punishes that, so real matches score too low to group."""
     if not a or not b:
         return False
     shared = len(a & b)
@@ -140,11 +130,6 @@ def same_story(a: set[str], b: set[str]) -> bool:
 
 
 def by_corroboration(items: list[dict]) -> list[dict]:
-    """Group items describing one event; return one per event, most-covered first.
-
-    The representative is the earliest-listed source in config order, which
-    is why source order in the file is an editorial preference, not cosmetic.
-    """
     clusters: list[dict] = []
     for item in items:
         keys = keywords(item.get("title", ""))
@@ -236,8 +221,6 @@ def build(config: dict, probe: bool = False) -> dict:
                 }
 
         if ranking == "corroboration":
-            # One line per event, biggest story first. No per-source caps —
-            # the whole point is that the day decides, not the roster.
             shown = by_corroboration(everything)[:limit]
         else:
             per_source: dict[str, int] = {}
