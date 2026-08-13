@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-13T17:54:45.246162+00:00",
+ "generated_at": "2026-08-13T18:00:59.063593+00:00",
  "sections": [
   {
    "id": "world",
@@ -11,7 +11,7 @@
      "url": "https://www.nytimes.com/2026/08/13/arts/design/kennedy-center-closure-board-vote-trump.html",
      "source": "New York Times",
      "summary": "The vote to add \u201cRestored and Renovated by President Donald J. Trump\u201d is an aggressive test of a judge\u2019s order to remove his name.",
-     "published": "2026-08-13T17:33:16+00:00",
+     "published": "2026-08-13T17:56:54+00:00",
      "image": "https://static01.nyt.com/images/2026/08/13/multimedia/13cul-kennedy-center-gqfj/13cul-kennedy-center-gqfj-mediumSquareAt3X.jpg",
      "kind": "article",
      "id": "429ffea98d5c2376",
@@ -86,15 +86,15 @@
    "kind": "headlines",
    "items": [
     {
-     "title": "Selena Gomez Accused of Fraud by Mental-Health Startup Investors",
-     "url": "https://www.bloomberg.com/news/articles/2026-08-13/selena-gomez-accused-of-fraud-by-mental-health-startup-investors",
-     "source": "Bloomberg",
-     "summary": "Pop star Selena Gomez is being accused of fraud by investors who claim she failed to deliver on promises to leverage her global celebrity and social-media following to promote her\u2026",
-     "published": "2026-08-13T17:38:34+00:00",
+     "title": "OpenAI revenue chief Denise Dresser leaving, second major executive departure in days",
+     "url": "https://www.cnbc.com/2026/08/13/openai-denise-dresser-executive-exits.html",
+     "source": "CNBC",
+     "summary": "Denise Dresser's sudden departure could be a major blow to OpenAI as it pursues a blockbuster IPO.",
+     "published": "2026-08-13T17:56:39+00:00",
      "image": null,
      "kind": "article",
-     "id": "36a21d201ac280bd",
-     "first_seen": "2026-08-13T17:54:45.246162+00:00",
+     "id": "3dfefed754fb3301",
+     "first_seen": "2026-08-13T17:13:41.231451+00:00",
      "is_new": true
     },
     {
@@ -110,18 +110,6 @@
      "is_new": true
     },
     {
-     "title": "OpenAI revenue chief Denise Dresser leaving, second major executive departure in days",
-     "url": "https://www.cnbc.com/2026/08/13/openai-denise-dresser-executive-exits.html",
-     "source": "CNBC",
-     "summary": "Denise Dresser's sudden departure could be a major blow to OpenAI as it pursues a blockbuster IPO.",
-     "published": "2026-08-13T17:19:24+00:00",
-     "image": null,
-     "kind": "article",
-     "id": "3dfefed754fb3301",
-     "first_seen": "2026-08-13T17:13:41.231451+00:00",
-     "is_new": true
-    },
-    {
      "title": "The Lakers\u2019 Owner Needed Cash. Then Came a $12.5 Billion Offer to Buy the Team.",
      "url": "https://www.wsj.com/finance/lakers-mark-walter-joshua-kushner-bob-iger-0ceeea23?mod=rss_markets_main",
      "source": "WSJ",
@@ -130,6 +118,18 @@
      "image": "https://images.wsj.net/im-15413357",
      "kind": "article",
      "id": "186238970c210947",
+     "first_seen": "2026-08-13T16:21:06.911148+00:00",
+     "is_new": true
+    },
+    {
+     "title": "'Big Short' investor Steve Eisman sees an Achilles' heel in the AI boom",
+     "url": "https://www.cnbc.com/2026/08/13/big-short-investor-steve-eisman-sees-an-achilles-heel-in-the-ai-boom.html",
+     "source": "CNBC",
+     "summary": "Steve Eisman is warning that the artificial intelligence boom has become increasingly dependent on the fortunes of just two companies: OpenAI and Anthropic.",
+     "published": "2026-08-13T15:16:00+00:00",
+     "image": null,
+     "kind": "article",
+     "id": "3ef38ebf2d989d9e",
      "first_seen": "2026-08-13T16:21:06.911148+00:00",
      "is_new": true
     }
@@ -189,7 +189,7 @@
      "source": "Tracksmith",
      "summary": "",
      "published": null,
-     "image": "https://cdn-image.tracksmith.com/1782945054-plp-rollover-image-1.jpg?auto=format,compress&crop=faces&dpr=2&fit=crop&h=560&w=420",
+     "image": "https://cdn.shopify.com/s/files/1/1594/4353/files/Summer26-Eliot-Ryder-Brown-Rice-Ivory-01.png?v=1781801541?auto=format,compress&crop=faces&dpr=2&fit=crop&h=400&w=400",
      "price": "$220",
      "kind": "product",
      "id": "f7c530b270cc2c3c",
@@ -202,7 +202,7 @@
      "source": "Tracksmith",
      "summary": "",
      "published": null,
-     "image": "https://cdn-image.tracksmith.com/1780668939-description-panel-1.png?auto=format,compress&crop=faces&dpr=2&fit=crop&h=560&w=420",
+     "image": "https://cdn.shopify.com/s/files/1/1594/4353/files/Summer26-Mens-RCR-Shorts-Orangeade.png?v=1778876142?auto=format,compress&crop=faces&dpr=2&fit=crop&h=400&w=400",
      "price": "$110",
      "kind": "product",
      "id": "7c1033e696cd1149",
@@ -365,7 +365,7 @@
  ],
  "errors": [
   "Reuters: RuntimeError \u2014 https://www.reutersagency.com/feed/?best-topics=business-finance&post_type=best \u2192 HTTP 404; https://feeds.reuters.com/reuters/businessNews \u2192 ConnectionError",
-  "Margaret Roach: RuntimeError \u2014 https://awaytogarden.com/feed/atom/ \u2192 no entries; https://awaytogarden.com/feed/rss2/ \u2192 no entries; https://awaytogarden.com/feed/ \u2192 no entries",
+  "Margaret Roach: RuntimeError \u2014 https://awaytogarden.com/feed/atom/ \u2192 ConnectTimeout; https://awaytogarden.com/feed/rss2/ \u2192 ConnectTimeout; https://awaytogarden.com/feed/ \u2192 ConnectTimeout",
   "Food52: RuntimeError \u2014 https://food52.com/blog/feed \u2192 HTTP 429; https://food52.com/rss \u2192 HTTP 429; https://food52.com/blog.rss \u2192 HTTP 429"
  ]
 }
