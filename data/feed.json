@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-13T17:16:26.699374+00:00",
+ "generated_at": "2026-08-13T17:20:15.731063+00:00",
  "sections": [
   {
    "id": "world",
@@ -90,7 +90,7 @@
      "url": "https://www.cnbc.com/2026/08/13/openai-denise-dresser-executive-exits.html",
      "source": "CNBC",
      "summary": "Denise Dresser's sudden departure could be a major blow to OpenAI as it pursues a blockbuster IPO.",
-     "published": "2026-08-13T16:56:01+00:00",
+     "published": "2026-08-13T17:19:24+00:00",
      "image": null,
      "kind": "article",
      "id": "3dfefed754fb3301",
@@ -236,29 +236,29 @@
      "is_new": true
     },
     {
-     "title": "Chore Jacket in Red Melton",
-     "url": "https://shopmashburn.com/products/sid-mashburn-chore-jacket-red-melton-s80198",
-     "source": "Sid Mashburn",
-     "summary": "Sid Outerwear",
-     "published": "2026-08-13T09:54:52-04:00",
-     "image": "https://cdn.shopify.com/s/files/1/0414/4532/6999/files/S80198_0017.jpg?v=1786541467",
-     "price": "$450",
+     "title": "Indigo Dyed Chore Jacket",
+     "url": "https://www.drakes.com/products/indigo-dyed-chore-jacket",
+     "source": "Drake's",
+     "summary": "Chore Jackets",
+     "published": "2026-08-06T09:38:34+01:00",
+     "image": "https://cdn.shopify.com/s/files/1/0640/6121/0837/files/IndigoStillLife26_06_10108792_b6d5619c-a7f1-4442-9adc-d6276613c12a.jpg?v=1786031663",
+     "price": "\u00a3595",
      "kind": "product",
-     "id": "fc594ae18159e4dc",
-     "first_seen": "2026-08-13T13:58:09.770489+00:00",
+     "id": "32abd356e07d0dbc",
+     "first_seen": "2026-08-13T13:18:48.510709+00:00",
      "is_new": true
     },
     {
-     "title": "Cashpad Field Jacket in Navy Dry Waxed Poplin",
-     "url": "https://shopmashburn.com/products/sid-mashburn-cashpad-field-jacket-navy-dry-waxed-poplin-s80498",
-     "source": "Sid Mashburn",
-     "summary": "Sid Outerwear",
-     "published": "2026-08-13T09:54:52-04:00",
-     "image": "https://cdn.shopify.com/s/files/1/0414/4532/6999/files/S80498_0120.jpg?v=1786541606",
-     "price": "$895",
+     "title": "Stone Wash Selvedge Denim Field Shirt",
+     "url": "https://www.drakes.com/products/stone-wash-selvedge-denim-field-shirt",
+     "source": "Drake's",
+     "summary": "Casual Shirts",
+     "published": "2026-08-06T09:38:25+01:00",
+     "image": "https://cdn.shopify.com/s/files/1/0640/6121/0837/files/634300320007.jpg?v=1785945308",
+     "price": "\u00a3595",
      "kind": "product",
-     "id": "a0430a15f9edaca0",
-     "first_seen": "2026-08-13T13:58:09.770489+00:00",
+     "id": "ee6a8af86e406aab",
+     "first_seen": "2026-08-13T13:18:48.510709+00:00",
      "is_new": true
     }
    ]
