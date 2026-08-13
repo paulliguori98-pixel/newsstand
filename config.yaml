@@ -12,6 +12,11 @@
 # when a publisher moves a feed you add the new address above the old one
 # instead of having to know which is live.
 #
+# `limit:` caps how many items a single source contributes. This matters more
+# than it sounds: sections sort by date, so without a cap a wire service that
+# posts hourly takes every slot and the newsletter you actually subscribe to
+# never appears. Give the wires a small number and the weeklies a little room.
+#
 # Source health is printed in every build log (the "Probe sources" step in
 # the Actions tab), so you never have to guess which one went quiet.
 #
@@ -20,13 +25,13 @@
 # .substack.com. The same publication on its OWN domain answers fine — this
 # is a rule about the hostname, not about the publisher or the feed.
 #
-#   works:  acl.news · oneusefulthing.org · vittlesmagazine.com · jack-clark.net
+#   works:   acl.news · oneusefulthing.org · vittlesmagazine.com · jack-clark.net
 #   blocked: iknow.substack.com · aprivatechef.substack.com · wmbrown.substack.com
 #
 # So before adding a Substack, open <name>.substack.com and see whether it
 # redirects to a custom domain. If it does, use that domain and it will work.
-# If it doesn't, it can't be fetched here, and Substack Notes (which live on
-# substack.com itself) can't be fetched at all.
+# If it doesn't, it can't be fetched here — and Substack Notes, which live on
+# substack.com itself, can't be fetched at all.
 
 settings:
   timezone: America/New_York
@@ -41,32 +46,38 @@ sections:
   - id: business
     title: Business
     kind: headlines
-    # All five verified working in the first real build.
     sources:
       - type: rss
         name: NPR Business
         url: https://feeds.npr.org/1006/rss.xml
+        limit: 3
       # Reuters retired its public feeds entirely. These are the replacements.
       - type: rss
         name: CNBC
         url:
           - https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10001147
           - https://www.cnbc.com/id/10001147/device/rss/rss.html
+        limit: 3
       - type: rss
         name: MarketWatch
         url:
           - https://feeds.content.dowjones.io/public/rss/mw_topstories
           - https://www.marketwatch.com/rss/topstories
+        limit: 3
+      # Yahoo republishes constantly and took 10 of 12 slots before it was
+      # capped. Keep this one small.
       - type: rss
         name: Yahoo Finance
         url:
           - https://finance.yahoo.com/news/rssindex
           - https://finance.yahoo.com/rss/topstories
+        limit: 2
       - type: rss
         name: Axios
         url:
           - https://api.axios.com/feed/
           - https://api.axios.com/feed/business
+        limit: 3
     mute:
       - crypto
       - "stock to buy"
@@ -83,6 +94,7 @@ sections:
         url:
           - https://jack-clark.net/feed/
           - https://importai.substack.com/feed
+        limit: 3
       # Ethan Mollick. One of Paul's subscriptions, and one of only two that
       # sit on a custom domain, which is why this one can be included.
       - type: rss
@@ -90,20 +102,26 @@ sections:
         url:
           - https://www.oneusefulthing.org/feed
           - https://oneusefulthing.substack.com/feed
+        limit: 3
+      # Posts several times a day; took half the section before being capped.
       - type: rss
         name: Simon Willison
         url: https://simonwillison.net/atom/everything/
+        limit: 3
       - type: rss
         name: Ars Technica
         url: https://feeds.arstechnica.com/arstechnica/technology-lab
+        limit: 3
       # Anthropic publishes no official feed — only community mirrors, which
       # break without warning. Lab announcements come from the ones that do.
       - type: rss
         name: OpenAI
         url: https://openai.com/news/rss.xml
+        limit: 2
       - type: rss
         name: Google DeepMind
         url: https://deepmind.google/blog/feed/basic/
+        limit: 2
 
   - id: goods
     title: New In
@@ -122,13 +140,13 @@ sections:
         name: Sid Mashburn
         domain: shopmashburn.com
         require_tags: [LineDescr_Mens]
-        limit: 8
+        limit: 6
       # Drake's prices in sterling — the storefront is UK/ROW.
       - type: shopify
         name: Drake's
         domain: www.drakes.com
         currency_symbol: "£"
-        limit: 8
+        limit: 6
       # Buck Mason returns nothing at /products.json on either www or the bare
       # domain, so it isn't a Shopify storefront and never could have worked
       # this way. Off until it's worth a scraper.
@@ -163,6 +181,7 @@ sections:
         url:
           - https://www.acl.news/feed
           - https://acontinuouslean.substack.com/feed
+        limit: 6
 
   - id: garden-table
     title: Garden & Table
@@ -171,18 +190,23 @@ sections:
       - type: rss
         name: Vittles
         url: https://www.vittlesmagazine.com/feed
+        limit: 3
       - type: rss
         name: Margaret Roach
         url:
           - https://awaytogarden.com/feed/atom/
           - https://awaytogarden.com/feed/rss2/
           - https://awaytogarden.com/feed/
+        limit: 3
+      # Posts daily and had taken 7 of 12 slots.
       - type: rss
         name: Gardenista
         url: https://www.gardenista.com/feed/
+        limit: 3
       - type: rss
         name: NYBG Plant Talk
         url: https://www.nybg.org/blogs/plant-talk/feed/
+        limit: 3
       # Food52 returns 429 — rate limiting, not refusal — on all three of its
       # addresses. That's GitHub's shared IPs being throttled rather than a
       # wrong URL. Left in place; it costs nothing and may start answering.
@@ -192,6 +216,7 @@ sections:
           - https://food52.com/blog/feed
           - https://food52.com/rss
           - https://food52.com/blog.rss
+        limit: 3
 
   # Not a section you scroll to — these images are dealt out between the
   # sections above, one band at a time.
