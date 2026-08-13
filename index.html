@@ -1,0 +1,400 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="light">
+<title>Today's Edition</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,200..600;1,6..72,300..500&family=Jost:wght@300;400;500&display=swap" rel="stylesheet">
+<style>
+:root{
+  --paper:#FFFFFF;
+  --wash:#F7F6F3;
+  --ink:#16181B;
+  --muted:#7A7F85;
+  --hair:#E7E5E1;
+  --accent:#2B4A6F;
+  --serif:"Newsreader",Georgia,"Times New Roman",serif;
+  --sans:"Jost","Helvetica Neue",system-ui,sans-serif;
+  --page:1080px;
+  --text:640px;
+  --soft:6px;
+}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{
+  margin:0;background:var(--paper);color:var(--ink);
+  font-family:var(--serif);font-size:17px;line-height:1.55;
+  font-optical-sizing:auto;
+  -webkit-font-smoothing:antialiased;
+}
+a{color:inherit;text-decoration:none}
+a:focus-visible{outline:2px solid var(--accent);outline-offset:4px;border-radius:3px}
+img{border-radius:var(--soft)}
+.page{max-width:var(--page);margin:0 auto;padding:0 2rem 7rem}
+
+/* ── Labels ──────────────────────────────────────────── */
+.label{
+  font-family:var(--sans);font-weight:500;font-size:.66rem;
+  letter-spacing:.19em;text-transform:uppercase;color:var(--accent);
+}
+
+/* ── Masthead ────────────────────────────────────────── */
+.masthead{text-align:center;padding:4.5rem 0 0}
+.masthead .kicker{
+  font-family:var(--sans);font-weight:400;font-size:.64rem;
+  letter-spacing:.34em;text-transform:uppercase;color:var(--muted);
+}
+.masthead .date{
+  font-family:var(--serif);font-weight:300;
+  font-size:clamp(2.4rem,6.4vw,4rem);line-height:1.06;
+  letter-spacing:-.018em;margin:.85rem 0 0;
+}
+.masthead .date em{font-style:italic;font-weight:200}
+.masthead .tally{
+  font-family:var(--sans);font-weight:300;font-size:.76rem;
+  letter-spacing:.05em;color:var(--muted);margin-top:.85rem;
+}
+
+/* The edition rule: one pill per section, width set by how much of
+   today it is, filling as you read past it. */
+.edition-rule{
+  display:flex;gap:5px;height:3px;margin:2.4rem auto 0;
+  max-width:var(--text);
+}
+.edition-rule a{
+  background:var(--hair);border-radius:99px;position:relative;
+  overflow:hidden;transition:opacity .2s;
+}
+.edition-rule a::after{
+  content:"";position:absolute;inset:0;background:var(--accent);
+  border-radius:99px;transform:scaleX(var(--read,0));transform-origin:left;
+  transition:transform .4s cubic-bezier(.4,0,.2,1);
+}
+.edition-rule a:hover{opacity:.6}
+
+/* ── Sections ────────────────────────────────────────── */
+.section{padding-top:4.6rem}
+.section-head{
+  display:flex;align-items:center;gap:1.25rem;
+  max-width:var(--text);margin:0 auto 2.2rem;
+}
+.section-head::before,.section-head::after{
+  content:"";flex:1;height:1px;background:var(--hair);
+}
+.section-head span{
+  font-family:var(--sans);font-weight:400;font-size:.7rem;
+  letter-spacing:.24em;text-transform:uppercase;color:var(--ink);
+  white-space:nowrap;
+}
+.section.wide .section-head{max-width:none}
+
+/* ── Headlines ───────────────────────────────────────── */
+.stories{max-width:var(--text);margin:0 auto}
+
+.lead{display:block;margin-bottom:2.6rem}
+.lead img{width:100%;aspect-ratio:16/9;object-fit:cover;background:var(--wash);margin-bottom:1.4rem}
+.lead h3{
+  font-weight:400;font-size:clamp(1.7rem,3.6vw,2.35rem);
+  line-height:1.16;letter-spacing:-.015em;margin:.55rem 0 .5rem;
+}
+.lead p{margin:0;color:var(--muted);font-weight:300;font-size:1.05rem;line-height:1.5}
+.lead:hover h3{color:var(--accent)}
+
+.row{
+  display:flex;gap:1.6rem;align-items:flex-start;
+  padding:1.5rem 0;border-top:1px solid var(--hair);
+}
+.row .body{flex:1;min-width:0}
+.row h3{
+  font-weight:400;font-size:1.24rem;line-height:1.32;
+  letter-spacing:-.008em;margin:.4rem 0 .3rem;
+}
+.row p{margin:0;color:var(--muted);font-weight:300;font-size:.95rem;line-height:1.45}
+.row .thumb{
+  width:112px;height:84px;object-fit:cover;flex:none;background:var(--wash);
+}
+.row:hover h3{color:var(--accent)}
+.tick{
+  display:inline-block;width:4px;height:4px;border-radius:50%;
+  background:var(--accent);vertical-align:.28em;margin-left:.5rem;
+}
+
+/* ── Goods ───────────────────────────────────────────── */
+.goods{
+  display:grid;grid-template-columns:repeat(auto-fill,minmax(196px,1fr));
+  gap:2.6rem 1.8rem;
+}
+.good{text-align:center}
+.good .frame{
+  background:var(--wash);border-radius:var(--soft);padding:0;overflow:hidden;
+}
+.good img{
+  width:100%;aspect-ratio:4/5;object-fit:cover;display:block;
+  transition:transform .5s cubic-bezier(.4,0,.2,1);
+}
+.good:hover img{transform:scale(1.03)}
+.good .label{display:block;margin:1rem 0 .3rem;font-size:.62rem}
+.good h3{font-weight:400;font-size:1rem;line-height:1.3;margin:0 0 .25rem}
+.good .price{font-family:var(--sans);font-weight:300;font-size:.83rem;color:var(--muted)}
+
+/* ── Interstitials ───────────────────────────────────
+   Pins aren't a section. They're dealt out between sections as silent
+   bands, so the page breathes where a magazine would run a full-page
+   image. Three shapes, cycling, so the rhythm never repeats too soon. */
+.band{display:grid;gap:1.1rem;margin-top:4rem}
+.band + .section{padding-top:3.6rem}
+.band a{display:block;overflow:hidden;border-radius:var(--soft);background:var(--wash)}
+.band img{
+  width:100%;height:100%;object-fit:cover;display:block;border-radius:0;
+  transition:transform .6s cubic-bezier(.4,0,.2,1),opacity .3s;
+}
+.band a:hover img{transform:scale(1.02);opacity:.94}
+.band-3{grid-template-columns:repeat(3,1fr)}
+.band-3 img{aspect-ratio:4/5}
+.band-2{grid-template-columns:1.5fr 1fr}
+.band-2 img{aspect-ratio:3/2}
+.band-1{width:100vw;margin-left:calc(50% - 50vw);gap:0}
+.band-1 a{border-radius:0}
+.band-1 img{aspect-ratio:24/9}
+
+.empty{
+  color:var(--muted);font-weight:300;font-size:.97rem;
+  max-width:var(--text);margin:0 auto;text-align:center;padding:1.5rem 0;
+}
+.colophon{
+  max-width:var(--text);margin:6rem auto 0;padding-top:1.6rem;
+  border-top:1px solid var(--hair);text-align:center;
+  font-family:var(--sans);font-weight:300;font-size:.72rem;
+  letter-spacing:.06em;color:var(--muted);
+}
+.colophon details{margin-top:.7rem}
+.colophon summary{cursor:pointer}
+.colophon ul{list-style:none;margin:.7rem 0 0;padding:0;line-height:1.8}
+
+@media (max-width:640px){
+  .page{padding:0 1.25rem 4rem}
+  .masthead{padding-top:2.8rem}
+  .section{padding-top:3.2rem}
+  .row{gap:1rem}
+  .row .thumb{width:88px;height:66px}
+  .goods{grid-template-columns:repeat(2,1fr);gap:2rem 1.1rem}
+  .band{gap:.6rem;margin-top:2.8rem}
+  .band + .section{padding-top:2.6rem}
+  .band-1 img{aspect-ratio:16/9}
+}
+@media (prefers-reduced-motion:reduce){
+  *{transition:none!important;animation:none!important}
+}
+</style>
+</head>
+<body>
+<div class="page">
+  <header class="masthead">
+    <div class="kicker">Today's Edition</div>
+    <h1 class="date" id="date"></h1>
+    <div class="tally" id="tally"></div>
+    <nav class="edition-rule" id="rule" aria-label="Sections in today's edition"></nav>
+  </header>
+
+  <main id="edition"></main>
+
+  <footer class="colophon">
+    <div>Assembled each morning. Built for one reader.</div>
+    <div id="errors"></div>
+  </footer>
+</div>
+
+<script src="data/feed.js"></script>
+<script>
+const el = (tag, cls, text) => {
+  const node = document.createElement(tag);
+  if (cls) node.className = cls;
+  if (text != null) node.textContent = text;
+  return node;
+};
+
+const linkTo = (item, cls) => {
+  const a = el("a", cls);
+  a.href = item.url || "#";
+  a.target = "_blank";
+  a.rel = "noopener";
+  return a;
+};
+
+const picture = (src, cls, alt) => {
+  const img = el("img", cls);
+  img.src = src;
+  img.alt = alt || "";
+  img.loading = "lazy";
+  return img;
+};
+
+function headline(item, isLead) {
+  const card = linkTo(item, isLead ? "lead" : "row");
+
+  if (isLead) {
+    if (item.image) card.appendChild(picture(item.image, null, ""));
+    card.appendChild(el("span", "label", item.source));
+    const h = el("h3", null, item.title);
+    if (item.is_new) h.appendChild(el("span", "tick"));
+    card.appendChild(h);
+    if (item.summary) card.appendChild(el("p", null, item.summary));
+    return card;
+  }
+
+  const body = el("div", "body");
+  body.appendChild(el("span", "label", item.source));
+  const h = el("h3", null, item.title);
+  if (item.is_new) h.appendChild(el("span", "tick"));
+  body.appendChild(h);
+  if (item.summary) body.appendChild(el("p", null, item.summary));
+  card.appendChild(body);
+  if (item.image) card.appendChild(picture(item.image, "thumb", ""));
+  return card;
+}
+
+function renderHeadlines(section, index) {
+  const box = el("div", "stories");
+  // The first story of the first section leads the edition.
+  const leadFirst = index === 0;
+  section.items.forEach((item, i) => box.appendChild(headline(item, leadFirst && i === 0)));
+  return box;
+}
+
+function renderGoods(section) {
+  const grid = el("div", "goods");
+  section.items.forEach(item => {
+    const card = linkTo(item, "good");
+    if (item.image) {
+      const frame = el("div", "frame");
+      frame.appendChild(picture(item.image, null, ""));
+      card.appendChild(frame);
+    }
+    card.appendChild(el("span", "label", item.source));
+    card.appendChild(el("h3", null, item.title));
+    if (item.price) card.appendChild(el("div", "price", item.price));
+    grid.appendChild(card);
+  });
+  return grid;
+}
+
+// Band shapes, in the order they're used: a three-up strip, then one
+// image running the full width of the window, then an uneven pair.
+const BANDS = [3, 1, 2];
+
+function renderBand(pins, shape) {
+  const band = el("div", "band band-" + shape);
+  pins.forEach(item => {
+    const link = linkTo(item);
+    link.appendChild(picture(item.image, null, item.title));
+    band.appendChild(link);
+  });
+  return band;
+}
+
+const RENDERERS = { headlines: renderHeadlines, goods: renderGoods };
+const WIDE = new Set(["goods"]);
+
+function render(edition) {
+  const built = new Date(edition.generated_at);
+  const date = document.getElementById("date");
+  date.appendChild(document.createTextNode(
+    built.toLocaleDateString("en-US", { weekday: "long" }) + " "));
+  const em = el("em", null, built.toLocaleDateString("en-US",
+    { month: "long", day: "numeric" }));
+  date.appendChild(em);
+
+  const total = edition.sections.reduce((n, s) => n + s.items.length, 0);
+  const fresh = edition.sections.reduce(
+    (n, s) => n + s.items.filter(i => i.is_new).length, 0);
+  document.getElementById("tally").textContent =
+    `${total} items · ${fresh} new since you last read`;
+
+  const main = document.getElementById("edition");
+  const rule = document.getElementById("rule");
+
+  // Pins come out of the section flow and get woven in between instead.
+  const woven = edition.sections.filter(s => s.kind === "interstitial");
+  const pins = woven.flatMap(s => s.items).filter(i => i.image);
+  const flow = edition.sections.filter(s => s.kind !== "interstitial");
+  let dealt = 0;
+
+  flow.forEach((section, index) => {
+    const wrap = el("section", "section" + (WIDE.has(section.kind) ? " wide" : ""));
+    wrap.id = "s-" + section.id;
+
+    const head = el("div", "section-head");
+    head.appendChild(el("span", null, section.title));
+    wrap.appendChild(head);
+
+    if (!section.items.length) {
+      wrap.appendChild(el("p", "empty",
+        "Nothing came through here today. Run fetch.py --probe to see which sources answered."));
+    } else {
+      wrap.appendChild((RENDERERS[section.kind] || renderHeadlines)(section, index));
+    }
+    main.appendChild(wrap);
+
+    const seg = el("a");
+    seg.href = "#s-" + section.id;
+    seg.title = section.title;
+    seg.setAttribute("aria-label", section.title);
+    seg.style.flex = Math.max(section.items.length, 1);
+    rule.appendChild(seg);
+
+    // Deal a band of pins between sections — never after the last one.
+    const shape = BANDS[index % BANDS.length];
+    if (index < flow.length - 1 && dealt < pins.length) {
+      const slice = pins.slice(dealt, dealt + shape);
+      if (slice.length === shape) {
+        main.appendChild(renderBand(slice, shape));
+        dealt += shape;
+      }
+    }
+  });
+
+  if (edition.errors && edition.errors.length) {
+    const det = el("details");
+    det.appendChild(el("summary", null,
+      `${edition.errors.length} source${edition.errors.length > 1 ? "s" : ""} didn't answer`));
+    const list = el("ul");
+    edition.errors.forEach(e => list.appendChild(el("li", null, e)));
+    det.appendChild(list);
+    document.getElementById("errors").appendChild(det);
+  }
+
+  trackReading();
+}
+
+function trackReading() {
+  const sections = [...document.querySelectorAll(".section")];
+  const segments = [...document.querySelectorAll(".edition-rule a")];
+  const update = () => {
+    const mark = window.scrollY + window.innerHeight * 0.34;
+    sections.forEach((sec, i) => {
+      const read = (mark - sec.offsetTop) / sec.offsetHeight;
+      segments[i].style.setProperty("--read", Math.min(Math.max(read, 0), 1).toFixed(2));
+    });
+  };
+  update();
+  addEventListener("scroll", update, { passive: true });
+  addEventListener("resize", update);
+}
+
+if (window.__EDITION__) {
+  render(window.__EDITION__);
+} else {
+  fetch("data/feed.json")
+    .then(r => r.json())
+    .then(render)
+    .catch(() => {
+      document.getElementById("edition").innerHTML =
+        '<p class="empty">No edition yet. Run <code>python fetch.py</code>, then reload.</p>';
+    });
+}
+</script>
+</body>
+</html>
