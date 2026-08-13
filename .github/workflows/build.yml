@@ -1,0 +1,54 @@
+name: Build the edition
+
+on:
+  schedule:
+    # 05:40 ET — set before you're up, so the page is waiting.
+    # GitHub runs cron in UTC and skips runs on repo inactivity after 60 days.
+    - cron: "40 9 * * *"
+  workflow_dispatch:        # lets you rebuild by hand from the Actions tab
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    # deploy-pages refuses to run without this; the deployment has to be
+    # attached to the github-pages environment by name.
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      # Prints a health line per source into the run log. Writes nothing, and
+      # never fails the build — it's here so that when a publisher moves a feed
+      # the log says which one, instead of the section just quietly emptying.
+      - name: Probe sources
+        run: python fetch.py --probe
+        continue-on-error: true
+      - name: Fetch sources
+        env:
+          PINTEREST_TOKEN: ${{ secrets.PINTEREST_TOKEN }}
+        run: python fetch.py
+      - name: Commit the edition
+        run: |
+          git config user.name "newsstand"
+          git config user.email "newsstand@users.noreply.github.com"
+          git add data/feed.json data/feed.js data/seen.json
+          git diff --staged --quiet || git commit -m "Edition $(date -u +%Y-%m-%d)"
+          git push
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+      - uses: actions/deploy-pages@v4
+        id: deployment
