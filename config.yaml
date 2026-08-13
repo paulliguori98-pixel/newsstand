@@ -4,39 +4,37 @@
 # Section kinds:
 #   headlines    → text rows (source · headline · one-line dek)
 #   goods        → image grid with price (new product releases)
-#   interstitial → no section of its own; the images get woven between
-#                  the other sections as silent bands
 #
 # Any source's `url` can be a single address or a list of candidates. The run
 # tries them in order and keeps the first that actually returns entries, so
 # when a publisher moves a feed you add the new address above the old one
 # instead of having to know which is live.
 #
-# `limit:` caps how many items a single source contributes. This matters more
-# than it sounds: sections sort by date, so without a cap a wire service that
-# posts hourly takes every slot and the newsletter you actually subscribe to
-# never appears. Give the wires a small number and the weeklies a little room.
+# `limit:` caps how many items a single source contributes, so a wire service
+# that posts hourly can't take every slot from a weekly you actually read.
 #
-# Source health is printed in every build log (the "Probe sources" step in
-# the Actions tab), so you never have to guess which one went quiet.
+# ── On summaries ──────────────────────────────────────────────────────────
+# The dek under each headline is written by the publisher, not by this build.
+# Nothing here rewrites anything. That makes the choice of source the whole
+# game: Axios and NPR write plain, explanatory deks, so they carry the
+# Business section now. Yahoo Finance was removed — it sends headlines with
+# no dek at all, plus the advice-column and stock-tout genres that the mute
+# list below exists to catch.
 #
 # ── A standing note about Substack ────────────────────────────────────────
 # Substack returns HTTP 403 to GitHub's servers for any address ending in
-# .substack.com. The same publication on its OWN domain answers fine — this
-# is a rule about the hostname, not about the publisher or the feed.
+# .substack.com. The same publication on its OWN domain answers fine.
 #
 #   works:   acl.news · oneusefulthing.org · vittlesmagazine.com · jack-clark.net
 #   blocked: iknow.substack.com · aprivatechef.substack.com · wmbrown.substack.com
 #
-# So before adding a Substack, open <name>.substack.com and see whether it
-# redirects to a custom domain. If it does, use that domain and it will work.
-# If it doesn't, it can't be fetched here — and Substack Notes, which live on
-# substack.com itself, can't be fetched at all.
+# Substack Notes live on substack.com itself, so they can't be fetched at all.
 
 settings:
   timezone: America/New_York
   new_window_days: 4
-  per_section_limit: 12
+  # Three per section. The whole page should be readable in a few minutes.
+  per_section_limit: 3
   timeout: 20
   # Some publishers reject unfamiliar agents with a 403; this one gets through.
   user_agent: "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36"
@@ -47,92 +45,97 @@ sections:
     title: Business
     kind: headlines
     sources:
-      - type: rss
-        name: NPR Business
-        url: https://feeds.npr.org/1006/rss.xml
-        limit: 3
-      # Reuters retired its public feeds entirely. These are the replacements.
-      - type: rss
-        name: CNBC
-        url:
-          - https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10001147
-          - https://www.cnbc.com/id/10001147/device/rss/rss.html
-        limit: 3
-      - type: rss
-        name: MarketWatch
-        url:
-          - https://feeds.content.dowjones.io/public/rss/mw_topstories
-          - https://www.marketwatch.com/rss/topstories
-        limit: 3
-      # Yahoo republishes constantly and took 10 of 12 slots before it was
-      # capped. Keep this one small.
-      - type: rss
-        name: Yahoo Finance
-        url:
-          - https://finance.yahoo.com/news/rssindex
-          - https://finance.yahoo.com/rss/topstories
-        limit: 2
+      # Axios first on purpose: their house style is a plain-English line on
+      # why a story matters, which is the closest thing to a real summary
+      # available without paying a model to write one.
       - type: rss
         name: Axios
         url:
           - https://api.axios.com/feed/
           - https://api.axios.com/feed/business
         limit: 3
+      - type: rss
+        name: NPR Business
+        url: https://feeds.npr.org/1006/rss.xml
+        limit: 3
+      - type: rss
+        name: CNBC
+        url:
+          - https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10001147
+          - https://www.cnbc.com/id/10001147/device/rss/rss.html
+        limit: 2
+      - type: rss
+        name: MarketWatch
+        url:
+          - https://feeds.content.dowjones.io/public/rss/mw_topstories
+          - https://www.marketwatch.com/rss/topstories
+        limit: 2
+      # Yahoo Finance removed: no deks, and the source of the advice-column
+      # and "analysts predict 70% upside" items. Left here so the reasoning
+      # survives if anyone is tempted to add it back.
+      # - type: rss
+      #   name: Yahoo Finance
+      #   url: https://finance.yahoo.com/news/rssindex
+    # Substring match on the headline, case-insensitive. This is aimed at two
+    # genres: the personal-finance advice column and the stock tout.
     mute:
       - crypto
       - "stock to buy"
+      - "stocks to buy"
       - "shares to watch"
+      - "upside for"
+      - "analysts predict"
+      - "should i"
+      - "can i claim"
+      - "my friend"
+      - "my husband"
+      - "my wife"
+      - "my mother"
+      - "my father"
+      - "i inherited"
+      - "i found a"
+      - "here's why you"
 
   - id: ai
     title: Artificial Intelligence
     kind: headlines
     sources:
-      # Substack refused the request on the first real build. Jack Clark
-      # publishes the same newsletter on his own site — the durable address.
       - type: rss
         name: Import AI
         url:
           - https://jack-clark.net/feed/
           - https://importai.substack.com/feed
-        limit: 3
-      # Ethan Mollick. One of Paul's subscriptions, and one of only two that
-      # sit on a custom domain, which is why this one can be included.
+        limit: 2
       - type: rss
         name: One Useful Thing
         url:
           - https://www.oneusefulthing.org/feed
           - https://oneusefulthing.substack.com/feed
-        limit: 3
-      # Posts several times a day; took half the section before being capped.
+        limit: 2
       - type: rss
         name: Simon Willison
         url: https://simonwillison.net/atom/everything/
-        limit: 3
+        limit: 2
       - type: rss
         name: Ars Technica
         url: https://feeds.arstechnica.com/arstechnica/technology-lab
-        limit: 3
-      # Anthropic publishes no official feed — only community mirrors, which
-      # break without warning. Lab announcements come from the ones that do.
+        limit: 2
       - type: rss
         name: OpenAI
         url: https://openai.com/news/rss.xml
-        limit: 2
+        limit: 1
       - type: rss
         name: Google DeepMind
         url: https://deepmind.google/blog/feed/basic/
-        limit: 2
+        limit: 1
 
   - id: goods
     title: New In
     kind: goods
     sources:
-      # No `handle` here on purpose. Guessing collection names was the wrong
-      # approach: Mashburn publishes 400+ collections and not one contains
-      # "new" in the handle, which is why the first two runs came back empty.
-      # With no handle set, the adapter reads the whole store and takes the
-      # most recently published items — which is what "new in" means anyway,
-      # and it survives a brand renaming its collections.
+      # No `handle` on purpose — the adapter reads the whole store and takes
+      # the most recently published items, which is what "new in" means and
+      # survives a brand renaming its collections.
       #
       # Mashburn is two stores under one roof; the tag filter keeps this to
       # Sid rather than filling the section with Ann's womenswear.
@@ -140,48 +143,29 @@ sections:
         name: Sid Mashburn
         domain: shopmashburn.com
         require_tags: [LineDescr_Mens]
-        limit: 6
-      # Drake's prices in sterling — the storefront is UK/ROW.
+        limit: 4
       - type: shopify
         name: Drake's
         domain: www.drakes.com
         currency_symbol: "£"
-        limit: 6
-      # Buck Mason returns nothing at /products.json on either www or the bare
-      # domain, so it isn't a Shopify storefront and never could have worked
-      # this way. Off until it's worth a scraper.
-      # - type: shopify
-      #   name: Buck Mason
-      #   domain: buckmason.com
-      # J.Crew returned 403 — they block non-browser clients outright, which is
-      # exactly the risk the scraper approach carries. Off for now; their email
-      # list is the honest fallback.
-      # - type: html
-      #   name: J.Crew
-      #   url: https://www.jcrew.com/plp/mens/categories/new-arrivals
-      #   item_selector: "[data-testid='product-tile'], .product-tile"
-      #   title_selector: "[class*='product-name'], .product-tile__name"
-      #   link_selector: "a"
-      #   image_selector: "img"
-      #   price_selector: "[class*='price']"
+        limit: 4
+      # Buck Mason isn't a Shopify storefront — /products.json returns nothing
+      # on either www or the bare domain. J.Crew blocks non-browser clients
+      # outright (403). Both off; neither is worth a scraper yet.
 
-  # Paul's reading that isn't news and isn't food. Sits next to New In
-  # because it's about the same things the brands are.
-  #
-  # The other subscriptions belong here too — The Wm Brown Weekly, RILEY
-  # HARPER, IYKYK — but all three are on *.substack.com and return 403.
-  # If any of them ever moves to a custom domain, add it here.
   - id: dispatches
     title: Dispatches
     kind: headlines
     sources:
-      # Michael Williams' ACL, on its own domain.
+      # Michael Williams' ACL, on its own domain. The other subscriptions
+      # belong here too — Wm Brown, RILEY HARPER, IYKYK — but all three are
+      # on *.substack.com and return 403.
       - type: rss
         name: A Continuous Lean
         url:
           - https://www.acl.news/feed
           - https://acontinuouslean.substack.com/feed
-        limit: 6
+        limit: 3
 
   - id: garden-table
     title: Garden & Table
@@ -190,47 +174,34 @@ sections:
       - type: rss
         name: Vittles
         url: https://www.vittlesmagazine.com/feed
-        limit: 3
+        limit: 2
       - type: rss
         name: Margaret Roach
         url:
           - https://awaytogarden.com/feed/atom/
           - https://awaytogarden.com/feed/rss2/
           - https://awaytogarden.com/feed/
-        limit: 3
-      # Posts daily and had taken 7 of 12 slots.
+        limit: 2
       - type: rss
         name: Gardenista
         url: https://www.gardenista.com/feed/
-        limit: 3
+        limit: 2
       - type: rss
         name: NYBG Plant Talk
         url: https://www.nybg.org/blogs/plant-talk/feed/
-        limit: 3
-      # Food52 returns 429 — rate limiting, not refusal — on all three of its
-      # addresses. That's GitHub's shared IPs being throttled rather than a
-      # wrong URL. Left in place; it costs nothing and may start answering.
+        limit: 2
+      # Food52 returns 429 on every address — GitHub's shared IPs being
+      # throttled. Harmless to leave; it may start answering.
       - type: rss
         name: Food52
         url:
           - https://food52.com/blog/feed
           - https://food52.com/rss
           - https://food52.com/blog.rss
-        limit: 3
+        limit: 2
 
-  # Not a section you scroll to — these images are dealt out between the
-  # sections above, one band at a time.
-  - id: vibes
-    title: Vibes
-    kind: interstitial
-    sources:
-      - type: rss
-        name: Sight Unseen
-        url: https://www.sightunseen.com/feed/
-        images_only: true
-      # Pinterest needs a token that expires monthly — see README. Off for now.
-      - type: pinterest
-        name: Pinterest
-        enabled: false
-        board_id: ""
-        access_token_env: PINTEREST_TOKEN
+# The Vibes section is gone. It fed the interstitial photo bands from Sight
+# Unseen — a design magazine picked as a Pinterest stand-in, not something
+# Paul chose. With no interstitial section defined, the bands don't render.
+# To bring them back, add a section with `kind: interstitial` and an
+# image-heavy feed with `images_only: true`.
