@@ -21,7 +21,7 @@ import yaml
 
 from sources import html_watch, pinterest, rss, shopify
 
-VERSION = "0.3"
+VERSION = "0.4"
 ROOT = Path(__file__).parent
 DATA = ROOT / "data"
 ADAPTERS = {
@@ -54,6 +54,38 @@ def muted(title: str, patterns: list[str]) -> bool:
     return any(p.lower() in low for p in patterns or [])
 
 
+def published_at(item: dict) -> datetime | None:
+    """The item's own publish time, as an aware datetime, or None."""
+    raw = item.get("published")
+    if not raw:
+        return None
+    try:
+        parsed = datetime.fromisoformat(str(raw).replace("Z", "+00:00"))
+    except (TypeError, ValueError):
+        return None
+    return parsed if parsed.tzinfo else parsed.replace(tzinfo=timezone.utc)
+
+
+def too_old(item: dict, max_age_hours: int | None, now: datetime) -> bool:
+    """Whether an item falls outside a section's freshness window.
+
+    This is how news gets separated from everything else. Reported news is
+    hours old; service journalism ("Should I pay off my car loan?") and
+    evergreen features sit in the same feed for weeks and would otherwise
+    keep resurfacing. A section with `max_age_hours` set drops anything
+    older, which removes that genre without having to guess at its wording.
+
+    Items with no publish date are kept — a missing timestamp shouldn't be
+    treated as evidence of staleness.
+    """
+    if not max_age_hours:
+        return False
+    when = published_at(item)
+    if when is None:
+        return False
+    return when < now - timedelta(hours=max_age_hours)
+
+
 def build(config: dict, probe: bool = False) -> dict:
     settings = config.get("settings", {})
     now = datetime.now(timezone.utc)
@@ -65,6 +97,8 @@ def build(config: dict, probe: bool = False) -> dict:
 
     for section in config.get("sections", []):
         items = []
+        max_age = section.get("max_age_hours")
+
         for source in section.get("sources", []):
             if source.get("enabled") is False:
                 probe_report.append((source.get("name", "?"), "skipped", "disabled in config"))
@@ -82,11 +116,14 @@ def build(config: dict, probe: bool = False) -> dict:
                 probe_report.append((source.get("name", "?"), "FAILED", f"{type(exc).__name__}: {exc}"))
                 continue
 
-            detail = f"{len(got)} items"
+            fresh = [i for i in got if not too_old(i, max_age, now)]
+            detail = f"{len(fresh)} items"
+            if len(fresh) != len(got):
+                detail += f" ({len(got) - len(fresh)} too old)"
             if source.get("_resolved"):
                 detail += f"  ← {source['_resolved']}"
-            probe_report.append((source.get("name", "?"), "ok" if got else "empty", detail))
-            items.extend(got)
+            probe_report.append((source.get("name", "?"), "ok" if fresh else "empty", detail))
+            items.extend(fresh)
 
         # Dedupe, mute, stamp first-seen, sort.
         deduped: dict[str, dict] = {}
