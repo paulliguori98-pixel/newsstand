@@ -8,18 +8,27 @@ No source can break the build. Anything that fails is recorded and the rest
 of the edition goes out without it.
 
 ── Collecting vs showing ─────────────────────────────────────────────────
-These used to be the same thing, which meant the only products that existed
-were the two or three on the page. Now they're separate:
-
-  limit:  on a source — how many items to COLLECT from it each run
+  limit:  on a source — how many items to COLLECT each run
   show:   on a source — how many of those reach the front page
   limit:  on a section — the cap for the whole section
 
-Everything collected from a `goods` section is merged into data/archive.json,
-keyed by product, with the date it was first seen. That file only grows, and
-it's the point: retailers don't publish backdated arrivals, so a history of
-what came out can only be built forward from the day you start. all.html
-reads it.
+Everything collected from a `goods` section is merged into data/archive.json
+and shown on all.html. That file only grows: retailers don't publish
+backdated arrivals, so a record can only be built forward.
+
+── Ranking by corroboration ──────────────────────────────────────────────
+A section with `rank: corroboration` groups headlines that describe the same
+event and ranks them by how many different outlets ran it. The premise is
+that if NYT, NPR, the BBC and the Guardian all lead with something within a
+few hours, that's what "major" looks like, and a story only one outlet is
+running is that outlet's editorial choice rather than an event.
+
+It's a proxy, and worth knowing where it's weak: it measures how much
+coverage something got, not how much it matters. Those agree on strait
+closures and plane crashes and disagree on whatever the press is
+collectively excited about. It's still the best signal available without
+paying a model to judge importance, and it fixes the failure it was built
+for — one story appearing three times and crowding out three others.
 """
 
 from __future__ import annotations
@@ -27,6 +36,7 @@ from __future__ import annotations
 import argparse
 import hashlib
 import json
+import re
 import sys
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
@@ -35,7 +45,7 @@ import yaml
 
 from sources import html_watch, pinterest, rss, shopify
 
-VERSION = "0.6"
+VERSION = "0.7"
 ROOT = Path(__file__).parent
 DATA = ROOT / "data"
 ADAPTERS = {
@@ -43,6 +53,20 @@ ADAPTERS = {
     "shopify": shopify.fetch,
     "html": html_watch.fetch,
     "pinterest": pinterest.fetch,
+}
+
+WORD = re.compile(r"[a-z0-9']+")
+# Dropped before comparing headlines: they carry no signal about which story
+# is which, and leaving them in makes everything look ~30% similar.
+STOP = {
+    "a", "an", "the", "and", "or", "but", "of", "in", "on", "at", "to", "for",
+    "from", "by", "with", "as", "is", "are", "was", "were", "be", "been",
+    "it", "its", "this", "that", "these", "those", "he", "she", "they",
+    "his", "her", "their", "you", "your", "we", "our", "us", "not", "no",
+    "new", "says", "say", "said", "after", "before", "over", "into", "amid",
+    "about", "more", "most", "how", "why", "what", "who", "will", "would",
+    "can", "could", "may", "might", "has", "have", "had", "up", "down",
+    "out", "off", "than", "then", "them", "there", "here", "first", "last",
 }
 
 
@@ -83,13 +107,6 @@ def published_at(item: dict) -> datetime | None:
 
 
 def too_old(item: dict, max_age_hours: int | None, now: datetime) -> bool:
-    """Whether an item falls outside a section's freshness window.
-
-    Worth knowing what this does NOT do: it doesn't separate news from
-    features. Wealth columns and service journalism are published fresh
-    every day. Choosing headline feeds over features feeds is what does
-    that — see the News section in config.yaml.
-    """
     if not max_age_hours:
         return False
     when = published_at(item)
@@ -100,6 +117,54 @@ def too_old(item: dict, max_age_hours: int | None, now: datetime) -> bool:
 
 def sort_key(item: dict) -> str:
     return item.get("published") or item.get("first_seen") or ""
+
+
+def keywords(title: str) -> set[str]:
+    """The words in a headline that actually identify the story."""
+    return {w for w in WORD.findall((title or "").lower()) if w not in STOP and len(w) > 2}
+
+
+def same_story(a: set[str], b: set[str]) -> bool:
+    """Whether two headlines look like the same event.
+
+    Overlap coefficient rather than Jaccard: headlines vary a lot in length
+    ("Putin visits islands" vs "Vladimir Putin's first visit to disputed
+    Pacific islands draws Tokyo protest") and Jaccard punishes that
+    unfairly, so genuinely matching stories score too low to group.
+    """
+    if not a or not b:
+        return False
+    shared = len(a & b)
+    return shared >= 2 and shared / min(len(a), len(b)) >= 0.5
+
+
+def by_corroboration(items: list[dict]) -> list[dict]:
+    """Group items describing one event; return one per event, most-covered first.
+
+    The representative is the earliest-listed source in config order, which
+    is why source order in the file is an editorial preference, not cosmetic.
+    """
+    clusters: list[dict] = []
+    for item in items:
+        keys = keywords(item.get("title", ""))
+        for cluster in clusters:
+            if same_story(keys, cluster["keys"]):
+                cluster["items"].append(item)
+                cluster["keys"] |= keys
+                break
+        else:
+            clusters.append({"keys": keys, "items": [item]})
+
+    ranked = []
+    for cluster in clusters:
+        outlets = {i.get("source", "") for i in cluster["items"]}
+        lead = cluster["items"][0]
+        lead["corroboration"] = len(outlets)
+        lead["also_in"] = sorted(o for o in outlets if o != lead.get("source"))
+        ranked.append(lead)
+
+    ranked.sort(key=lambda i: (i.get("corroboration", 1), sort_key(i)), reverse=True)
+    return ranked
 
 
 def build(config: dict, probe: bool = False) -> dict:
@@ -117,6 +182,7 @@ def build(config: dict, probe: bool = False) -> dict:
         max_age = section.get("max_age_hours")
         limit = section.get("limit", default_limit)
         is_goods = section.get("kind") == "goods"
+        ranking = section.get("rank")
 
         for source in section.get("sources", []):
             if source.get("enabled") is False:
@@ -147,7 +213,6 @@ def build(config: dict, probe: bool = False) -> dict:
             probe_report.append((source.get("name", "?"), "ok" if fresh else "empty", detail))
             collected.extend(fresh)
 
-        # Stamp identity and first-seen on everything collected.
         deduped: dict[str, dict] = {}
         for item in collected:
             if muted(item.get("title", ""), section.get("mute")):
@@ -162,9 +227,6 @@ def build(config: dict, probe: bool = False) -> dict:
 
         everything = sorted(deduped.values(), key=sort_key, reverse=True)
 
-        # Products are archived in full — this is the history that can't be
-        # rebuilt later. Articles aren't; they'd bloat the file and the
-        # publisher keeps their own archive anyway.
         if is_goods and not probe:
             for item in everything:
                 archive[item["id"]] = {
@@ -172,19 +234,23 @@ def build(config: dict, probe: bool = False) -> dict:
                     for k in ("title", "url", "source", "image", "price", "published", "first_seen")
                 }
 
-        # Then narrow to what the front page actually shows: each source gets
-        # at most `show`, and the section gets at most `limit`.
-        per_source: dict[str, int] = {}
-        shown = []
-        for item in everything:
-            name = item.get("source", "")
-            cap = item.pop("_show", limit)
-            if per_source.get(name, 0) >= cap:
-                continue
-            per_source[name] = per_source.get(name, 0) + 1
-            shown.append(item)
-            if len(shown) >= limit:
-                break
+        if ranking == "corroboration":
+            # One line per event, biggest story first. No per-source caps —
+            # the whole point is that the day decides, not the roster.
+            shown = by_corroboration(everything)[:limit]
+        else:
+            per_source: dict[str, int] = {}
+            shown = []
+            for item in everything:
+                name = item.get("source", "")
+                cap = item.get("_show", limit)
+                if per_source.get(name, 0) >= cap:
+                    continue
+                per_source[name] = per_source.get(name, 0) + 1
+                shown.append(item)
+                if len(shown) >= limit:
+                    break
+
         for item in everything:
             item.pop("_show", None)
 
@@ -239,8 +305,6 @@ def main() -> int:
     (DATA / "feed.json").write_text(json.dumps(edition, indent=1))
     (DATA / "seen.json").write_text(json.dumps(seen))
     (DATA / "archive.json").write_text(json.dumps(archive, indent=1))
-    # Also emit as scripts so the pages open by double-click, not just over
-    # http — a bare file:// page can't fetch() a sibling .json.
     (DATA / "feed.js").write_text("window.__EDITION__ = " + json.dumps(edition) + ";")
     (DATA / "archive.js").write_text("window.__ARCHIVE__ = " + json.dumps(archive) + ";")
 
