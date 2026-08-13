@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-13T19:53:24.096846+00:00",
+ "generated_at": "2026-08-13T20:40:11.305324+00:00",
  "sections": [
   {
    "id": "world",
@@ -11,11 +11,35 @@
      "url": "https://www.nytimes.com/2026/08/13/arts/design/kennedy-center-closure-board-vote-trump.html",
      "source": "New York Times",
      "summary": "The vote to add \u201cRestored and Renovated by President Donald J. Trump\u201d is an aggressive test of a judge\u2019s order to remove his name.",
-     "published": "2026-08-13T19:48:08+00:00",
+     "published": "2026-08-13T20:20:38+00:00",
      "image": "https://static01.nyt.com/images/2026/08/13/multimedia/13cul-kennedy-center-gqfj/13cul-kennedy-center-gqfj-mediumSquareAt3X.jpg",
      "kind": "article",
      "id": "429ffea98d5c2376",
      "first_seen": "2026-08-13T17:13:41.231451+00:00",
+     "is_new": true
+    },
+    {
+     "title": "Judge Dismisses Trump Administration\u2019s Antisemitism Case Against Harvard",
+     "url": "https://www.nytimes.com/2026/08/13/us/harvard-antisemitism-case-dismissed.html",
+     "source": "New York Times",
+     "summary": "The government argued the university had not done enough to combat antisemitism during campus protests. A judge called the incidents \u201cisolated and episodic.\u201d",
+     "published": "2026-08-13T20:02:43+00:00",
+     "image": "https://static01.nyt.com/images/2026/08/13/multimedia/13nat-harvard-1-mbqh/13nat-harvard-1-mbqh-mediumSquareAt3X.jpg",
+     "kind": "article",
+     "id": "d6509f09855d769d",
+     "first_seen": "2026-08-13T20:40:11.305324+00:00",
+     "is_new": true
+    },
+    {
+     "title": "Kushner plans to visit Israel next week for Gaza talks",
+     "url": "https://www.axios.com/2026/08/13/kushner-israel-gaza-netanyahu",
+     "source": "Axios",
+     "summary": "Jared Kushner, President Trump's envoy and son-in-law, is planning to visit Israel next week for talks on the situation in Gaza, according to five sources with knowledge of the pl\u2026",
+     "published": "2026-08-13T20:02:42+00:00",
+     "image": "https://images.axios.com/9UCp6FWmeWNMM598eH39JaIUjWk=/0x0:3000x1688/1366x768/2026/08/13/1786650051760.jpeg",
+     "kind": "article",
+     "id": "ed9b11949c113ea5",
+     "first_seen": "2026-08-13T20:40:11.305324+00:00",
      "is_new": true
     },
     {
@@ -43,18 +67,6 @@
      "is_new": true
     },
     {
-     "title": "U.S. Investigated Left-Leaning Groups During Minnesota Immigration Crackdown",
-     "url": "https://www.nytimes.com/2026/08/13/us/politics/dhs-inquiry-immigration-protests-minnesota.html",
-     "source": "New York Times",
-     "summary": "The government conducted expansive surveillance, infiltrated group chats and obtained financial records of organizations never accused of crimes.",
-     "published": "2026-08-13T18:15:50+00:00",
-     "image": "https://static01.nyt.com/images/2026/08/12/multimedia/dc-minn-whjk/dc-minn-whjk-mediumSquareAt3X.jpg",
-     "kind": "article",
-     "id": "812d8bb371f91101",
-     "first_seen": "2026-08-13T16:21:06.911148+00:00",
-     "is_new": true
-    },
-    {
      "title": "Mangione could plead guilty in federal case ahead of N.Y. murder trial",
      "url": "https://www.npr.org/2026/08/13/nx-s1-5930397/mangione-federal-court-hearing-guilty-plea",
      "source": "NPR",
@@ -65,18 +77,6 @@
      "id": "d556db5e72e48fc2",
      "first_seen": "2026-08-13T17:54:45.246162+00:00",
      "is_new": true
-    },
-    {
-     "title": "Vladimir Putin's first visit to disputed Pacific islands draws Tokyo protest",
-     "url": "https://www.npr.org/2026/08/13/g-s1-138631/vladimir-putins-first-visit-to-disputed-pacific-islands-draws-tokyo-protest",
-     "source": "NPR",
-     "summary": "The four southernmost islands of the chain also are claimed by Japan, which calls them the Northern Territories.",
-     "published": "2026-08-13T16:40:26+00:00",
-     "image": null,
-     "kind": "article",
-     "id": "7c7a50dd6aa5dd16",
-     "first_seen": "2026-08-13T17:13:41.231451+00:00",
-     "is_new": true
     }
    ]
   },
@@ -86,35 +86,35 @@
    "kind": "headlines",
    "items": [
     {
-     "title": "Stay In The Belly Of The Curve: BlackRock's Chaudhuri",
-     "url": "https://www.bloomberg.com/news/videos/2026-08-13/stay-in-the-belly-of-the-curve-blackrock-s-chaudhuri-video",
+     "title": "UAE, Qatari Firms Debut in Venezuela Through BP-Led Gas Deal",
+     "url": "https://www.bloomberg.com/news/articles/2026-08-13/uae-qatari-firms-debut-in-venezuela-through-bp-led-gas-deal",
      "source": "Bloomberg",
-     "summary": "Gargi Chaudhuri, chief investment and portfolio strategist, Americas at BlackRock, joins Emily Graffeo on \"Real Yield.\" The US government sold 30-year bonds at the highest interes\u2026",
-     "published": "2026-08-13T19:50:38+00:00",
+     "summary": "Arab Gulf companies are making their debut in Venezuela through an offshore natural gas project to be operated by BP Plc.",
+     "published": "2026-08-13T20:26:54+00:00",
      "image": null,
      "kind": "article",
-     "id": "454ae3bada24cd64",
-     "first_seen": "2026-08-13T19:53:24.096846+00:00",
+     "id": "9fa693a96fd93a08",
+     "first_seen": "2026-08-13T20:40:11.305324+00:00",
      "is_new": true
     },
     {
-     "title": "Apple's Tim Cook joined by Howard Lutnick in opening Houston manufacturing plant",
-     "url": "https://www.cnbc.com/2026/08/13/apples-tim-cook-and-howard-lutnick-open-houston-manufacturing-plant.html",
-     "source": "CNBC",
-     "summary": "As Tim Cook gets set to step down as Apple CEO, he's offering a glimpse into what he may be doing as chairman.",
-     "published": "2026-08-13T19:33:11+00:00",
-     "image": null,
+     "title": "Stocks Hit New Highs on Inflation Relief",
+     "url": "https://www.wsj.com/finance/stocks/stocks-hit-new-highs-on-inflation-relief-2049c5d4?mod=rss_markets_main",
+     "source": "WSJ",
+     "summary": "Plus, Coach owner Tapestry tumbles and Workday soars.",
+     "published": "2026-08-13T20:23:00+00:00",
+     "image": "https://images.wsj.net/im-07262909",
      "kind": "article",
-     "id": "1a7840238c0f6e75",
-     "first_seen": "2026-08-13T19:53:24.096846+00:00",
+     "id": "1f04eb649bd5789c",
+     "first_seen": "2026-08-13T20:40:11.305324+00:00",
      "is_new": true
     },
     {
-     "title": "Workday skyrockets 18%, trading halted multiple times on report of Silver Lake takeover",
+     "title": "Workday shares post best day in 10 years on Silver Lake takeover report",
      "url": "https://www.cnbc.com/2026/08/13/workday-skyrockets-25percent-before-trading-halted-on-report-of-silver-lake-takeover.html",
      "source": "CNBC",
      "summary": "Workday investors have been on edge over the prospect of AI disrupting its business model",
-     "published": "2026-08-13T19:24:15+00:00",
+     "published": "2026-08-13T20:07:24+00:00",
      "image": null,
      "kind": "article",
      "id": "c3517f2463e86ebe",
@@ -122,15 +122,15 @@
      "is_new": true
     },
     {
-     "title": "The Lakers\u2019 Owner Needed Cash. Then Came a $12.5 Billion Offer to Buy the Team.",
-     "url": "https://www.wsj.com/sports/basketball/lakers-mark-walter-joshua-kushner-bob-iger-0ceeea23?mod=rss_markets_main",
-     "source": "WSJ",
-     "summary": "Facing a federal investigation and a liquidity crunch, Mark Walter needed only 72 hours to accept an out-of-the-blue offer to sell the Lakers to Joshua Kushner and Bob Iger.",
-     "published": "2026-08-13T18:58:00+00:00",
-     "image": "https://images.wsj.net/im-15413357",
+     "title": "Trade court upholds Trump's closure of 'de minimis' loophole",
+     "url": "https://www.cnbc.com/2026/08/13/trump-trade-court-de-minimis-tariffs-ieepa.html",
+     "source": "CNBC",
+     "summary": "President Donald Trump in a Truth Social post celebrated the continued closure of the deminimis exemption as a \"BIG WIN.\"",
+     "published": "2026-08-13T19:56:06+00:00",
+     "image": null,
      "kind": "article",
-     "id": "4f10815800985da9",
-     "first_seen": "2026-08-13T19:01:18.715704+00:00",
+     "id": "ebd99f7192aa6a07",
+     "first_seen": "2026-08-13T20:40:11.305324+00:00",
      "is_new": true
     }
    ]
@@ -390,7 +390,6 @@
   }
  ],
  "errors": [
-  "Margaret Roach: RuntimeError \u2014 https://awaytogarden.com/feed/atom/ \u2192 ConnectTimeout; https://awaytogarden.com/feed/rss2/ \u2192 ConnectTimeout; https://awaytogarden.com/feed/ \u2192 ConnectTimeout",
   "Food52: RuntimeError \u2014 https://food52.com/blog/feed \u2192 HTTP 429; https://food52.com/rss \u2192 HTTP 429; https://food52.com/blog.rss \u2192 HTTP 429"
  ]
 }
