@@ -43,7 +43,7 @@ from pathlib import Path
 
 import yaml
 
-from sources import html_watch, pinterest, rss, shopify
+from sources import html_watch, notes, pinterest, rss, shopify
 
 VERSION = "0.7"
 ROOT = Path(__file__).parent
@@ -53,6 +53,7 @@ ADAPTERS = {
     "shopify": shopify.fetch,
     "html": html_watch.fetch,
     "pinterest": pinterest.fetch,
+    "notes": notes.fetch,
 }
 
 WORD = re.compile(r"[a-z0-9']+")
