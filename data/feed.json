@@ -1,11 +1,23 @@
 {
- "generated_at": "2026-08-13T18:40:23.477060+00:00",
+ "generated_at": "2026-08-13T18:46:10.395167+00:00",
  "sections": [
   {
    "id": "world",
    "title": "World & Nation",
    "kind": "headlines",
    "items": [
+    {
+     "title": "Trump-allied Kennedy Center board votes to put his name back on building",
+     "url": "https://www.axios.com/2026/08/13/trump-kennedy-center-name-board-court-order",
+     "source": "Axios",
+     "summary": "The Kennedy Center board voted Thursday to again add President Trump's name to the John F. Kennedy Center for the Performing Arts, per multiple reports.Why it matters: The move ch\u2026",
+     "published": "2026-08-13T18:45:16+00:00",
+     "image": "https://images.axios.com/w6ExgMJ2kdzuC_YaITmL8TtHXsQ=/0x521:5000x3333/1366x768/2026/08/13/1786646275395.jpeg",
+     "kind": "article",
+     "id": "37cca3a248012828",
+     "first_seen": "2026-08-13T18:46:10.395167+00:00",
+     "is_new": true
+    },
     {
      "title": "U.S. Investigated Left-Leaning Groups During Minnesota Immigration Crackdown",
      "url": "https://www.nytimes.com/2026/08/13/us/politics/dhs-inquiry-immigration-protests-minnesota.html",
@@ -65,18 +77,6 @@
      "id": "814a2bb315a7d879",
      "first_seen": "2026-08-13T13:18:48.510709+00:00",
      "is_new": true
-    },
-    {
-     "title": "By sky and sea, Ukraine's drone strikes challenge Russia's grip on Crimea",
-     "url": "https://www.npr.org/2026/08/13/nx-s1-5904418/ukraine-crimea-russia-drone-strikes",
-     "source": "NPR",
-     "summary": "Russia maintained an iron grip on Crimea since seizing it from Ukraine in 2014. Many Russian civilians go there to enjoy the beaches. But now Ukraine is hitting Crimea hard, upend\u2026",
-     "published": "2026-08-13T15:18:27+00:00",
-     "image": null,
-     "kind": "article",
-     "id": "ad5b2579a2616097",
-     "first_seen": "2026-08-13T16:21:06.911148+00:00",
-     "is_new": true
     }
    ]
   },
@@ -85,6 +85,18 @@
    "title": "Business",
    "kind": "headlines",
    "items": [
+    {
+     "title": "Anthropic CFO Krishna Rao is leading early IPO meetings with investors and has not discussed valuation, sources say",
+     "url": "https://www.cnbc.com/2026/08/13/anthropic-cfo-early-ipo-meetings-valuation.html",
+     "source": "CNBC",
+     "summary": "Anthropic CFO Krishna Rao is leading early investor meetings, which have focused on big-picture themes like its Claude AI models, management and more.",
+     "published": "2026-08-13T18:44:12+00:00",
+     "image": null,
+     "kind": "article",
+     "id": "e25cdc034b226471",
+     "first_seen": "2026-08-13T18:29:57.426384+00:00",
+     "is_new": true
+    },
     {
      "title": "BlackRock\u2019s Rieder Says Yen Rebound Hinges on BOJ Hawkishness",
      "url": "https://www.bloomberg.com/news/articles/2026-08-13/blackrock-s-rieder-says-yen-rebound-hinges-on-boj-hawkishness",
@@ -119,18 +131,6 @@
      "kind": "article",
      "id": "d867e10880adaace",
      "first_seen": "2026-08-13T17:54:45.246162+00:00",
-     "is_new": true
-    },
-    {
-     "title": "Anthropic CFO Krishna Rao is leading early IPO meetings with investors and has not discussed valuation, sources say",
-     "url": "https://www.cnbc.com/2026/08/13/anthropic-cfo-early-ipo-meetings-valuation.html",
-     "source": "CNBC",
-     "summary": "Anthropic CFO Krishna Rao is leading early investor meetings, which have focused on big-picture themes like its Claude AI models, management and more.",
-     "published": "2026-08-13T17:00:49+00:00",
-     "image": null,
-     "kind": "article",
-     "id": "e25cdc034b226471",
-     "first_seen": "2026-08-13T18:29:57.426384+00:00",
      "is_new": true
     }
    ]
@@ -391,7 +391,7 @@
  ],
  "errors": [
   "Reuters: RuntimeError \u2014 https://www.reutersagency.com/feed/?best-topics=business-finance&post_type=best \u2192 HTTP 404; https://feeds.reuters.com/reuters/businessNews \u2192 ConnectionError",
-  "Margaret Roach: RuntimeError \u2014 https://awaytogarden.com/feed/atom/ \u2192 ConnectTimeout; https://awaytogarden.com/feed/rss2/ \u2192 ConnectTimeout; https://awaytogarden.com/feed/ \u2192 ConnectTimeout",
+  "Margaret Roach: RuntimeError \u2014 https://awaytogarden.com/feed/atom/ \u2192 no entries; https://awaytogarden.com/feed/rss2/ \u2192 no entries; https://awaytogarden.com/feed/ \u2192 no entries",
   "Food52: RuntimeError \u2014 https://food52.com/blog/feed \u2192 HTTP 429; https://food52.com/rss \u2192 HTTP 429; https://food52.com/blog.rss \u2192 HTTP 429"
  ]
 }
