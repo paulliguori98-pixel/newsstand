@@ -115,17 +115,18 @@ sections:
   - id: goods
     title: New In
     kind: goods
+    limit: 6
     sources:
       - type: shopify
         name: Sid Mashburn
         domain: shopmashburn.com
         require_tags: [LineDescr_Mens]
-        limit: 4
+        limit: 6
       - type: shopify
         name: Drake's
         domain: www.drakes.com
         currency_symbol: "£"
-        limit: 4
+        limit: 6
 
   - id: dispatches
     title: Dispatches
