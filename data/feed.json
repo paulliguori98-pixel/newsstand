@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-13T14:42:13.562874+00:00",
+ "generated_at": "2026-08-13T15:17:50.783323+00:00",
  "sections": [
   {
    "id": "business",
@@ -7,39 +7,39 @@
    "kind": "headlines",
    "items": [
     {
-     "title": "Is $1 million enough for a household to retire? The answer keeps changing.",
-     "url": "https://www.marketwatch.com/story/is-1-million-enough-for-a-household-to-retire-the-answer-keeps-changing-aee84a83?mod=mw_rss_topstories",
+     "title": "Rich Americans are propping up the travel economy as airfares soar 25% higher than last year",
+     "url": "https://www.marketwatch.com/story/rich-americans-are-propping-up-the-travel-economy-as-airfares-soar-25-higher-than-last-year-c76067a5?mod=mw_rss_topstories",
      "source": "MarketWatch",
-     "summary": "\u201cSome readers \u2014 and couples \u2014 would be grateful to retire on half that amount.\u201d",
-     "published": "2026-08-13T14:30:00+00:00",
-     "image": "https://images.mktw.net/im-55523121",
+     "summary": "The cost of plane tickets has soared over the past year, but consumer demand has yet to slow down during this summer travel season.",
+     "published": "2026-08-13T15:08:00+00:00",
+     "image": "https://images.mktw.net/im-06649723",
      "kind": "article",
-     "id": "f2a326be5b5bf7ea",
-     "first_seen": "2026-08-13T14:32:59.119159+00:00",
+     "id": "d6465beaf2670cca",
+     "first_seen": "2026-08-13T15:17:50.783323+00:00",
      "is_new": true
     },
     {
-     "title": "Inside Wealth: Monterey Car Week auctions could hit a record $500 million, with help from younger buyers",
-     "url": "https://www.cnbc.com/2026/08/13/monterey-car-week-auctions-sales-estimates.html",
-     "source": "CNBC",
-     "summary": "A new generation of millennials and Gen Zers is taking over the collecting market from baby boomers and bidding up modern supercars at Monterey Car Week.",
-     "published": "2026-08-13T14:08:19+00:00",
-     "image": null,
+     "title": "Trump's White House remodel tab keeps growing",
+     "url": "https://www.axios.com/2026/08/13/trump-white-house-projects-cost",
+     "source": "Axios",
+     "summary": "The East Wing is gone, a new helipad is spreading across the lawn, and scaffolding wraps the White House's front columns, but the price tags for President Trump's renovations are \u2026",
+     "published": "2026-08-13T15:01:10+00:00",
+     "image": "https://images.axios.com/LCxCoiHYU-thS5l-XdPxtqqs1pQ=/0x0:1920x1080/1366x768/2025/10/14/1760474481166.jpeg",
      "kind": "article",
-     "id": "87ae1a126c5121ec",
-     "first_seen": "2026-08-13T13:18:48.510709+00:00",
+     "id": "294c783f8bd47b17",
+     "first_seen": "2026-08-13T15:17:50.783323+00:00",
      "is_new": true
     },
     {
-     "title": "The \u201820% rule\u2019 behind Giorgos Tsetis\u2019 blueprint for a new kind of family office",
-     "url": "https://www.cnbc.com/2026/08/13/family-office-giorgos-tsetis-nutrafol.html",
-     "source": "CNBC",
-     "summary": "Family offices are built to be patient with their money. Giorgos Tsetis is not.",
-     "published": "2026-08-13T12:20:46+00:00",
-     "image": null,
+     "title": "Your prescription drugs shouldn\u2019t cost more than your mortgage. Inside the broken math that got us here.",
+     "url": "https://www.marketwatch.com/story/your-prescription-drugs-shouldnt-cost-more-than-your-mortgage-inside-the-broken-math-that-got-us-here-b5a2c4aa?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "summary": "We will never make medicine affordable if how to tie a drug\u2019s price to its value is solely determined by the companies creating the drugs.",
+     "published": "2026-08-13T15:01:00+00:00",
+     "image": "https://images.mktw.net/im-05734301",
      "kind": "article",
-     "id": "a77004c6ecc7a102",
-     "first_seen": "2026-08-13T13:18:48.510709+00:00",
+     "id": "174b0dc0b53f5ca0",
+     "first_seen": "2026-08-13T15:17:50.783323+00:00",
      "is_new": true
     }
    ]
@@ -221,6 +221,7 @@
   }
  ],
  "errors": [
+  "Margaret Roach: RuntimeError \u2014 https://awaytogarden.com/feed/atom/ \u2192 no entries; https://awaytogarden.com/feed/rss2/ \u2192 no entries; https://awaytogarden.com/feed/ \u2192 no entries",
   "Food52: RuntimeError \u2014 https://food52.com/blog/feed \u2192 HTTP 429; https://food52.com/rss \u2192 HTTP 429; https://food52.com/blog.rss \u2192 HTTP 429"
  ]
 }
