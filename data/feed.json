@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-13T19:01:18.715704+00:00",
+ "generated_at": "2026-08-13T19:03:34.140237+00:00",
  "sections": [
   {
    "id": "world",
@@ -90,11 +90,23 @@
      "url": "https://www.cnbc.com/2026/08/13/workday-skyrockets-25percent-before-trading-halted-on-report-of-silver-lake-takeover.html",
      "source": "CNBC",
      "summary": "Workday shares have plummeted this year on AI disruption fears.",
-     "published": "2026-08-13T19:00:42+00:00",
+     "published": "2026-08-13T19:02:43+00:00",
      "image": null,
      "kind": "article",
      "id": "c3517f2463e86ebe",
      "first_seen": "2026-08-13T19:01:18.715704+00:00",
+     "is_new": true
+    },
+    {
+     "title": "US Debt Sales See No Summer Slowdown",
+     "url": "https://www.bloomberg.com/news/videos/2026-08-13/us-debt-sales-see-no-summer-slowdown-video",
+     "source": "Bloomberg",
+     "summary": "Tony Rodriguez, head of fixed income strategy at Nuveen Asset Management, and Jerry Cudzil generalist portfolio manager, fixed income at TCW, join Emily Graffeo on \"Real Yield.\" A\u2026",
+     "published": "2026-08-13T18:58:54+00:00",
+     "image": null,
+     "kind": "article",
+     "id": "6b5f462315cd67c2",
+     "first_seen": "2026-08-13T19:03:34.140237+00:00",
      "is_new": true
     },
     {
@@ -119,18 +131,6 @@
      "kind": "article",
      "id": "e25cdc034b226471",
      "first_seen": "2026-08-13T18:29:57.426384+00:00",
-     "is_new": true
-    },
-    {
-     "title": "Bill Ackman Calls His New Fund\u2019s Slumping Stock Price \u2018Frankly Absurd\u2019",
-     "url": "https://www.wsj.com/finance/stocks/bill-ackman-calls-his-new-funds-slumping-stock-price-frankly-absurd-12fc73be?mod=rss_markets_main",
-     "source": "WSJ",
-     "summary": "The billionaire investor\u2019s portfolio has trailed the broader market since he took the fund, Pershing Square USA, and his firm public in April.",
-     "published": "2026-08-13T17:34:00+00:00",
-     "image": "https://images.wsj.net/im-69933983",
-     "kind": "article",
-     "id": "d867e10880adaace",
-     "first_seen": "2026-08-13T17:54:45.246162+00:00",
      "is_new": true
     }
    ]
