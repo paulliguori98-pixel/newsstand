@@ -21,7 +21,7 @@ import yaml
 
 from sources import html_watch, pinterest, rss, shopify
 
-VERSION = "0.4"
+VERSION = "0.5"
 ROOT = Path(__file__).parent
 DATA = ROOT / "data"
 ADAPTERS = {
@@ -69,14 +69,15 @@ def published_at(item: dict) -> datetime | None:
 def too_old(item: dict, max_age_hours: int | None, now: datetime) -> bool:
     """Whether an item falls outside a section's freshness window.
 
-    This is how news gets separated from everything else. Reported news is
-    hours old; service journalism ("Should I pay off my car loan?") and
-    evergreen features sit in the same feed for weeks and would otherwise
-    keep resurfacing. A section with `max_age_hours` set drops anything
-    older, which removes that genre without having to guess at its wording.
+    Worth knowing what this does NOT do: it does not separate news from
+    features. Wealth columns and service journalism are published fresh
+    every day, so they sit comfortably inside any sensible window. What
+    actually keeps those out is choosing headline feeds over features
+    feeds — see the News section in config.yaml. This is only a guard
+    against stale items resurfacing.
 
-    Items with no publish date are kept — a missing timestamp shouldn't be
-    treated as evidence of staleness.
+    Items with no publish date are kept; a missing timestamp isn't
+    evidence of staleness.
     """
     if not max_age_hours:
         return False
@@ -91,13 +92,16 @@ def build(config: dict, probe: bool = False) -> dict:
     now = datetime.now(timezone.utc)
     seen = {} if probe else load_seen()
     new_cutoff = now - timedelta(days=settings.get("new_window_days", 4))
-    limit = settings.get("per_section_limit", 12)
+    default_limit = settings.get("per_section_limit", 12)
 
     sections, errors, probe_report = [], [], []
 
     for section in config.get("sections", []):
         items = []
         max_age = section.get("max_age_hours")
+        # A section may carry more (or less) than the default. News runs
+        # longer than the rest because it's the reason to open the page.
+        limit = section.get("limit", default_limit)
 
         for source in section.get("sources", []):
             if source.get("enabled") is False:
@@ -125,7 +129,7 @@ def build(config: dict, probe: bool = False) -> dict:
             probe_report.append((source.get("name", "?"), "ok" if fresh else "empty", detail))
             items.extend(fresh)
 
-        # Dedupe, mute, stamp first-seen, sort.
+        # Dedupe, mute, stamp first-seen.
         deduped: dict[str, dict] = {}
         for item in items:
             if muted(item.get("title", ""), section.get("mute")):
