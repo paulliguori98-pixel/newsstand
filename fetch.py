@@ -6,6 +6,20 @@
 
 No source can break the build. Anything that fails is recorded and the rest
 of the edition goes out without it.
+
+── Collecting vs showing ─────────────────────────────────────────────────
+These used to be the same thing, which meant the only products that existed
+were the two or three on the page. Now they're separate:
+
+  limit:  on a source — how many items to COLLECT from it each run
+  show:   on a source — how many of those reach the front page
+  limit:  on a section — the cap for the whole section
+
+Everything collected from a `goods` section is merged into data/archive.json,
+keyed by product, with the date it was first seen. That file only grows, and
+it's the point: retailers don't publish backdated arrivals, so a history of
+what came out can only be built forward from the day you start. all.html
+reads it.
 """
 
 from __future__ import annotations
@@ -21,7 +35,7 @@ import yaml
 
 from sources import html_watch, pinterest, rss, shopify
 
-VERSION = "0.5"
+VERSION = "0.6"
 ROOT = Path(__file__).parent
 DATA = ROOT / "data"
 ADAPTERS = {
@@ -37,10 +51,13 @@ def load_config() -> dict:
         return yaml.safe_load(fh)
 
 
-def load_seen() -> dict:
-    path = DATA / "seen.json"
+def load_json(name: str) -> dict:
+    path = DATA / name
     if path.exists():
-        return json.loads(path.read_text())
+        try:
+            return json.loads(path.read_text())
+        except ValueError:
+            return {}
     return {}
 
 
@@ -55,7 +72,6 @@ def muted(title: str, patterns: list[str]) -> bool:
 
 
 def published_at(item: dict) -> datetime | None:
-    """The item's own publish time, as an aware datetime, or None."""
     raw = item.get("published")
     if not raw:
         return None
@@ -69,15 +85,10 @@ def published_at(item: dict) -> datetime | None:
 def too_old(item: dict, max_age_hours: int | None, now: datetime) -> bool:
     """Whether an item falls outside a section's freshness window.
 
-    Worth knowing what this does NOT do: it does not separate news from
+    Worth knowing what this does NOT do: it doesn't separate news from
     features. Wealth columns and service journalism are published fresh
-    every day, so they sit comfortably inside any sensible window. What
-    actually keeps those out is choosing headline feeds over features
-    feeds — see the News section in config.yaml. This is only a guard
-    against stale items resurfacing.
-
-    Items with no publish date are kept; a missing timestamp isn't
-    evidence of staleness.
+    every day. Choosing headline feeds over features feeds is what does
+    that — see the News section in config.yaml.
     """
     if not max_age_hours:
         return False
@@ -87,21 +98,25 @@ def too_old(item: dict, max_age_hours: int | None, now: datetime) -> bool:
     return when < now - timedelta(hours=max_age_hours)
 
 
+def sort_key(item: dict) -> str:
+    return item.get("published") or item.get("first_seen") or ""
+
+
 def build(config: dict, probe: bool = False) -> dict:
     settings = config.get("settings", {})
     now = datetime.now(timezone.utc)
-    seen = {} if probe else load_seen()
+    seen = {} if probe else load_json("seen.json")
+    archive = {} if probe else load_json("archive.json")
     new_cutoff = now - timedelta(days=settings.get("new_window_days", 4))
     default_limit = settings.get("per_section_limit", 12)
 
     sections, errors, probe_report = [], [], []
 
     for section in config.get("sections", []):
-        items = []
+        collected = []
         max_age = section.get("max_age_hours")
-        # A section may carry more (or less) than the default. News runs
-        # longer than the rest because it's the reason to open the page.
         limit = section.get("limit", default_limit)
+        is_goods = section.get("kind") == "goods"
 
         for source in section.get("sources", []):
             if source.get("enabled") is False:
@@ -121,17 +136,20 @@ def build(config: dict, probe: bool = False) -> dict:
                 continue
 
             fresh = [i for i in got if not too_old(i, max_age, now)]
-            detail = f"{len(fresh)} items"
+            for item in fresh:
+                item["_show"] = source.get("show", limit)
+
+            detail = f"{len(fresh)} collected"
             if len(fresh) != len(got):
                 detail += f" ({len(got) - len(fresh)} too old)"
             if source.get("_resolved"):
                 detail += f"  ← {source['_resolved']}"
             probe_report.append((source.get("name", "?"), "ok" if fresh else "empty", detail))
-            items.extend(fresh)
+            collected.extend(fresh)
 
-        # Dedupe, mute, stamp first-seen.
+        # Stamp identity and first-seen on everything collected.
         deduped: dict[str, dict] = {}
-        for item in items:
+        for item in collected:
             if muted(item.get("title", ""), section.get("mute")):
                 continue
             iid = item_id(item)
@@ -142,18 +160,40 @@ def build(config: dict, probe: bool = False) -> dict:
             item["is_new"] = datetime.fromisoformat(first_seen) > new_cutoff
             deduped.setdefault(iid, item)
 
-        ordered = sorted(
-            deduped.values(),
-            key=lambda i: i.get("published") or i.get("first_seen") or "",
-            reverse=True,
-        )[:limit]
+        everything = sorted(deduped.values(), key=sort_key, reverse=True)
+
+        # Products are archived in full — this is the history that can't be
+        # rebuilt later. Articles aren't; they'd bloat the file and the
+        # publisher keeps their own archive anyway.
+        if is_goods and not probe:
+            for item in everything:
+                archive[item["id"]] = {
+                    k: item.get(k)
+                    for k in ("title", "url", "source", "image", "price", "published", "first_seen")
+                }
+
+        # Then narrow to what the front page actually shows: each source gets
+        # at most `show`, and the section gets at most `limit`.
+        per_source: dict[str, int] = {}
+        shown = []
+        for item in everything:
+            name = item.get("source", "")
+            cap = item.pop("_show", limit)
+            if per_source.get(name, 0) >= cap:
+                continue
+            per_source[name] = per_source.get(name, 0) + 1
+            shown.append(item)
+            if len(shown) >= limit:
+                break
+        for item in everything:
+            item.pop("_show", None)
 
         sections.append(
             {
                 "id": section["id"],
                 "title": section["title"],
                 "kind": section.get("kind", "headlines"),
-                "items": ordered,
+                "items": shown,
             }
         )
 
@@ -162,6 +202,7 @@ def build(config: dict, probe: bool = False) -> dict:
         "sections": sections,
         "errors": errors,
         "_seen": seen,
+        "_archive": archive,
         "_probe": probe_report,
     }
 
@@ -192,18 +233,20 @@ def main() -> int:
         return 1 if failed else 0
 
     seen = edition.pop("_seen")
+    archive = edition.pop("_archive")
     edition.pop("_probe")
     DATA.mkdir(exist_ok=True)
     (DATA / "feed.json").write_text(json.dumps(edition, indent=1))
     (DATA / "seen.json").write_text(json.dumps(seen))
-    # Also emit as a script so index.html opens by double-click, not just
-    # over http — a bare file:// page can't fetch() a sibling .json.
-    (DATA / "feed.js").write_text(
-        "window.__EDITION__ = " + json.dumps(edition) + ";"
-    )
+    (DATA / "archive.json").write_text(json.dumps(archive, indent=1))
+    # Also emit as scripts so the pages open by double-click, not just over
+    # http — a bare file:// page can't fetch() a sibling .json.
+    (DATA / "feed.js").write_text("window.__EDITION__ = " + json.dumps(edition) + ";")
+    (DATA / "archive.js").write_text("window.__ARCHIVE__ = " + json.dumps(archive) + ";")
 
     total = sum(len(s["items"]) for s in edition["sections"])
     print(f"Built {total} items across {len(edition['sections'])} sections.")
+    print(f"Archive holds {len(archive)} products.")
     for err in edition["errors"]:
         print(f"  ! {err}", file=sys.stderr)
     return 0
