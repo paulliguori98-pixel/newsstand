@@ -5,49 +5,50 @@
 #   headlines    → text rows (source · headline · one-line dek)
 #   goods        → image grid with price (new product releases)
 #
-# Any source's `url` can be a single address or a list of candidates. The run
-# tries them in order and keeps the first that actually returns entries, so
-# when a publisher moves a feed you add the new address above the old one
-# instead of having to know which is live.
+# A source's `url` can be one address or a list of candidates. The run tries
+# them in order and keeps the first that returns entries, so when a publisher
+# moves a feed you add the new address above the old one.
 #
-# `limit:` caps how many items a single source contributes, so a wire service
-# that posts hourly can't take every slot from a weekly you actually read.
+# `limit:`          caps how many items one source contributes, so a wire
+#                   service posting hourly can't take every slot.
+# `max_age_hours:`  set on a SECTION. Drops anything older. This is what
+#                   separates news from articles — see the News section.
 #
 # ── On summaries ──────────────────────────────────────────────────────────
-# The dek under each headline is written by the publisher, not by this build.
-# Nothing here rewrites anything. That makes the choice of source the whole
-# game: Axios and NPR write plain, explanatory deks, so they carry the
-# Business section now. Yahoo Finance was removed — it sends headlines with
-# no dek at all, plus the advice-column and stock-tout genres that the mute
-# list below exists to catch.
+# The dek under each headline is written by the publisher; nothing here
+# rewrites anything. So the choice of source is the whole game. Axios and NPR
+# write plain, explanatory deks. Yahoo Finance was removed — it sends
+# headlines with no dek at all, plus the advice-column and stock-tout genres.
 #
 # ── A standing note about Substack ────────────────────────────────────────
-# Substack returns HTTP 403 to GitHub's servers for any address ending in
-# .substack.com. The same publication on its OWN domain answers fine.
-#
+# Substack returns HTTP 403 to GitHub's servers for any *.substack.com
+# address. The same publication on its OWN domain answers fine.
 #   works:   acl.news · oneusefulthing.org · vittlesmagazine.com · jack-clark.net
 #   blocked: iknow.substack.com · aprivatechef.substack.com · wmbrown.substack.com
-#
 # Substack Notes live on substack.com itself, so they can't be fetched at all.
 
 settings:
   timezone: America/New_York
   new_window_days: 4
-  # Three per section. The whole page should be readable in a few minutes.
+  # Three per section. The page should be readable in a few minutes.
   per_section_limit: 3
   timeout: 20
-  # Some publishers reject unfamiliar agents with a 403; this one gets through.
   user_agent: "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36"
 
 sections:
 
   - id: business
-    title: Business
+    title: News
     kind: headlines
+    # News only. In these feeds, anything older than a day and a half is
+    # almost never reporting — it's service journalism ("Should I pay off my
+    # car loan?") or an evergreen feature that lingers for weeks and keeps
+    # resurfacing. Dropping it removes the genre without guessing at wording.
+    max_age_hours: 36
     sources:
       # Axios first on purpose: their house style is a plain-English line on
-      # why a story matters, which is the closest thing to a real summary
-      # available without paying a model to write one.
+      # why a story matters — the closest thing to a real summary available
+      # without paying a model to write one.
       - type: rss
         name: Axios
         url:
@@ -71,13 +72,12 @@ sections:
           - https://www.marketwatch.com/rss/topstories
         limit: 2
       # Yahoo Finance removed: no deks, and the source of the advice-column
-      # and "analysts predict 70% upside" items. Left here so the reasoning
-      # survives if anyone is tempted to add it back.
+      # and "analysts predict 70% upside" items.
       # - type: rss
       #   name: Yahoo Finance
       #   url: https://finance.yahoo.com/news/rssindex
-    # Substring match on the headline, case-insensitive. This is aimed at two
-    # genres: the personal-finance advice column and the stock tout.
+    # Substring match on the headline, case-insensitive. Backstop for the
+    # advice-column and stock-tout genres that slip inside the age window.
     mute:
       - crypto
       - "stock to buy"
@@ -96,6 +96,8 @@ sections:
       - "i found a"
       - "here's why you"
 
+  # No max_age_hours here on purpose: these are newsletters and essays, and a
+  # good one doesn't expire in 36 hours the way a market story does.
   - id: ai
     title: Artificial Intelligence
     kind: headlines
@@ -135,10 +137,8 @@ sections:
     sources:
       # No `handle` on purpose — the adapter reads the whole store and takes
       # the most recently published items, which is what "new in" means and
-      # survives a brand renaming its collections.
-      #
-      # Mashburn is two stores under one roof; the tag filter keeps this to
-      # Sid rather than filling the section with Ann's womenswear.
+      # survives a brand renaming its collections. Mashburn is two stores
+      # under one roof; the tag filter keeps this to Sid.
       - type: shopify
         name: Sid Mashburn
         domain: shopmashburn.com
@@ -150,16 +150,14 @@ sections:
         currency_symbol: "£"
         limit: 4
       # Buck Mason isn't a Shopify storefront — /products.json returns nothing
-      # on either www or the bare domain. J.Crew blocks non-browser clients
-      # outright (403). Both off; neither is worth a scraper yet.
+      # on either domain. J.Crew blocks non-browser clients outright (403).
 
   - id: dispatches
     title: Dispatches
     kind: headlines
     sources:
-      # Michael Williams' ACL, on its own domain. The other subscriptions
-      # belong here too — Wm Brown, RILEY HARPER, IYKYK — but all three are
-      # on *.substack.com and return 403.
+      # Michael Williams' ACL, on its own domain. Wm Brown, RILEY HARPER and
+      # IYKYK belong here too but are all on *.substack.com and return 403.
       - type: rss
         name: A Continuous Lean
         url:
@@ -190,8 +188,7 @@ sections:
         name: NYBG Plant Talk
         url: https://www.nybg.org/blogs/plant-talk/feed/
         limit: 2
-      # Food52 returns 429 on every address — GitHub's shared IPs being
-      # throttled. Harmless to leave; it may start answering.
+      # Food52 returns 429 on every address — GitHub's shared IPs throttled.
       - type: rss
         name: Food52
         url:
@@ -202,6 +199,4 @@ sections:
 
 # The Vibes section is gone. It fed the interstitial photo bands from Sight
 # Unseen — a design magazine picked as a Pinterest stand-in, not something
-# Paul chose. With no interstitial section defined, the bands don't render.
-# To bring them back, add a section with `kind: interstitial` and an
-# image-heavy feed with `images_only: true`.
+# Paul chose. With no `kind: interstitial` section defined, no bands render.
