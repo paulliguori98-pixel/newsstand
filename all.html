@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="light">
+<title>New Arrivals — Everything</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,200..600;1,6..72,300..500&family=Jost:wght@300;400;500&display=swap" rel="stylesheet">
+<style>
+:root{
+  --paper:#FFFFFF; --wash:#F7F6F3; --ink:#16181B; --muted:#7A7F85;
+  --hair:#E7E5E1; --accent:#2B4A6F;
+  --serif:"Newsreader",Georgia,serif; --sans:"Jost",system-ui,sans-serif;
+  --soft:6px;
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--paper);color:var(--ink);font-family:var(--serif);font-size:17px;-webkit-font-smoothing:antialiased}
+a{color:inherit;text-decoration:none}
+.page{max-width:1180px;margin:0 auto;padding:0 2rem 6rem}
+
+.masthead{text-align:center;padding:4rem 0 0}
+.kicker{font-family:var(--sans);font-weight:400;font-size:.64rem;letter-spacing:.34em;text-transform:uppercase;color:var(--muted)}
+.masthead h1{font-weight:300;font-size:clamp(2.2rem,5.5vw,3.4rem);line-height:1.06;letter-spacing:-.018em;margin:.8rem 0 0}
+.masthead h1 em{font-style:italic;font-weight:200}
+.tally{font-family:var(--sans);font-weight:300;font-size:.76rem;letter-spacing:.05em;color:var(--muted);margin-top:.8rem}
+.back{font-family:var(--sans);font-size:.66rem;letter-spacing:.19em;text-transform:uppercase;color:var(--accent);margin-top:1.4rem;display:inline-block}
+
+.filters{display:flex;gap:.5rem;justify-content:center;flex-wrap:wrap;margin:2.6rem 0 0}
+.filters button{
+  font-family:var(--sans);font-size:.66rem;letter-spacing:.16em;text-transform:uppercase;
+  background:none;border:1px solid var(--hair);border-radius:99px;padding:.5rem 1.1rem;
+  color:var(--muted);cursor:pointer;transition:all .2s;
+}
+.filters button:hover{border-color:var(--accent);color:var(--accent)}
+.filters button.on{background:var(--ink);border-color:var(--ink);color:#fff}
+
+.daygroup{margin-top:3.4rem}
+.dayhead{display:flex;align-items:center;gap:1.25rem;margin:0 0 1.8rem}
+.dayhead::before,.dayhead::after{content:"";flex:1;height:1px;background:var(--hair)}
+.dayhead span{font-family:var(--sans);font-weight:400;font-size:.7rem;letter-spacing:.24em;text-transform:uppercase;white-space:nowrap}
+
+.grid{display:grid;grid-template-columns:repeat(4,1fr);gap:2.4rem 1.6rem}
+.good{text-align:center;display:block}
+.frame{background:var(--wash);border-radius:var(--soft);overflow:hidden}
+.good img{width:100%;aspect-ratio:4/5;object-fit:cover;display:block;transition:transform .5s cubic-bezier(.4,0,.2,1)}
+.good:hover img{transform:scale(1.03)}
+.brand{font-family:var(--sans);font-weight:500;font-size:.6rem;letter-spacing:.19em;text-transform:uppercase;color:var(--accent);display:block;margin:.9rem 0 .3rem}
+.good h3{font-weight:400;font-size:.98rem;line-height:1.3;margin:0 0 .25rem}
+.price{font-family:var(--sans);font-weight:300;font-size:.82rem;color:var(--muted)}
+.empty{text-align:center;color:var(--muted);font-weight:300;padding:4rem 0}
+
+@media (max-width:880px){.grid{grid-template-columns:repeat(3,1fr)}}
+@media (max-width:600px){
+  .page{padding:0 1.25rem 4rem}
+  .grid{grid-template-columns:repeat(2,1fr);gap:2rem 1.1rem}
+}
+@media (prefers-reduced-motion:reduce){*{transition:none!important}}
+</style>
+</head>
+<body>
+<div class="page">
+  <header class="masthead">
+    <div class="kicker">New Arrivals</div>
+    <h1>Everything, <em>by the day it landed</em></h1>
+    <div class="tally" id="tally"></div>
+    <a class="back" href="index.html">← Today's edition</a>
+    <div class="filters" id="filters"></div>
+  </header>
+  <main id="all"></main>
+</div>
+
+<script src="data/archive.js"></script>
+<script>
+const el = (tag, cls, text) => {
+  const n = document.createElement(tag);
+  if (cls) n.className = cls;
+  if (text != null) n.textContent = text;
+  return n;
+};
+
+let ACTIVE = "All";
+
+function dayOf(item) {
+  // Group by the day the build first saw it. Retailers backdate and
+  // republish, so first_seen is the honest "this appeared" date.
+  const raw = item.first_seen || item.published;
+  return raw ? String(raw).slice(0, 10) : "unknown";
+}
+
+function prettyDay(key) {
+  if (key === "unknown") return "Undated";
+  const d = new Date(key + "T12:00:00Z");
+  return d.toLocaleDateString("en-US",
+    { weekday: "long", month: "long", day: "numeric" });
+}
+
+function card(item) {
+  const a = el("a", "good");
+  a.href = item.url || "#";
+  a.target = "_blank";
+  a.rel = "noopener";
+  if (item.image) {
+    const frame = el("div", "frame");
+    const img = el("img");
+    img.src = item.image;
+    img.alt = "";
+    img.loading = "lazy";
+    frame.appendChild(img);
+    a.appendChild(frame);
+  }
+  a.appendChild(el("span", "brand", item.source));
+  a.appendChild(el("h3", null, item.title));
+  if (item.price) a.appendChild(el("div", "price", item.price));
+  return a;
+}
+
+function render(items) {
+  const main = document.getElementById("all");
+  main.textContent = "";
+
+  const shown = ACTIVE === "All" ? items : items.filter(i => i.source === ACTIVE);
+  if (!shown.length) {
+    main.appendChild(el("p", "empty", "Nothing from " + ACTIVE + " yet."));
+    return;
+  }
+
+  const days = {};
+  shown.forEach(i => { (days[dayOf(i)] = days[dayOf(i)] || []).push(i); });
+
+  Object.keys(days).sort().reverse().forEach(key => {
+    const group = el("section", "daygroup");
+    const head = el("div", "dayhead");
+    head.appendChild(el("span", null, prettyDay(key)));
+    group.appendChild(head);
+    const grid = el("div", "grid");
+    days[key].forEach(i => grid.appendChild(card(i)));
+    group.appendChild(grid);
+    main.appendChild(group);
+  });
+}
+
+function start(archive) {
+  const items = Object.values(archive || {});
+  items.sort((a, b) =>
+    String(b.first_seen || "").localeCompare(String(a.first_seen || "")));
+
+  document.getElementById("tally").textContent =
+    items.length + " products since the archive started";
+
+  const brands = ["All", ...[...new Set(items.map(i => i.source))].sort()];
+  const bar = document.getElementById("filters");
+  brands.forEach(name => {
+    const b = el("button", name === ACTIVE ? "on" : null, name);
+    b.addEventListener("click", () => {
+      ACTIVE = name;
+      [...bar.children].forEach(c => c.className = c.textContent === name ? "on" : "");
+      render(items);
+    });
+    bar.appendChild(b);
+  });
+
+  render(items);
+}
+
+if (window.__ARCHIVE__) {
+  start(window.__ARCHIVE__);
+} else {
+  fetch("data/archive.json")
+    .then(r => r.json())
+    .then(start)
+    .catch(() => {
+      document.getElementById("all").innerHTML =
+        '<p class="empty">No archive yet. It fills up on the next build.</p>';
+    });
+}
+</script>
+</body>
+</html>
