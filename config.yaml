@@ -115,6 +115,7 @@ sections:
     title: News
     kind: headlines
     limit: 4
+    drop_features: true
     min_outlets: 2
     max_age_hours: 36
     sources:
@@ -201,6 +202,7 @@ sections:
     title: Artificial Intelligence
     kind: headlines
     limit: 4
+    drop_features: true
     sources:
       # Jack Clark's own site — the Substack address is blocked.
       - type: rss
