@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-14T19:03:19.281459+00:00",
+ "generated_at": "2026-08-14T19:04:26.805505+00:00",
  "sections": [
   {
    "id": "news",
@@ -39,22 +39,6 @@
      "score": 4
     },
     {
-     "title": "How a niche copper trade became a real-time gauge of Trump\u2019s next tariff move",
-     "url": "https://www.cnbc.com/2026/08/14/copper-trump-tariffs-metal-commodities-trade-war.html",
-     "source": "CNBC",
-     "summary": "The widening price of copper between two metals exchanges is offering investors a gauge of U.S. tariff risk.",
-     "published": "2026-08-14T13:24:54+00:00",
-     "image": null,
-     "kind": "article",
-     "id": "4ca629c7de50daf8",
-     "first_seen": "2026-08-14T12:02:12.558099+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
      "title": "OpenAI sheds senior execs in pre-IPO refresh",
      "url": "https://www.axios.com/2026/08/14/openai-executive-greg-brockman-ipo",
      "source": "Axios",
@@ -63,6 +47,22 @@
      "image": "https://images.axios.com/o5ZqlBnF7SG8ScXfOXYQoBxufck=/0x0:1920x1080/1366x768/2026/02/24/1771970935663.jpeg",
      "kind": "article",
      "id": "b08f52f41fe90fbb",
+     "first_seen": "2026-08-14T12:02:12.558099+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
+     "title": "US says dozens of countries helped China dodge Trump's tariffs",
+     "url": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "summary": "A new US report said China had moved goods through nations with lower tariffs to dodge higher levies.",
+     "published": "2026-08-14T08:39:46+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8fc/live/12e1de40-977b-11f1-a8a8-85d648bbf002.jpg",
+     "kind": "article",
+     "id": "eeffef378099e8e8",
      "first_seen": "2026-08-14T12:02:12.558099+00:00",
      "is_new": true,
      "corroboration": 1,
