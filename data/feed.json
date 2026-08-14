@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-14T17:20:39.719865+00:00",
+ "generated_at": "2026-08-14T17:57:50.886216+00:00",
  "sections": [
   {
    "id": "world",
@@ -66,7 +66,7 @@
      "url": "https://www.cnbc.com/2026/08/14/open-ai-ipo-red-flag.html",
      "source": "CNBC",
      "summary": "OpenAI's C-suite turnover gives investors another reason for concern as the company pushes toward a mammoth IPO.",
-     "published": "2026-08-14T16:14:45+00:00",
+     "published": "2026-08-14T17:57:26+00:00",
      "image": null,
      "kind": "article",
      "id": "55bba1085c772640",
@@ -78,31 +78,33 @@
      "score": 4
     },
     {
-     "title": "Luigi Mangione pleads guilty in federal case related to UnitedHealthcare CEO killing",
-     "url": "https://www.cnbc.com/2026/08/14/luigi-mangione-pleads-guilty-brian-thompson-killing.html",
-     "source": "CNBC",
-     "summary": "Mangione's lawyers immediately argued his federal plea means he cannot be prosecuted in state court for Brian Thompson's slaying due to double jeopardy.",
-     "published": "2026-08-14T17:11:52+00:00",
-     "image": null,
-     "kind": "article",
-     "id": "c389b2e55cbfb8c5",
-     "first_seen": "2026-08-14T17:12:08.956212+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": false,
-     "score": 1
-    },
-    {
-     "title": "DOJ, CFTC Investigating Iron Ore Trader Radiant World\u2019s Deals",
-     "url": "https://www.bloomberg.com/news/articles/2026-08-14/doj-cftc-investigating-iron-ore-trader-radiant-world-s-deals",
+     "title": "Luigi Mangione Pleads Guilty in US Case Over CEO Killing",
+     "url": "https://www.bloomberg.com/news/videos/2026-08-14/luigi-mangione-pleads-guilty-in-us-case-over-ceo-killing-video",
      "source": "Bloomberg",
-     "summary": "The Justice Department and a US financial regulator are probing transactions around Radiant World, the private firm that has rapidly risen to become one of the world\u2019s largest iro\u2026",
-     "published": "2026-08-14T16:59:08+00:00",
+     "summary": "Luigi Mangione pleaded guilty in a federal case over the fatal shooting of UnitedHealth Group executive Brian Thompson in December 2024. (Source: Bloomberg)",
+     "published": "2026-08-14T17:50:10+00:00",
      "image": null,
      "kind": "article",
-     "id": "755547642f99d9ee",
-     "first_seen": "2026-08-14T17:12:08.956212+00:00",
+     "id": "bd6723a5e4a776ed",
+     "first_seen": "2026-08-14T17:57:50.886216+00:00",
+     "is_new": true,
+     "corroboration": 2,
+     "also_in": [
+      "CNBC"
+     ],
+     "boosted": false,
+     "score": 2
+    },
+    {
+     "title": "Mangione Admits to Killing Healthcare CEO Brian Thompson",
+     "url": "https://www.bloomberg.com/news/videos/2026-08-14/mangione-admits-to-killing-healthcare-ceo-brian-thompson-video",
+     "source": "Bloomberg",
+     "summary": "Luigi Mangione pleaded guilty to federal stalking charges related to the fatal shooting of UnitedHealth Group Inc. executive Brian Thompson. Mangione admitted on Friday in New Yor\u2026",
+     "published": "2026-08-14T17:46:05+00:00",
+     "image": null,
+     "kind": "article",
+     "id": "075ea29fac7f3227",
+     "first_seen": "2026-08-14T17:57:50.886216+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
@@ -110,10 +112,10 @@
      "score": 1
     },
     {
-     "title": "JPMorgan Ended Banking Relationship with Polymarket over Regulatory Concerns",
+     "title": "JPMorgan Ended Banking Relationship With Polymarket Over Regulatory Concerns",
      "url": "https://www.wsj.com/finance/banking/jpmorgan-ended-banking-relationship-with-polymarket-over-regulatory-concerns-d8d00d32?mod=rss_markets_main",
      "source": "WSJ",
-     "summary": "The bank maintains some ties to prediction market giant.",
+     "summary": "The move comes as questions about prediction markets and debanking swirl.",
      "published": "2026-08-14T16:56:00+00:00",
      "image": "https://images.wsj.net/im-66638465",
      "kind": "article",
