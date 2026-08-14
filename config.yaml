@@ -283,15 +283,46 @@ sections:
   # Michael Williams' A Continuous Lean, on its own domain. The other
   # menswear Substacks — Wm Brown, RILEY HARPER, IYKYK — belong here too but
   # are all on *.substack.com and return 403.
+  # Substack writers who publish on their own domain — the only ones
+  # reachable from GitHub, since every *.substack.com address returns 403.
+  # Checked across all 66 accounts Paul follows; these four are the entire
+  # set that qualifies.
+  #
+  # No max_age_hours on purpose. These people publish every few weeks, not
+  # every day, so a freshness window would empty the section most mornings.
+  # Expect posts one to two weeks old — that's when they were written, not
+  # a fault in the build.
   - id: dispatches
     title: Dispatches
     kind: headlines
+    limit: 4
     sources:
+      # Michael Williams. Menswear, design, Americana.
       - type: rss
         name: A Continuous Lean
         url:
           - https://www.acl.news/feed
           - https://acontinuouslean.substack.com/feed
-        limit: 3
+        limit: 6
+        show: 2
+      # Food writing, and the most frequent publisher of the four.
+      - type: rss
+        name: Vittles
+        url: https://www.vittlesmagazine.com/feed
+        limit: 6
+        show: 2
+      # Andrew Maness. Cars, objects, design.
+      - type: rss
+        name: This Nice Life
+        url: https://www.thisnicelife.com/feed
+        limit: 6
+        show: 2
+      # Finn Harries. Climate and building things.
+      - type: rss
+        name: The Seeds Will Grow
+        url: https://www.theseedswillgrow.com/feed
+        limit: 6
+        show: 2
+
 
   
