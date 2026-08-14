@@ -124,9 +124,16 @@ const linkTo = (item, cls) => {
   return a;
 };
 
-function leadCard(item) {
+function leadCard(item, withImage) {
   const a = linkTo(item, "lead");
-if (item.also_in && item.also_in.length) {
+  if (withImage && item.image) {
+    const img = el("img", "hero");
+    img.src = item.image;
+    img.alt = "";
+    img.loading = "lazy";
+    a.appendChild(img);
+  }
+  if (item.also_in && item.also_in.length) {
     const c = el("div", "cites");
     c.appendChild(el("b", null, item.source));
     c.appendChild(document.createTextNode(" · " + item.also_in.join(" · ")));
