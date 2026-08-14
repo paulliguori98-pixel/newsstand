@@ -114,7 +114,7 @@ sections:
   - id: news
     title: News
     kind: headlines
-    limit: 5
+    limit: 4
     min_outlets: 2
     max_age_hours: 36
     sources:
@@ -170,6 +170,9 @@ sections:
         limit: 12
     mute:
       - crypto
+      - "readers weigh in"
+      - "opinion"
+      - "letters"
       - "stock to buy"
       - "stocks to buy"
       - "shares to watch"
@@ -197,6 +200,7 @@ sections:
   - id: ai
     title: Artificial Intelligence
     kind: headlines
+    limit: 4
     sources:
       # Jack Clark's own site — the Substack address is blocked.
       - type: rss
