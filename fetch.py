@@ -216,6 +216,7 @@ def build(config: dict, probe: bool = False) -> dict:
         kind = section.get("kind", "headlines")
         boost = section.get("boost", global_boost)
         min_outlets = section.get("min_outlets", 1)
+        drop_features = section.get("drop_features", False)
 
         for source in section.get("sources", []):
             if source.get("enabled") is False:
@@ -248,7 +249,10 @@ def build(config: dict, probe: bool = False) -> dict:
 
         deduped: dict[str, dict] = {}
         for item in collected:
-            if muted(item.get("title", ""), section.get("mute")):
+            title = item.get("title", "")
+            if muted(title, section.get("mute")):
+                continue
+            if drop_features and feature_shaped(title):
                 continue
             iid = item_id(item)
             item["id"] = iid
