@@ -190,7 +190,7 @@ function renderGoods(section) {
 }
 
 const RENDERERS = { headlines: renderHeadlines, goods: renderGoods };
-const WIDE = new Set(["goods"]);
+const WIDE = new Set();
 
 function render(edition) {
   const built = new Date(edition.generated_at);
