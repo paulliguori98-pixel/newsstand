@@ -80,6 +80,20 @@ STOP = {
     "can", "could", "may", "might", "has", "have", "had", "up", "down",
     "out", "off", "than", "then", "them", "there", "here", "first", "last",
 }
+# Constructions that mark an explainer rather than an event. A headline
+# reports something that happened; a feature offers a lens on something
+# ongoing. Opt in per section — essay sections are built out of exactly
+# this shape and have to keep it.
+FEATURE = re.compile(
+    r"^\s*(how|why|what|when|where|who|inside|meet|the rise of|the fall of|"
+    r"the case for|the case against|a brief history|everything you|"
+    r"here's|heres|these are|is it time|should you|what to know)\b",
+    re.I,
+)
+
+
+def feature_shaped(title: str) -> bool:
+    return bool(FEATURE.match(title or ""))
 
 
 def load_config() -> dict:
