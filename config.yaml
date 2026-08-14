@@ -102,6 +102,7 @@ sections:
     # which is the correct outcome and something a feed never gives you.
     limit: 3
     rank: corroboration
+    min_outlets: 2
     max_age_hours: 36
     sources:
       # Order matters under corroboration ranking: when several outlets have
