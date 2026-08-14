@@ -1,31 +1,11 @@
 {
- "generated_at": "2026-08-14T18:47:33.348644+00:00",
+ "generated_at": "2026-08-14T18:54:06.608526+00:00",
  "sections": [
   {
    "id": "news",
    "title": "News",
    "kind": "headlines",
    "items": [
-    {
-     "title": "Luigi Mangione pleads guilty in federal case related to UnitedHealthcare CEO killing",
-     "url": "https://www.cnbc.com/2026/08/14/luigi-mangione-pleads-guilty-brian-thompson-killing.html",
-     "source": "CNBC",
-     "summary": "Mangione's lawyers argue his federal plea bars his prosecution for murder in state court for Brian Thompson's slaying due to New York's double jeopardy law",
-     "published": "2026-08-14T18:43:55+00:00",
-     "image": null,
-     "kind": "article",
-     "id": "c389b2e55cbfb8c5",
-     "first_seen": "2026-08-14T17:12:08.956212+00:00",
-     "is_new": true,
-     "corroboration": 4,
-     "also_in": [
-      "Axios",
-      "Bloomberg",
-      "New York Times"
-     ],
-     "boosted": false,
-     "score": 4
-    },
     {
      "title": "Winning War With Iran Requires Patience, Says Retired Army Brigadier General",
      "url": "https://www.bloomberg.com/news/videos/2026-08-14/iran-war-requires-patience-ret-army-brigadier-general-video",
@@ -67,6 +47,22 @@
      "image": null,
      "kind": "article",
      "id": "4ca629c7de50daf8",
+     "first_seen": "2026-08-14T12:02:12.558099+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
+     "title": "OpenAI sheds senior execs in pre-IPO refresh",
+     "url": "https://www.axios.com/2026/08/14/openai-executive-greg-brockman-ipo",
+     "source": "Axios",
+     "summary": "A wave of top OpenAI executives \u2014 including Sam Altman's top deputy, a longtime chief operating officer and the chief revenue officer \u2014 has left in the span of a month as the comp\u2026",
+     "published": "2026-08-14T09:28:05+00:00",
+     "image": "https://images.axios.com/o5ZqlBnF7SG8ScXfOXYQoBxufck=/0x0:1920x1080/1366x768/2026/02/24/1771970935663.jpeg",
+     "kind": "article",
+     "id": "b08f52f41fe90fbb",
      "first_seen": "2026-08-14T12:02:12.558099+00:00",
      "is_new": true,
      "corroboration": 1,
