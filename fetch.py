@@ -302,6 +302,7 @@ def build(config: dict, probe: bool = False) -> dict:
                 "id": section["id"],
                 "title": section["title"],
                 "kind": kind,
+                "lead_image": section.get("lead_image", False),
                 "items": shown,
             }
         )
