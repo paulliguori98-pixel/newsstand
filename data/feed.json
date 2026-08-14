@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-14T20:02:54.747140+00:00",
+ "generated_at": "2026-08-14T20:58:58.522964+00:00",
  "sections": [
   {
    "id": "news",
@@ -8,15 +8,15 @@
    "lead_image": false,
    "items": [
     {
-     "title": "White House Announces Drone Tariffs to Counter China",
-     "url": "https://www.bloomberg.com/news/videos/2026-08-14/white-house-announces-drone-tariffs-to-counter-china-video",
-     "source": "Bloomberg",
-     "summary": "The Trump Administration announced tariffs on drone imports, seeking to bolster US security and boost domestic defense manufacturing. Bloomberg's Tyler Kendall has the details on \u2026",
-     "published": "2026-08-14T19:45:54+00:00",
+     "title": "Consumer Warning Lights",
+     "url": "https://www.wsj.com/finance/investing/consumer-warning-lights-f1df8c6d?mod=rss_markets_main",
+     "source": "WSJ",
+     "summary": "Plus, oil and Treasury yields rise.",
+     "published": "2026-08-14T20:29:00+00:00",
      "image": null,
      "kind": "article",
-     "id": "b147d31d7ce46d59",
-     "first_seen": "2026-08-14T19:52:06.346291+00:00",
+     "id": "591cec3cfea0dd34",
+     "first_seen": "2026-08-14T20:58:58.522964+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
@@ -56,15 +56,15 @@
      "score": 4
     },
     {
-     "title": "Winning War With Iran Requires Patience, Says Retired Army Brigadier General",
-     "url": "https://www.bloomberg.com/news/videos/2026-08-14/iran-war-requires-patience-ret-army-brigadier-general-video",
+     "title": "Trump Family-Tied Dronemakers (UMAC, PUSA) Get a Boost From New US Tariffs",
+     "url": "https://www.bloomberg.com/news/articles/2026-08-14/trump-family-tied-dronemakers-umac-pusa-get-a-boost-from-new-us-tariffs",
      "source": "Bloomberg",
-     "summary": "Retired US Army Brigadier General Mark Kimmitt said winning a war with Iran will require patience on the side of the United States because Iran follows a model of resistance and w\u2026",
-     "published": "2026-08-14T18:42:04+00:00",
+     "summary": "Drone makers and suppliers, including two companies with ties to the Trump family, rallied Friday after the White House said it\u2019s applying a tariff on imports of unmanned aircraft\u2026",
+     "published": "2026-08-14T15:13:34+00:00",
      "image": null,
      "kind": "article",
-     "id": "ca5feade0e02a21b",
-     "first_seen": "2026-08-14T18:47:33.348644+00:00",
+     "id": "de33d3cc0e019a53",
+     "first_seen": "2026-08-14T20:58:58.522964+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
