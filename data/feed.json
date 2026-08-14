@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-14T19:23:30.490676+00:00",
+ "generated_at": "2026-08-14T19:52:06.346291+00:00",
  "sections": [
   {
    "id": "news",
@@ -7,6 +7,22 @@
    "kind": "headlines",
    "lead_image": false,
    "items": [
+    {
+     "title": "White House Announces Drone Tariffs to Counter China",
+     "url": "https://www.bloomberg.com/news/videos/2026-08-14/white-house-announces-drone-tariffs-to-counter-china-video",
+     "source": "Bloomberg",
+     "summary": "The Trump Administration announced tariffs on drone imports, seeking to bolster US security and boost domestic defense manufacturing. Bloomberg's Tyler Kendall has the details on \u2026",
+     "published": "2026-08-14T19:45:54+00:00",
+     "image": null,
+     "kind": "article",
+     "id": "b147d31d7ce46d59",
+     "first_seen": "2026-08-14T19:52:06.346291+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
     {
      "title": "OpenAI talent exodus raises 'huge red flag' ahead of IPO",
      "url": "https://www.cnbc.com/2026/08/14/open-ai-ipo-red-flag.html",
@@ -54,22 +70,6 @@
      "also_in": [],
      "boosted": true,
      "score": 4
-    },
-    {
-     "title": "OpenAI sheds senior execs in pre-IPO refresh",
-     "url": "https://www.axios.com/2026/08/14/openai-executive-greg-brockman-ipo",
-     "source": "Axios",
-     "summary": "A wave of top OpenAI executives \u2014 including Sam Altman's top deputy, a longtime chief operating officer and the chief revenue officer \u2014 has left in the span of a month as the comp\u2026",
-     "published": "2026-08-14T09:28:05+00:00",
-     "image": "https://images.axios.com/o5ZqlBnF7SG8ScXfOXYQoBxufck=/0x0:1920x1080/1366x768/2026/02/24/1771970935663.jpeg",
-     "kind": "article",
-     "id": "b08f52f41fe90fbb",
-     "first_seen": "2026-08-14T12:02:12.558099+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
     }
    ]
   },
@@ -80,20 +80,36 @@
    "lead_image": false,
    "items": [
     {
-     "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
-     "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
+     "title": "Vulnerability giving attackers full control of Macs is under active exploitation",
+     "url": "https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/",
      "source": "Ars Technica",
-     "summary": "US groups release cheaper models after new challenges to their trillion-dollar ambitions.",
-     "published": "2026-08-14T14:27:14+00:00",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2285566787-1152x648.jpg",
+     "summary": "Screen-sharing bug lets remote hackers log in without a password.",
+     "published": "2026-08-14T18:32:14+00:00",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/macbook-pro-1152x648.jpg",
      "kind": "article",
-     "id": "56f28cd3a41a0cfa",
-     "first_seen": "2026-08-14T17:12:08.956212+00:00",
+     "id": "b74725c02d4516dd",
+     "first_seen": "2026-08-14T19:52:06.346291+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
-     "boosted": true,
-     "score": 4
+     "boosted": false,
+     "score": 1
+    },
+    {
+     "title": "PBS station fears losing 50TB of data after being ghosted by cloud storage provider",
+     "url": "https://arstechnica.com/information-technology/2026/08/pbs-station-fears-losing-50tb-of-data-after-being-ghosted-by-cloud-storage-provider/",
+     "source": "Ars Technica",
+     "summary": "\"We don't have access to the data on the hardware/servers,\" Iron Mountain told Ars.",
+     "published": "2026-08-14T17:03:54+00:00",
+     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2269291893-1024x648.jpg",
+     "kind": "article",
+     "id": "e2a6e77f6a8f7b62",
+     "first_seen": "2026-08-14T19:52:06.346291+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": false,
+     "score": 1
     },
     {
      "title": "sqlite-utils 4.2.1",
@@ -105,22 +121,6 @@
      "kind": "article",
      "id": "3a85f23ac32bfa82",
      "first_seen": "2026-08-14T12:02:12.558099+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": false,
-     "score": 1
-    },
-    {
-     "title": "Private security firms will soon be allowed to hack overseas cybercriminals",
-     "url": "https://arstechnica.com/security/2026/08/white-house-recruits-security-firms-to-hack-overseas-cybercriminals/",
-     "source": "Ars Technica",
-     "summary": "Trump memo is first time gov't has authorized private sector to perform cyberattacks.",
-     "published": "2026-08-13T19:38:58+00:00",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/security-illustration-skull-1152x648-1783710141.jpg",
-     "kind": "article",
-     "id": "285cb3fe6043e8c5",
-     "first_seen": "2026-08-13T19:53:24.096846+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
