@@ -17,22 +17,26 @@ and shown on all.html. That file only grows: retailers don't publish
 backdated arrivals, so a record can only be built forward.
 
 ── How headlines are ranked ──────────────────────────────────────────────
-Every `headlines` section groups items describing the same event, then
-scores each story:
+Every `headlines` section groups items describing the same event, then:
 
     score = number of outlets that ran it  (+3 if it hits a boost keyword)
 
-Corroboration is what newsrooms agreed on. Boost keywords are what Paul
-cares about. Combined, a strait closure or a rate decision outranks a
-widely-covered story about nothing, and a story only one outlet carried can
-still lead if it's on the list.
+`min_outlets` then drops anything below a corroboration floor — the idea
+being that a story only one newsroom carried is that newsroom's editorial
+choice rather than an event. A boosted story survives the floor regardless,
+because the keywords exist precisely to rescue quietly important news that
+hasn't been widely picked up yet.
 
-The top-scoring story becomes the section's lead and is rendered large; the
-rest run as compact lines beneath it.
+Set the floor per section, not globally: World & Nation draws on five
+outlets that overlap constantly, while Business has three that rarely run
+the same story, so the same floor would empty it most mornings.
 
-Two honest limits. Corroboration measures coverage, not importance — those
-diverge whenever the press is collectively excited. And keywords are literal
-substring matches, so "rate" also matches "accurate". Keep the list specific.
+Each surviving story keeps `also_in` — the other outlets that ran it — so
+the page can print "WSJ · NYT · CNBC" as a citation line.
+
+Two honest limits. Corroboration measures coverage, not importance, and the
+two diverge whenever the press is collectively excited. And keywords match
+literal substrings, so "rate" also matches "accurate".
 """
 
 from __future__ import annotations
@@ -49,7 +53,7 @@ import yaml
 
 from sources import html_watch, notes, pinterest, rss, shopify
 
-VERSION = "0.9"
+VERSION = "1.0"
 ROOT = Path(__file__).parent
 DATA = ROOT / "data"
 ADAPTERS = {
@@ -136,11 +140,11 @@ def same_story(a: set[str], b: set[str]) -> bool:
     return shared >= 2 and shared / min(len(a), len(b)) >= 0.5
 
 
-def ranked_stories(items: list[dict], boost: list[str]) -> list[dict]:
-    """One entry per story, best first.
+def ranked_stories(items: list[dict], boost: list[str], min_outlets: int) -> list[dict]:
+    """One entry per story, best first, below-floor stories removed.
 
     The representative is the earliest-listed source in config order, which
-    is why source order in the file is an editorial preference.
+    makes source order an editorial preference rather than a roster.
     """
     boost = [b.lower() for b in boost or []]
     clusters: list[dict] = []
@@ -156,14 +160,18 @@ def ranked_stories(items: list[dict], boost: list[str]) -> list[dict]:
 
     out = []
     for cluster in clusters:
-        outlets = {i.get("source", "") for i in cluster["items"]}
+        outlets = {i.get("source", "") for i in cluster["items"] if i.get("source")}
         lead = cluster["items"][0]
+        title = (lead.get("title") or "").lower()
+        boosted = any(b in title for b in boost)
+
+        if len(outlets) < min_outlets and not boosted:
+            continue
+
         lead["corroboration"] = len(outlets)
         lead["also_in"] = sorted(o for o in outlets if o != lead.get("source"))
-        title = (lead.get("title") or "").lower()
-        hits = [b for b in boost if b in title]
-        lead["boosted"] = bool(hits)
-        lead["score"] = len(outlets) + (BOOST_POINTS if hits else 0)
+        lead["boosted"] = boosted
+        lead["score"] = len(outlets) + (BOOST_POINTS if boosted else 0)
         out.append(lead)
 
     out.sort(key=lambda i: (i.get("score", 1), sort_key(i)), reverse=True)
@@ -187,6 +195,7 @@ def build(config: dict, probe: bool = False) -> dict:
         limit = section.get("limit", default_limit)
         kind = section.get("kind", "headlines")
         boost = section.get("boost", global_boost)
+        min_outlets = section.get("min_outlets", 1)
 
         for source in section.get("sources", []):
             if source.get("enabled") is False:
@@ -238,11 +247,11 @@ def build(config: dict, probe: bool = False) -> dict:
                     for k in ("title", "url", "source", "image", "price", "published", "first_seen")
                 }
 
-        # Headlines get grouped and scored; products keep date order.
-        candidates = ranked_stories(everything, boost) if kind == "headlines" else everything
+        if kind == "headlines":
+            candidates = ranked_stories(everything, boost, min_outlets)
+        else:
+            candidates = everything
 
-        # Per-source caps still apply, so one prolific outlet can't take the
-        # whole section even when it scores well.
         per_source: dict[str, int] = {}
         shown = []
         for item in candidates:
