@@ -103,20 +103,21 @@ settings:
 
 sections:
 
-  - id: world
-    title: World & Nation
+  -   # One news section, not two. Splitting World and Business meant each was
+  # measuring corroboration against its own handful of outlets — five and
+  # three — so the same OpenAI story could lead both at once. Merged, every
+  # story is checked against all eight newsrooms, which is the point at
+  # which "two outlets ran it" starts to mean something.
+  #
+  # Source order is editorial: when several outlets have the same story, the
+  # one listed first supplies the headline.
+  - id: news
+    title: News
     kind: headlines
-    # Three lines, ranked by how many outlets ran the story. On a big day
-    # that's the big thing; on a quiet day you get three lines and move on,
-    # which is the correct outcome and something a feed never gives you.
-    limit: 3
-    rank: corroboration
+    limit: 5
     min_outlets: 2
     max_age_hours: 36
     sources:
-      # Order matters under corroboration ranking: when several outlets have
-      # the same story, the one listed first supplies the headline. So this
-      # is an editorial preference, not a roster.
       - type: rss
         name: New York Times
         url:
@@ -124,11 +125,17 @@ sections:
           - https://rss.nytimes.com/services/xml/rss/nyt/World.xml
           - https://rss.nytimes.com/services/xml/rss/nyt/US.xml
         limit: 12
-      # BBC and the Guardian aren't here for their politics — they're here
-      # because agreement only means something across independent
-      # newsrooms, and two non-US outlets change what registers as major.
-      # A strait closure leads everywhere; a Washington process story often
-      # doesn't leave the country.
+      - type: rss
+        name: WSJ
+        url:
+          - https://feeds.content.dowjones.io/public/rss/RSSMarketsMain
+          - https://feeds.content.dowjones.io/public/rss/WSJcomUSBusiness
+          - https://feeds.content.dowjones.io/public/rss/RSSWorldNews
+        limit: 12
+      # BBC and the Guardian aren't here for their politics — agreement only
+      # means something across independent newsrooms, and two non-US outlets
+      # change what registers as major. A strait closure leads everywhere; a
+      # Washington process story often doesn't leave the country.
       - type: rss
         name: BBC
         url: https://feeds.bbci.co.uk/news/world/rss.xml
@@ -141,26 +148,6 @@ sections:
         name: Guardian
         url: https://www.theguardian.com/world/rss
         limit: 12
-      - type: rss
-        name: Axios
-        url:
-          - https://api.axios.com/feed/
-          - https://api.axios.com/feed/business
-        limit: 12
-
-  - id: business
-    title: Business
-    kind: headlines
-    limit: 4
-    max_age_hours: 36
-    sources:
-      - type: rss
-        name: WSJ
-        url:
-          - https://feeds.content.dowjones.io/public/rss/RSSMarketsMain
-          - https://feeds.content.dowjones.io/public/rss/WSJcomUSBusiness
-          - https://feeds.content.dowjones.io/public/rss/RSSWorldNews
-        limit: 3
       # 100003114 is CNBC Top News. 10001147 is the Inside Wealth features
       # stream — fallback only.
       - type: rss
@@ -168,13 +155,19 @@ sections:
         url:
           - https://www.cnbc.com/id/100003114/device/rss/rss.html
           - https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10001147
-        limit: 3
+        limit: 12
       - type: rss
         name: Bloomberg
         url:
           - https://feeds.bloomberg.com/markets/news.rss
           - https://feeds.bloomberg.com/business/news.rss
-        limit: 2
+        limit: 12
+      - type: rss
+        name: Axios
+        url:
+          - https://api.axios.com/feed/
+          - https://api.axios.com/feed/business
+        limit: 12
     mute:
       - crypto
       - "stock to buy"
@@ -191,11 +184,16 @@ sections:
       - "i inherited"
       - "here's why you"
       - "inside wealth"
-      # Bloomberg TV segments — market chatter, not news.
       - "belly of the curve"
+      # Follow-ups rather than news. Corroboration can't tell reporting from
+      # reaction, so a big story keeps generating qualifying analysis for
+      # days after the event itself.
+      - "what's next"
+      - "what to know"
+      - "takeaways"
+      - "explained"
+      - "here's what"
 
-  # No max_age_hours here on purpose: these are newsletters and essays, and
-  # a good one doesn't expire in 36 hours the way a market story does.
   - id: ai
     title: Artificial Intelligence
     kind: headlines
