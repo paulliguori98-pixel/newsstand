@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-13T21:53:09.120670+00:00",
+ "generated_at": "2026-08-14T12:02:12.558099+00:00",
  "sections": [
   {
    "id": "world",
@@ -7,48 +7,45 @@
    "kind": "headlines",
    "items": [
     {
-     "title": "Kennedy Center board restores Trump's name, testing judge",
-     "url": "https://www.axios.com/2026/08/13/trump-kennedy-center-name-board-court-order",
-     "source": "Axios",
-     "summary": "The Kennedy Center board voted Thursday to again add President Trump's name to the John F. Kennedy Center for the Performing Arts, two anonymous sources told Axios.Why it matters:\u2026",
-     "published": "2026-08-13T21:36:42+00:00",
-     "image": "https://images.axios.com/w6ExgMJ2kdzuC_YaITmL8TtHXsQ=/0x521:5000x3333/1366x768/2026/08/13/1786646275395.jpeg",
+     "title": "'Unprecedented' rain in Japan kills eight people",
+     "url": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "summary": "The storm cut power to more than 20,000 households and left 7,000 people stranded at Tokyo's Narita airport.",
+     "published": "2026-08-14T10:36:14+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6687/live/c392f100-97c3-11f1-a7ab-8b30adf0800a.jpg",
      "kind": "article",
-     "id": "37cca3a248012828",
-     "first_seen": "2026-08-13T18:46:10.395167+00:00",
-     "is_new": true,
-     "corroboration": 3,
-     "also_in": [
-      "NPR",
-      "New York Times"
-     ]
-    },
-    {
-     "title": "Luigi Mangione, Facing Stalking Charges in Federal Court, Is Expected to Plead Guilty",
-     "url": "https://www.nytimes.com/2026/08/13/nyregion/luigi-mangione-guilty-plea-federal.html",
-     "source": "New York Times",
-     "summary": "He is charged with stalking resulting in the death of an executive, but the specifics of his plea were unclear. A murder trial in state court is set for next month.",
-     "published": "2026-08-13T20:19:28+00:00",
-     "image": "https://static01.nyt.com/images/2026/08/12/multimedia/00met-mangione-gbqv/00met-mangione-gbqv-mediumSquareAt3X-v2.jpg",
-     "kind": "article",
-     "id": "62ed335704f4f9b0",
-     "first_seen": "2026-08-13T20:55:23.714875+00:00",
+     "id": "3c023a579eff4ae4",
+     "first_seen": "2026-08-14T12:02:12.558099+00:00",
      "is_new": true,
      "corroboration": 2,
      "also_in": [
-      "NPR"
+      "Guardian"
      ]
     },
     {
-     "title": "U.S.S. Abraham Lincoln Has Been Deployed for Months, Prompting Concerns",
-     "url": "https://www.nytimes.com/2026/08/13/us/uss-abraham-lincoln-iran-navy.html",
+     "title": "Farage Wins Special U.K. Election That He Initiated, as Expected",
+     "url": "https://www.nytimes.com/2026/08/14/world/europe/farage-binface-clacton-result-byelection.html",
      "source": "New York Times",
-     "summary": "The U.S.S. Abraham Lincoln has been deployed for nearly nine months. Members of Congress are worried about the crew\u2019s well-being.",
-     "published": "2026-08-13T21:49:04+00:00",
-     "image": "https://static01.nyt.com/images/2026/08/13/multimedia/13dc-military-iran-kqvm/13dc-military-iran-kqvm-mediumSquareAt3X.jpg",
+     "summary": "Nigel Farage, the leader of Reform U.K., won the Clacton by-election with 63 percent. Count Binface, a novelty candidate, came second with 27 percent, a personal best.",
+     "published": "2026-08-14T11:56:55+00:00",
+     "image": "https://static01.nyt.com/images/2026/08/14/multimedia/14int-uk-farage-results-hfo-hzpf/14int-uk-farage-results-hfo-hzpf-mediumSquareAt3X.jpg",
      "kind": "article",
-     "id": "eb83b53503b81eb8",
-     "first_seen": "2026-08-13T21:25:15.115586+00:00",
+     "id": "00fa9031d912a1b7",
+     "first_seen": "2026-08-14T12:02:12.558099+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": []
+    },
+    {
+     "title": "Presidential vote counting halted in Zambia over alleged attacks on polling staff",
+     "url": "https://www.bbc.co.uk/news/articles/c5yr8r04edvo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "summary": "The electoral commission said violence had \"resulted in the theft of marked ballot papers\".",
+     "published": "2026-08-14T11:37:31+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3018/live/da9b86e0-97b0-11f1-a7ab-8b30adf0800a.jpg",
+     "kind": "article",
+     "id": "e9f2b0724217c7a6",
+     "first_seen": "2026-08-14T12:02:12.558099+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": []
@@ -61,51 +58,51 @@
    "kind": "headlines",
    "items": [
     {
-     "title": "Cool Inflation Data Propels Stocks to Fresh Records",
-     "url": "https://www.wsj.com/finance/stocks/cool-inflation-data-propels-stocks-to-fresh-records-cf7e46a9?mod=rss_markets_main",
-     "source": "WSJ",
-     "summary": "Wall Street now expects the Federal Reserve to hold rates steady next month.",
-     "published": "2026-08-13T20:47:00+00:00",
-     "image": "https://images.wsj.net/im-37188867",
-     "kind": "article",
-     "id": "a9985fe138212184",
-     "first_seen": "2026-08-13T20:55:23.714875+00:00",
-     "is_new": true
-    },
-    {
-     "title": "Stocks Hit New Highs on Inflation Relief",
-     "url": "https://www.wsj.com/finance/stocks/stocks-hit-new-highs-on-inflation-relief-2049c5d4?mod=rss_markets_main",
-     "source": "WSJ",
-     "summary": "Plus, Coach owner Tapestry tumbles and Workday soars.",
-     "published": "2026-08-13T20:23:00+00:00",
-     "image": "https://images.wsj.net/im-07262909",
-     "kind": "article",
-     "id": "1f04eb649bd5789c",
-     "first_seen": "2026-08-13T20:40:11.305324+00:00",
-     "is_new": true
-    },
-    {
-     "title": "Workday shares post best day in 10 years on Silver Lake takeover report",
-     "url": "https://www.cnbc.com/2026/08/13/workday-skyrockets-25percent-before-trading-halted-on-report-of-silver-lake-takeover.html",
+     "title": "Treasury yields are little changed as U.S. threatens Iran with more economic sanctions",
+     "url": "https://www.cnbc.com/2026/08/14/treasury-yields-us-iran-economic-sanctions.html",
      "source": "CNBC",
-     "summary": "Workday investors have been on edge over the prospect of AI disrupting its business model",
-     "published": "2026-08-13T20:07:24+00:00",
+     "summary": "U.S. Treasury yields were relatively unchanged on Friday after the U.S. said its naval blockade of Iranian ports could continue \"indefinitely.\"",
+     "published": "2026-08-14T11:52:36+00:00",
      "image": null,
      "kind": "article",
-     "id": "c3517f2463e86ebe",
-     "first_seen": "2026-08-13T19:01:18.715704+00:00",
+     "id": "6d811e461991323a",
+     "first_seen": "2026-08-14T12:02:12.558099+00:00",
      "is_new": true
     },
     {
-     "title": "Trade court upholds Trump's closure of 'de minimis' loophole",
-     "url": "https://www.cnbc.com/2026/08/13/trump-trade-court-de-minimis-tariffs-ieepa.html",
-     "source": "CNBC",
-     "summary": "President Donald Trump in a Truth Social post celebrated the continued closure of the deminimis exemption as a \"BIG WIN.\"",
-     "published": "2026-08-13T19:56:06+00:00",
+     "title": "\u2018FOMO Insurance\u2019 Drives Options Buying Spree as Stocks Rally On",
+     "url": "https://www.bloomberg.com/news/articles/2026-08-14/-fomo-insurance-drives-options-buying-spree-as-stocks-rally-on",
+     "source": "Bloomberg",
+     "summary": "As the stock market keeps surging to record highs, a growing worry among investors isn\u2019t that it may come tumbling back down. It\u2019s fear of missing out.",
+     "published": "2026-08-14T11:48:56+00:00",
      "image": null,
      "kind": "article",
-     "id": "ebd99f7192aa6a07",
-     "first_seen": "2026-08-13T20:40:11.305324+00:00",
+     "id": "dcca9e1a13beac14",
+     "first_seen": "2026-08-14T12:02:12.558099+00:00",
+     "is_new": true
+    },
+    {
+     "title": "\u2018Absolutely unacceptable\u2019: Japan PM Takaichi condemns Putin\u2019s visit to disputed Kuril Islands",
+     "url": "https://www.cnbc.com/2026/08/14/putin-kuril-islands-japan.html",
+     "source": "CNBC",
+     "summary": "Japan protested Vladimir Putin\u2019s first visit to the disputed Kuril Islands, escalating tensions over territory claimed by both Tokyo and Moscow.",
+     "published": "2026-08-14T11:13:00+00:00",
+     "image": null,
+     "kind": "article",
+     "id": "998b3b6573278e2c",
+     "first_seen": "2026-08-14T12:02:12.558099+00:00",
+     "is_new": true
+    },
+    {
+     "title": "Companies Have Rarely Had Such Great Expectations",
+     "url": "https://www.wsj.com/finance/stocks/companies-have-rarely-had-such-great-expectations-c5824f70?mod=rss_markets_main",
+     "source": "WSJ",
+     "summary": "Plus, a big shift in rate hike odds",
+     "published": "2026-08-14T10:29:00+00:00",
+     "image": "https://images.wsj.net/im-04477464",
+     "kind": "article",
+     "id": "8c6181578a927f39",
+     "first_seen": "2026-08-14T12:02:12.558099+00:00",
      "is_new": true
     }
    ]
@@ -116,6 +113,30 @@
    "kind": "headlines",
    "items": [
     {
+     "title": "sqlite-utils 4.2.1",
+     "url": "https://simonwillison.net/2026/Aug/13/sqlite-utils-2/",
+     "source": "Simon Willison",
+     "summary": "Release: sqlite-utils 4.2.1 Fixes a crashing bug in sqlite-utils 4.2. I'd introduced code that looks like this: from typing_extensions import Self It turned out the typing-extensi\u2026",
+     "published": "2026-08-13T23:53:47+00:00",
+     "image": null,
+     "kind": "article",
+     "id": "3a85f23ac32bfa82",
+     "first_seen": "2026-08-14T12:02:12.558099+00:00",
+     "is_new": true
+    },
+    {
+     "title": "sqlite-utils 4.2",
+     "url": "https://simonwillison.net/2026/Aug/13/sqlite-utils/",
+     "source": "Simon Willison",
+     "summary": "Release: sqlite-utils 4.2 Lots of improvements in this one relating to the table.transform() feature, which adds support for complex alter table operations by creating a fresh tab\u2026",
+     "published": "2026-08-13T20:11:29+00:00",
+     "image": null,
+     "kind": "article",
+     "id": "9ae5cf1d718fd9b3",
+     "first_seen": "2026-08-14T12:02:12.558099+00:00",
+     "is_new": true
+    },
+    {
      "title": "Private security firms will soon be allowed to hack overseas cybercriminals",
      "url": "https://arstechnica.com/security/2026/08/white-house-recruits-security-firms-to-hack-overseas-cybercriminals/",
      "source": "Ars Technica",
@@ -125,30 +146,6 @@
      "kind": "article",
      "id": "285cb3fe6043e8c5",
      "first_seen": "2026-08-13T19:53:24.096846+00:00",
-     "is_new": true
-    },
-    {
-     "title": "Introducing Gemini 3.7 Flash",
-     "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
-     "source": "Google DeepMind",
-     "summary": "",
-     "published": "2026-08-13T17:04:18+00:00",
-     "image": null,
-     "kind": "article",
-     "id": "068e562e05123807",
-     "first_seen": "2026-08-13T17:13:41.231451+00:00",
-     "is_new": true
-    },
-    {
-     "title": "The builder\u2019s guide to GPT\u20115.6",
-     "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
-     "source": "OpenAI",
-     "summary": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
-     "published": "2026-08-13T11:00:00+00:00",
-     "image": null,
-     "kind": "article",
-     "id": "855fa77e93e122bb",
-     "first_seen": "2026-08-13T18:24:14.746237+00:00",
      "is_new": true
     }
    ]
@@ -326,6 +323,30 @@
    "kind": "headlines",
    "items": [
     {
+     "title": "Vittles Reviews: A weekend in London\u2019s Little Portugal",
+     "url": "https://www.vittlesmagazine.com/p/vittles-reviews-a-weekend-in-londons",
+     "source": "Vittles",
+     "summary": "Searching for the Lost Espetada, by Bartolomeo Sala. Photographs by Tommaso Serra.",
+     "published": "2026-08-14T08:49:07+00:00",
+     "image": "https://substackcdn.com/image/fetch/$s_!uG8T!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7215467a-fa01-4587-b893-87ae2acb6ae2_2000x3000.jpeg",
+     "kind": "article",
+     "id": "f17157cc4cb265b3",
+     "first_seen": "2026-08-14T12:02:12.558099+00:00",
+     "is_new": true
+    },
+    {
+     "title": "High and Mighty: 13 Favorite Tall Flowering Plants",
+     "url": "https://www.gardenista.com/posts/favorite-tall-flowering-plants/",
+     "source": "Gardenista",
+     "summary": "Designing a garden can often feel like a puzzle as you build the layers of plants and try to time the parade of blooms. Reading Stephen Orr\u2019s recent book The Gardener\u2019s Mindset go\u2026",
+     "published": "2026-08-14T08:00:21+00:00",
+     "image": null,
+     "kind": "article",
+     "id": "a907fab66158d596",
+     "first_seen": "2026-08-14T12:02:12.558099+00:00",
+     "is_new": true
+    },
+    {
      "title": "Secrets from the Lost Kitchen: How to Arrange Flowers like a Self-Taught Maine Chef",
      "url": "https://www.gardenista.com/posts/how-to-arrange-flowers-erin-french-lost-kitchen-maine/",
      "source": "Gardenista",
@@ -334,30 +355,6 @@
      "image": null,
      "kind": "article",
      "id": "a38124f6820f9ac3",
-     "first_seen": "2026-08-13T13:18:48.510709+00:00",
-     "is_new": true
-    },
-    {
-     "title": "Expert Advice: The Head Gardener at Thyme in the Cotswolds, on Growing Crops in a Hoop House",
-     "url": "https://www.gardenista.com/posts/polytunnel-hoop-house-thyme-hotel-cotswolds/",
-     "source": "Gardenista",
-     "summary": "A hoop house tour might not sound like the most glamorous experience, but at Thyme Hotel, Restaurant, and Spa near Lechlade, England, food is so central to the stay, it follows th\u2026",
-     "published": "2026-08-12T08:00:46+00:00",
-     "image": null,
-     "kind": "article",
-     "id": "2ff35b1a7d5ee81e",
-     "first_seen": "2026-08-13T13:18:48.510709+00:00",
-     "is_new": true
-    },
-    {
-     "title": "The rise of tablescaping influencers",
-     "url": "https://www.vittlesmagazine.com/p/tablescalping",
-     "source": "Vittles",
-     "summary": "Timi Sotire on the new hosting and tablescaping influencers, for whom food is often an afterthought. Illustration by Jess Nash.",
-     "published": "2026-08-10T07:20:54+00:00",
-     "image": "https://substackcdn.com/image/fetch/$s_!WSYl!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F12ac251f-ba3c-4b40-93ed-6a211a3532f9_1800x1200.heic",
-     "kind": "article",
-     "id": "35abfafc9b016636",
      "first_seen": "2026-08-13T13:18:48.510709+00:00",
      "is_new": true
     }
