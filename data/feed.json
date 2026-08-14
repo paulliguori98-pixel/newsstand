@@ -1,11 +1,63 @@
 {
- "generated_at": "2026-08-14T18:25:27.829997+00:00",
+ "generated_at": "2026-08-14T18:33:37.731912+00:00",
  "sections": [
   {
-   "id": "world",
-   "title": "World & Nation",
+   "id": "news",
+   "title": "News",
    "kind": "headlines",
    "items": [
+    {
+     "title": "Luigi Mangione pleads guilty to stalking UnitedHealthcare CEO, admits killing him",
+     "url": "https://www.axios.com/2026/08/14/luigi-mangione-plea-trial-brian-thompson-case",
+     "source": "Axios",
+     "summary": "Luigi Mangione pleaded guilty Friday in federal court to stalking charges tied to the 2024 killing of UnitedHealthcare CEO Brian Thompson, per multiple reports.Why it matters: Man\u2026",
+     "published": "2026-08-14T18:20:23+00:00",
+     "image": "https://images.axios.com/u3FDt5GV4Gjg9ZmX7dKGiwsEweQ=/0x48:1947x1143/1366x768/2026/08/13/1786639713796.jpeg",
+     "kind": "article",
+     "id": "e925d9f683ad1c46",
+     "first_seen": "2026-08-14T17:12:08.956212+00:00",
+     "is_new": true,
+     "corroboration": 4,
+     "also_in": [
+      "Bloomberg",
+      "CNBC",
+      "New York Times"
+     ],
+     "boosted": false,
+     "score": 4
+    },
+    {
+     "title": "OpenAI talent exodus raises 'huge red flag' ahead of IPO",
+     "url": "https://www.cnbc.com/2026/08/14/open-ai-ipo-red-flag.html",
+     "source": "CNBC",
+     "summary": "OpenAI's C-suite turnover gives investors another reason for concern as the company pushes toward a mammoth IPO.",
+     "published": "2026-08-14T18:11:11+00:00",
+     "image": null,
+     "kind": "article",
+     "id": "55bba1085c772640",
+     "first_seen": "2026-08-14T17:12:08.956212+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
+     "title": "How a niche copper trade became a real-time gauge of Trump\u2019s next tariff move",
+     "url": "https://www.cnbc.com/2026/08/14/copper-trump-tariffs-metal-commodities-trade-war.html",
+     "source": "CNBC",
+     "summary": "The widening price of copper between two metals exchanges is offering investors a gauge of U.S. tariff risk.",
+     "published": "2026-08-14T13:24:54+00:00",
+     "image": null,
+     "kind": "article",
+     "id": "4ca629c7de50daf8",
+     "first_seen": "2026-08-14T12:02:12.558099+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
     {
      "title": "OpenAI sheds senior execs in pre-IPO refresh",
      "url": "https://www.axios.com/2026/08/14/openai-executive-greg-brockman-ipo",
@@ -37,95 +89,6 @@
      "also_in": [],
      "boosted": true,
      "score": 4
-    },
-    {
-     "title": "Luigi Mangione pleads guilty to stalking UnitedHealthcare CEO, admits killing him",
-     "url": "https://www.axios.com/2026/08/14/luigi-mangione-plea-trial-brian-thompson-case",
-     "source": "Axios",
-     "summary": "Luigi Mangione pleaded guilty Friday in federal court to stalking charges tied to the 2024 killing of UnitedHealthcare CEO Brian Thompson, per multiple reports.Why it matters: Man\u2026",
-     "published": "2026-08-14T18:20:23+00:00",
-     "image": "https://images.axios.com/u3FDt5GV4Gjg9ZmX7dKGiwsEweQ=/0x48:1947x1143/1366x768/2026/08/13/1786639713796.jpeg",
-     "kind": "article",
-     "id": "e925d9f683ad1c46",
-     "first_seen": "2026-08-14T17:12:08.956212+00:00",
-     "is_new": true,
-     "corroboration": 2,
-     "also_in": [
-      "New York Times"
-     ],
-     "boosted": false,
-     "score": 2
-    }
-   ]
-  },
-  {
-   "id": "business",
-   "title": "Business",
-   "kind": "headlines",
-   "items": [
-    {
-     "title": "OpenAI talent exodus raises 'huge red flag' ahead of IPO",
-     "url": "https://www.cnbc.com/2026/08/14/open-ai-ipo-red-flag.html",
-     "source": "CNBC",
-     "summary": "OpenAI's C-suite turnover gives investors another reason for concern as the company pushes toward a mammoth IPO.",
-     "published": "2026-08-14T18:11:11+00:00",
-     "image": null,
-     "kind": "article",
-     "id": "55bba1085c772640",
-     "first_seen": "2026-08-14T17:12:08.956212+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "The Equity and Credit Disconnect Is Getting Really Big Again",
-     "url": "https://www.bloomberg.com/news/newsletters/2026-08-14/the-equity-and-credit-disconnect-is-getting-really-big-again",
-     "source": "Bloomberg",
-     "summary": "Are stocks missing something?",
-     "published": "2026-08-14T18:15:58+00:00",
-     "image": null,
-     "kind": "article",
-     "id": "465580d9ea29b5f9",
-     "first_seen": "2026-08-14T18:25:27.829997+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": false,
-     "score": 1
-    },
-    {
-     "title": "JPMorgan Ended Banking Relationship With Polymarket Over Regulatory Concerns",
-     "url": "https://www.wsj.com/finance/banking/jpmorgan-ended-banking-relationship-with-polymarket-over-regulatory-concerns-d8d00d32?mod=rss_markets_main",
-     "source": "WSJ",
-     "summary": "The move comes as questions about prediction markets and debanking swirl.",
-     "published": "2026-08-14T16:56:00+00:00",
-     "image": "https://images.wsj.net/im-66638465",
-     "kind": "article",
-     "id": "002465bb1c95eb2c",
-     "first_seen": "2026-08-14T17:12:08.956212+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": false,
-     "score": 1
-    },
-    {
-     "title": "Trump asks Supreme Court to let White House ballroom construction continue",
-     "url": "https://www.cnbc.com/2026/08/14/trump-ballroom-supreme-court-white-house.html",
-     "source": "CNBC",
-     "summary": "President Donald Trump tore down the White House East Wing to make way for the ballroom project.",
-     "published": "2026-08-14T15:11:41+00:00",
-     "image": null,
-     "kind": "article",
-     "id": "ffdf50ba37dcb7c1",
-     "first_seen": "2026-08-14T17:12:08.956212+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": false,
-     "score": 1
     }
    ]
   },
