@@ -24,6 +24,73 @@ settings:
   new_window_days: 4
   timeout: 20
   user_agent: "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36"
+    # ── Boost keywords ────────────────────────────────────────────────────
+  # A story scores +3 if its headline contains any of these, which is
+  # enough to outrank a story two outlets ran. This is the "obviously
+  # important" half of the ranking — corroboration says what newsrooms
+  # agreed on, this says what you care about.
+  #
+  # Matching is literal and case-insensitive on the headline only, so keep
+  # entries specific: "rate" would also match "accurate", which is why the
+  # list below says "interest rate" and "rate cut" instead.
+  #
+  # Edit freely. Cutting a line is as useful as adding one — if something
+  # keeps leading that you don't care about, the word that pulled it up is
+  # probably here.
+  boost:
+    # Loss of life and disaster
+    - killed
+    - dead
+    - dies
+    - death toll
+    - earthquake
+    - hurricane
+    - wildfire
+    - flooding
+    - evacuat
+    - crash
+    # War and security
+    - strike
+    - invasion
+    - ceasefire
+    - hostage
+    - missile
+    - troops
+    - nuclear
+    - sanctions
+    # Chokepoints and trade — the Hormuz case
+    - hormuz
+    - strait
+    - blockade
+    - tariff
+    - embargo
+    - supply chain
+    # Money that moves things
+    - interest rate
+    - rate cut
+    - rate hike
+    - federal reserve
+    - inflation
+    - recession
+    - jobs report
+    - default
+    # Power changing hands
+    - resigns
+    - steps down
+    - ousted
+    - impeach
+    - coup
+    - election result
+    - sworn in
+    # Companies at scale
+    - acquisition
+    - merger
+    - bankruptcy
+    - layoffs
+    - ipo
+    - antitrust
+    - recall
+
 
 sections:
 
