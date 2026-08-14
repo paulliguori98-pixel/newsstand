@@ -1,11 +1,43 @@
 {
- "generated_at": "2026-08-14T19:04:26.805505+00:00",
+ "generated_at": "2026-08-14T19:10:08.174656+00:00",
  "sections": [
   {
    "id": "news",
    "title": "News",
    "kind": "headlines",
    "items": [
+    {
+     "title": "OpenAI talent exodus raises 'huge red flag' ahead of IPO",
+     "url": "https://www.cnbc.com/2026/08/14/open-ai-ipo-red-flag.html",
+     "source": "CNBC",
+     "summary": "OpenAI's C-suite turnover gives investors another reason for concern as the company pushes toward a mammoth IPO.",
+     "published": "2026-08-14T19:07:11+00:00",
+     "image": null,
+     "kind": "article",
+     "id": "55bba1085c772640",
+     "first_seen": "2026-08-14T17:12:08.956212+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
+     "title": "DOJ Charges Kentucky Woman in World War II Memorial Vandalism Case",
+     "url": "https://www.nytimes.com/2026/08/14/us/politics/world-war-2-memorial-vandalism.html",
+     "source": "New York Times",
+     "summary": "Two felony charges have been filed against a Kentucky woman after spray paint was seen on the memorial in the capital.",
+     "published": "2026-08-14T19:04:23+00:00",
+     "image": "https://static01.nyt.com/images/2026/08/14/multimedia/14trump-news-vandalism-ww2-memorial-tkqg/14trump-news-vandalism-ww2-memorial-tkqg-mediumSquareAt3X.jpg",
+     "kind": "article",
+     "id": "b78d957fcb49d180",
+     "first_seen": "2026-08-14T19:10:08.174656+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
     {
      "title": "Winning War With Iran Requires Patience, Says Retired Army Brigadier General",
      "url": "https://www.bloomberg.com/news/videos/2026-08-14/iran-war-requires-patience-ret-army-brigadier-general-video",
@@ -23,22 +55,6 @@
      "score": 4
     },
     {
-     "title": "OpenAI talent exodus raises 'huge red flag' ahead of IPO",
-     "url": "https://www.cnbc.com/2026/08/14/open-ai-ipo-red-flag.html",
-     "source": "CNBC",
-     "summary": "OpenAI's C-suite turnover gives investors another reason for concern as the company pushes toward a mammoth IPO.",
-     "published": "2026-08-14T18:11:11+00:00",
-     "image": null,
-     "kind": "article",
-     "id": "55bba1085c772640",
-     "first_seen": "2026-08-14T17:12:08.956212+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
      "title": "OpenAI sheds senior execs in pre-IPO refresh",
      "url": "https://www.axios.com/2026/08/14/openai-executive-greg-brockman-ipo",
      "source": "Axios",
@@ -47,22 +63,6 @@
      "image": "https://images.axios.com/o5ZqlBnF7SG8ScXfOXYQoBxufck=/0x0:1920x1080/1366x768/2026/02/24/1771970935663.jpeg",
      "kind": "article",
      "id": "b08f52f41fe90fbb",
-     "first_seen": "2026-08-14T12:02:12.558099+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "US says dozens of countries helped China dodge Trump's tariffs",
-     "url": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "summary": "A new US report said China had moved goods through nations with lower tariffs to dodge higher levies.",
-     "published": "2026-08-14T08:39:46+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8fc/live/12e1de40-977b-11f1-a8a8-85d648bbf002.jpg",
-     "kind": "article",
-     "id": "eeffef378099e8e8",
      "first_seen": "2026-08-14T12:02:12.558099+00:00",
      "is_new": true,
      "corroboration": 1,
