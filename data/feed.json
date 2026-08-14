@@ -1,10 +1,11 @@
 {
- "generated_at": "2026-08-14T19:13:56.331364+00:00",
+ "generated_at": "2026-08-14T19:14:26.725755+00:00",
  "sections": [
   {
    "id": "news",
    "title": "News",
    "kind": "headlines",
+   "lead_image": false,
    "items": [
     {
      "title": "OpenAI talent exodus raises 'huge red flag' ahead of IPO",
@@ -76,6 +77,7 @@
    "id": "ai",
    "title": "Artificial Intelligence",
    "kind": "headlines",
+   "lead_image": false,
    "items": [
     {
      "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
@@ -147,6 +149,7 @@
    "id": "goods",
    "title": "New In",
    "kind": "goods",
+   "lead_image": false,
    "items": [
     {
      "title": "Cinnamon Japanese Cool Cashmere Knit Tee",
@@ -271,6 +274,7 @@
    "id": "dispatches",
    "title": "Dispatches",
    "kind": "headlines",
+   "lead_image": true,
    "items": [
     {
      "title": "Vittles Reviews: A weekend in London\u2019s Little Portugal",
