@@ -134,6 +134,7 @@ if (item.also_in && item.also_in.length) {
     a.appendChild(el("span", "label", item.source));
   }
   const h = el("h3", null, item.title);
+  a.appendChild(h);
   if (item.summary) a.appendChild(el("p", null, item.summary));
   // How much weight is behind this: how many newsrooms ran it, and whether
   // it matched a boost keyword. Shown so a thin lead is visibly thin.
@@ -148,6 +149,7 @@ function rowCard(item) {
   const a = linkTo(item, "row");
   a.appendChild(el("span", "label", item.source));
   const h = el("h3", null, item.title);
+  a.appendChild(h);
   return a;
 }
 
