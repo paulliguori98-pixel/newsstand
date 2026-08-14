@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-14T18:00:20.241129+00:00",
+ "generated_at": "2026-08-14T18:03:39.617120+00:00",
  "sections": [
   {
    "id": "world",
@@ -78,19 +78,19 @@
      "score": 4
     },
     {
-     "title": "Luigi Mangione Pleads Guilty in US Case Over CEO Killing",
-     "url": "https://www.bloomberg.com/news/videos/2026-08-14/luigi-mangione-pleads-guilty-in-us-case-over-ceo-killing-video",
-     "source": "Bloomberg",
-     "summary": "Luigi Mangione pleaded guilty in a federal case over the fatal shooting of UnitedHealth Group executive Brian Thompson in December 2024. (Source: Bloomberg)",
-     "published": "2026-08-14T17:50:10+00:00",
+     "title": "Luigi Mangione pleads guilty in federal case related to UnitedHealthcare CEO killing",
+     "url": "https://www.cnbc.com/2026/08/14/luigi-mangione-pleads-guilty-brian-thompson-killing.html",
+     "source": "CNBC",
+     "summary": "Mangione's lawyers immediately argued his federal plea means he cannot be prosecuted in state court for Brian Thompson's slaying due to double jeopardy.",
+     "published": "2026-08-14T18:01:07+00:00",
      "image": null,
      "kind": "article",
-     "id": "bd6723a5e4a776ed",
-     "first_seen": "2026-08-14T17:57:50.886216+00:00",
+     "id": "c389b2e55cbfb8c5",
+     "first_seen": "2026-08-14T17:12:08.956212+00:00",
      "is_new": true,
      "corroboration": 2,
      "also_in": [
-      "CNBC"
+      "Bloomberg"
      ],
      "boosted": false,
      "score": 2
