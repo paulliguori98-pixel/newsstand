@@ -4,7 +4,9 @@ on:
   schedule:
     # 05:40 ET — set before you're up, so the page is waiting.
     # GitHub runs cron in UTC and skips runs on repo inactivity after 60 days.
-    - cron: "40 9 * * *"
+    # Every 20 minutes, 6am–7pm ET. GitHub treats schedules as best-effort,
+    # so expect 20–40 minute gaps in practice rather than a strict clock.
+    - cron: "*/20 10-23 * * *"
   workflow_dispatch:        # lets you rebuild by hand from the Actions tab
   push:
     branches: [main]
