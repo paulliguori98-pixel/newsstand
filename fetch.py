@@ -16,15 +16,23 @@ Everything collected from a `goods` section is merged into data/archive.json
 and shown on all.html. That file only grows: retailers don't publish
 backdated arrivals, so a record can only be built forward.
 
-── Ranking by corroboration ──────────────────────────────────────────────
-A section with `rank: corroboration` groups headlines describing the same
-event and ranks them by how many outlets ran it. If NYT, NPR, the BBC and
-the Guardian all lead with something, that's what "major" looks like; a
-story only one outlet is running is that outlet's editorial choice.
+── How headlines are ranked ──────────────────────────────────────────────
+Every `headlines` section groups items describing the same event, then
+scores each story:
 
-It measures coverage, not importance. Those agree on strait closures and
-plane crashes and disagree on whatever the press is collectively excited
-about. Still the best signal available without paying a model to judge.
+    score = number of outlets that ran it  (+3 if it hits a boost keyword)
+
+Corroboration is what newsrooms agreed on. Boost keywords are what Paul
+cares about. Combined, a strait closure or a rate decision outranks a
+widely-covered story about nothing, and a story only one outlet carried can
+still lead if it's on the list.
+
+The top-scoring story becomes the section's lead and is rendered large; the
+rest run as compact lines beneath it.
+
+Two honest limits. Corroboration measures coverage, not importance — those
+diverge whenever the press is collectively excited. And keywords are literal
+substring matches, so "rate" also matches "accurate". Keep the list specific.
 """
 
 from __future__ import annotations
@@ -41,7 +49,7 @@ import yaml
 
 from sources import html_watch, notes, pinterest, rss, shopify
 
-VERSION = "0.8"
+VERSION = "0.9"
 ROOT = Path(__file__).parent
 DATA = ROOT / "data"
 ADAPTERS = {
@@ -53,8 +61,7 @@ ADAPTERS = {
 }
 
 WORD = re.compile(r"[a-z0-9']+")
-# Dropped before comparing headlines: they carry no signal about which story
-# is which, and leaving them in makes everything look ~30% similar.
+BOOST_POINTS = 3
 STOP = {
     "a", "an", "the", "and", "or", "but", "of", "in", "on", "at", "to", "for",
     "from", "by", "with", "as", "is", "are", "was", "were", "be", "been",
@@ -129,7 +136,13 @@ def same_story(a: set[str], b: set[str]) -> bool:
     return shared >= 2 and shared / min(len(a), len(b)) >= 0.5
 
 
-def by_corroboration(items: list[dict]) -> list[dict]:
+def ranked_stories(items: list[dict], boost: list[str]) -> list[dict]:
+    """One entry per story, best first.
+
+    The representative is the earliest-listed source in config order, which
+    is why source order in the file is an editorial preference.
+    """
+    boost = [b.lower() for b in boost or []]
     clusters: list[dict] = []
     for item in items:
         keys = keywords(item.get("title", ""))
@@ -141,16 +154,20 @@ def by_corroboration(items: list[dict]) -> list[dict]:
         else:
             clusters.append({"keys": keys, "items": [item]})
 
-    ranked = []
+    out = []
     for cluster in clusters:
         outlets = {i.get("source", "") for i in cluster["items"]}
         lead = cluster["items"][0]
         lead["corroboration"] = len(outlets)
         lead["also_in"] = sorted(o for o in outlets if o != lead.get("source"))
-        ranked.append(lead)
+        title = (lead.get("title") or "").lower()
+        hits = [b for b in boost if b in title]
+        lead["boosted"] = bool(hits)
+        lead["score"] = len(outlets) + (BOOST_POINTS if hits else 0)
+        out.append(lead)
 
-    ranked.sort(key=lambda i: (i.get("corroboration", 1), sort_key(i)), reverse=True)
-    return ranked
+    out.sort(key=lambda i: (i.get("score", 1), sort_key(i)), reverse=True)
+    return out
 
 
 def build(config: dict, probe: bool = False) -> dict:
@@ -160,6 +177,7 @@ def build(config: dict, probe: bool = False) -> dict:
     archive = {} if probe else load_json("archive.json")
     new_cutoff = now - timedelta(days=settings.get("new_window_days", 4))
     default_limit = settings.get("per_section_limit", 12)
+    global_boost = settings.get("boost", [])
 
     sections, errors, probe_report = [], [], []
 
@@ -167,8 +185,8 @@ def build(config: dict, probe: bool = False) -> dict:
         collected = []
         max_age = section.get("max_age_hours")
         limit = section.get("limit", default_limit)
-        is_goods = section.get("kind") == "goods"
-        ranking = section.get("rank")
+        kind = section.get("kind", "headlines")
+        boost = section.get("boost", global_boost)
 
         for source in section.get("sources", []):
             if source.get("enabled") is False:
@@ -213,27 +231,29 @@ def build(config: dict, probe: bool = False) -> dict:
 
         everything = sorted(deduped.values(), key=sort_key, reverse=True)
 
-        if is_goods and not probe:
+        if kind == "goods" and not probe:
             for item in everything:
                 archive[item["id"]] = {
                     k: item.get(k)
                     for k in ("title", "url", "source", "image", "price", "published", "first_seen")
                 }
 
-        if ranking == "corroboration":
-            shown = by_corroboration(everything)[:limit]
-        else:
-            per_source: dict[str, int] = {}
-            shown = []
-            for item in everything:
-                name = item.get("source", "")
-                cap = item.get("_show", limit)
-                if per_source.get(name, 0) >= cap:
-                    continue
-                per_source[name] = per_source.get(name, 0) + 1
-                shown.append(item)
-                if len(shown) >= limit:
-                    break
+        # Headlines get grouped and scored; products keep date order.
+        candidates = ranked_stories(everything, boost) if kind == "headlines" else everything
+
+        # Per-source caps still apply, so one prolific outlet can't take the
+        # whole section even when it scores well.
+        per_source: dict[str, int] = {}
+        shown = []
+        for item in candidates:
+            name = item.get("source", "")
+            cap = item.get("_show", limit)
+            if per_source.get(name, 0) >= cap:
+                continue
+            per_source[name] = per_source.get(name, 0) + 1
+            shown.append(item)
+            if len(shown) >= limit:
+                break
 
         for item in everything:
             item.pop("_show", None)
@@ -242,7 +262,7 @@ def build(config: dict, probe: bool = False) -> dict:
             {
                 "id": section["id"],
                 "title": section["title"],
-                "kind": section.get("kind", "headlines"),
+                "kind": kind,
                 "items": shown,
             }
         )
