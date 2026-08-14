@@ -238,7 +238,7 @@ sections:
   - id: goods
     title: New In
     kind: goods
-    limit: 9
+    limit: 4
     sources:
       # limit = how many to COLLECT into the archive each run.
       # show  = how many reach the front page.
@@ -248,13 +248,13 @@ sections:
         handle: sid-mashburn-new-arrivals
         require_tags: [LineDescr_Mens]
         limit: 24
-        show: 3
+        show: 1
       - type: shopify
         name: Drake's
         domain: us.drakes.com
         currency_symbol: "$"
         limit: 24
-        show: 2
+        show: 1
       # Not Shopify. Server-rendered, so the scraper can read it. The :has()
       # selector keeps this to men's — their page mixes genders and men's
       # URLs are prefixed /products/m-. Price renders as "220" with the $
@@ -270,7 +270,7 @@ sections:
         price_selector: "span.Heading--serif"
         currency_symbol: "$"
         limit: 24
-        show: 2
+        show: 1
       # Shopify headless — /products.json and .atom all 404. Tiles are empty
       # shells server-side, so title_attr rebuilds the name from the handle
       # slug. No price exists server-side and there is deliberately no
@@ -284,7 +284,7 @@ sections:
         link_selector: 'a[href*="/products/"]'
         image_selector: 'img[src*="/BM"], img'
         limit: 24
-        show: 2
+        show: 1
 
   # Michael Williams' A Continuous Lean, on its own domain. The other
   # menswear Substacks — Wm Brown, RILEY HARPER, IYKYK — belong here too but
