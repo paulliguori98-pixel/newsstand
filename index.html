@@ -163,7 +163,8 @@ function rowCard(item) {
 
 function renderHeadlines(section) {
   const box = el("div", "stories");
-  section.items.forEach((item, i) => box.appendChild(i === 0 ? leadCard(item) : rowCard(item)));
+  section.items.forEach((item, i) =>
+    box.appendChild(i === 0 ? leadCard(item, section.lead_image) : rowCard(item)));
   return box;
 }
 
