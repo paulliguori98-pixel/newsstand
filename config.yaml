@@ -103,7 +103,7 @@ settings:
 
 sections:
 
-  -   # One news section, not two. Splitting World and Business meant each was
+  # One news section, not two. Splitting World and Business meant each was
   # measuring corroboration against its own handful of outlets — five and
   # three — so the same OpenAI story could lead both at once. Merged, every
   # story is checked against all eight newsrooms, which is the point at
