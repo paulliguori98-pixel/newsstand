@@ -21,22 +21,26 @@ Every `headlines` section groups items describing the same event, then:
 
     score = number of outlets that ran it  (+3 if it hits a boost keyword)
 
-`min_outlets` then drops anything below a corroboration floor — the idea
-being that a story only one newsroom carried is that newsroom's editorial
-choice rather than an event. A boosted story survives the floor regardless,
-because the keywords exist precisely to rescue quietly important news that
-hasn't been widely picked up yet.
+`min_outlets` drops anything below a corroboration floor, on the premise
+that a story one newsroom carried is that newsroom's editorial choice
+rather than an event. A boosted story survives the floor regardless —
+that's what the keywords are for, and it's also why the list must stay
+tight: every extra word is another bypass.
 
-Set the floor per section, not globally: World & Nation draws on five
-outlets that overlap constantly, while Business has three that rarely run
-the same story, so the same floor would empty it most mornings.
+── One story, one place ──────────────────────────────────────────────────
+Grouping used to run per section, so the same event could headline two
+sections at once: Axios covers business, CNBC covers general news, and both
+World and Business would independently lead with the same OpenAI story.
 
-Each surviving story keeps `also_in` — the other outlets that ran it — so
-the page can print "WSJ · NYT · CNBC" as a citation line.
+A story is now claimed by the FIRST section that takes it, and later
+sections skip it. Section order in config.yaml therefore decides who wins a
+shared story — World sits above Business, so a story both could carry ends
+up in World. Swap the sections to reverse that.
 
-Two honest limits. Corroboration measures coverage, not importance, and the
-two diverge whenever the press is collectively excited. And keywords match
-literal substrings, so "rate" also matches "accurate".
+Two honest limits. Corroboration measures coverage, not importance. And
+because it can't tell reporting from reaction, a big story keeps producing
+qualifying follow-ups ("What's Next for…") for days; mute that vocabulary
+in the section if it becomes tiresome.
 """
 
 from __future__ import annotations
@@ -53,7 +57,7 @@ import yaml
 
 from sources import html_watch, notes, pinterest, rss, shopify
 
-VERSION = "1.0"
+VERSION = "1.1"
 ROOT = Path(__file__).parent
 DATA = ROOT / "data"
 ADAPTERS = {
@@ -172,6 +176,7 @@ def ranked_stories(items: list[dict], boost: list[str], min_outlets: int) -> lis
         lead["also_in"] = sorted(o for o in outlets if o != lead.get("source"))
         lead["boosted"] = boosted
         lead["score"] = len(outlets) + (BOOST_POINTS if boosted else 0)
+        lead["_keys"] = cluster["keys"]
         out.append(lead)
 
     out.sort(key=lambda i: (i.get("score", 1), sort_key(i)), reverse=True)
@@ -188,6 +193,7 @@ def build(config: dict, probe: bool = False) -> dict:
     global_boost = settings.get("boost", [])
 
     sections, errors, probe_report = [], [], []
+    claimed: list[set] = []  # stories already placed, so no section repeats one
 
     for section in config.get("sections", []):
         collected = []
@@ -247,25 +253,31 @@ def build(config: dict, probe: bool = False) -> dict:
                     for k in ("title", "url", "source", "image", "price", "published", "first_seen")
                 }
 
-        if kind == "headlines":
-            candidates = ranked_stories(everything, boost, min_outlets)
-        else:
-            candidates = everything
+        headlines = kind == "headlines"
+        candidates = ranked_stories(everything, boost, min_outlets) if headlines else everything
 
         per_source: dict[str, int] = {}
         shown = []
         for item in candidates:
+            keys = item.get("_keys") or keywords(item.get("title", ""))
+            if headlines and any(same_story(keys, taken) for taken in claimed):
+                continue  # an earlier section already ran this story
+
             name = item.get("source", "")
             cap = item.get("_show", limit)
             if per_source.get(name, 0) >= cap:
                 continue
+
             per_source[name] = per_source.get(name, 0) + 1
             shown.append(item)
+            if headlines:
+                claimed.append(keys)
             if len(shown) >= limit:
                 break
 
         for item in everything:
             item.pop("_show", None)
+            item.pop("_keys", None)
 
         sections.append(
             {
