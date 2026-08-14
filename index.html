@@ -127,6 +127,12 @@ const linkTo = (item, cls) => {
 function leadCard(item) {
   const a = linkTo(item, "lead");
   a.appendChild(el("span", "label", item.source));
+  if (item.also_in && item.also_in.length) {
+    const c = el("div", "cites");
+    c.appendChild(el("b", null, item.source));
+    c.appendChild(document.createTextNode(" · " + item.also_in.join(" · ")));
+    a.appendChild(c);
+  }
   const h = el("h3", null, item.title);
   if (item.is_new) h.appendChild(el("span", "tick"));
   a.appendChild(h);
