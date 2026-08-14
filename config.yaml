@@ -302,6 +302,7 @@ sections:
     title: Dispatches
     kind: headlines
     limit: 4
+    lead_image: true
     sources:
       # Michael Williams. Menswear, design, Americana.
       - type: rss
