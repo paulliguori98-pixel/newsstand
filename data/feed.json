@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-14T19:52:06.346291+00:00",
+ "generated_at": "2026-08-14T19:57:01.132259+00:00",
  "sections": [
   {
    "id": "news",
@@ -165,19 +165,6 @@
      "is_new": true
     },
     {
-     "title": "Tobacco Seafarer Cotton Rib Crew",
-     "url": "https://www.buckmason.com/products/tobacco-seafarer-cotton-rib-crew",
-     "source": "Buck Mason",
-     "summary": "",
-     "published": null,
-     "image": "https://cdn.shopify.com/s/files/1/0123/5065/2473/files/BM16351.999TOB_TOBACCOSEAFARERCOTTONRIBCREW_1.jpg?v=1784334177&format=webp&width=700&height=700",
-     "price": null,
-     "kind": "product",
-     "id": "472f67c9ff83ca03",
-     "first_seen": "2026-08-14T17:12:08.956212+00:00",
-     "is_new": true
-    },
-    {
      "title": "Run Cannonball Run Linen Popover",
      "url": "https://www.tracksmith.com/products/m-rcr-linen-popover?sku=MT225801CDB",
      "source": "Tracksmith",
@@ -187,19 +174,6 @@
      "price": "$165",
      "kind": "product",
      "id": "651302b0da88dd1c",
-     "first_seen": "2026-08-13T18:33:33.597069+00:00",
-     "is_new": true
-    },
-    {
-     "title": "Van Cortlandt Singlet",
-     "url": "https://www.tracksmith.com/products/m-van-cortlandt-singlet?sku=MT21401AWCLG",
-     "source": "Tracksmith",
-     "summary": "",
-     "published": null,
-     "image": "https://cdn.shopify.com/s/files/1/1594/4353/files/Summer26-Mens-Van-Cortlandt-Singlet-Ivory-Classic-Green.png?v=1778876154?auto=format,compress&crop=faces&dpr=2&fit=crop&h=400&w=400",
-     "price": "$75",
-     "kind": "product",
-     "id": "84f6aee68c20c6b8",
      "first_seen": "2026-08-13T18:33:33.597069+00:00",
      "is_new": true
     },
@@ -217,32 +191,6 @@
      "is_new": true
     },
     {
-     "title": "Kincaid No. 3 Jacket in Airforce Hopsack",
-     "url": "https://shopmashburn.com/products/sid-mashburn-kincaid-no-3-jacket-airforce-hopsack-s80626",
-     "source": "Sid Mashburn",
-     "summary": "Sid Sport Jackets",
-     "published": "2026-08-13T09:54:53-04:00",
-     "image": "https://cdn.shopify.com/s/files/1/0414/4532/6999/files/S80626_0073.jpg?v=1786541650",
-     "price": "$1,695",
-     "kind": "product",
-     "id": "b661c44a9e06ad08",
-     "first_seen": "2026-08-13T13:58:09.770489+00:00",
-     "is_new": true
-    },
-    {
-     "title": "Chore Jacket in Red Melton",
-     "url": "https://shopmashburn.com/products/sid-mashburn-chore-jacket-red-melton-s80198",
-     "source": "Sid Mashburn",
-     "summary": "Sid Outerwear",
-     "published": "2026-08-13T09:54:52-04:00",
-     "image": "https://cdn.shopify.com/s/files/1/0414/4532/6999/files/S80198_0017.jpg?v=1786541467",
-     "price": "$450",
-     "kind": "product",
-     "id": "fc594ae18159e4dc",
-     "first_seen": "2026-08-13T13:58:09.770489+00:00",
-     "is_new": true
-    },
-    {
      "title": "Blue Linen Drawstring Shorts",
      "url": "https://us.drakes.com/products/blue-linen-drawstring-shorts",
      "source": "Drake's",
@@ -252,19 +200,6 @@
      "price": "$325",
      "kind": "product",
      "id": "c86cf8bc355a5c27",
-     "first_seen": "2026-08-13T17:30:38.293102+00:00",
-     "is_new": true
-    },
-    {
-     "title": "Indigo Dyed Chore Jacket",
-     "url": "https://us.drakes.com/products/indigo-dyed-chore-jacket",
-     "source": "Drake's",
-     "summary": "Chore Jackets",
-     "published": "2026-08-06T04:39:58-04:00",
-     "image": "https://cdn.shopify.com/s/files/1/0649/6603/3653/files/IndigoStillLife26_06_10108792_17841b47-1319-428b-a4a8-588a57e78889.jpg?v=1786026290",
-     "price": "$895",
-     "kind": "product",
-     "id": "22d1f71eef601938",
      "first_seen": "2026-08-13T17:30:38.293102+00:00",
      "is_new": true
     }
