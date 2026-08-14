@@ -130,6 +130,8 @@ if (item.also_in && item.also_in.length) {
     c.appendChild(el("b", null, item.source));
     c.appendChild(document.createTextNode(" · " + item.also_in.join(" · ")));
     a.appendChild(c);
+  } else {
+    a.appendChild(el("span", "label", item.source));
   }
   const h = el("h3", null, item.title);
   if (item.is_new) h.appendChild(el("span", "tick"));
