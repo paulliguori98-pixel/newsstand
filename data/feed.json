@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-14T20:58:58.522964+00:00",
+ "generated_at": "2026-08-14T21:53:58.031273+00:00",
  "sections": [
   {
    "id": "news",
@@ -7,6 +7,22 @@
    "kind": "headlines",
    "lead_image": false,
    "items": [
+    {
+     "title": "Jane Street Suffers Loss of About $15 Billion Following Troubles at Situational Awareness",
+     "url": "https://www.wsj.com/finance/investing/jane-street-suffers-loss-of-about-15-billion-due-to-troubles-at-situation-awareness-9be40c51?mod=rss_markets_main",
+     "source": "WSJ",
+     "summary": "The powerhouse Wall Street trading firm lost about $15 billion in July from the troubles at hedge fund Situational Awareness, say people familiar with the situation.",
+     "published": "2026-08-14T21:51:00+00:00",
+     "image": "https://images.wsj.net/im-39341467",
+     "kind": "article",
+     "id": "5d1e1dee436b8d3f",
+     "first_seen": "2026-08-14T21:53:58.031273+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
     {
      "title": "Consumer Warning Lights",
      "url": "https://www.wsj.com/finance/investing/consumer-warning-lights-f1df8c6d?mod=rss_markets_main",
@@ -49,22 +65,6 @@
      "kind": "article",
      "id": "b78d957fcb49d180",
      "first_seen": "2026-08-14T19:10:08.174656+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "Trump Family-Tied Dronemakers (UMAC, PUSA) Get a Boost From New US Tariffs",
-     "url": "https://www.bloomberg.com/news/articles/2026-08-14/trump-family-tied-dronemakers-umac-pusa-get-a-boost-from-new-us-tariffs",
-     "source": "Bloomberg",
-     "summary": "Drone makers and suppliers, including two companies with ties to the Trump family, rallied Friday after the White House said it\u2019s applying a tariff on imports of unmanned aircraft\u2026",
-     "published": "2026-08-14T15:13:34+00:00",
-     "image": null,
-     "kind": "article",
-     "id": "de33d3cc0e019a53",
-     "first_seen": "2026-08-14T20:58:58.522964+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
