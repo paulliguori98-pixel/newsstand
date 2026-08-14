@@ -37,59 +37,68 @@ settings:
   # Edit freely. Cutting a line is as useful as adding one — if something
   # keeps leading that you don't care about, the word that pulled it up is
   # probably here.
+    # ── Boost keywords ────────────────────────────────────────────────────
+  # A story scores +3 if its headline contains any of these, and a boosted
+  # story also survives `min_outlets` even when only one newsroom ran it.
+  # That second effect is why this list has to stay tight: every extra word
+  # is another way for a single-outlet story to bypass the corroboration
+  # floor. The first draft had 46 entries and let everything through.
+  #
+  # The test each entry has to pass: would knowing this change a decision,
+  # a plan, or a belief? Not "is it dramatic" — dramatic is what a wire
+  # optimises for already.
+  #
+  # Matching is literal and case-insensitive, headline only. Keep entries
+  # specific: "rate" would also match "accurate".
   boost:
-    # Loss of life and disaster
-    - killed
-    - dead
-    - dies
-    - death toll
-    - earthquake
-    - hurricane
-    - wildfire
-    - flooding
-    - evacuat
-    - crash
-    # War and security
-    - strike
-    - invasion
-    - ceasefire
-    - hostage
-    - missile
-    - troops
-    - nuclear
-    - sanctions
-    # Chokepoints and trade — the Hormuz case
-    - hormuz
-    - strait
-    - blockade
-    - tariff
-    - embargo
-    - supply chain
-    # Money that moves things
+    # The cost of money — moves plans, budgets, hiring
     - interest rate
     - rate cut
     - rate hike
     - federal reserve
     - inflation
-    - recession
     - jobs report
-    - default
-    # Power changing hands
-    - resigns
-    - steps down
-    - ousted
-    - impeach
-    - coup
-    - election result
-    - sworn in
-    # Companies at scale
+    - recession
+    # The rules changing — one ruling reshapes an industry's economics
+    - antitrust
+    - supreme court rules
+    - export controls
+    - sanctions
+    - tariff
+    - trade deal
+    # Physical constraints — where one event propagates through everything
+    - hormuz
+    - strait
+    - blockade
+    - embargo
+    - supply chain
+    - semiconductor
+    - rare earth
+    - oil prices
+    # Capital at scale — where sophisticated money is moving
     - acquisition
     - merger
+    - acquires
     - bankruptcy
-    - layoffs
     - ipo
-    - antitrust
-    - recall
+    - layoffs
+    # Genuine ruptures — deliberately short
+    - war
+    - invasion
+    - ceasefire
+    - nuclear
+    - coup
+    - resigns
+    - steps down
+    #
+    # Deliberately NOT here, and worth knowing why:
+    #   trump, china, ai        — in too many headlines to discriminate
+    #   stocks, rally, surges   — market noise, not information
+    #   slams, blasts, viral    — outrage packaging
+    #   dies, killed, wildfire  — tragic but rarely decision-relevant, and
+    #                             genuine catastrophes clear the floor on
+    #                             corroboration alone without a keyword
+
 
 
 sections:
@@ -287,35 +296,4 @@ sections:
           - https://acontinuouslean.substack.com/feed
         limit: 3
 
-  - id: garden-table
-    title: Garden & Table
-    kind: headlines
-    sources:
-      - type: rss
-        name: Vittles
-        url: https://www.vittlesmagazine.com/feed
-        limit: 2
-      - type: rss
-        name: Margaret Roach
-        url:
-          - https://awaytogarden.com/feed/atom/
-          - https://awaytogarden.com/feed/rss2/
-          - https://awaytogarden.com/feed/
-        limit: 2
-      - type: rss
-        name: Gardenista
-        url: https://www.gardenista.com/feed/
-        limit: 2
-      - type: rss
-        name: NYBG Plant Talk
-        url: https://www.nybg.org/blogs/plant-talk/feed/
-        limit: 2
-      # Food52 returns 429 on every address — GitHub's shared IPs throttled.
-      - type: rss
-        name: Food52
-        url:
-          - https://food52.com/blog/feed
-          - https://food52.com/rss
-          - https://food52.com/blog.rss
-        limit: 2
-         
+  
