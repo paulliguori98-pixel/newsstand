@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-15T15:42:40.948796+00:00",
+ "generated_at": "2026-08-15T16:54:57.946616+00:00",
  "sections": [
   {
    "id": "news",
@@ -7,6 +7,22 @@
    "kind": "headlines",
    "lead_image": false,
    "items": [
+    {
+     "title": "The Risk-Amplifying Strategy That Led to Big Losses at Situational Awareness",
+     "url": "https://www.wsj.com/finance/investing/the-risk-amplifying-strategy-that-led-to-big-losses-at-situational-awareness-9e033786?mod=rss_markets_main",
+     "source": "WSJ",
+     "summary": "WSJ\u2019s Peter Rudegeair explains what Wall Street calls a \u2018Texas hedge\u2019\u2014and how the Situational Awareness hedge fund used it to bet big on artificial intelligence.",
+     "published": "2026-08-15T16:03:00+00:00",
+     "image": "https://images.wsj.net/im-64478129",
+     "kind": "article",
+     "id": "087a77ee894aab6d",
+     "first_seen": "2026-08-15T16:54:57.946616+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
     {
      "title": "Drone Swarms Push AI Deeper Into Modern Warfare",
      "url": "https://www.bloomberg.com/news/videos/2026-08-15/drone-swarms-push-ai-deeper-into-modern-warfare-video",
@@ -49,22 +65,6 @@
      "kind": "article",
      "id": "20472af8545b8536",
      "first_seen": "2026-08-15T10:50:30.576804+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "US-Iran War Risks Repeated Cycles of Fighting",
-     "url": "https://www.bloomberg.com/news/videos/2026-08-15/us-iran-war-risks-repeated-cycles-of-fighting-video",
-     "source": "Bloomberg",
-     "summary": "Shifting US objectives and neither side able to secure a decisive military victory make a lasting resolution difficult and Bloomberg Economics Defense Lead Becca Wasser says risks\u2026",
-     "published": "2026-08-15T13:37:42+00:00",
-     "image": null,
-     "kind": "article",
-     "id": "eb054d74e9b7bad6",
-     "first_seen": "2026-08-15T14:43:58.042493+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
