@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-15T19:01:24.558067+00:00",
+ "generated_at": "2026-08-15T19:51:59.174353+00:00",
  "sections": [
   {
    "id": "news",
@@ -40,22 +40,6 @@
      "score": 4
     },
     {
-     "title": "Iran Says Qatar Captured Three of Its Pilots Early in War With U.S.",
-     "url": "https://www.nytimes.com/2026/08/15/world/middleeast/iran-missing-pilots-qatar.html",
-     "source": "New York Times",
-     "summary": "Iran said the airmen have been held since March 2 when their fighter jets were shot down. The Qatari government has not commented.",
-     "published": "2026-08-15T14:52:47+00:00",
-     "image": "https://static01.nyt.com/images/2026/08/15/multimedia/15int-iran-qatar-wjhm/15int-iran-qatar-wjhm-mediumSquareAt3X.jpg",
-     "kind": "article",
-     "id": "0d28b9bcb4acb9b2",
-     "first_seen": "2026-08-15T15:42:40.948796+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
      "title": "South Korea proposes talks to officially end war with North",
      "url": "https://www.bbc.co.uk/news/articles/c8en2z9jp2xo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
@@ -65,6 +49,22 @@
      "kind": "article",
      "id": "20472af8545b8536",
      "first_seen": "2026-08-15T10:50:30.576804+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
+     "title": "US-Iran War Risks Repeated Cycles of Fighting",
+     "url": "https://www.bloomberg.com/news/videos/2026-08-15/us-iran-war-risks-repeated-cycles-of-fighting-video",
+     "source": "Bloomberg",
+     "summary": "Shifting US objectives and neither side able to secure a decisive military victory make a lasting resolution difficult and Bloomberg Economics Defense Lead Becca Wasser says risks\u2026",
+     "published": "2026-08-15T13:37:42+00:00",
+     "image": null,
+     "kind": "article",
+     "id": "eb054d74e9b7bad6",
+     "first_seen": "2026-08-15T14:43:58.042493+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
