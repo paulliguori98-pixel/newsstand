@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-15T22:51:11.144434+00:00",
+ "generated_at": "2026-08-15T23:41:05.573584+00:00",
  "sections": [
   {
    "id": "news",
@@ -7,6 +7,22 @@
    "kind": "headlines",
    "lead_image": false,
    "items": [
+    {
+     "title": "State Department spokesperson on Iran war and U.S. visa revocations",
+     "url": "https://www.npr.org/2026/08/15/nx-s1-5931811/state-department-spokesperson-on-iran-war-and-u-s-visa-revocations",
+     "source": "NPR",
+     "summary": "NPR's Rob Schmitz speaks with State Department spokesperson Tommy Pigott about the with Iran and the hundreds of thousands of foreign nationals who have had their U.S. visa revoke\u2026",
+     "published": "2026-08-15T21:20:51+00:00",
+     "image": null,
+     "kind": "article",
+     "id": "5c391bab2b718634",
+     "first_seen": "2026-08-15T23:41:05.573584+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
     {
      "title": "Iran rebuffs Trump's claim over Strait of Hormuz amid report of another ship being struck",
      "url": "https://www.cnbc.com/2026/08/15/iran-rebuffs-trumps-claim-over-hormuz-amid-report-of-ship-strike.html",
@@ -49,22 +65,6 @@
      "kind": "article",
      "id": "bb7594ffefac4fff",
      "first_seen": "2026-08-15T15:42:40.948796+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "US-Iran War Risks Repeated Cycles of Fighting",
-     "url": "https://www.bloomberg.com/news/videos/2026-08-15/us-iran-war-risks-repeated-cycles-of-fighting-video",
-     "source": "Bloomberg",
-     "summary": "Shifting US objectives and neither side able to secure a decisive military victory make a lasting resolution difficult and Bloomberg Economics Defense Lead Becca Wasser says risks\u2026",
-     "published": "2026-08-15T13:37:42+00:00",
-     "image": null,
-     "kind": "article",
-     "id": "eb054d74e9b7bad6",
-     "first_seen": "2026-08-15T14:43:58.042493+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
