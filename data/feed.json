@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-16T10:51:40.050481+00:00",
+ "generated_at": "2026-08-16T11:42:21.750334+00:00",
  "sections": [
   {
    "id": "news",
@@ -7,24 +7,6 @@
    "kind": "headlines",
    "lead_image": false,
    "items": [
-    {
-     "title": "Ukraine launches one of its largest aerial attacks of the war, killing at least 6 people in Russia",
-     "url": "https://www.npr.org/2026/08/16/nx-s1-5933006/ukraine-aerial-attack-6-dead-russia",
-     "source": "NPR",
-     "summary": "Ukraine launched hundreds of drones across Russia Sunday, killing at least six people in one of Kyiv's largest aerial attacks of the war.",
-     "published": "2026-08-16T10:12:09+00:00",
-     "image": null,
-     "kind": "article",
-     "id": "85acd6d5e907b94d",
-     "first_seen": "2026-08-16T10:51:40.050481+00:00",
-     "is_new": true,
-     "corroboration": 2,
-     "also_in": [
-      "BBC"
-     ],
-     "boosted": true,
-     "score": 5
-    },
     {
      "title": "As Iran War Turns Into Economic Battle, a New U.S. Strategy Recalls Old Ones",
      "url": "https://www.nytimes.com/2026/08/16/world/middleeast/iran-war-us-trump.html",
@@ -66,6 +48,22 @@
      "image": "https://static01.nyt.com/images/2026/08/15/multimedia/15dc-trump-ai-kgfl/15dc-trump-ai-kgfl-mediumSquareAt3X.jpg",
      "kind": "article",
      "id": "f5222c74901dda81",
+     "first_seen": "2026-08-16T10:51:40.050481+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
+     "title": "India Readies Big LPG Output Boost as Hormuz Uncertainty Lingers",
+     "url": "https://www.bloomberg.com/news/articles/2026-08-16/india-readies-big-lpg-output-boost-as-hormuz-uncertainty-lingers",
+     "source": "Bloomberg",
+     "summary": "India has directed its state companies and private refiners to prepare for a sharp increase in cooking gas production, seeking to bolster domestic supplies as the Iran war prolong\u2026",
+     "published": "2026-08-16T07:13:57+00:00",
+     "image": null,
+     "kind": "article",
+     "id": "ba6a7f9a8c8006af",
      "first_seen": "2026-08-16T10:51:40.050481+00:00",
      "is_new": true,
      "corroboration": 1,
@@ -154,6 +152,19 @@
    "lead_image": false,
    "items": [
     {
+     "title": "Tracksmith Eliot Ryder",
+     "url": "https://www.tracksmith.com/va/products/m-tracksmith-eliot-ryder?sku=FT1005070KHAW",
+     "source": "Tracksmith",
+     "summary": "",
+     "published": null,
+     "image": "https://cdn.shopify.com/s/files/1/1594/4353/files/Summer26-Eliot-Ryder-Brown-Rice-Ivory-01.png?v=1781801541?auto=format,compress&crop=faces&dpr=2&fit=crop&h=400&w=400",
+     "price": "$220.00",
+     "kind": "product",
+     "id": "32d1daff9dce992d",
+     "first_seen": "2026-08-16T11:42:21.750334+00:00",
+     "is_new": true
+    },
+    {
      "title": "Cinnamon Japanese Cool Cashmere Knit Tee",
      "url": "https://www.buckmason.com/products/cinnamon-japanese-cool-cashmere-knit-tee",
      "source": "Buck Mason",
@@ -164,19 +175,6 @@
      "kind": "product",
      "id": "6b443c135bcb4db8",
      "first_seen": "2026-08-14T17:16:32.709110+00:00",
-     "is_new": true
-    },
-    {
-     "title": "Run Cannonball Run Linen Popover",
-     "url": "https://www.tracksmith.com/products/m-rcr-linen-popover?sku=MT225801CDB",
-     "source": "Tracksmith",
-     "summary": "",
-     "published": null,
-     "image": "https://cdn.shopify.com/s/files/1/1594/4353/files/Summer26-Mens-RCR-Linen-Popover-Light-Wash-On-Model_1.png?v=1781731838?auto=format,compress&crop=faces&dpr=2&fit=crop&h=400&w=400",
-     "price": "$165",
-     "kind": "product",
-     "id": "651302b0da88dd1c",
-     "first_seen": "2026-08-13T18:33:33.597069+00:00",
      "is_new": true
     },
     {
@@ -213,6 +211,22 @@
    "kind": "headlines",
    "lead_image": true,
    "items": [
+    {
+     "title": "Goodbye to All That",
+     "url": "https://www.acl.news/p/goodbye-to-all-that",
+     "source": "A Continuous Lean",
+     "summary": "In Praise of Second Cities",
+     "published": "2026-08-16T11:32:00+00:00",
+     "image": "https://substackcdn.com/image/fetch/$s_!Uo_z!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F693b2269-488b-44d6-baac-632d975c1ada_900x1022.jpeg",
+     "kind": "article",
+     "id": "7248773f215a2752",
+     "first_seen": "2026-08-16T11:42:21.750334+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": false,
+     "score": 1
+    },
     {
      "title": "Vittles Reviews: A weekend in London\u2019s Little Portugal",
      "url": "https://www.vittlesmagazine.com/p/vittles-reviews-a-weekend-in-londons",
@@ -255,22 +269,6 @@
      "kind": "article",
      "id": "35abfafc9b016636",
      "first_seen": "2026-08-13T13:18:48.510709+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": false,
-     "score": 1
-    },
-    {
-     "title": "Department of Minor Regrets",
-     "url": "https://www.acl.news/p/department-of-minor-regrets",
-     "source": "A Continuous Lean",
-     "summary": "Travel Mistakes Edition",
-     "published": "2026-08-09T17:10:05+00:00",
-     "image": "https://substackcdn.com/image/fetch/$s_!aDj0!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fda37d9b9-ca36-42fe-81b3-70081700a875_1024x820.jpeg",
-     "kind": "article",
-     "id": "009b4797e0618c92",
-     "first_seen": "2026-08-13T13:52:10.538900+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
