@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-16T19:00:34.585143+00:00",
+ "generated_at": "2026-08-16T19:50:15.991028+00:00",
  "sections": [
   {
    "id": "news",
@@ -152,6 +152,19 @@
    "lead_image": false,
    "items": [
     {
+     "title": "Tracksmith Eliot Ryder",
+     "url": "https://www.tracksmith.com/ph/products/m-tracksmith-eliot-ryder?sku=FT1005070KHAW",
+     "source": "Tracksmith",
+     "summary": "",
+     "published": null,
+     "image": "https://cdn.shopify.com/s/files/1/1594/4353/files/Summer26-Eliot-Ryder-Brown-Rice-Ivory-01.png?v=1781801541?auto=format,compress&crop=faces&dpr=2&fit=crop&h=400&w=400",
+     "price": "$220.00",
+     "kind": "product",
+     "id": "3fd8d286e06f0d1c",
+     "first_seen": "2026-08-16T19:50:15.991028+00:00",
+     "is_new": true
+    },
+    {
      "title": "Cinnamon Japanese Cool Cashmere Knit Tee",
      "url": "https://www.buckmason.com/products/cinnamon-japanese-cool-cashmere-knit-tee",
      "source": "Buck Mason",
@@ -162,19 +175,6 @@
      "kind": "product",
      "id": "6b443c135bcb4db8",
      "first_seen": "2026-08-14T17:16:32.709110+00:00",
-     "is_new": true
-    },
-    {
-     "title": "Run Cannonball Run Linen Popover",
-     "url": "https://www.tracksmith.com/products/m-rcr-linen-popover?sku=MT225801CDB",
-     "source": "Tracksmith",
-     "summary": "",
-     "published": null,
-     "image": "https://cdn.shopify.com/s/files/1/1594/4353/files/Summer26-Mens-RCR-Linen-Popover-Light-Wash-On-Model_1.png?v=1781731838?auto=format,compress&crop=faces&dpr=2&fit=crop&h=400&w=400",
-     "price": "$165",
-     "kind": "product",
-     "id": "651302b0da88dd1c",
-     "first_seen": "2026-08-13T18:33:33.597069+00:00",
      "is_new": true
     },
     {
