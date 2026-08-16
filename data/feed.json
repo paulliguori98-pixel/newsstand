@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-16T11:42:21.750334+00:00",
+ "generated_at": "2026-08-16T13:44:15.803268+00:00",
  "sections": [
   {
    "id": "news",
@@ -7,6 +7,38 @@
    "kind": "headlines",
    "lead_image": false,
    "items": [
+    {
+     "title": "The U.S. Military Wants A.I. Dominance. Feuds and China May Thwart It.",
+     "url": "https://www.nytimes.com/2026/08/16/us/politics/military-ai-china-anthropic.html",
+     "source": "New York Times",
+     "summary": "The administration is veering wildly in its response to the national security implications of A.I. as China, America\u2019s main technological and military rival, charges ahead.",
+     "published": "2026-08-16T13:41:54+00:00",
+     "image": "https://static01.nyt.com/images/2026/08/15/multimedia/15dc-trump-ai-kgfl/15dc-trump-ai-kgfl-mediumSquareAt3X.jpg",
+     "kind": "article",
+     "id": "f5222c74901dda81",
+     "first_seen": "2026-08-16T10:51:40.050481+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
+     "title": "He\u2019s Awkward. He\u2019s Sticky. He\u2019s the Best Superhero.",
+     "url": "https://www.nytimes.com/2026/08/16/opinion/spider-man-brand-new-day-superhero.html",
+     "source": "New York Times",
+     "summary": "If you want or need any superhero right now, you\u2019re better off with Spider-Man.",
+     "published": "2026-08-16T13:00:05+00:00",
+     "image": null,
+     "kind": "article",
+     "id": "7a03ef4106dd1d68",
+     "first_seen": "2026-08-16T13:44:15.803268+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
     {
      "title": "As Iran War Turns Into Economic Battle, a New U.S. Strategy Recalls Old Ones",
      "url": "https://www.nytimes.com/2026/08/16/world/middleeast/iran-war-us-trump.html",
@@ -32,38 +64,6 @@
      "image": null,
      "kind": "article",
      "id": "028c67912af5f0b3",
-     "first_seen": "2026-08-16T10:51:40.050481+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "The U.S. Military Wants A.I. Dominance. Feuds and China May Thwart It.",
-     "url": "https://www.nytimes.com/2026/08/16/us/politics/military-ai-china-anthropic.html",
-     "source": "New York Times",
-     "summary": "The administration is veering wildly in its response to the national security implications of A.I. as China, America\u2019s main technological and military rival, charges ahead.",
-     "published": "2026-08-16T09:00:49+00:00",
-     "image": "https://static01.nyt.com/images/2026/08/15/multimedia/15dc-trump-ai-kgfl/15dc-trump-ai-kgfl-mediumSquareAt3X.jpg",
-     "kind": "article",
-     "id": "f5222c74901dda81",
-     "first_seen": "2026-08-16T10:51:40.050481+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "India Readies Big LPG Output Boost as Hormuz Uncertainty Lingers",
-     "url": "https://www.bloomberg.com/news/articles/2026-08-16/india-readies-big-lpg-output-boost-as-hormuz-uncertainty-lingers",
-     "source": "Bloomberg",
-     "summary": "India has directed its state companies and private refiners to prepare for a sharp increase in cooking gas production, seeking to bolster domestic supplies as the Iran war prolong\u2026",
-     "published": "2026-08-16T07:13:57+00:00",
-     "image": null,
-     "kind": "article",
-     "id": "ba6a7f9a8c8006af",
      "first_seen": "2026-08-16T10:51:40.050481+00:00",
      "is_new": true,
      "corroboration": 1,
@@ -152,19 +152,6 @@
    "lead_image": false,
    "items": [
     {
-     "title": "Tracksmith Eliot Ryder",
-     "url": "https://www.tracksmith.com/va/products/m-tracksmith-eliot-ryder?sku=FT1005070KHAW",
-     "source": "Tracksmith",
-     "summary": "",
-     "published": null,
-     "image": "https://cdn.shopify.com/s/files/1/1594/4353/files/Summer26-Eliot-Ryder-Brown-Rice-Ivory-01.png?v=1781801541?auto=format,compress&crop=faces&dpr=2&fit=crop&h=400&w=400",
-     "price": "$220.00",
-     "kind": "product",
-     "id": "32d1daff9dce992d",
-     "first_seen": "2026-08-16T11:42:21.750334+00:00",
-     "is_new": true
-    },
-    {
      "title": "Cinnamon Japanese Cool Cashmere Knit Tee",
      "url": "https://www.buckmason.com/products/cinnamon-japanese-cool-cashmere-knit-tee",
      "source": "Buck Mason",
@@ -175,6 +162,19 @@
      "kind": "product",
      "id": "6b443c135bcb4db8",
      "first_seen": "2026-08-14T17:16:32.709110+00:00",
+     "is_new": true
+    },
+    {
+     "title": "Run Cannonball Run Linen Popover",
+     "url": "https://www.tracksmith.com/products/m-rcr-linen-popover?sku=MT225801CDB",
+     "source": "Tracksmith",
+     "summary": "",
+     "published": null,
+     "image": "https://cdn.shopify.com/s/files/1/1594/4353/files/Summer26-Mens-RCR-Linen-Popover-Light-Wash-On-Model_1.png?v=1781731838?auto=format,compress&crop=faces&dpr=2&fit=crop&h=400&w=400",
+     "price": "$165",
+     "kind": "product",
+     "id": "651302b0da88dd1c",
+     "first_seen": "2026-08-13T18:33:33.597069+00:00",
      "is_new": true
     },
     {
