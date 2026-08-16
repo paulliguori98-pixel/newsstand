@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-16T15:46:27.004898+00:00",
+ "generated_at": "2026-08-16T16:55:22.207038+00:00",
  "sections": [
   {
    "id": "news",
@@ -40,22 +40,6 @@
      "score": 4
     },
     {
-     "title": "He\u2019s Awkward. He\u2019s Sticky. He\u2019s the Best Superhero.",
-     "url": "https://www.nytimes.com/2026/08/16/opinion/spider-man-brand-new-day-superhero.html",
-     "source": "New York Times",
-     "summary": "If you want or need any superhero right now, you\u2019re better off with Spider-Man.",
-     "published": "2026-08-16T13:00:05+00:00",
-     "image": null,
-     "kind": "article",
-     "id": "7a03ef4106dd1d68",
-     "first_seen": "2026-08-16T13:44:15.803268+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
      "title": "Ukraine launches one of its largest aerial attacks of the war, killing at least 6 people in Russia",
      "url": "https://www.npr.org/2026/08/16/nx-s1-5933006/ukraine-aerial-attack-6-dead-russia",
      "source": "NPR",
@@ -65,6 +49,22 @@
      "kind": "article",
      "id": "85acd6d5e907b94d",
      "first_seen": "2026-08-16T10:51:40.050481+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
+     "title": "Iran rebuffs Trump's claim over Strait of Hormuz amid report of another ship being struck",
+     "url": "https://www.cnbc.com/2026/08/15/iran-rebuffs-trumps-claim-over-hormuz-amid-report-of-ship-strike.html",
+     "source": "CNBC",
+     "summary": "Iran's deputy foreign minister says Hormuz \"will remain Iranian\" after Trump's claim that the waterway would soon become U.S. territory.",
+     "published": "2026-08-15T20:38:29+00:00",
+     "image": null,
+     "kind": "article",
+     "id": "eb9de79d6b565b78",
+     "first_seen": "2026-08-15T11:40:57.599444+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
