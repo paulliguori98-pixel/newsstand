@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-17T13:57:29.315026+00:00",
+ "generated_at": "2026-08-17T14:58:28.438298+00:00",
  "sections": [
   {
    "id": "news",
@@ -7,6 +7,24 @@
    "kind": "headlines",
    "lead_image": false,
    "items": [
+    {
+     "title": "Trump threatens to 'bomb' Oman if it 'gets in the way' as U.S.-Iran ceasefire expires",
+     "url": "https://www.cnbc.com/2026/08/17/us-iran-war-trump-hormuz.html",
+     "source": "CNBC",
+     "summary": "Shipping traffic in the Strait of Hormuz sank to a new low as a ceasefire between the U.S. and Iran is set to expire on Monday with no deal in sight.",
+     "published": "2026-08-17T14:49:26+00:00",
+     "image": null,
+     "kind": "article",
+     "id": "0db9b1912a2db69e",
+     "first_seen": "2026-08-17T11:01:36.333605+00:00",
+     "is_new": true,
+     "corroboration": 2,
+     "also_in": [
+      "BBC"
+     ],
+     "boosted": true,
+     "score": 5
+    },
     {
      "title": "Trump orders cuts to South Korea joint drills despite warnings about Kim regime",
      "url": "https://www.theguardian.com/world/2026/aug/17/trump-cuts-south-korea-joint-drills-us-military-good-relationship-kim-jong-un",
@@ -26,47 +44,31 @@
      "score": 5
     },
     {
-     "title": "DHS defends investigating agency critics and giving them warning notices",
-     "url": "https://www.npr.org/2026/08/17/nx-s1-5934692/dhs-free-speech-investigations",
-     "source": "NPR",
-     "summary": "Federal officials acknowledged that ICE special agents tracked a New York man to his house, the airport and a hotel to question him about a critical email he sent to the former he\u2026",
-     "published": "2026-08-17T13:31:13+00:00",
-     "image": null,
-     "kind": "article",
-     "id": "12dad68bf8388667",
-     "first_seen": "2026-08-17T13:57:29.315026+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "Investment Firm General Atlantic Is Eyeing an IPO Again",
-     "url": "https://www.wsj.com/finance/investment-firm-general-atlantic-is-eyeing-an-ipo-again-53d8ee7f?mod=rss_markets_main",
-     "source": "WSJ",
-     "summary": "The company manages around $130 billion and had filed to go public in 2023.",
-     "published": "2026-08-17T13:30:00+00:00",
-     "image": "https://images.wsj.net/im-40864898",
-     "kind": "article",
-     "id": "cbccd7506f43156c",
-     "first_seen": "2026-08-17T13:57:29.315026+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
      "title": "Oil prices rise as Iran rules out interim deal extension, threatens to escalate conflict",
      "url": "https://www.cnbc.com/2026/08/17/oil-prices-iran-war-strait-hormuz.html",
      "source": "CNBC",
      "summary": "The U.S.-Iran deal was supposed to open the Strait of Hormuz while they negotiated a final deal on Tehran's nuclear program within 60 days.",
-     "published": "2026-08-17T13:17:15+00:00",
+     "published": "2026-08-17T14:56:42+00:00",
      "image": null,
      "kind": "article",
      "id": "9b35721fa02a1b50",
      "first_seen": "2026-08-17T13:57:29.315026+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
+     "title": "Shein Is Said to Target Up to $27 Billion Valuation in HK IPO",
+     "url": "https://www.bloomberg.com/news/articles/2026-08-17/shein-is-said-to-target-up-to-27-billion-valuation-in-hk-ipo",
+     "source": "Bloomberg",
+     "summary": "Fast-fashion retailer Shein Global Holdings Ltd. is targeting a valuation in the range of $26 billion to $27 billion in its initial public offering in Hong Kong, according to peop\u2026",
+     "published": "2026-08-17T14:32:09+00:00",
+     "image": null,
+     "kind": "article",
+     "id": "298fb353441693fb",
+     "first_seen": "2026-08-17T14:58:28.438298+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
@@ -190,7 +192,7 @@
      "kind": "product",
      "id": "b14099ad34df5877",
      "first_seen": "2026-08-13T13:58:09.770489+00:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "title": "Blue Linen Drawstring Shorts",
@@ -280,5 +282,7 @@
    ]
   }
  ],
- "errors": []
+ "errors": [
+  "Import AI: RuntimeError \u2014 https://jack-clark.net/feed/ \u2192 HTTP 429; https://importai.substack.com/feed \u2192 HTTP 403"
+ ]
 }
