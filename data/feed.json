@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-17T22:56:08.003676+00:00",
+ "generated_at": "2026-08-17T23:49:21.343179+00:00",
  "sections": [
   {
    "id": "news",
@@ -7,6 +7,22 @@
    "kind": "headlines",
    "lead_image": false,
    "items": [
+    {
+     "title": "Congressional Democrats plan Oman war powers push after Trump threatens bombing",
+     "url": "https://www.axios.com/2026/08/17/trump-oman-democrats-congress-war-powers-iran",
+     "source": "Axios",
+     "summary": "Congressional Democrats are planning a new push to constrain President Trump's war powers after he threatened Monday to \"bomb the shit\" out of Oman.Why it matters: War powers reso\u2026",
+     "published": "2026-08-17T23:14:36+00:00",
+     "image": "https://images.axios.com/iFzJyF5Vu34tKDeMxTzGglBN_yY=/795x917:4500x3001/1366x768/2026/08/17/1786994783653.jpeg",
+     "kind": "article",
+     "id": "9317437e61ee80c9",
+     "first_seen": "2026-08-17T20:00:35.817915+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
     {
      "title": "Paramount seeks $1.88 billion bond from state AGs to cover costs of WBD merger delay",
      "url": "https://www.cnbc.com/2026/08/17/paramount-bond-merger-delay-costs.html",
@@ -33,22 +49,6 @@
      "kind": "article",
      "id": "701de8ff22bb5ae8",
      "first_seen": "2026-08-17T21:13:24.535656+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "Congressional Democrats plan Oman war powers push after Trump threatens bombing",
-     "url": "https://www.axios.com/2026/08/17/trump-oman-democrats-congress-war-powers-iran",
-     "source": "Axios",
-     "summary": "Congressional Democrats are planning a new push to constrain President Trump's war powers after he threatened to \"bomb the shit\" out of Oman on Monday.Why it matters: War powers r\u2026",
-     "published": "2026-08-17T19:32:26+00:00",
-     "image": "https://images.axios.com/iFzJyF5Vu34tKDeMxTzGglBN_yY=/795x917:4500x3001/1366x768/2026/08/17/1786994783653.jpeg",
-     "kind": "article",
-     "id": "9317437e61ee80c9",
-     "first_seen": "2026-08-17T20:00:35.817915+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
