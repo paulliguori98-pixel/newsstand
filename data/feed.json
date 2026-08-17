@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-17T20:00:35.817915+00:00",
+ "generated_at": "2026-08-17T21:13:24.535656+00:00",
  "sections": [
   {
    "id": "news",
@@ -7,6 +7,24 @@
    "kind": "headlines",
    "lead_image": false,
    "items": [
+    {
+     "title": "Oil Prices, Treasury Yields Rise With Mideast Concerns",
+     "url": "https://www.wsj.com/finance/investing/oil-prices-treasury-yields-rise-with-mideast-concerns-cecc3e36?mod=rss_markets_main",
+     "source": "WSJ",
+     "summary": "Stocks start out the week by slipping.",
+     "published": "2026-08-17T20:42:00+00:00",
+     "image": "https://images.wsj.net/im-54408105",
+     "kind": "article",
+     "id": "701de8ff22bb5ae8",
+     "first_seen": "2026-08-17T21:13:24.535656+00:00",
+     "is_new": true,
+     "corroboration": 2,
+     "also_in": [
+      "Bloomberg"
+     ],
+     "boosted": true,
+     "score": 5
+    },
     {
      "title": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
      "url": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
@@ -26,6 +44,22 @@
      "score": 5
     },
     {
+     "title": "Paramount seeks $1.88 billion bond from state AGs to cover costs of WBD merger delay",
+     "url": "https://www.cnbc.com/2026/08/17/paramount-bond-merger-delay-costs.html",
+     "source": "CNBC",
+     "summary": "Paramount agreed to delay its proposed acquisition of WBD to as late as June 2027 while the state AGs' case heads to trial.",
+     "published": "2026-08-17T20:48:22+00:00",
+     "image": null,
+     "kind": "article",
+     "id": "cecbd9b1f5f4a769",
+     "first_seen": "2026-08-17T19:10:11.390491+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
      "title": "Congressional Democrats plan Oman war powers push after Trump threatens bombing",
      "url": "https://www.axios.com/2026/08/17/trump-oman-democrats-congress-war-powers-iran",
      "source": "Axios",
@@ -39,42 +73,6 @@
      "corroboration": 1,
      "also_in": [],
      "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "Paramount seeks $1.88 billion bond from state AGs to cover costs of WBD merger delay",
-     "url": "https://www.cnbc.com/2026/08/17/paramount-bond-merger-delay-costs.html",
-     "source": "CNBC",
-     "summary": "Paramount agreed to delay its proposed acquisition of WBD to as late as June 2027 while the state AGs' case heads to trial.",
-     "published": "2026-08-17T18:58:54+00:00",
-     "image": null,
-     "kind": "article",
-     "id": "cecbd9b1f5f4a769",
-     "first_seen": "2026-08-17T19:10:11.390491+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "Supreme Court again rejects Trump's bid to overturn E Jean Carroll  sex abuse case",
-     "url": "https://www.bbc.co.uk/news/articles/c74gekjgrllo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "summary": "The US president has already paid the writer over $5m in damages in the assault and defamation case.",
-     "published": "2026-08-17T18:45:59+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8678/live/aa573860-9a50-11f1-96c4-e7f87215742d.jpg",
-     "kind": "article",
-     "id": "402f56ab13b128ca",
-     "first_seen": "2026-08-17T15:55:18.529446+00:00",
-     "is_new": true,
-     "corroboration": 4,
-     "also_in": [
-      "Axios",
-      "CNBC",
-      "New York Times"
-     ],
-     "boosted": false,
      "score": 4
     }
    ]
