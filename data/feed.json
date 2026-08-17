@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-17T19:10:11.390491+00:00",
+ "generated_at": "2026-08-17T20:00:35.817915+00:00",
  "sections": [
   {
    "id": "news",
@@ -24,6 +24,22 @@
      ],
      "boosted": true,
      "score": 5
+    },
+    {
+     "title": "Congressional Democrats plan Oman war powers push after Trump threatens bombing",
+     "url": "https://www.axios.com/2026/08/17/trump-oman-democrats-congress-war-powers-iran",
+     "source": "Axios",
+     "summary": "Congressional Democrats are planning a new push to constrain President Trump's war powers after he threatened to \"bomb the shit\" out of Oman on Monday.Why it matters: War powers r\u2026",
+     "published": "2026-08-17T19:32:26+00:00",
+     "image": "https://images.axios.com/iFzJyF5Vu34tKDeMxTzGglBN_yY=/795x917:4500x3001/1366x768/2026/08/17/1786994783653.jpeg",
+     "kind": "article",
+     "id": "9317437e61ee80c9",
+     "first_seen": "2026-08-17T20:00:35.817915+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
     },
     {
      "title": "Paramount seeks $1.88 billion bond from state AGs to cover costs of WBD merger delay",
@@ -59,22 +75,6 @@
       "New York Times"
      ],
      "boosted": false,
-     "score": 4
-    },
-    {
-     "title": "Iran Feels It Has 'New Leverage' In MidEast Amid War with US",
-     "url": "https://www.bloomberg.com/news/videos/2026-08-17/iran-feels-it-has-new-leverage-in-mideast-amid-war-video",
-     "source": "Bloomberg",
-     "summary": "Michael Allen, managing director of Beacon Global Strategies and a former national security aide to President George W. Bush, said Iranians feel they have \"a lot of new leverage\" \u2026",
-     "published": "2026-08-17T18:36:07+00:00",
-     "image": null,
-     "kind": "article",
-     "id": "9e47cde6244da8e5",
-     "first_seen": "2026-08-17T19:10:11.390491+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
      "score": 4
     }
    ]
