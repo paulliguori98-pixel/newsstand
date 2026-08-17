@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-17T11:01:36.333605+00:00",
+ "generated_at": "2026-08-17T12:00:09.823302+00:00",
  "sections": [
   {
    "id": "news",
@@ -8,23 +8,58 @@
    "lead_image": false,
    "items": [
     {
-     "title": "Trump orders cuts to South Korea joint drills despite warnings about Kim regime",
-     "url": "https://www.theguardian.com/world/2026/aug/17/trump-cuts-south-korea-joint-drills-us-military-good-relationship-kim-jong-un",
-     "source": "Guardian",
-     "summary": "President says he \u2018gets along great\u2019 with dictator but US officials say Ukraine war is boosting North\u2019s capabilitiesDonald Trump has said he is scaling back joint US military dril\u2026",
-     "published": "2026-08-17T09:10:24+00:00",
-     "image": "https://i.guim.co.uk/img/media/812d23651e2260e3817cb53514597677be97214b/367_1_2220_1777/master/2220.jpg?width=140&quality=85&auto=format&fit=max&s=c2506fbf47a36783e0164626dce0b567",
+     "title": "Trump threatens to 'bomb' Oman if it 'gets in the way' as U.S.-Iran ceasefire expires",
+     "url": "https://www.cnbc.com/2026/08/17/us-iran-war-trump-hormuz.html",
+     "source": "CNBC",
+     "summary": "Shipping traffic in the Strait of Hormuz sank to a new low as a ceasefire between the U.S. and Iran is set to expire on Monday with no deal in sight.",
+     "published": "2026-08-17T11:55:48+00:00",
+     "image": null,
      "kind": "article",
-     "id": "c5e1e17987eab0d2",
+     "id": "0db9b1912a2db69e",
      "first_seen": "2026-08-17T11:01:36.333605+00:00",
      "is_new": true,
-     "corroboration": 3,
+     "corroboration": 2,
      "also_in": [
-      "Axios",
-      "NPR"
+      "Bloomberg"
      ],
      "boosted": true,
-     "score": 6
+     "score": 5
+    },
+    {
+     "title": "US Ends Solar Tariff Dodge, But Boosting Local Industry Looks Tough",
+     "url": "https://www.bloomberg.com/news/newsletters/2026-08-17/us-ends-solar-tariff-dodge-but-boosting-local-industry-looks-tough",
+     "source": "Bloomberg",
+     "summary": "The White House is moving to better safeguard its solar industry, while facing an uphill battle to become competitive with China.",
+     "published": "2026-08-17T11:46:44+00:00",
+     "image": null,
+     "kind": "article",
+     "id": "3a344f63861108f0",
+     "first_seen": "2026-08-17T12:00:09.823302+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
+     "title": "Trump Seeks to \u2018Substantially Reduce\u2019 US-South Korea Drills",
+     "url": "https://www.bloomberg.com/news/videos/2026-08-17/trump-seeks-to-substantially-reduce-south-korea-drills-video",
+     "source": "Bloomberg",
+     "summary": "President Donald Trump told the Pentagon to \u201csubstantially reduce\u201d joint military exercises with South Korea. In a social post on Sunday, Trump indicated his frustration that the \u2026",
+     "published": "2026-08-17T11:15:26+00:00",
+     "image": null,
+     "kind": "article",
+     "id": "5b800bdfba7b9a27",
+     "first_seen": "2026-08-17T12:00:09.823302+00:00",
+     "is_new": true,
+     "corroboration": 4,
+     "also_in": [
+      "Axios",
+      "BBC",
+      "Guardian"
+     ],
+     "boosted": false,
+     "score": 4
     },
     {
      "title": "U.S. and Iran Blow Through Deadline to Agree to a Broad Deal to End War",
@@ -41,38 +76,6 @@
      "also_in": [],
      "boosted": true,
      "score": 4
-    },
-    {
-     "title": "Russia targets Danube port after one of Ukraine\u2019s largest aerial attacks of the war",
-     "url": "https://www.cnbc.com/2026/08/17/ukraine-war-russia-putin-moscow.html",
-     "source": "CNBC",
-     "summary": "Russia struck port infrastructure in Ukraine\u2019s Odesa region, damaging a Togo-flagged civilian vessel near Izmail after Kyiv launched a major drone attack on Moscow.",
-     "published": "2026-08-17T09:46:08+00:00",
-     "image": null,
-     "kind": "article",
-     "id": "f1003e6cd9369812",
-     "first_seen": "2026-08-17T11:01:36.333605+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "Iran\u2019s Supreme Leader Signals Intention to Keep Country on a War Footing",
-     "url": "https://www.nytimes.com/2026/08/17/world/middleeast/iran-khamenei-military-leaders-war.html",
-     "source": "New York Times",
-     "summary": "Ayatollah Mojtaba Khamenei\u2019s appointment of hard-line loyalists to top jobs suggests he is prepared to keep the country on a war footing and to quash domestic dissent.",
-     "published": "2026-08-17T09:42:00+00:00",
-     "image": "https://static01.nyt.com/images/2026/08/17/multimedia/17int-iran-assess-01-htwk/17int-iran-assess-01-htwk-mediumSquareAt3X.jpg",
-     "kind": "article",
-     "id": "3f255c29263ab8ed",
-     "first_seen": "2026-08-17T11:01:36.333605+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
     }
    ]
   },
@@ -82,6 +85,22 @@
    "kind": "headlines",
    "lead_image": false,
    "items": [
+    {
+     "title": "New policy ideas for the Intelligence Age",
+     "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+     "source": "OpenAI",
+     "summary": "OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age.",
+     "published": "2026-08-17T03:15:00+00:00",
+     "image": null,
+     "kind": "article",
+     "id": "96670aeff66e996d",
+     "first_seen": "2026-08-17T12:00:09.823302+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": false,
+     "score": 1
+    },
     {
      "title": "Markdown SVG upgrades",
      "url": "https://simonwillison.net/2026/Aug/16/markdown-svg-upgrades/",
@@ -123,22 +142,6 @@
      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/macbook-pro-1152x648.jpg",
      "kind": "article",
      "id": "b74725c02d4516dd",
-     "first_seen": "2026-08-14T19:52:06.346291+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": false,
-     "score": 1
-    },
-    {
-     "title": "PBS station fears losing 50TB of data after being ghosted by cloud storage provider",
-     "url": "https://arstechnica.com/information-technology/2026/08/pbs-station-fears-losing-50tb-of-data-after-being-ghosted-by-cloud-storage-provider/",
-     "source": "Ars Technica",
-     "summary": "\"We don't have access to the data on the hardware/servers,\" Iron Mountain told Ars.",
-     "published": "2026-08-14T17:03:54+00:00",
-     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2269291893-1024x648.jpg",
-     "kind": "article",
-     "id": "e2a6e77f6a8f7b62",
      "first_seen": "2026-08-14T19:52:06.346291+00:00",
      "is_new": true,
      "corroboration": 1,
