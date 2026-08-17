@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-17T21:13:24.535656+00:00",
+ "generated_at": "2026-08-17T22:00:31.557434+00:00",
  "sections": [
   {
    "id": "news",
@@ -21,24 +21,6 @@
      "corroboration": 2,
      "also_in": [
       "Bloomberg"
-     ],
-     "boosted": true,
-     "score": 5
-    },
-    {
-     "title": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
-     "url": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "summary": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises.",
-     "published": "2026-08-17T18:39:39+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8304/live/fde5dbb0-99c6-11f1-b604-2bfb19ba7385.jpg",
-     "kind": "article",
-     "id": "d39bc91ddc0ae4d3",
-     "first_seen": "2026-08-16T21:40:33.162219+00:00",
-     "is_new": true,
-     "corroboration": 2,
-     "also_in": [
-      "Axios"
      ],
      "boosted": true,
      "score": 5
@@ -69,6 +51,22 @@
      "kind": "article",
      "id": "9317437e61ee80c9",
      "first_seen": "2026-08-17T20:00:35.817915+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
+     "title": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
+     "url": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "summary": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises.",
+     "published": "2026-08-17T18:39:39+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8304/live/fde5dbb0-99c6-11f1-b604-2bfb19ba7385.jpg",
+     "kind": "article",
+     "id": "d39bc91ddc0ae4d3",
+     "first_seen": "2026-08-16T21:40:33.162219+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
