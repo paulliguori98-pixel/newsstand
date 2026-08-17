@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-17T22:00:31.557434+00:00",
+ "generated_at": "2026-08-17T22:56:08.003676+00:00",
  "sections": [
   {
    "id": "news",
@@ -7,6 +7,22 @@
    "kind": "headlines",
    "lead_image": false,
    "items": [
+    {
+     "title": "Paramount seeks $1.88 billion bond from state AGs to cover costs of WBD merger delay",
+     "url": "https://www.cnbc.com/2026/08/17/paramount-bond-merger-delay-costs.html",
+     "source": "CNBC",
+     "summary": "Paramount agreed to delay its proposed acquisition of WBD to as late as June 2027 while the state AGs' case heads to trial.",
+     "published": "2026-08-17T22:07:03+00:00",
+     "image": null,
+     "kind": "article",
+     "id": "cecbd9b1f5f4a769",
+     "first_seen": "2026-08-17T19:10:11.390491+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
     {
      "title": "Oil Prices, Treasury Yields Rise With Mideast Concerns",
      "url": "https://www.wsj.com/finance/investing/oil-prices-treasury-yields-rise-with-mideast-concerns-cecc3e36?mod=rss_markets_main",
@@ -17,24 +33,6 @@
      "kind": "article",
      "id": "701de8ff22bb5ae8",
      "first_seen": "2026-08-17T21:13:24.535656+00:00",
-     "is_new": true,
-     "corroboration": 2,
-     "also_in": [
-      "Bloomberg"
-     ],
-     "boosted": true,
-     "score": 5
-    },
-    {
-     "title": "Paramount seeks $1.88 billion bond from state AGs to cover costs of WBD merger delay",
-     "url": "https://www.cnbc.com/2026/08/17/paramount-bond-merger-delay-costs.html",
-     "source": "CNBC",
-     "summary": "Paramount agreed to delay its proposed acquisition of WBD to as late as June 2027 while the state AGs' case heads to trial.",
-     "published": "2026-08-17T20:48:22+00:00",
-     "image": null,
-     "kind": "article",
-     "id": "cecbd9b1f5f4a769",
-     "first_seen": "2026-08-17T19:10:11.390491+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
