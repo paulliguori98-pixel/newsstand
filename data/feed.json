@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-17T15:55:18.529446+00:00",
+ "generated_at": "2026-08-17T17:00:30.976353+00:00",
  "sections": [
   {
    "id": "news",
@@ -26,31 +26,11 @@
      "score": 5
     },
     {
-     "title": "Supreme Court again rejects Trump bid to overturn E. Jean Carroll verdict",
-     "url": "https://www.cnbc.com/2026/08/17/trump-supreme-court-e-jean-carroll.html",
-     "source": "CNBC",
-     "summary": "President Trump was held civilly liable in the case by a New York federal jury for defaming and sexually abusing the writer E. Jean Carroll.",
-     "published": "2026-08-17T15:50:19+00:00",
-     "image": null,
-     "kind": "article",
-     "id": "72446bbb8d3e3eae",
-     "first_seen": "2026-08-17T14:58:28.438298+00:00",
-     "is_new": true,
-     "corroboration": 4,
-     "also_in": [
-      "Axios",
-      "BBC",
-      "New York Times"
-     ],
-     "boosted": false,
-     "score": 4
-    },
-    {
-     "title": "Oil prices rise as Iran rules out interim deal extension, threatens to escalate conflict",
+     "title": "Oil prices little changed as Iran rules out interim deal extension, threatens to escalate conflict",
      "url": "https://www.cnbc.com/2026/08/17/oil-prices-iran-war-strait-hormuz.html",
      "source": "CNBC",
      "summary": "The U.S.-Iran deal was supposed to open the Strait of Hormuz while they negotiated a final deal on Tehran's nuclear program within 60 days.",
-     "published": "2026-08-17T15:25:43+00:00",
+     "published": "2026-08-17T16:29:44+00:00",
      "image": null,
      "kind": "article",
      "id": "9b35721fa02a1b50",
@@ -62,15 +42,31 @@
      "score": 4
     },
     {
-     "title": "Casas Bahia Files for Bankruptcy on High Rates, Tight Credit",
-     "url": "https://www.bloomberg.com/news/articles/2026-08-17/casas-bahia-files-for-bankruptcy-on-high-rates-tight-credit",
-     "source": "Bloomberg",
-     "summary": "Grupo Casas Bahia SA filed for bankruptcy protection in Sao Paulo, after an out-of-court debt restructuring with its main creditors proved insufficient to resolve its financial tr\u2026",
-     "published": "2026-08-17T14:57:22+00:00",
+     "title": "Prediction market traders see roughly 1-in-4 odds Paramount\u2019s bid to buy Warner Bros. Discovery fails",
+     "url": "https://www.cnbc.com/2026/08/17/pskys-wbd-bid-has-1-in-4-odds-of-falling-through-kalshi-traders-say.html",
+     "source": "CNBC",
+     "summary": "The odds are higher than they were before 12 states sued to block the merger, but lower than after Paramount delayed the acquisition in late July.",
+     "published": "2026-08-17T16:19:37+00:00",
      "image": null,
      "kind": "article",
-     "id": "157c9321ecf80198",
-     "first_seen": "2026-08-17T15:55:18.529446+00:00",
+     "id": "2f41820470a1c111",
+     "first_seen": "2026-08-17T17:00:30.976353+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
+     "title": "Inflation Will Persistently Stay Above the Fed's Target, Hooper Says",
+     "url": "https://www.bloomberg.com/news/videos/2026-08-17/inflation-will-stay-higher-hooper-says-video",
+     "source": "Bloomberg",
+     "summary": "Man Group Chief Market Strategist Kristina Hooper says inflation will persistently stay above the Federal Reserve's target. She speaks on \"Bloomberg Open Interest.\" (Source: Bloom\u2026",
+     "published": "2026-08-17T16:19:34+00:00",
+     "image": null,
+     "kind": "article",
+     "id": "72a2a3630ed76c83",
+     "first_seen": "2026-08-17T17:00:30.976353+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
@@ -158,6 +154,19 @@
    "lead_image": false,
    "items": [
     {
+     "title": "Blue Archival Animals Print Wool-Silk Scarf",
+     "url": "https://us.drakes.com/products/blue-archival-animals-print-wool-silk-scarf",
+     "source": "Drake's",
+     "summary": "Scarves",
+     "published": "2026-08-17T12:51:21-04:00",
+     "image": "https://cdn.shopify.com/s/files/1/0649/6603/3653/files/DR1AB126779-02-201-1.jpg?v=1786964642",
+     "price": "$375",
+     "kind": "product",
+     "id": "c9620e8b0be05eda",
+     "first_seen": "2026-08-17T17:00:30.976353+00:00",
+     "is_new": true
+    },
+    {
      "title": "Cinnamon Japanese Cool Cashmere Knit Tee",
      "url": "https://www.buckmason.com/products/cinnamon-japanese-cool-cashmere-knit-tee",
      "source": "Buck Mason",
@@ -195,19 +204,6 @@
      "id": "b14099ad34df5877",
      "first_seen": "2026-08-13T13:58:09.770489+00:00",
      "is_new": false
-    },
-    {
-     "title": "Blue Linen Drawstring Shorts",
-     "url": "https://us.drakes.com/products/blue-linen-drawstring-shorts",
-     "source": "Drake's",
-     "summary": "Shorts",
-     "published": "2026-08-13T06:20:32-04:00",
-     "image": "https://cdn.shopify.com/s/files/1/0649/6603/3653/files/StillLife4985DR2A6F26032-03200.jpg?v=1778753389",
-     "price": "$325",
-     "kind": "product",
-     "id": "c86cf8bc355a5c27",
-     "first_seen": "2026-08-13T17:30:38.293102+00:00",
-     "is_new": true
     }
    ]
   },
