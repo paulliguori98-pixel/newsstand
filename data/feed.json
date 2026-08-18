@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-18T20:54:35.483875+00:00",
+ "generated_at": "2026-08-18T21:50:25.734960+00:00",
  "sections": [
   {
    "id": "news",
@@ -7,6 +7,22 @@
    "kind": "headlines",
    "lead_image": false,
    "items": [
+    {
+     "title": "Uruguay Holds Interest Rates Steady With Inflation Below Target",
+     "url": "https://www.bloomberg.com/news/articles/2026-08-18/uruguay-holds-interest-rates-steady-with-inflation-below-target",
+     "source": "Bloomberg",
+     "summary": "Uruguay\u2019s central bank held interest rates steady for a fourth consecutive policy meeting with inflation below its target.",
+     "published": "2026-08-18T21:23:18+00:00",
+     "image": null,
+     "kind": "article",
+     "id": "acfad337ca7883e2",
+     "first_seen": "2026-08-18T21:50:25.734960+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
     {
      "title": "30-year Treasury yield tops 5.33%, new 19-year high, on inflation and spending concerns",
      "url": "https://www.cnbc.com/2026/08/18/treasury-yields-.html",
@@ -54,22 +70,6 @@
      "also_in": [],
      "boosted": true,
      "score": 4
-    },
-    {
-     "title": "US announces new sanctions on top ICC figures",
-     "url": "https://www.bbc.co.uk/news/articles/cnvnl0elz47o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "summary": "The Trump administration has vowed to dismantle the international court \"brick by brick\".",
-     "published": "2026-08-18T20:21:49+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd44/live/c84cee60-9b2b-11f1-9a2c-6d6ac3827d20.jpg",
-     "kind": "article",
-     "id": "f5a79ac33366d056",
-     "first_seen": "2026-08-18T19:09:17.059335+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
     }
    ]
   },
@@ -80,7 +80,23 @@
    "lead_image": false,
    "items": [
     {
-     "title": "Strengthening Democratic Oversight in National Security",
+     "title": "Mojo\ud83d\udd25 is now open source",
+     "url": "https://simonwillison.net/2026/Aug/18/mojo-is-now-open-source/",
+     "source": "Simon Willison",
+     "summary": "Mojo\ud83d\udd25 is now open source Mojo\ud83d\udd25 is now open source The Mojo programming language has been promising an open source release since May 2023. Last week they shipped their 1.0 and toda\u2026",
+     "published": "2026-08-18T21:39:20+00:00",
+     "image": null,
+     "kind": "article",
+     "id": "fe6793f58b70731a",
+     "first_seen": "2026-08-18T21:50:25.734960+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": false,
+     "score": 1
+    },
+    {
+     "title": "Strengthening democratic oversight in national security",
      "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
      "source": "OpenAI",
      "summary": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.",
@@ -121,22 +137,6 @@
      "kind": "article",
      "id": "1999067b96178080",
      "first_seen": "2026-08-18T10:59:55.978581+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": false,
-     "score": 1
-    },
-    {
-     "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
-     "url": "https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/",
-     "source": "Simon Willison",
-     "summary": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility Excellent piece of reporting from 404 Media. For a while now there have been stories of book dealer\u2026",
-     "published": "2026-08-17T15:21:29+00:00",
-     "image": "https://static.simonwillison.net/static/2026-08-17/IMG_7418.jpeg",
-     "kind": "article",
-     "id": "8933d03c7eacb483",
-     "first_seen": "2026-08-17T15:55:18.529446+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
@@ -188,6 +188,19 @@
      "kind": "product",
      "id": "651302b0da88dd1c",
      "first_seen": "2026-08-13T18:33:33.597069+00:00",
+     "is_new": false
+    },
+    {
+     "title": "Spread Collar Sport Shirt in Pink/Lovat/Blue Plaid Twill",
+     "url": "https://shopmashburn.com/products/sid-mashburn-spread-collar-sport-shirt-pink-lovat-blue-plaid-twill-s80782",
+     "source": "Sid Mashburn",
+     "summary": "Sid Sport Shirts",
+     "published": "2026-08-13T09:54:53-04:00",
+     "image": "https://cdn.shopify.com/s/files/1/0414/4532/6999/files/S80782_0011.jpg?v=1785880743",
+     "price": "$195",
+     "kind": "product",
+     "id": "b14099ad34df5877",
+     "first_seen": "2026-08-13T13:58:09.770489+00:00",
      "is_new": false
     }
    ]
@@ -265,7 +278,5 @@
    ]
   }
  ],
- "errors": [
-  "Sid Mashburn: RuntimeError \u2014 /collections/sid-mashburn-new-arrivals \u2192 RuntimeError; /products.json \u2192 empty \u2014 this store may not be Shopify (check https://shopmashburn.com/products.json in a browser)"
- ]
+ "errors": []
 }
