@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-18T19:09:17.059335+00:00",
+ "generated_at": "2026-08-18T19:55:53.004976+00:00",
  "sections": [
   {
    "id": "news",
@@ -7,6 +7,40 @@
    "kind": "headlines",
    "lead_image": false,
    "items": [
+    {
+     "title": "30-year Treasury yield tops 5.33%, new 19-year high on inflation, spending concerns",
+     "url": "https://www.cnbc.com/2026/08/18/treasury-yields-.html",
+     "source": "CNBC",
+     "summary": "Long-dated fixed income hit their highest level in almost two decades amid a worsening U.S. fiscal situation and persistently higher inflation.",
+     "published": "2026-08-18T18:22:23+00:00",
+     "image": null,
+     "kind": "article",
+     "id": "49a9cadf23654365",
+     "first_seen": "2026-08-18T11:57:24.897285+00:00",
+     "is_new": true,
+     "corroboration": 2,
+     "also_in": [
+      "WSJ"
+     ],
+     "boosted": true,
+     "score": 5
+    },
+    {
+     "title": "US announces new sanctions on top ICC figures",
+     "url": "https://www.bbc.co.uk/news/articles/cnvnl0elz47o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "summary": "The Trump administration has vowed to dismantle the international court \"brick by brick\".",
+     "published": "2026-08-18T19:18:30+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd44/live/c84cee60-9b2b-11f1-9a2c-6d6ac3827d20.jpg",
+     "kind": "article",
+     "id": "f5a79ac33366d056",
+     "first_seen": "2026-08-18T19:09:17.059335+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
     {
      "title": "Trump says no talks scheduled with Iran as he teases action in Hormuz Strait",
      "url": "https://www.cnbc.com/2026/08/18/us-iran-war-trump-hormuz-trump-ceasefire-expires-extension-.html",
@@ -24,22 +58,6 @@
      "score": 4
     },
     {
-     "title": "30-year Treasury yield tops 5.33%, new 19-year high on inflation, spending concerns",
-     "url": "https://www.cnbc.com/2026/08/18/treasury-yields-.html",
-     "source": "CNBC",
-     "summary": "Long-dated fixed income hit their highest level in almost two decades amid a worsening U.S. fiscal situation and persistently higher inflation.",
-     "published": "2026-08-18T18:22:23+00:00",
-     "image": null,
-     "kind": "article",
-     "id": "49a9cadf23654365",
-     "first_seen": "2026-08-18T11:57:24.897285+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
      "title": "Gulf Oil Giants Push to Expand Overseas Stockpiles as Iran War Drags On",
      "url": "https://www.nytimes.com/2026/08/18/business/saudi-uae-japan-oil-storage.html",
      "source": "New York Times",
@@ -49,22 +67,6 @@
      "kind": "article",
      "id": "0c8b3fdc8872bc2b",
      "first_seen": "2026-08-18T15:52:51.191762+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "Trump, Carney reportedly in talks ahead of new 50% tariffs on Canadian goods",
-     "url": "https://www.cnbc.com/2026/08/18/trump-carney-canada-tariffs-dealine-talks.html",
-     "source": "CNBC",
-     "summary": "Trump has already imposed a variety of tariffs on Canada and its specific exports, including metals, lumber and auto parts.",
-     "published": "2026-08-18T18:05:05+00:00",
-     "image": null,
-     "kind": "article",
-     "id": "d91570a8c9cdafb4",
-     "first_seen": "2026-08-18T19:09:17.059335+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
