@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-19T18:52:11.820323+00:00",
+ "generated_at": "2026-08-19T18:55:02.184365+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -16,7 +16,7 @@
      "temp": 82,
      "high": 84,
      "low": 60,
-     "rain": 8,
+     "rain": 7,
      "sunrise": "6:06",
      "sunset": "7:52",
      "id": "bb806d72c86dcec1",
@@ -37,7 +37,7 @@
      "url": "https://www.cnbc.com/2026/08/19/fed-minutes-july-2026-officials-saw-need-for-rate-hike-if-inflation-doesnt-cool.html",
      "source": "CNBC",
      "summary": "The Federal Reserve on Wednesday released minutes from its July 28-29 policy meeting.",
-     "published": "2026-08-19T18:31:21+00:00",
+     "published": "2026-08-19T18:54:50+00:00",
      "image": null,
      "kind": "article",
      "id": "fde13b73b6b27b84",
