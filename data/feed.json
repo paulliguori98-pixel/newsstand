@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-19T17:55:47.837122+00:00",
+ "generated_at": "2026-08-19T17:59:12.191554+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -31,6 +31,22 @@
    "lead_image": false,
    "items": [
     {
+     "title": "Diesel in California rises to $7 a gallon as wars in Europe and Middle East strain supply",
+     "url": "https://www.cnbc.com/2026/08/19/diesel-price-california-ukraine-russia-iran-strait-hormuz.html",
+     "source": "CNBC",
+     "summary": "Diesel prices are rising again just as farmers prepare for the harvest and freight transportation picks up ahead of the holiday shopping season.",
+     "published": "2026-08-19T17:51:04+00:00",
+     "image": null,
+     "kind": "article",
+     "id": "32f99bb850e88aa6",
+     "first_seen": "2026-08-19T17:59:12.191554+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
      "title": "Betterment CEO Warns on Sports Betting",
      "url": "https://www.bloomberg.com/news/videos/2026-08-19/betterment-ceo-warns-on-sports-betting",
      "source": "Bloomberg",
@@ -55,22 +71,6 @@
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b878/live/63dff0a0-9b9c-11f1-b109-879e35c24276.jpg",
      "kind": "article",
      "id": "fe307da7bf3ffd4e",
-     "first_seen": "2026-08-19T10:59:50.515180+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "Target says its turnaround is picking up steam, with help from a big tariff refund",
-     "url": "https://www.cnbc.com/2026/08/19/target-tgt-q2-2026-earnings.html",
-     "source": "CNBC",
-     "summary": "Target posted better-than-expected fiscal second-quarter sales and raised its full-year outlook.",
-     "published": "2026-08-19T14:58:26+00:00",
-     "image": null,
-     "kind": "article",
-     "id": "c04dfcb8fd5da343",
      "first_seen": "2026-08-19T10:59:50.515180+00:00",
      "is_new": true,
      "corroboration": 1,
