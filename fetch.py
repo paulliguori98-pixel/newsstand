@@ -52,7 +52,7 @@ from pathlib import Path
 
 import yaml
 
-from sources import html_watch, notes, pinterest, rss, shopify, weather
+from sources import buckmason, html_watch, notes, pinterest, rss, shopify, weather
 
 VERSION = "1.3"
 ROOT = Path(__file__).parent
