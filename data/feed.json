@@ -1,18 +1,19 @@
 {
- "generated_at": "2026-08-19T17:59:12.191554+00:00",
+ "generated_at": "2026-08-19T18:52:11.820323+00:00",
  "sections": [
   {
    "id": "almanac",
    "title": "Saratoga Springs",
    "kind": "almanac",
    "lead_image": false,
+   "more": 0,
    "items": [
     {
      "title": "Partly Sunny",
      "icon": "partly",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 80,
+     "temp": 82,
      "high": 84,
      "low": 60,
      "rain": 8,
@@ -29,17 +30,54 @@
    "title": "News",
    "kind": "headlines",
    "lead_image": false,
+   "more": 0,
    "items": [
     {
-     "title": "Diesel in California rises to $7 a gallon as wars in Europe and Middle East strain supply",
-     "url": "https://www.cnbc.com/2026/08/19/diesel-price-california-ukraine-russia-iran-strait-hormuz.html",
+     "title": "Fed officials saw need for rate hike if inflation doesn't cool, minutes show",
+     "url": "https://www.cnbc.com/2026/08/19/fed-minutes-july-2026-officials-saw-need-for-rate-hike-if-inflation-doesnt-cool.html",
      "source": "CNBC",
-     "summary": "Diesel prices are rising again just as farmers prepare for the harvest and freight transportation picks up ahead of the holiday shopping season.",
-     "published": "2026-08-19T17:51:04+00:00",
+     "summary": "The Federal Reserve on Wednesday released minutes from its July 28-29 policy meeting.",
+     "published": "2026-08-19T18:31:21+00:00",
      "image": null,
      "kind": "article",
-     "id": "32f99bb850e88aa6",
-     "first_seen": "2026-08-19T17:59:12.191554+00:00",
+     "id": "fde13b73b6b27b84",
+     "first_seen": "2026-08-19T18:52:11.820323+00:00",
+     "is_new": true,
+     "corroboration": 2,
+     "also_in": [
+      "Bloomberg"
+     ],
+     "boosted": true,
+     "score": 5
+    },
+    {
+     "title": "Trump pauses Canada tariffs threat, and hints at revival of Keystone XL pipeline",
+     "url": "https://www.theguardian.com/us-news/2026/aug/19/trump-delay-canada-tariffs-keystone-xl-oil-pipeline",
+     "source": "Guardian",
+     "summary": "US president delays 50% tariffs by three days, and says contentious oil project \u2018may be awoken from the grave\u2019Canada has temporarily avoided a bruising 50% US tariff, reaching a T\u2026",
+     "published": "2026-08-19T03:47:12+00:00",
+     "image": "https://i.guim.co.uk/img/media/9f32ee616031ffc12c0e89c1c8ab06d19a7287ec/454_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=4d726abe037885118d5fae6e756cf882",
+     "kind": "article",
+     "id": "08c2d1d62808d9d0",
+     "first_seen": "2026-08-19T10:59:50.515180+00:00",
+     "is_new": true,
+     "corroboration": 2,
+     "also_in": [
+      "Axios"
+     ],
+     "boosted": true,
+     "score": 5
+    },
+    {
+     "title": "Iran Has 'Little Incentive' To Open Strait, Says Former Ambassador Daniel Fried",
+     "url": "https://www.bloomberg.com/news/videos/2026-08-19/iran-has-little-incentive-to-open-strait-says-fried-video",
+     "source": "Bloomberg",
+     "summary": "Daniel Fried, former US ambassador to Poland, said 'Iranians have little incentive in the near term' to allow the Strait of Hormuz to open and that a solution to the conflict will\u2026",
+     "published": "2026-08-19T18:14:37+00:00",
+     "image": null,
+     "kind": "article",
+     "id": "cdf17c2c4eb20b7b",
+     "first_seen": "2026-08-19T18:52:11.820323+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
@@ -61,38 +99,6 @@
      "also_in": [],
      "boosted": true,
      "score": 4
-    },
-    {
-     "title": "South Korea shortens war games with US, citing Washington request",
-     "url": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "summary": "It comes after Trump announced plans to curtail joint military exercises with South Korea, citing a \"very good\" relationship with North Korea's Kim Jong Un.",
-     "published": "2026-08-19T17:39:49+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b878/live/63dff0a0-9b9c-11f1-b109-879e35c24276.jpg",
-     "kind": "article",
-     "id": "fe307da7bf3ffd4e",
-     "first_seen": "2026-08-19T10:59:50.515180+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "Canadian Stocks Climb as Trump Pauses Tariffs on Trade Talks",
-     "url": "https://www.bloomberg.com/news/articles/2026-08-19/canadian-stocks-climb-as-trump-pauses-tariffs-signals-deal-near",
-     "source": "Bloomberg",
-     "summary": "Canadian equities jumped Wednesday after US President Donald Trump said he would delay new 50% tariffs for three days and added that the two sides were close to a trade deal.",
-     "published": "2026-08-19T14:03:50+00:00",
-     "image": null,
-     "kind": "article",
-     "id": "7fd59c6cf9034b7e",
-     "first_seen": "2026-08-19T17:11:19.569450+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
     }
    ]
   },
@@ -101,6 +107,7 @@
    "title": "Artificial Intelligence",
    "kind": "headlines",
    "lead_image": false,
+   "more": 0,
    "items": [
     {
      "title": "Offering Zero Data Retention for frontier models",
@@ -173,6 +180,7 @@
    "title": "New In",
    "kind": "goods",
    "lead_image": false,
+   "more": 0,
    "items": [
     {
      "title": "Raw Japanese Selvedge Full Saddle Jean",
@@ -186,45 +194,6 @@
      "id": "50476db96c5ca403",
      "first_seen": "2026-08-19T17:11:19.569450+00:00",
      "is_new": true
-    },
-    {
-     "title": "Black Twill Mitred Chore Jacket",
-     "url": "https://us.drakes.com/products/black-twill-mitred-chore-jacket",
-     "source": "Drake's",
-     "summary": "Chore Jackets",
-     "published": "2026-08-17T13:02:24-04:00",
-     "image": "https://cdn.shopify.com/s/files/1/0649/6603/3653/files/DR2A1B26573-02-100-1.jpg?v=1786625737",
-     "price": "$995",
-     "kind": "product",
-     "id": "d1a27a43bd7f33e5",
-     "first_seen": "2026-08-17T19:10:11.390491+00:00",
-     "is_new": true
-    },
-    {
-     "title": "Run Cannonball Run Linen Popover",
-     "url": "https://www.tracksmith.com/products/m-rcr-linen-popover?sku=MT225801CDB",
-     "source": "Tracksmith",
-     "summary": "",
-     "published": null,
-     "image": "https://cdn.shopify.com/s/files/1/1594/4353/files/Summer26-Mens-RCR-Linen-Popover-Light-Wash-On-Model_1.png?v=1781731838?auto=format,compress&crop=faces&dpr=2&fit=crop&h=400&w=400",
-     "price": "$165",
-     "kind": "product",
-     "id": "651302b0da88dd1c",
-     "first_seen": "2026-08-13T18:33:33.597069+00:00",
-     "is_new": false
-    },
-    {
-     "title": "Spread Collar Sport Shirt in Pink/Lovat/Blue Plaid Twill",
-     "url": "https://shopmashburn.com/products/sid-mashburn-spread-collar-sport-shirt-pink-lovat-blue-plaid-twill-s80782",
-     "source": "Sid Mashburn",
-     "summary": "Sid Sport Shirts",
-     "published": "2026-08-13T09:54:53-04:00",
-     "image": "https://cdn.shopify.com/s/files/1/0414/4532/6999/files/S80782_0011.jpg?v=1785880743",
-     "price": "$195",
-     "kind": "product",
-     "id": "b14099ad34df5877",
-     "first_seen": "2026-08-13T13:58:09.770489+00:00",
-     "is_new": false
     }
    ]
   },
@@ -233,6 +202,7 @@
    "title": "Dispatches",
    "kind": "headlines",
    "lead_image": true,
+   "more": 0,
    "items": [
     {
      "title": "Why the World Needs Less Clever People",
