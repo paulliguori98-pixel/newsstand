@@ -1,6 +1,13 @@
 {
- "generated_at": "2026-08-19T16:44:13.389951+00:00",
+ "generated_at": "2026-08-19T16:45:42.805041+00:00",
  "sections": [
+  {
+   "id": "almanac",
+   "title": "Saratoga Springs",
+   "kind": "almanac",
+   "lead_image": false,
+   "items": []
+  },
   {
    "id": "news",
    "title": "News",
@@ -281,5 +288,7 @@
    ]
   }
  ],
- "errors": []
+ "errors": [
+  "Open-Meteo: ReadTimeout \u2014 HTTPSConnectionPool(host='api.open-meteo.com', port=443): Read timed out. (read timeout=20)"
+ ]
 }
