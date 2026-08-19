@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-19T20:41:11.232764+00:00",
+ "generated_at": "2026-08-19T21:00:07.525920+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -51,6 +51,22 @@
      "score": 5
     },
     {
+     "title": "Trump and Canada\u2019s Carney Seem to Make Progress on a Tariff Deal, but Questions Linger",
+     "url": "https://www.nytimes.com/2026/08/19/world/canada/trump-canada-tariffs-carney-deal-trade.html",
+     "source": "New York Times",
+     "summary": "After a deadline extension, the latest U.S. tariff threats seemed headed toward resolution on Wednesday, but questions lingered about what Canada would give up, and what it would \u2026",
+     "published": "2026-08-19T20:45:37+00:00",
+     "image": "https://static01.nyt.com/images/2026/08/19/multimedia/19int-canada-tariffs-assess-ctvz/19int-canada-tariffs-assess-ctvz-mediumSquareAt3X.jpg",
+     "kind": "article",
+     "id": "458457632c1b20ed",
+     "first_seen": "2026-08-19T20:38:21.610605+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
      "title": "Trump bemoans Fed interest rate policy, says U.S. should be paying much less",
      "url": "https://www.cnbc.com/2026/08/19/trump-bemoans-fed-interest-rate-policy-says-us-should-be-paying-much-less.html",
      "source": "CNBC",
@@ -60,22 +76,6 @@
      "kind": "article",
      "id": "d5f0855f59cc1983",
      "first_seen": "2026-08-19T20:41:11.232764+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "Trump and Canada\u2019s Carney Seem to Make Progress on a Tariff Deal, but Questions Linger",
-     "url": "https://www.nytimes.com/2026/08/19/world/canada/trump-canada-tariffs-carney-deal-trade.html",
-     "source": "New York Times",
-     "summary": "After a deadline extension, the latest U.S. tariff threats seemed headed toward resolution on Wednesday, but questions lingered about what Canada would give up, and what it would \u2026",
-     "published": "2026-08-19T20:14:28+00:00",
-     "image": "https://static01.nyt.com/images/2026/08/19/multimedia/19int-canada-tariffs-assess-ctvz/19int-canada-tariffs-assess-ctvz-mediumSquareAt3X.jpg",
-     "kind": "article",
-     "id": "458457632c1b20ed",
-     "first_seen": "2026-08-19T20:38:21.610605+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
