@@ -294,13 +294,12 @@ sections:
       # slug. No price exists server-side and there is deliberately no
       # guessing — a size button once became a $28 chino. First image is
       # often another product's lifestyle shot; real ones are filed BM<no>.
-      - type: html
+      # Headless storefront: no products.json, and prices are written in by
+      # JavaScript, so nothing in the HTML holds them. This is the JSON the
+      # page itself loads — real titles, prices and publish dates in one hit.
+      - type: buckmason
         name: Buck Mason
-        url: https://www.buckmason.com/collections/mens-new-arrivals
-        item_selector: "article[handle]"
-        title_attr: handle
-        link_selector: 'a[href*="/products/"]'
-        image_selector: 'img[src*="/BM"], img'
+        url: https://www.buckmason.com/page-data/collections/mens-new-arrivals/page-data.json
         limit: 24
         show: 1
 
