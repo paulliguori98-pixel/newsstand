@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-19T19:59:42.033661+00:00",
+ "generated_at": "2026-08-19T20:05:11.484106+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -9,8 +9,8 @@
    "more": 0,
    "items": [
     {
-     "title": "Partly Sunny",
-     "icon": "partly",
+     "title": "Mostly Cloudy",
+     "icon": "cloud",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
      "temp": 82,
@@ -32,24 +32,6 @@
    "lead_image": false,
    "more": 0,
    "items": [
-    {
-     "title": "Fed officials saw need for rate hike if inflation doesn't cool, minutes show",
-     "url": "https://www.cnbc.com/2026/08/19/fed-minutes-july-2026-officials-saw-need-for-rate-hike-if-inflation-doesnt-cool.html",
-     "source": "CNBC",
-     "summary": "The Federal Reserve on Wednesday released minutes from its July 28-29 policy meeting.",
-     "published": "2026-08-19T18:54:50+00:00",
-     "image": null,
-     "kind": "article",
-     "id": "fde13b73b6b27b84",
-     "first_seen": "2026-08-19T18:52:11.820323+00:00",
-     "is_new": true,
-     "corroboration": 2,
-     "also_in": [
-      "Bloomberg"
-     ],
-     "boosted": true,
-     "score": 5
-    },
     {
      "title": "Trump pauses Canada tariffs threat, and hints at revival of Keystone XL pipeline",
      "url": "https://www.theguardian.com/us-news/2026/aug/19/trump-delay-canada-tariffs-keystone-xl-oil-pipeline",
@@ -93,6 +75,22 @@
      "image": "https://images.axios.com/NGNgK57Y2GF8gTEG6MbaXCibQl8=/0x0:1920x1080/1366x768/2026/04/16/1776351079822.jpeg",
      "kind": "article",
      "id": "3e9aec0828027627",
+     "first_seen": "2026-08-19T19:59:42.033661+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
+     "title": "Anthropic\u2019s Annualized Revenue Tops $65B Before IPO",
+     "url": "https://www.bloomberg.com/news/videos/2026-08-19/anthropic-s-annualized-revenue-tops-65b-before-ipo-video",
+     "source": "Bloomberg",
+     "summary": "Bloomberg's Anthony Hughes joins Dani Burger on \"Bloomberg Deals.\" Anthropic is on track to generate annualized revenue of more than $65 billion based on its current performance, \u2026",
+     "published": "2026-08-19T19:46:02+00:00",
+     "image": null,
+     "kind": "article",
+     "id": "3551a88c8275d79f",
      "first_seen": "2026-08-19T19:59:42.033661+00:00",
      "is_new": true,
      "corroboration": 1,
