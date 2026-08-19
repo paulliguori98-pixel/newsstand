@@ -66,6 +66,7 @@ ADAPTERS = {
     "html": html_watch.fetch,
     "notes": notes.fetch,
     "pinterest": pinterest.fetch,
+    "weather": weather.fetch,
 }
 
 WORD = re.compile(r"[a-z0-9']+")
