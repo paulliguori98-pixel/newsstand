@@ -108,10 +108,35 @@ def load_json(name: str) -> dict:
             return {}
     return {}
 
+# Tracksmith serves the same product from a country prefix — /products/x,
+# /va/products/x, /ph/products/x — and which one you get depends on where
+# the caller looks like it is. GitHub's runners move between regions, so
+# the same shirt kept arriving as a brand-new product.
+LOCALE_PREFIX = re.compile(r"(^https?://[^/]+)/[a-z]{2}(/products/)", re.I)
 
+
+def canonical_url(url: str) -> str:
+    return LOCALE_PREFIX.sub(r"\1\2", url or "")
+  
 def item_id(item: dict) -> str:
-    basis = item.get("url") or (item.get("source", "") + item.get("title", ""))
+    basis = canonical_url(item.get("url", "")) or (item.get("source", "") + item.get("title", ""))
     return hashlib.sha1(basis.encode()).hexdigest()[:16]
+
+
+def merge_archive(archive: dict) -> dict:
+    """Re-key an existing archive through canonical_url, keeping the
+    earliest sighting of each product.
+
+    Self-healing on purpose: the duplicates already on file collapse on
+    the next build instead of needing a manual cleanup.
+    """
+    out: dict[str, dict] = {}
+    for old_id, entry in archive.items():
+        key = item_id(entry) if entry.get("url") else old_id
+        prior = out.get(key)
+        if prior is None or (entry.get("first_seen") or "") < (prior.get("first_seen") or ""):
+            out[key] = entry
+    return out
 
 
 def muted(title: str, patterns: list[str]) -> bool:
