@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-19T20:38:21.610605+00:00",
+ "generated_at": "2026-08-19T20:41:11.232764+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -51,6 +51,22 @@
      "score": 5
     },
     {
+     "title": "Trump bemoans Fed interest rate policy, says U.S. should be paying much less",
+     "url": "https://www.cnbc.com/2026/08/19/trump-bemoans-fed-interest-rate-policy-says-us-should-be-paying-much-less.html",
+     "source": "CNBC",
+     "summary": "As he has done in the past, Trump accused Fed officials of having political motives.",
+     "published": "2026-08-19T20:32:48+00:00",
+     "image": null,
+     "kind": "article",
+     "id": "d5f0855f59cc1983",
+     "first_seen": "2026-08-19T20:41:11.232764+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
      "title": "Trump and Canada\u2019s Carney Seem to Make Progress on a Tariff Deal, but Questions Linger",
      "url": "https://www.nytimes.com/2026/08/19/world/canada/trump-canada-tariffs-carney-deal-trade.html",
      "source": "New York Times",
@@ -75,22 +91,6 @@
      "image": null,
      "kind": "article",
      "id": "8b65ea85c615fe75",
-     "first_seen": "2026-08-19T20:38:21.610605+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "Bessent moves to curb Treasury yields, putting new pressure on Warsh's Fed",
-     "url": "https://www.cnbc.com/2026/08/19/bessent-treasury-buybacks-yields-warsh-fed.html",
-     "source": "CNBC",
-     "summary": "Treasury's move to buy back more long-term debt cooled a bond selloff, but economists warn it could raise new inflation and independence questions for the Fed",
-     "published": "2026-08-19T20:02:32+00:00",
-     "image": null,
-     "kind": "article",
-     "id": "57862e3fdf66a07a",
      "first_seen": "2026-08-19T20:38:21.610605+00:00",
      "is_new": true,
      "corroboration": 1,
@@ -175,7 +175,7 @@
   },
   {
    "id": "goods",
-   "title": "New In",
+   "title": "Just Released",
    "kind": "goods",
    "lead_image": false,
    "more": 4,
