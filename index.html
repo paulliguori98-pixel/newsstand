@@ -65,6 +65,16 @@ img{border-radius:var(--soft)}
 .row:hover h3{color:var(--accent)}
 .tick{display:inline-block;width:4px;height:4px;border-radius:50%;background:var(--accent);vertical-align:.28em;margin-left:.45rem}
 
+.almanac{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:.9rem 1.2rem;max-width:var(--text);margin:0 auto;padding:1rem .1rem;border-top:1px solid var(--hair);border-bottom:1px solid var(--hair)}
+.almanac .now{display:flex;align-items:center;gap:.9rem}
+.almanac svg{display:block;fill:none;stroke:var(--accent);stroke-width:1.2;stroke-linecap:round;stroke-linejoin:round}
+.almanac .deg{font-weight:300;font-size:1.8rem;line-height:1;letter-spacing:-.02em}
+.almanac .cond{font-family:var(--sans);font-weight:400;font-size:.6rem;letter-spacing:.15em;text-transform:uppercase;color:var(--muted);margin-top:.35rem}
+.almanac .facts{display:flex;flex:1;gap:1.4rem;justify-content:flex-end}
+.almanac .k{font-family:var(--sans);font-weight:300;font-size:.57rem;letter-spacing:.12em;text-transform:uppercase;color:var(--muted);white-space:nowrap}
+.almanac .v{font-size:.95rem;margin-top:.2rem;white-space:nowrap}
+@media (max-width:430px){.almanac .facts{width:100%;justify-content:flex-start;gap:1.6rem}}
+
 .goods{display:grid;grid-template-columns:repeat(2,1fr);gap:2.2rem 1.6rem;max-width:var(--text);margin:0 auto}
 .good{text-align:center}
 .good .frame{background:var(--wash);border-radius:var(--soft);overflow:hidden}
