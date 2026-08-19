@@ -103,6 +103,20 @@ settings:
 
 sections:
 
+  # Sits above the news with no heading of its own. Coordinates are
+  # hardcoded because the build runs on GitHub's servers, which have no
+  # idea where you are.
+  - id: almanac
+    title: Saratoga Springs
+    kind: almanac
+    limit: 1
+    sources:
+      - type: weather
+        name: Open-Meteo
+        place: Saratoga Springs
+        latitude: 43.08
+        longitude: -73.78
+        
   # One news section, not two. Splitting World and Business meant each was
   # measuring corroboration against its own handful of outlets — five and
   # three — so the same OpenAI story could lead both at once. Merged, every
