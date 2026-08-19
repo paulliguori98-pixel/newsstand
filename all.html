@@ -49,6 +49,7 @@ a{color:inherit;text-decoration:none}
 .brand{font-family:var(--sans);font-weight:500;font-size:.6rem;letter-spacing:.19em;text-transform:uppercase;color:var(--accent);display:block;margin:.9rem 0 .3rem}
 .good h3{font-weight:400;font-size:.98rem;line-height:1.3;margin:0 0 .25rem}
 .price{font-family:var(--sans);font-weight:300;font-size:.82rem;color:var(--muted)}
+.unpriced{color:#A8A6A0}
 .empty{text-align:center;color:var(--muted);font-weight:300;padding:4rem 0}
 
 @media (max-width:880px){.grid{grid-template-columns:repeat(3,1fr)}}
@@ -112,7 +113,9 @@ function card(item) {
   }
   a.appendChild(el("span", "brand", item.source));
   a.appendChild(el("h3", null, item.title));
-  if (item.price) a.appendChild(el("div", "price", item.price));
+  a.appendChild(item.price
+    ? el("div", "price", item.price)
+    : el("div", "price unpriced", "Price unavailable"));
   return a;
 }
 
