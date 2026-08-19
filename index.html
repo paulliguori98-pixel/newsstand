@@ -256,7 +256,7 @@ function render(edition) {
   const total = edition.sections.reduce(
     (n, s) => n + (s.kind === "almanac" ? 0 : s.items.length), 0);
   const fresh = edition.sections.reduce((n, s) => n + s.items.filter(i => i.is_new).length, 0);
-  document.const RENDERERS = { headlines: renderHeadlines, goods: renderGoods, almanac: renderAlmanac };("tally").textContent =
+  document.getElementById("tally").textContent =
     `${total} items · ${fresh} new since you last read`;
 
   const main = document.getElementById("edition");
