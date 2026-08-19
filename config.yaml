@@ -254,7 +254,7 @@ sections:
         limit: 1
 
   - id: goods
-    title: New In
+    title: Just Released
     kind: goods
     limit: 4
     sources:
