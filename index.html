@@ -112,14 +112,14 @@ img{border-radius:var(--soft)}
     <div class="kicker">Today's Edition</div>
     <h1 class="date" id="date"></h1>
     <div class="tally" id="tally"></div>
-    <nav class="tabs"><a href="index.html" class="on">Today</a><a href="all.html">All new arrivals</a></nav>
+    <nav class="tabs"><a href="index.html" class="on">Today</a><a href="all.html">All releases</a></nav>
     <nav class="edition-rule" id="rule" aria-label="Sections in today's edition"></nav>
   </header>
 
   <main id="edition"></main>
 
   <footer class="colophon">
-    <div>Rebuilt through the day. Built for one reader. · <a href="all.html">All new arrivals</a></div>
+    <div>Rebuilt through the day. Built for one reader. · <a href="all.html">All releases</a></div>
     <div id="errors"></div>
   </footer>
 </div>
@@ -255,7 +255,7 @@ function renderGoods(section) {
     card.target = "_self";
     const frame = el("div", "frame");
     frame.appendChild(el("p", null, "Light load today."));
-    frame.appendChild(el("span", null, "All arrivals →"));
+    frame.appendChild(el("span", null, "all releases →"));
     card.appendChild(frame);
     grid.appendChild(card);
   }
@@ -315,7 +315,7 @@ function render(edition) {
 
     if (!section.items.length && section.kind === "goods") {
       wrap.appendChild(el("p", "empty", "No new arrivals today."));
-      const out = el("a", "more", "All arrivals →");
+      const out = el("a", "more", "all releases →");
       out.href = "all.html";
       wrap.appendChild(out);
     } else if (!section.items.length) {
