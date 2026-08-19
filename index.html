@@ -262,7 +262,8 @@ function renderGoods(section) {
 
   wrap.appendChild(grid);
   if (section.more > 0) {
-    const link = el("a", "more", section.more + " more today →");
+    wrap.appendChild(el("p", "empty", section.more + " more today."));
+    const link = el("a", "more", "All releases →");
     link.href = "all.html";
     wrap.appendChild(link);
   }
