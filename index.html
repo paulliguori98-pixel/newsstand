@@ -178,6 +178,49 @@ function renderHeadlines(section) {
   return box;
 }
 
+// Line art at the same weight as the hairlines, so the icon reads as
+// drawn rather than dropped in from an icon set.
+const SKY = {
+  sun: '<circle cx="12" cy="12" r="4.2"/><path d="M12 2.6v2.3M12 19.1v2.3M21.4 12h-2.3M4.9 12H2.6M18.6 5.4l-1.6 1.6M7 17l-1.6 1.6M18.6 18.6L17 17M7 7L5.4 5.4"/>',
+  partly: '<circle cx="8.5" cy="7.5" r="3"/><path d="M8.5 1.9v1.3M8.5 11.8v1.3M14.1 7.5h-1.3M4.2 7.5H2.9M12.5 3.5l-.9.9M5.4 10.6l-.9.9M12.5 11.5l-.9-.9M5.4 4.4l-.9-.9"/><path d="M9.6 20.4h7.3a3.1 3.1 0 0 0 .3-6.2 4.5 4.5 0 0 0-8.6-1 3.6 3.6 0 0 0 1 7.2z"/>',
+  cloud: '<path d="M7 18.5h9.6a3.4 3.4 0 0 0 .3-6.8 5 5 0 0 0-9.5-1.1A3.9 3.9 0 0 0 7 18.5z"/>',
+  rain: '<path d="M7 16.5h9.6a3.4 3.4 0 0 0 .3-6.8 5 5 0 0 0-9.5-1.1A3.9 3.9 0 0 0 7 16.5z"/><path d="M9 19.4l-.9 2.4M13 19.4l-.9 2.4M17 19.4l-.9 2.4"/>',
+  snow: '<path d="M7 16.5h9.6a3.4 3.4 0 0 0 .3-6.8 5 5 0 0 0-9.5-1.1A3.9 3.9 0 0 0 7 16.5z"/><path d="M9 20h.01M13 20h.01M17 20h.01M11 22.2h.01M15 22.2h.01"/>',
+  fog: '<path d="M7 14.5h9.6a3.4 3.4 0 0 0 .3-6.8 5 5 0 0 0-9.5-1.1A3.9 3.9 0 0 0 7 14.5z"/><path d="M5 18h14M7 21.2h10"/>',
+  storm: '<path d="M7 15.5h9.6a3.4 3.4 0 0 0 .3-6.8 5 5 0 0 0-9.5-1.1A3.9 3.9 0 0 0 7 15.5z"/><path d="M13.2 17.4l-2.7 3.7h3.3L11.2 24"/>',
+};
+
+function renderAlmanac(section) {
+  const w = section.items[0] || {};
+  const box = el("div", "almanac");
+
+  const now = el("div", "now");
+  const holder = el("div");
+  holder.innerHTML = '<svg viewBox="0 0 24 24" width="28" height="28" aria-hidden="true">'
+    + (SKY[w.icon] || SKY.cloud) + "</svg>";
+  now.appendChild(holder.firstChild);
+
+  const read = el("div");
+  read.appendChild(el("div", "deg", w.temp + "°"));
+  const said = [w.title];
+  if (w.rain != null) said.push(w.rain + "% rain");
+  read.appendChild(el("div", "cond", said.join(" · ")));
+  now.appendChild(read);
+  box.appendChild(now);
+
+  const facts = el("div", "facts");
+  [["High / Low", w.high + "° / " + w.low + "°"],
+   ["Sunrise", w.sunrise],
+   ["Sunset", w.sunset]].forEach(pair => {
+    const cell = el("div");
+    cell.appendChild(el("div", "k", pair[0]));
+    cell.appendChild(el("div", "v", pair[1]));
+    facts.appendChild(cell);
+  });
+  box.appendChild(facts);
+  return box;
+}
+  
 function renderGoods(section) {
   const grid = el("div", "goods");
   section.items.forEach(item => {
