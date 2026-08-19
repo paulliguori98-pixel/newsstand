@@ -31,7 +31,9 @@ SITE = "https://www.buckmason.com"
 
 def _image(product: dict, cdn: str) -> str | None:
     media = product.get("media") or []
-    shot = next((m for m in media if m.get("flat")), None) or (media[0] if media else None)
+    shot = (next((m for m in media if m.get("flat")), None)
+            or next((m for m in media if not m.get("face")), None)
+            or (media[0] if media else None))
     src = str((shot or {}).get("src") or "")
     if not src:
         return None
