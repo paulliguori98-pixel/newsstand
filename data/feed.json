@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-19T15:52:26.376174+00:00",
+ "generated_at": "2026-08-19T16:42:38.541198+00:00",
  "sections": [
   {
    "id": "news",
@@ -27,22 +27,6 @@
      "score": 6
     },
     {
-     "title": "Defense-Tech Firm Lyntris Shares Plunge 11% After Downsized IPO",
-     "url": "https://www.bloomberg.com/news/articles/2026-08-19/defense-tech-firm-lyntris-shares-plunge-11-after-downsized-ipo",
-     "source": "Bloomberg",
-     "summary": "Lyntris Inc. shares fell 11% in its trading debut, after the company and some of its shareholders raised $297.5 million in a downsized initial public offering.",
-     "published": "2026-08-19T15:35:04+00:00",
-     "image": null,
-     "kind": "article",
-     "id": "767c60d380f25532",
-     "first_seen": "2026-08-19T15:52:26.376174+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
      "title": "Target says its turnaround is picking up steam, with help from a big tariff refund",
      "url": "https://www.cnbc.com/2026/08/19/target-tgt-q2-2026-earnings.html",
      "source": "CNBC",
@@ -59,15 +43,31 @@
      "score": 4
     },
     {
-     "title": "Copper Firm KME Is Said to Pick Banks for Unit\u2019s German IPO",
-     "url": "https://www.bloomberg.com/news/articles/2026-08-19/copper-firm-kme-is-said-to-pick-banks-for-unit-s-german-ipo",
-     "source": "Bloomberg",
-     "summary": "KME Group Spa has picked banks to help arrange a Frankfurt listing of Cunova GmbH, which could value the unit producing copper-nickel at as much as \u20ac1 billion ($1.2 billion), acco\u2026",
-     "published": "2026-08-19T14:51:27+00:00",
-     "image": null,
+     "title": "South Korea shortens war games with US, citing Washington request",
+     "url": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "summary": "It comes after Trump announced plans to curtail joint military exercises with South Korea, citing a \"very good\" relationship with North Korea's Kim Jong Un.",
+     "published": "2026-08-19T14:16:27+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b878/live/63dff0a0-9b9c-11f1-b109-879e35c24276.jpg",
      "kind": "article",
-     "id": "65900bb7fe973af2",
-     "first_seen": "2026-08-19T15:52:26.376174+00:00",
+     "id": "fe307da7bf3ffd4e",
+     "first_seen": "2026-08-19T10:59:50.515180+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
+     "title": "Exclusive: GOP warns AI companies that data centers are politically radioactive",
+     "url": "https://www.axios.com/2026/08/19/gop-data-center-memo-ai-election",
+     "source": "Axios",
+     "summary": "The Senate GOP campaign arm, in a private memo to top AI companies, warns that toxic views of U.S. data centers are killing the party's chances of holding a vital seat in Ohio.In \u2026",
+     "published": "2026-08-19T09:53:04+00:00",
+     "image": "https://images.axios.com/gZsARbm115UzgQw3J3-uV2pHkRQ=/0x0:1920x1080/1920x1080/2026/08/18/1787092722776.gif",
+     "kind": "article",
+     "id": "def10dfb6e84abd3",
+     "first_seen": "2026-08-19T10:59:50.515180+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
