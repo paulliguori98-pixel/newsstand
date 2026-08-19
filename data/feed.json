@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-19T10:59:50.515180+00:00",
+ "generated_at": "2026-08-19T11:57:10.398431+00:00",
  "sections": [
   {
    "id": "news",
@@ -18,38 +18,21 @@
      "id": "9fdc44bd2ada8714",
      "first_seen": "2026-08-19T10:59:50.515180+00:00",
      "is_new": true,
-     "corroboration": 3,
+     "corroboration": 4,
      "also_in": [
       "Axios",
-      "NPR"
-     ],
-     "boosted": true,
-     "score": 6
-    },
-    {
-     "title": "Trump pauses new tariffs on Canada for three days, saying deal close",
-     "url": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "summary": "The US president says the two sides are finalising documents to avert import taxes targeting a range of Canadian goods.",
-     "published": "2026-08-19T03:56:35+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d42d/live/9ebe0f40-9b79-11f1-afeb-4d7c67d79c36.jpg",
-     "kind": "article",
-     "id": "6854b3ddf9a5ed06",
-     "first_seen": "2026-08-19T10:59:50.515180+00:00",
-     "is_new": true,
-     "corroboration": 2,
-     "also_in": [
+      "BBC",
       "CNBC"
      ],
      "boosted": true,
-     "score": 5
+     "score": 7
     },
     {
      "title": "Target hikes outlook as sales rebound and huge tariff refund boosts bottom line",
      "url": "https://www.cnbc.com/2026/08/19/target-tgt-q2-2026-earnings.html",
      "source": "CNBC",
-     "summary": "Target posted better-than-expected second-quarter sales and raised its full-year outlook.",
-     "published": "2026-08-19T10:45:39+00:00",
+     "summary": "Target posted better-than-expected fiscal second-quarter sales and raised its full-year outlook.",
+     "published": "2026-08-19T11:41:43+00:00",
      "image": null,
      "kind": "article",
      "id": "c04dfcb8fd5da343",
@@ -69,6 +52,22 @@
      "image": null,
      "kind": "article",
      "id": "8546cd0835804580",
+     "first_seen": "2026-08-19T10:59:50.515180+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
+     "title": "Exclusive: GOP warns AI companies that data centers are politically radioactive",
+     "url": "https://www.axios.com/2026/08/19/gop-data-center-memo-ai-election",
+     "source": "Axios",
+     "summary": "The Senate GOP campaign arm, in a private memo to top AI companies, warns that toxic views of U.S. data centers are killing the party's chances of holding a vital seat in Ohio.In \u2026",
+     "published": "2026-08-19T09:53:04+00:00",
+     "image": "https://images.axios.com/gZsARbm115UzgQw3J3-uV2pHkRQ=/0x0:1920x1080/1920x1080/2026/08/18/1787092722776.gif",
+     "kind": "article",
+     "id": "def10dfb6e84abd3",
      "first_seen": "2026-08-19T10:59:50.515180+00:00",
      "is_new": true,
      "corroboration": 1,
