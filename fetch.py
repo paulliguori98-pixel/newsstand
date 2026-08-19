@@ -266,7 +266,7 @@ def build(config: dict, probe: bool = False) -> dict:
     settings = config.get("settings", {})
     now = datetime.now(timezone.utc)
     seen = {} if probe else load_json("seen.json")
-    archive = {} if probe else load_json("archive.json")
+    archive = {} if probe else merge_archive(load_json("archive.json"))
     history = {} if probe else load_json("shown.json")
     today = now.date().isoformat()
     new_cutoff = now - timedelta(days=settings.get("new_window_days", 4))
