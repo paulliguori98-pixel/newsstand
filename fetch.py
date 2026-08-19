@@ -55,7 +55,7 @@ from pathlib import Path
 
 import yaml
 
-from sources import html_watch, notes, pinterest, rss, shopify
+from sources import html_watch, notes, pinterest, rss, shopify, weather
 
 VERSION = "1.1"
 ROOT = Path(__file__).parent
