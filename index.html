@@ -83,7 +83,14 @@ img{border-radius:var(--soft)}
 .good .label{display:block;margin:.85rem 0 .25rem;font-size:.58rem}
 .good h3{font-weight:400;font-size:.95rem;line-height:1.3;margin:0 0 .2rem}
 .good .price{font-family:var(--sans);font-weight:300;font-size:.8rem;color:var(--muted)}
-
+.filler .frame{display:flex;flex-direction:column;align-items:center;justify-content:center;gap:.85rem;aspect-ratio:4/5;padding:1.3rem;background:transparent;border:1px solid var(--hair)}
+.filler p{margin:0;font-weight:300;font-size:1.02rem;line-height:1.35;color:var(--ink)}
+.filler span{font-family:var(--sans);font-weight:400;font-size:.6rem;letter-spacing:.17em;text-transform:uppercase;color:var(--accent)}
+.filler:hover span{color:var(--ink)}
+.more{display:block;max-width:var(--text);margin:1.3rem auto 0;text-align:center;font-family:var(--sans);font-weight:400;font-size:.62rem;letter-spacing:.18em;text-transform:uppercase;color:var(--accent)}
+.more:hover{color:var(--ink)}
+.empty + .more{margin-top:0}
+  
 .empty{color:var(--muted);font-weight:300;font-size:.95rem;max-width:var(--text);margin:0 auto;text-align:center;padding:1.2rem 0}
 .colophon{max-width:var(--text);margin:4.5rem auto 0;padding-top:1.4rem;border-top:1px solid var(--hair);text-align:center;font-family:var(--sans);font-weight:300;font-size:.7rem;letter-spacing:.06em;color:var(--muted)}
 .colophon details{margin-top:.6rem}
@@ -222,6 +229,7 @@ function renderAlmanac(section) {
 }
   
 function renderGoods(section) {
+  const wrap = el("div");
   const grid = el("div", "goods");
   section.items.forEach(item => {
     const card = linkTo(item, "good");
@@ -239,7 +247,26 @@ function renderGoods(section) {
     if (item.price) card.appendChild(el("div", "price", item.price));
     grid.appendChild(card);
   });
-  return grid;
+
+  // An odd number of arrivals leaves a hole in a two-column grid. Fill it
+  // with the way out rather than with a gap.
+  if (section.items.length % 2 === 1) {
+    const card = linkTo({ url: "all.html" }, "good filler");
+    card.target = "_self";
+    const frame = el("div", "frame");
+    frame.appendChild(el("p", null, "Light load today."));
+    frame.appendChild(el("span", null, "All arrivals →"));
+    card.appendChild(frame);
+    grid.appendChild(card);
+  }
+
+  wrap.appendChild(grid);
+  if (section.more > 0) {
+    const link = el("a", "more", section.more + " more today →");
+    link.href = "all.html";
+    wrap.appendChild(link);
+  }
+  return wrap;
 }
 
 const RENDERERS = { headlines: renderHeadlines, goods: renderGoods, almanac: renderAlmanac };
@@ -286,7 +313,12 @@ function render(edition) {
       wrap.appendChild(head);
     }
 
-    if (!section.items.length) {
+    if (!section.items.length && section.kind === "goods") {
+      wrap.appendChild(el("p", "empty", "No new arrivals today."));
+      const out = el("a", "more", "All arrivals →");
+      out.href = "all.html";
+      wrap.appendChild(out);
+    } else if (!section.items.length) {
       wrap.appendChild(el("p", "empty", "Nothing came through here today."));
     } else {
       wrap.appendChild((RENDERERS[section.kind] || renderHeadlines)(section));
