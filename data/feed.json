@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-19T19:06:25.734584+00:00",
+ "generated_at": "2026-08-19T19:07:16.682920+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -180,19 +180,54 @@
    "title": "New In",
    "kind": "goods",
    "lead_image": false,
-   "more": 0,
+   "more": 4,
    "items": [
     {
      "title": "Raw Japanese Selvedge Full Saddle Jean",
      "url": "https://www.buckmason.com/products/raw-japanese-selvedge-full-saddle-jean",
      "source": "Buck Mason",
-     "summary": "",
-     "published": null,
-     "image": "https://cdn.shopify.com/s/files/1/0123/5065/2473/files/BM12126.1957_RAWFULLSADDLESANFORIZEDSELVEDGEJEAN_1.jpg?v=1786126968&format=webp&width=700&height=700",
-     "price": null,
+     "image": "https://cdn.shopify.com/s/files/1/0123/5065/2473/files/BM12126.1957_RAWFULLSADDLESANFORIZEDSELVEDGEJEAN_1.jpg?v=1786126968",
+     "price": "$278",
+     "published": "2026-07-30T19:49:28+00:00",
      "kind": "product",
      "id": "50476db96c5ca403",
      "first_seen": "2026-08-19T17:11:19.569450+00:00",
+     "is_new": true
+    },
+    {
+     "title": "Coffee Japanese Cool Cashmere LS Mariner Tee",
+     "url": "https://www.buckmason.com/products/coffee-japanese-cool-cashmere-ls-mariner-tee",
+     "source": "Buck Mason",
+     "image": "https://cdn.shopify.com/s/files/1/0123/5065/2473/files/BM11395.1352_JAPANESECOOLCASHMERELSMARINERTEECOFFEE_1.jpg?v=1786750478",
+     "price": "$158",
+     "published": "2026-07-10T20:01:19+00:00",
+     "kind": "product",
+     "id": "a3b482c2dca934f1",
+     "first_seen": "2026-08-19T19:07:16.682920+00:00",
+     "is_new": true
+    },
+    {
+     "title": "Cinnamon Japanese Cool Cashmere LS Mariner Tee",
+     "url": "https://www.buckmason.com/products/cinnamon-japanese-cool-cashmere-ls-mariner-tee",
+     "source": "Buck Mason",
+     "image": "https://cdn.shopify.com/s/files/1/0123/5065/2473/files/BM11395.1352_JAPANESECOOLCASHMERELSMARINERTEECINNAMON_1.jpg?v=1786750315",
+     "price": "$158",
+     "published": "2026-07-10T20:01:19+00:00",
+     "kind": "product",
+     "id": "eb6b279d09caf4d4",
+     "first_seen": "2026-08-19T19:07:16.682920+00:00",
+     "is_new": true
+    },
+    {
+     "title": "Coffee Japanese Cool Cashmere Knit Tee",
+     "url": "https://www.buckmason.com/products/coffee-japanese-cool-cashmere-knit-tee",
+     "source": "Buck Mason",
+     "image": "https://cdn.shopify.com/s/files/1/0123/5065/2473/files/BM11388.1352_JAPANESE-COOL-CASHMERE-KNIT-TEE_COFFEE_57474.jpg?v=1786741615",
+     "price": "$118",
+     "published": "2026-07-10T19:58:01+00:00",
+     "kind": "product",
+     "id": "41baaf520ce4d62a",
+     "first_seen": "2026-08-19T19:07:16.682920+00:00",
      "is_new": true
     }
    ]
