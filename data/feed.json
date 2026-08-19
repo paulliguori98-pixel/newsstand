@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-19T17:11:19.569450+00:00",
+ "generated_at": "2026-08-19T17:12:46.826103+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -8,11 +8,11 @@
    "lead_image": false,
    "items": [
     {
-     "title": "Mostly Sunny",
-     "icon": "sun",
+     "title": "Partly Sunny",
+     "icon": "partly",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 78,
+     "temp": 80,
      "high": 84,
      "low": 60,
      "rain": 8,
@@ -31,23 +31,24 @@
    "lead_image": false,
    "items": [
     {
-     "title": "Trump pauses new tariffs on Canada for three days, saying deal close",
-     "url": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "summary": "The US president says the two sides are finalising documents to avert import taxes targeting a range of Canadian goods.",
-     "published": "2026-08-19T15:47:31+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d42d/live/9ebe0f40-9b79-11f1-afeb-4d7c67d79c36.jpg",
+     "title": "Trump Says US Has \u2018Come to a Deal With Canada\u2019",
+     "url": "https://www.bloomberg.com/news/videos/2026-08-19/trump-says-us-has-come-to-a-deal-with-canada-video",
+     "source": "Bloomberg",
+     "summary": "President Donald Trump declared on Wednesday that the US has reached an agreement with Canada on trade, saying that Canadian representatives \u201cgave us the points we had to have.\u201d T\u2026",
+     "published": "2026-08-19T17:10:04+00:00",
+     "image": null,
      "kind": "article",
-     "id": "6854b3ddf9a5ed06",
-     "first_seen": "2026-08-19T10:59:50.515180+00:00",
+     "id": "66d50e8eb992dd23",
+     "first_seen": "2026-08-19T17:12:46.826103+00:00",
      "is_new": true,
-     "corroboration": 3,
+     "corroboration": 4,
      "also_in": [
       "Axios",
+      "BBC",
       "CNBC"
      ],
-     "boosted": true,
-     "score": 6
+     "boosted": false,
+     "score": 4
     },
     {
      "title": "Goldman's McClure Says IPO Market 'Wide Open' for Business",
