@@ -28,19 +28,16 @@ that's what the keywords are for, and it's also why the list must stay
 tight: every extra word is another bypass.
 
 ── One story, one place ──────────────────────────────────────────────────
-Grouping used to run per section, so the same event could headline two
-sections at once: Axios covers business, CNBC covers general news, and both
-World and Business would independently lead with the same OpenAI story.
+A story is claimed by the FIRST section that takes it, and later sections
+skip it. Section order in config.yaml therefore decides who wins a shared
+story. Two honest limits: corroboration measures coverage, not importance;
+and because it can't tell reporting from reaction, a big story keeps
+producing qualifying follow-ups for days.
 
-A story is now claimed by the FIRST section that takes it, and later
-sections skip it. Section order in config.yaml therefore decides who wins a
-shared story — World sits above Business, so a story both could carry ends
-up in World. Swap the sections to reverse that.
-
-Two honest limits. Corroboration measures coverage, not importance. And
-because it can't tell reporting from reaction, a big story keeps producing
-qualifying follow-ups ("What's Next for…") for days; mute that vocabulary
-in the section if it becomes tiresome.
+── Which arrivals reach the front page ───────────────────────────────────
+A `goods` section leads with what it has never shown before, newest first.
+See pick_goods: a brand that hasn't published in a week stops holding a
+slot with the same shirt every morning and yields it to something unseen.
 """
 
 from __future__ import annotations
@@ -57,7 +54,7 @@ import yaml
 
 from sources import html_watch, notes, pinterest, rss, shopify, weather
 
-VERSION = "1.1"
+VERSION = "1.3"
 ROOT = Path(__file__).parent
 DATA = ROOT / "data"
 ADAPTERS = {
@@ -160,11 +157,7 @@ def same_story(a: set[str], b: set[str]) -> bool:
 
 
 def ranked_stories(items: list[dict], boost: list[str], min_outlets: int) -> list[dict]:
-    """One entry per story, best first, below-floor stories removed.
-
-    The representative is the earliest-listed source in config order, which
-    makes source order an editorial preference rather than a roster.
-    """
+    """One entry per story, best first, below-floor stories removed."""
     boost = [b.lower() for b in boost or []]
     clusters: list[dict] = []
     for item in items:
@@ -198,11 +191,59 @@ def ranked_stories(items: list[dict], boost: list[str], min_outlets: int) -> lis
     return out
 
 
+def pick_goods(items: list[dict], limit: int, history: dict, today: str) -> list[dict]:
+    """Front-page arrivals: what's genuinely new first, then variety.
+
+    "Already shown" means shown on an EARLIER DAY, not an earlier build.
+    With a rebuild every twenty minutes the other reading would churn the
+    grid through the whole archive by lunchtime; this way the page holds
+    still through the day and turns over in the morning.
+
+    Three passes, each relaxing one rule: unseen arrivals with no brand
+    taking more than its `show`, then unseen arrivals uncapped, then
+    anything at all. Brands missing from the grid go first in the later
+    passes, and the last pass is why the grid is never short of its four.
+
+    This is what stops a brand that hasn't published in a week from
+    holding a slot with the same shirt every morning: once shown, that
+    shirt is spent, and the slot goes to something unseen.
+    """
+    unshown = [i for i in items if history.get(i["id"], today) == today]
+    picks: list[dict] = []
+    used: dict[str, int] = {}
+    taken: set[int] = set()
+
+    for item in unshown:
+        name = item.get("source", "")
+        if used.get(name, 0) >= item.get("_show", limit):
+            continue
+        used[name] = used.get(name, 0) + 1
+        picks.append(item)
+        taken.add(id(item))
+        if len(picks) >= limit:
+            return picks
+
+    for pool in (unshown, items):
+        here = {i.get("source", "") for i in picks}
+        ordered = ([i for i in pool if i.get("source", "") not in here]
+                   + [i for i in pool if i.get("source", "") in here])
+        for item in ordered:
+            if id(item) in taken:
+                continue
+            taken.add(id(item))
+            picks.append(item)
+            if len(picks) >= limit:
+                return picks
+    return picks
+
+
 def build(config: dict, probe: bool = False) -> dict:
     settings = config.get("settings", {})
     now = datetime.now(timezone.utc)
     seen = {} if probe else load_json("seen.json")
     archive = {} if probe else load_json("archive.json")
+    history = {} if probe else load_json("shown.json")
+    today = now.date().isoformat()
     new_cutoff = now - timedelta(days=settings.get("new_window_days", 4))
     default_limit = settings.get("per_section_limit", 12)
     global_boost = settings.get("boost", [])
@@ -275,6 +316,12 @@ def build(config: dict, probe: bool = False) -> dict:
         headlines = kind == "headlines"
         candidates = ranked_stories(everything, boost, min_outlets) if headlines else everything
 
+        if kind == "goods":
+            candidates = pick_goods(everything, limit, history, today)
+            for item in candidates:
+                history.setdefault(item["id"], today)
+                item["_show"] = limit  # already brand-balanced; don't re-cap below
+
         per_source: dict[str, int] = {}
         shown = []
         for item in candidates:
@@ -314,6 +361,7 @@ def build(config: dict, probe: bool = False) -> dict:
         "errors": errors,
         "_seen": seen,
         "_archive": archive,
+        "_shown": history,
         "_probe": probe_report,
     }
 
@@ -345,11 +393,13 @@ def main() -> int:
 
     seen = edition.pop("_seen")
     archive = edition.pop("_archive")
+    history = edition.pop("_shown")
     edition.pop("_probe")
     DATA.mkdir(exist_ok=True)
     (DATA / "feed.json").write_text(json.dumps(edition, indent=1))
     (DATA / "seen.json").write_text(json.dumps(seen))
     (DATA / "archive.json").write_text(json.dumps(archive, indent=1))
+    (DATA / "shown.json").write_text(json.dumps(history))
     (DATA / "feed.js").write_text("window.__EDITION__ = " + json.dumps(edition) + ";")
     (DATA / "archive.js").write_text("window.__ARCHIVE__ = " + json.dumps(archive) + ";")
 
