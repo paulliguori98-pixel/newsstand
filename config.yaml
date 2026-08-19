@@ -112,10 +112,14 @@ sections:
     limit: 1
     sources:
       - type: weather
-        name: Open-Meteo
+        name: NWS Albany
         place: Saratoga Springs
         latitude: 43.08
         longitude: -73.78
+        # Resolved once from /points. Hardcoding them means two requests
+        # per build instead of three, and one less thing that can fail.
+        forecast_url: https://api.weather.gov/gridpoints/ALY/68,82/forecast
+        hourly_url: https://api.weather.gov/gridpoints/ALY/68,82/forecast/hourly
         
   # One news section, not two. Splitting World and Business meant each was
   # measuring corroboration against its own handful of outlets — five and
