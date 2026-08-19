@@ -1,12 +1,28 @@
 {
- "generated_at": "2026-08-19T17:00:38.518622+00:00",
+ "generated_at": "2026-08-19T17:11:19.569450+00:00",
  "sections": [
   {
    "id": "almanac",
    "title": "Saratoga Springs",
    "kind": "almanac",
    "lead_image": false,
-   "items": []
+   "items": [
+    {
+     "title": "Mostly Sunny",
+     "icon": "sun",
+     "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
+     "source": "Saratoga Springs",
+     "temp": 78,
+     "high": 84,
+     "low": 60,
+     "rain": 8,
+     "sunrise": "6:06",
+     "sunset": "7:52",
+     "id": "bb806d72c86dcec1",
+     "first_seen": "2026-08-19T17:11:19.569450+00:00",
+     "is_new": true
+    }
+   ]
   },
   {
    "id": "news",
@@ -34,6 +50,22 @@
      "score": 6
     },
     {
+     "title": "Goldman's McClure Says IPO Market 'Wide Open' for Business",
+     "url": "https://www.bloomberg.com/news/videos/2026-08-19/goldman-s-mcclure-ipo-market-wide-open-for-business-video",
+     "source": "Bloomberg",
+     "summary": "Matthew McClure, Goldman Sachs global co-head of investment, says the IPO market is \"open for business,\" with AI-related companies accounting for more than half of capital raised \u2026",
+     "published": "2026-08-19T16:54:32+00:00",
+     "image": null,
+     "kind": "article",
+     "id": "0c3491cffa26a8f3",
+     "first_seen": "2026-08-19T17:11:19.569450+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
      "title": "Target says its turnaround is picking up steam, with help from a big tariff refund",
      "url": "https://www.cnbc.com/2026/08/19/target-tgt-q2-2026-earnings.html",
      "source": "CNBC",
@@ -58,22 +90,6 @@
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b878/live/63dff0a0-9b9c-11f1-b109-879e35c24276.jpg",
      "kind": "article",
      "id": "fe307da7bf3ffd4e",
-     "first_seen": "2026-08-19T10:59:50.515180+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "Exclusive: GOP warns AI companies that data centers are politically radioactive",
-     "url": "https://www.axios.com/2026/08/19/gop-data-center-memo-ai-election",
-     "source": "Axios",
-     "summary": "The Senate GOP campaign arm, in a private memo to top AI companies, warns that toxic views of U.S. data centers are killing the party's chances of holding a vital seat in Ohio.In \u2026",
-     "published": "2026-08-19T09:53:04+00:00",
-     "image": "https://images.axios.com/gZsARbm115UzgQw3J3-uV2pHkRQ=/0x0:1920x1080/1920x1080/2026/08/18/1787092722776.gif",
-     "kind": "article",
-     "id": "def10dfb6e84abd3",
      "first_seen": "2026-08-19T10:59:50.515180+00:00",
      "is_new": true,
      "corroboration": 1,
@@ -162,16 +178,16 @@
    "lead_image": false,
    "items": [
     {
-     "title": "Dress Navy California Cashmere Polo",
-     "url": "https://www.buckmason.com/products/dress-navy-california-cashmere-polo",
+     "title": "Raw Japanese Selvedge Full Saddle Jean",
+     "url": "https://www.buckmason.com/products/raw-japanese-selvedge-full-saddle-jean",
      "source": "Buck Mason",
      "summary": "",
      "published": null,
-     "image": "https://cdn.shopify.com/s/files/1/0123/5065/2473/files/BM16214.852_CALIFORNIA-CASHMERE-POLO_DRESS-NAVY_57410-_1_1.jpg?v=1787084000&format=webp&width=700&height=700",
+     "image": "https://cdn.shopify.com/s/files/1/0123/5065/2473/files/BM12126.1957_RAWFULLSADDLESANFORIZEDSELVEDGEJEAN_1.jpg?v=1786126968&format=webp&width=700&height=700",
      "price": null,
      "kind": "product",
-     "id": "bd37e484d21b8435",
-     "first_seen": "2026-08-18T20:54:35.483875+00:00",
+     "id": "50476db96c5ca403",
+     "first_seen": "2026-08-19T17:11:19.569450+00:00",
      "is_new": true
     },
     {
@@ -288,7 +304,5 @@
    ]
   }
  ],
- "errors": [
-  "Open-Meteo: ReadTimeout \u2014 HTTPSConnectionPool(host='api.open-meteo.com', port=443): Read timed out. (read timeout=20)"
- ]
+ "errors": []
 }
