@@ -64,6 +64,7 @@ ADAPTERS = {
     "notes": notes.fetch,
     "pinterest": pinterest.fetch,
     "weather": weather.fetch,
+    "buckmason": buckmason.fetch,
 }
 
 WORD = re.compile(r"[a-z0-9']+")
