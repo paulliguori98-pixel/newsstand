@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-19T17:24:12.786601+00:00",
+ "generated_at": "2026-08-19T17:29:41.910652+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -30,26 +30,6 @@
    "kind": "headlines",
    "lead_image": false,
    "items": [
-    {
-     "title": "Trump Says US Has \u2018Come to a Deal With Canada\u2019",
-     "url": "https://www.bloomberg.com/news/videos/2026-08-19/trump-says-us-has-come-to-a-deal-with-canada-video",
-     "source": "Bloomberg",
-     "summary": "President Donald Trump declared on Wednesday that the US has reached an agreement with Canada on trade, saying that Canadian representatives \u201cgave us the points we had to have.\u201d T\u2026",
-     "published": "2026-08-19T17:10:04+00:00",
-     "image": null,
-     "kind": "article",
-     "id": "66d50e8eb992dd23",
-     "first_seen": "2026-08-19T17:12:46.826103+00:00",
-     "is_new": true,
-     "corroboration": 4,
-     "also_in": [
-      "Axios",
-      "BBC",
-      "CNBC"
-     ],
-     "boosted": false,
-     "score": 4
-    },
     {
      "title": "Goldman's McClure Says IPO Market 'Wide Open' for Business",
      "url": "https://www.bloomberg.com/news/videos/2026-08-19/goldman-s-mcclure-ipo-market-wide-open-for-business-video",
@@ -92,6 +72,22 @@
      "kind": "article",
      "id": "fe307da7bf3ffd4e",
      "first_seen": "2026-08-19T10:59:50.515180+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
+     "title": "Canadian Stocks Climb as Trump Pauses Tariffs on Trade Talks",
+     "url": "https://www.bloomberg.com/news/articles/2026-08-19/canadian-stocks-climb-as-trump-pauses-tariffs-signals-deal-near",
+     "source": "Bloomberg",
+     "summary": "Canadian equities jumped Wednesday after US President Donald Trump said he would delay new 50% tariffs for three days and added that the two sides were close to a trade deal.",
+     "published": "2026-08-19T14:03:50+00:00",
+     "image": null,
+     "kind": "article",
+     "id": "7fd59c6cf9034b7e",
+     "first_seen": "2026-08-19T17:11:19.569450+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
