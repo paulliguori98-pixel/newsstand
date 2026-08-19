@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-19T17:13:50.282049+00:00",
+ "generated_at": "2026-08-19T17:23:10.957261+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -8,11 +8,11 @@
    "lead_image": false,
    "items": [
     {
-     "title": "Mostly Sunny",
-     "icon": "sun",
+     "title": "Partly Sunny",
+     "icon": "partly",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 78,
+     "temp": 80,
      "high": 84,
      "low": 60,
      "rain": 8,
@@ -107,20 +107,20 @@
    "lead_image": false,
    "items": [
     {
-     "title": "Replit expands access to software creation with GPT-5.6 Luna",
-     "url": "https://openai.com/index/replit",
+     "title": "Offering Zero Data Retention for frontier models",
+     "url": "https://openai.com/index/our-commitment-to-zero-data-retention",
      "source": "OpenAI",
-     "summary": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.",
-     "published": "2026-08-19T07:00:00+00:00",
+     "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
+     "published": "2026-08-19T19:00:00+00:00",
      "image": null,
      "kind": "article",
-     "id": "9ac0643f24279d08",
-     "first_seen": "2026-08-19T14:07:29.516805+00:00",
+     "id": "e396b6baa03e30ff",
+     "first_seen": "2026-08-19T17:23:10.957261+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
-     "boosted": true,
-     "score": 4
+     "boosted": false,
+     "score": 1
     },
     {
      "title": "Mojo\ud83d\udd25 is now open source",
