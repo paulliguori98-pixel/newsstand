@@ -216,50 +216,50 @@ def ranked_stories(items: list[dict], boost: list[str], min_outlets: int) -> lis
     return out
 
 
-def pick_goods(items: list[dict], limit: int, history: dict, today: str) -> list[dict]:
-    """Front-page arrivals: what's genuinely new first, then variety.
+def _round_robin(pool: list[dict], limit: int) -> list[dict]:
+    """One from each brand before any brand gets two.
 
-    "Already shown" means shown on an EARLIER DAY, not an earlier build.
-    With a rebuild every twenty minutes the other reading would churn the
-    grid through the whole archive by lunchtime; this way the page holds
-    still through the day and turns over in the morning.
-
-    Three passes, each relaxing one rule: unseen arrivals with no brand
-    taking more than its `show`, then unseen arrivals uncapped, then
-    anything at all. Brands missing from the grid go first in the later
-    passes, and the last pass is why the grid is never short of its four.
-
-    This is what stops a brand that hasn't published in a week from
-    holding a slot with the same shirt every morning: once shown, that
-    shirt is spent, and the slot goes to something unseen.
+    Without this the brand with the newest timestamps takes every slot and
+    the others never appear.
     """
-    unshown = [i for i in items if history.get(i["id"], today) == today]
     picks: list[dict] = []
     used: dict[str, int] = {}
     taken: set[int] = set()
+    brands = list(dict.fromkeys(i.get("source", "") for i in pool))
 
-    for item in unshown:
-        name = item.get("source", "")
-        if used.get(name, 0) >= item.get("_show", limit):
-            continue
-        used[name] = used.get(name, 0) + 1
-        picks.append(item)
-        taken.add(id(item))
+    for round_no in range(limit):
         if len(picks) >= limit:
-            return picks
-
-    for pool in (unshown, items):
-        here = {i.get("source", "") for i in picks}
-        ordered = ([i for i in pool if i.get("source", "") not in here]
-                   + [i for i in pool if i.get("source", "") in here])
-        for item in ordered:
-            if id(item) in taken:
-                continue
-            taken.add(id(item))
-            picks.append(item)
+            break
+        progressed = False
+        for brand in brands:
             if len(picks) >= limit:
-                return picks
+                break
+            if used.get(brand, 0) > round_no:
+                continue
+            nxt = next((i for i in pool
+                        if i.get("source", "") == brand and id(i) not in taken), None)
+            if nxt is not None:
+                used[brand] = used.get(brand, 0) + 1
+                picks.append(nxt)
+                taken.add(id(nxt))
+                progressed = True
+        if not progressed:
+            break
     return picks
+
+
+def pick_goods(items: list[dict], limit: int, today: str) -> tuple[list[dict], int]:
+    """Only what actually arrived today, spread across brands.
+
+    Returns (picks, how many of today's arrivals didn't fit).
+
+    Six days of data ran 2, 0, 0, 6, 3, 1 — a third of days have nothing
+    and the busiest had six. So the section sizes itself instead of
+    filling a fixed grid with last week's stock and calling it new.
+    """
+    arrivals = [i for i in items if (i.get("first_seen") or "")[:10] == today]
+    picks = _round_robin(arrivals, limit)
+    return picks, len(arrivals) - len(picks)
 
 
 def build(config: dict, probe: bool = False) -> dict:
@@ -340,11 +340,11 @@ def build(config: dict, probe: bool = False) -> dict:
 
         headlines = kind == "headlines"
         candidates = ranked_stories(everything, boost, min_outlets) if headlines else everything
-
+        more_today = 0
         if kind == "goods":
-            candidates = pick_goods(everything, limit, history, today)
+            candidates, more_today = pick_goods(everything, limit, today)
             for item in candidates:
-                history.setdefault(item["id"], today)
+                history.setdefault(item["id"], today)  # now just a log of what ran
                 item["_show"] = limit  # already brand-balanced; don't re-cap below
 
         per_source: dict[str, int] = {}
@@ -376,6 +376,7 @@ def build(config: dict, probe: bool = False) -> dict:
                 "title": section["title"],
                 "kind": kind,
                 "lead_image": section.get("lead_image", False),
+                "more": more_today,
                 "items": shown,
             }
         )
