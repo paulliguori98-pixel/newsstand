@@ -263,6 +263,9 @@ function render(edition) {
   const rule = document.getElementById("rule");
 
   edition.sections.forEach(section => {
+    // A weather block that didn't answer should leave no trace, not a
+    // stranded sentence sitting above the news.
+    if (!section.items.length && section.kind === "almanac") return;
     const wrap = el("section", "section" + (WIDE.has(section.kind) ? " wide" : ""));
     wrap.id = "s-" + section.id;
 
