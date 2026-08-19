@@ -253,7 +253,8 @@ function render(edition) {
   date.appendChild(el("em", null,
     built.toLocaleDateString("en-US", { month: "long", day: "numeric" })));
 
-  const total = edition.sections.reduce((n, s) => n + s.items.length, 0);
+  const total = edition.sections.reduce(
+    (n, s) => n + (s.kind === "almanac" ? 0 : s.items.length), 0);
   const fresh = edition.sections.reduce((n, s) => n + s.items.filter(i => i.is_new).length, 0);
   document.const RENDERERS = { headlines: renderHeadlines, goods: renderGoods, almanac: renderAlmanac };("tally").textContent =
     `${total} items · ${fresh} new since you last read`;
