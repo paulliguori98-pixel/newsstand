@@ -1,11 +1,12 @@
 {
- "generated_at": "2026-08-20T15:51:36.745350+00:00",
+ "generated_at": "2026-08-20T16:00:45.189907+00:00",
  "sections": [
   {
    "id": "almanac",
    "title": "Saratoga Springs",
    "kind": "almanac",
    "lead_image": false,
+   "row_detail": false,
    "more": 0,
    "items": [
     {
@@ -30,6 +31,7 @@
    "title": "News",
    "kind": "headlines",
    "lead_image": false,
+   "row_detail": false,
    "more": 0,
    "items": [
     {
@@ -103,6 +105,7 @@
    "title": "Workshop",
    "kind": "headlines",
    "lead_image": true,
+   "row_detail": false,
    "more": 0,
    "items": [
     {
@@ -172,6 +175,7 @@
    "title": "Just Released",
    "kind": "goods",
    "lead_image": false,
+   "row_detail": false,
    "more": 62,
    "items": [
     {
@@ -233,6 +237,7 @@
    "title": "Dispatches",
    "kind": "headlines",
    "lead_image": true,
+   "row_detail": false,
    "more": 0,
    "items": [
     {
