@@ -199,6 +199,7 @@ sections:
     limit: 5
     lead_image: true
     cluster: false
+    row_detail: true
     sources:
       - type: rss
         name: Hackster
