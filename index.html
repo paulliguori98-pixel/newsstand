@@ -70,15 +70,12 @@ img{border-radius:var(--soft)}
 .rowdek{margin:.14rem 0 0;color:var(--muted);font-weight:300;font-size:.82rem;line-height:1.35;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}  
 .tick{display:inline-block;width:4px;height:4px;border-radius:50%;background:var(--accent);vertical-align:.28em;margin-left:.45rem}
 
-.almanac{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:.9rem 1.2rem;max-width:var(--text);margin:0 auto;padding:1rem .1rem;border-top:1px solid var(--hair);border-bottom:1px solid var(--hair)}
-.almanac .now{display:flex;align-items:center;gap:.9rem}
-.almanac svg{display:block;fill:none;stroke:var(--accent);stroke-width:1.2;stroke-linecap:round;stroke-linejoin:round}
-.almanac .deg{font-weight:300;font-size:1.8rem;line-height:1;letter-spacing:-.02em}
-.almanac .cond{font-family:var(--sans);font-weight:400;font-size:.6rem;letter-spacing:.15em;text-transform:uppercase;color:var(--muted);margin-top:.35rem}
-.almanac .facts{display:flex;flex:1;gap:1.4rem;justify-content:flex-end}
-.almanac .k{font-family:var(--sans);font-weight:300;font-size:.57rem;letter-spacing:.12em;text-transform:uppercase;color:var(--muted);white-space:nowrap}
-.almanac .v{font-size:.95rem;margin-top:.2rem;white-space:nowrap}
-@media (max-width:430px){.almanac .facts{width:100%;justify-content:flex-start;gap:1.6rem}}
+.almanac{display:flex;align-items:center;gap:1.15rem;max-width:var(--text);margin:0 auto;background:#F1F5FA;border-radius:10px;padding:1.05rem 1.3rem}
+.almanac .deg{flex:none;font-weight:200;font-size:2.35rem;line-height:.95;letter-spacing:-.02em}
+.almanac .say{margin:0;font-weight:300;font-size:1rem;line-height:1.45}
+.almanac .sayhi{display:block;font-weight:400}
+.almanac .saylo{display:block;color:#7A8792;font-size:.84rem;margin-top:.2rem}
+@media (max-width:430px){.almanac{gap:.9rem;padding:.9rem 1rem}.almanac .deg{font-size:2rem}}
 
 .goods{display:grid;grid-template-columns:repeat(2,1fr);gap:2.2rem 1.6rem;max-width:var(--text);margin:0 auto}
 .good{text-align:center}
@@ -231,31 +228,11 @@ const SKY = {
 function renderAlmanac(section) {
   const w = section.items[0] || {};
   const box = el("div", "almanac");
-
-  const now = el("div", "now");
-  const holder = el("div");
-  holder.innerHTML = '<svg viewBox="0 0 24 24" width="28" height="28" aria-hidden="true">'
-    + (SKY[w.icon] || SKY.cloud) + "</svg>";
-  now.appendChild(holder.firstChild);
-
-  const read = el("div");
-  read.appendChild(el("div", "deg", w.temp + "°"));
-  const said = [w.title];
-  if (w.rain != null) said.push(w.rain + "% rain");
-  read.appendChild(el("div", "cond", said.join(" · ")));
-  now.appendChild(read);
-  box.appendChild(now);
-
-  const facts = el("div", "facts");
-  [["High / Low", w.high + "° / " + w.low + "°"],
-   ["Sunrise", w.sunrise],
-   ["Sunset", w.sunset]].forEach(pair => {
-    const cell = el("div");
-    cell.appendChild(el("div", "k", pair[0]));
-    cell.appendChild(el("div", "v", pair[1]));
-    facts.appendChild(cell);
-  });
-  box.appendChild(facts);
+  box.appendChild(el("div", "deg", w.temp + "°"));
+  const say = el("p", "say");
+  say.appendChild(el("span", "sayhi", w.phrase || ""));
+  if (w.detail) say.appendChild(el("span", "saylo", w.detail));
+  box.appendChild(say);
   return box;
 }
 
