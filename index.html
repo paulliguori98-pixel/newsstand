@@ -249,7 +249,51 @@ function renderAlmanac(section) {
   box.appendChild(facts);
   return box;
 }
-  
+
+const SOWING = {
+  direct: '<path d="M3 18h18"/><circle cx="8" cy="9.5" r="1.3"/><circle cx="12" cy="6" r="1.3"/><circle cx="16" cy="9.5" r="1.3"/><path d="M8 12.2v2.4M12 8.7v5.9M16 12.2v2.4"/>',
+  indoors: '<path d="M5.5 13.5h13l-1.4 6.5H6.9z"/><path d="M12 13.5V8"/><path d="M12 8.6c0-2 1.5-3.1 3.1-3.1M12 8.6c0-2-1.5-3.1-3.1-3.1"/>',
+  out: '<path d="M3 19.5h18"/><path d="M12 19.5V11"/><path d="M12 11.6c0-2.1 1.6-3.3 3.3-3.3M12 11.6c0-2.1-1.6-3.3-3.3-3.3"/><path d="M9 19.5a3 3 0 0 1 6 0"/>',
+};
+const SOWING_LABEL = { direct: "Direct sow", indoors: "Start indoors", out: "Plant out" };
+
+function renderGarden(section) {
+  const w = section.items[0] || {};
+  const box = el("div", "stories");
+
+  box.appendChild(el("div", "kick", w.kicker));
+  box.appendChild(el("h3", "task", w.title));
+  if (w.summary) box.appendChild(el("p", "taskdek", w.summary));
+
+  (w.plantings || []).forEach(p => {
+    const row = el("div", "plantbox");
+    const holder = el("div");
+    holder.innerHTML = '<svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true">'
+      + (SOWING[p.method] || SOWING.direct) + "</svg>";
+    row.appendChild(holder.firstChild);
+    const text = el("div");
+    text.appendChild(el("div", "plabel", SOWING_LABEL[p.method] || p.method));
+    text.appendChild(el("div", "crops", p.crops));
+    row.appendChild(text);
+    box.appendChild(row);
+  });
+
+  if ((w.reading || []).length) {
+    const list = el("div", "reading");
+    w.reading.forEach(r => {
+      const a = el("a", "row");
+      a.href = r.url;
+      a.target = "_blank";
+      a.rel = "noopener";
+      a.appendChild(el("span", "label", r.source));
+      a.appendChild(el("h3", null, r.title));
+      list.appendChild(a);
+    });
+    box.appendChild(list);
+  }
+  return box;
+}
+
 function renderGoods(section) {
   const wrap = el("div");
   const grid = el("div", "goods");
