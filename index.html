@@ -152,6 +152,15 @@ const linkTo = (item, cls) => {
   return a;
 };
 
+// Some feeds hand over a 150px thumbnail. Rather than smear it across a
+// hero slot, drop it — a missing photo reads better than a blurred one.
+function guardImage(img, minWidth, onFail) {
+  img.addEventListener("error", onFail);
+  img.addEventListener("load", () => {
+    if (img.naturalWidth && img.naturalWidth < minWidth) onFail();
+  });
+}
+  
 function leadCard(item, withImage) {
   const a = linkTo(item, "lead");
   if (withImage && item.image) {
@@ -159,6 +168,7 @@ function leadCard(item, withImage) {
     img.src = item.image;
     img.alt = "";
     img.loading = "lazy";
+    guardImage(img, 600, () => img.remove());    
     a.appendChild(img);
   }
   if (item.also_in && item.also_in.length) {
@@ -193,6 +203,7 @@ function rowCard(item, rich) {
       img.src = item.image;
       img.alt = "";
       img.loading = "lazy";
+      guardImage(img, 160, () => img.remove());      
       thumb.appendChild(img);
     }
     a.appendChild(thumb);
