@@ -58,7 +58,15 @@ def _candidates(source: dict) -> list[str]:
     url = source["url"]
     return url if isinstance(url, list) else [url]
 
+def _categories(entry) -> list[str]:
+    """feedparser exposes RSS <category> elements as entry.tags.
 
+    Hackaday files reader projects under a category ending in "hacks" and
+    its own writing under "Hackaday Columns", so the two are separable
+    without guessing from the headline.
+    """
+    return [str(t.get("term") or "").lower() for t in (entry.get("tags") or [])]
+    
 def fetch(source: dict, settings: dict) -> list[dict]:
     """Try each candidate URL in turn and keep the first that has entries.
 
