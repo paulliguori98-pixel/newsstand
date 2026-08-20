@@ -79,14 +79,32 @@ def _tags_ok(product: dict, require: list[str], exclude: list[str]) -> bool:
         return False
     return True
 
+def _excluded(product: dict, words: list[str]) -> bool:
+    """Drop a product if any word appears in its tags, type or handle.
 
+    Quaker Marine's taxonomy is incomplete in every direction: some women's
+    items carry a `women` tag, some say so only in product_type, and one
+    says so only in the handle. Checking all three is the only thing that
+    catches them all — tags alone missed 49 of 83.
+    """
+    if not words:
+        return False
+    haystack = " ".join([
+        " ".join(str(t) for t in (product.get("tags") or [])),
+        str(product.get("product_type") or ""),
+        str(product.get("handle") or ""),
+    ]).lower()
+    return any(w.lower() in haystack for w in words)
+   
 def _shape(products: list[dict], domain: str, name: str, source: dict) -> list[dict]:
     require = source.get("require_tags") or []
     exclude = source.get("exclude_tags") or []
+    exclude_where = source.get("exclude_where") or []   
     symbol = source.get("currency_symbol", "$")
     limit = source.get("limit", 12)
 
-    kept = [p for p in products if _tags_ok(p, require, exclude)]
+    kept = [p for p in products
+            if _tags_ok(p, require, exclude) and not _excluded(p, exclude_where)]
     kept.sort(key=_published, reverse=True)
 
     return [
