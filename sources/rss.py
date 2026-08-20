@@ -107,8 +107,17 @@ def fetch(source: dict, settings: dict) -> list[dict]:
     if parsed is None:
         raise RuntimeError("; ".join(failures))
 
+    require_cats = [c.lower() for c in (source.get("require_categories") or [])]
+    exclude_cats = [c.lower() for c in (source.get("exclude_categories") or [])]   
+    
     items = []
     for entry in parsed.entries[:25]:
+        cats = _categories(entry)
+        if require_cats and not any(r in c for c in cats for r in require_cats):
+            continue
+        if exclude_cats and any(e in c for c in cats for e in exclude_cats):
+            continue
+
         image = _image(entry)
         if source.get("images_only") and not image:
             continue
