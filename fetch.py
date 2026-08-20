@@ -340,7 +340,11 @@ def build(config: dict, probe: bool = False) -> dict:
                 }
 
         headlines = kind == "headlines"
-        candidates = ranked_stories(everything, boost, min_outlets) if headlines else everything
+        # Clustering assumes two outlets covering one event. In a projects
+        # section that's wrong: two people building Atari things are two
+        # projects, and merging them hides one.
+        candidates = (ranked_stories(everything, boost, min_outlets)
+                      if headlines and section.get("cluster", True) else everything)
         more_today = 0
         if kind == "goods":
             candidates, more_today = pick_goods(everything, limit, today)
