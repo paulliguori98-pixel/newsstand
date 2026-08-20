@@ -219,6 +219,8 @@ sections:
       - type: rss
         name: Hackaday
         url: https://hackaday.com/feed/
+        require_categories: [hacks]
+        exclude_categories: ["Hackaday Columns"]
         limit: 12
         show: 1
       - type: rss
