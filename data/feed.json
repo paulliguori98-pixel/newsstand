@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-20T20:52:01.392757+00:00",
+ "generated_at": "2026-08-20T21:07:48.391987+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -14,7 +14,7 @@
      "icon": "rain",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 77,
+     "temp": 76,
      "high": 80,
      "low": 54,
      "rain": 20,
