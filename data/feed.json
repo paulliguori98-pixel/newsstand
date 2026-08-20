@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-20T16:00:45.189907+00:00",
+ "generated_at": "2026-08-20T16:07:42.055127+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -105,7 +105,7 @@
    "title": "Workshop",
    "kind": "headlines",
    "lead_image": true,
-   "row_detail": false,
+   "row_detail": true,
    "more": 0,
    "items": [
     {
