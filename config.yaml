@@ -321,22 +321,10 @@ sections:
           - https://acontinuouslean.substack.com/feed
         limit: 6
         show: 2
-      # Food writing, and the most frequent publisher of the four.
-      - type: rss
-        name: Vittles
-        url: https://www.vittlesmagazine.com/feed
-        limit: 6
-        show: 2
       # Andrew Maness. Cars, objects, design.
       - type: rss
         name: This Nice Life
         url: https://www.thisnicelife.com/feed
-        limit: 6
-        show: 2
-      # Finn Harries. Climate and building things.
-      - type: rss
-        name: The Seeds Will Grow
-        url: https://www.theseedswillgrow.com/feed
         limit: 6
         show: 2
       - type: rss
