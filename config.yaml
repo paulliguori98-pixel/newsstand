@@ -108,7 +108,21 @@ sections:
         # per build instead of three, and one less thing that can fail.
         forecast_url: https://api.weather.gov/gridpoints/ALY/68,82/forecast
         hourly_url: https://api.weather.gov/gridpoints/ALY/68,82/forecast/hourly
-        
+
+  # No max_age_hours on purpose. These people publish every few weeks, not
+  # every day, so a freshness window would empty the section most mornings.
+  # Expect posts one to two weeks old — that's when they were written, not
+  # a fault in the build.
+  # Entirely local: the fortnight's task, crops and reading are decided by
+  # today's date. No network call, so this section cannot fail.
+  - id: garden
+    title: Garden
+    kind: garden
+    limit: 1
+    sources:
+      - type: garden
+        name: Garden
+        zone: Zone 5b
   # One news section, not two. Splitting World and Business meant each was
   # measuring corroboration against its own handful of outlets — five and
   # three — so the same OpenAI story could lead both at once. Merged, every
@@ -292,20 +306,6 @@ sections:
   # Checked across all 66 accounts Paul follows; these four are the entire
   # set that qualifies.
   #
-  # No max_age_hours on purpose. These people publish every few weeks, not
-  # every day, so a freshness window would empty the section most mornings.
-  # Expect posts one to two weeks old — that's when they were written, not
-  # a fault in the build.
-  # Entirely local: the fortnight's task, crops and reading are decided by
-  # today's date. No network call, so this section cannot fail.
-  - id: garden
-    title: Garden
-    kind: garden
-    limit: 1
-    sources:
-      - type: garden
-        name: Garden
-        zone: Zone 5b
   
   - id: dispatches
     title: Dispatches
