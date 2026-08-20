@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-20T18:35:23.510804+00:00",
+ "generated_at": "2026-08-20T18:37:01.628789+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -109,15 +109,15 @@
    "more": 0,
    "items": [
     {
-     "title": "Foldable OLED Displays and the Bane of Dust",
-     "url": "https://hackaday.com/2026/08/20/foldable-oled-displays-and-the-bane-of-dust/",
+     "title": "Miniaturizing the Atari 2600 Console",
+     "url": "https://hackaday.com/2026/08/20/miniaturizing-the-atari-2600-console/",
      "source": "Hackaday",
-     "summary": "Much like Apple\u2019s once vaunted super-slim butterfly keyboard, today\u2019s range of portable devices featuring flexible OLED displays \u2013 which can fold said display into a much smaller \u2026",
-     "published": "2026-08-20T18:30:33+00:00",
-     "image": "https://hackaday.com/wp-content/uploads/2026/08/folding_phone_uv_dust_on_hinge_ifixit_youtube.jpg",
+     "summary": "For as popular as Atari was in their heyday, it wasn\u2019t until well after they were on their famous decline that they released their first handheld, the Atari Lynx. In \u2026read more",
+     "published": "2026-08-20T15:30:57+00:00",
+     "image": "https://hackaday.com/wp-content/uploads/2026/08/micro-atari-main.jpg",
      "kind": "article",
-     "id": "0a0b37684aa33268",
-     "first_seen": "2026-08-20T18:33:22.497236+00:00",
+     "id": "d48d4add967c319a",
+     "first_seen": "2026-08-20T15:40:29.555434+00:00",
      "is_new": true
     },
     {
@@ -133,18 +133,6 @@
      "is_new": true
     },
     {
-     "title": "I Built a Tiny Atari 2600",
-     "url": "https://www.hackster.io/nickbild/i-built-a-tiny-atari-2600-8b1a57",
-     "source": "Hackster",
-     "summary": "\u00b5Tari is an Atari 2600, only way smaller.",
-     "published": "2026-08-18T23:25:19+00:00",
-     "image": "https://hackster.imgix.net/uploads/attachments/1988945/_U1S2gbxvDB.blob?auto=compress%2Cformat&w=400&h=300&fit=min",
-     "kind": "article",
-     "id": "b889ee0c79387840",
-     "first_seen": "2026-08-20T15:40:29.555434+00:00",
-     "is_new": true
-    },
-    {
      "title": "AI Voice Assistant with ESP32",
      "url": "https://www.hackster.io/jayesh_nawani/ai-voice-assistant-with-esp32-4a3d5f",
      "source": "Hackster",
@@ -153,6 +141,18 @@
      "image": "https://hackster.imgix.net/uploads/attachments/1988889/_0aTUvVEd3A.blob?auto=compress%2Cformat&w=400&h=300&fit=min",
      "kind": "article",
      "id": "ecc5010cc4b2f148",
+     "first_seen": "2026-08-20T15:40:29.555434+00:00",
+     "is_new": true
+    },
+    {
+     "title": "Microcifra 26 Cyberdeck",
+     "url": "https://www.hackster.io/roni-bandini/microcifra-26-cyberdeck-16e707",
+     "source": "Hackster",
+     "summary": "A retro cyberdeck with surveillance and information-broadcasting capabilities",
+     "published": "2026-08-18T17:42:45+00:00",
+     "image": "https://hackster.imgix.net/uploads/attachments/1988843/ezgif-2cae38eb1c1f481c_MnWwmCRjKB.gif?auto=format%2Ccompress&gifq=35&w=400&h=300&fit=min",
+     "kind": "article",
+     "id": "c184d626aff36602",
      "first_seen": "2026-08-20T15:40:29.555434+00:00",
      "is_new": true
     },
