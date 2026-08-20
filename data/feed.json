@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-20T15:40:29.555434+00:00",
+ "generated_at": "2026-08-20T15:42:50.566658+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -274,6 +274,22 @@
      "score": 1
     },
     {
+     "title": "Maeving: Getting a motorbike",
+     "url": "https://www.permanentstyle.com/2026/08/maeving-getting-a-motorbike.html",
+     "source": "Permanent Style",
+     "summary": "Last year I got a motorbike \u2013 an electric model from the British company Maeving \u2013 mostly for commuting, and I\u2019ve been enjoying it immensely. It\u2019s also opened up a whole new world\u2026",
+     "published": "2026-08-19T08:00:23+00:00",
+     "image": "https://www.permanentstyle.com/wp-content/uploads/2026/07/ADN6222-copy-150x150.jpg",
+     "kind": "article",
+     "id": "6c411aeee1bd5d1b",
+     "first_seen": "2026-08-20T15:42:50.566658+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": false,
+     "score": 1
+    },
+    {
      "title": "\u2018There are 1.5 sex scenes, and the food looks just fine\u2019",
      "url": "https://www.vittlesmagazine.com/p/there-are-15-sex-scenes-and-the-food",
      "source": "Vittles",
@@ -304,27 +320,9 @@
      "also_in": [],
      "boosted": false,
      "score": 1
-    },
-    {
-     "title": "The Unstoppable Rise of Natoora",
-     "url": "https://www.vittlesmagazine.com/p/the-supplier-that-writes-londons",
-     "source": "Vittles",
-     "summary": "Hester van Hensbergen on the rise and rise of produce wholesaler Natoora. Illustrations by Alex de Rivaz. Cover artwork by Julie Asquith Coghlan.",
-     "published": "2026-08-17T07:43:59+00:00",
-     "image": "https://substackcdn.com/image/fetch/$s_!iRIV!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fae0f140f-6849-4814-9c4a-2cdc44196721_1280x724.heic",
-     "kind": "article",
-     "id": "ab5b2c3bd68fc6ef",
-     "first_seen": "2026-08-17T11:01:36.333605+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": false,
-     "score": 1
     }
    ]
   }
  ],
- "errors": [
-  "Permanent Style: RuntimeError \u2014 https://www.permanentstyle.com/feed \u2192 HTTP 415"
- ]
+ "errors": []
 }
