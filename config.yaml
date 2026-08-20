@@ -30,6 +30,11 @@ settings:
   # important" half of the ranking — corroboration says what newsrooms
   # agreed on, this says what you care about.
   #
+  # The archive only ever grows, so dropping a source leaves its products
+  # behind. Purged by URL fragment.
+  archive_drop:
+    - quakermarine.com
+  #
   # Matching is literal and case-insensitive on the headline only, so keep
   # entries specific: "rate" would also match "accurate", which is why the
   # list below says "interest rate" and "rate cut" instead.
@@ -240,12 +245,6 @@ sections:
         name: Drake's
         domain: us.drakes.com
         currency_symbol: "$"
-        limit: 24
-        show: 1
-      - type: shopify
-        name: Quaker Marine
-        domain: quakermarine.com
-        exclude_where: [women]
         limit: 24
         show: 1
       - type: shopify
