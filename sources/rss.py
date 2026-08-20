@@ -54,13 +54,13 @@ def _full_size(url: str) -> str:
 def _image(entry) -> str | None:
     for media in (entry.get("media_content") or []) + (entry.get("media_thumbnail") or []):
         if media.get("url"):
-            return media["url"]
+            return _full_size(media["url"])
     for link in entry.get("links", []):
         if str(link.get("type", "")).startswith("image/"):
-            return link.get("href")
+            return _full_size(link.get("href"))
     body = entry.get("summary", "") or ""
     match = re.search(r'<img[^>]+src=["\']([^"\']+)', body)
-    return match.group(1) if match else None
+    return _full_size(match.group(1)) if match else None
 
 
 def _candidates(source: dict) -> list[str]:
