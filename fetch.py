@@ -366,7 +366,15 @@ def build(config: dict, probe: bool = False) -> dict:
                 claimed.append(keys)
             if len(shown) >= limit:
                 break
-
+              
+        # A section that leads with a photo should lead with an item that has
+        # one. Hackster publishes no images in its feed at all, so without
+        # this the Workshop hero is blank whenever a Hackster project leads.
+        if section.get("lead_image") and shown:
+            with_image = next((n for n, item in enumerate(shown) if item.get("image")), None)
+            if with_image:
+                shown.insert(0, shown.pop(with_image))
+              
         for item in everything:
             item.pop("_show", None)
             item.pop("_keys", None)
