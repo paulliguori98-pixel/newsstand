@@ -9,6 +9,7 @@ vittlesmagazine.com. Prefer a custom domain whenever a publication has one.
 
 from __future__ import annotations
 
+import html
 import re
 from datetime import datetime, timezone
 
@@ -26,7 +27,9 @@ BROWSER_HEADERS = {
 
 
 def _clean(text: str, limit: int = 180) -> str:
-    text = TAG.sub("", text or "").replace("&nbsp;", " ")
+    # Strip tags first, then decode entities — the other order would turn an
+    # escaped &lt;script&gt; back into a live tag.
+    text = html.unescape(TAG.sub("", text or ""))
     text = " ".join(text.split())
     return text[: limit - 1] + "…" if len(text) > limit else text
 
@@ -103,7 +106,7 @@ def fetch(source: dict, settings: dict) -> list[dict]:
             continue
         items.append(
             {
-                "title": (entry.get("title") or "").strip(),
+                "title": html.unescape((entry.get("title") or "").strip()),
                 "url": entry.get("link"),
                 "source": source.get("name") or parsed.feed.get("title", "Feed"),
                 "summary": _clean(entry.get("summary", "")),
