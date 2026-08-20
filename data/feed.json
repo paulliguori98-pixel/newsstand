@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-20T15:50:32.860140+00:00",
+ "generated_at": "2026-08-20T15:51:36.745350+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -115,13 +115,7 @@
      "kind": "article",
      "id": "d48d4add967c319a",
      "first_seen": "2026-08-20T15:40:29.555434+00:00",
-     "is_new": true,
-     "corroboration": 2,
-     "also_in": [
-      "Hackster"
-     ],
-     "boosted": false,
-     "score": 2
+     "is_new": true
     },
     {
      "title": "CrowView Note 15.6 review",
@@ -133,11 +127,7 @@
      "kind": "article",
      "id": "dda75fdad73a2867",
      "first_seen": "2026-08-20T15:40:29.555434+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": false,
-     "score": 1
+     "is_new": true
     },
     {
      "title": "AI Voice Assistant with ESP32",
@@ -149,11 +139,7 @@
      "kind": "article",
      "id": "ecc5010cc4b2f148",
      "first_seen": "2026-08-20T15:40:29.555434+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": false,
-     "score": 1
+     "is_new": true
     },
     {
      "title": "Microcifra 26 Cyberdeck",
@@ -165,11 +151,7 @@
      "kind": "article",
      "id": "c184d626aff36602",
      "first_seen": "2026-08-20T15:40:29.555434+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": false,
-     "score": 1
+     "is_new": true
     },
     {
      "title": "Glow Up Your Festival Coat with WLED",
@@ -181,11 +163,7 @@
      "kind": "article",
      "id": "6909764bd6e810c9",
      "first_seen": "2026-08-20T15:40:29.555434+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": false,
-     "score": 1
+     "is_new": true
     }
    ]
   },
