@@ -52,13 +52,6 @@ settings:
   # specific: "rate" would also match "accurate".
   boost:
     # The cost of money — moves plans, budgets, hiring
-    - interest rate
-    - rate cut
-    - rate hike
-    - federal reserve
-    - inflation
-    - jobs report
-    - recession
     # The rules changing — one ruling reshapes an industry's economics
     - antitrust
     - supreme court rules
@@ -71,17 +64,7 @@ settings:
     - strait
     - blockade
     - embargo
-    - supply chain
-    - semiconductor
-    - rare earth
-    - oil prices
     # Capital at scale — where sophisticated money is moving
-    - acquisition
-    - merger
-    - acquires
-    - bankruptcy
-    - ipo
-    - layoffs
     # Genuine ruptures — deliberately short
     - war
     - invasion
@@ -170,18 +153,6 @@ sections:
       # 100003114 is CNBC Top News. 10001147 is the Inside Wealth features
       # stream — fallback only.
       - type: rss
-        name: CNBC
-        url:
-          - https://www.cnbc.com/id/100003114/device/rss/rss.html
-          - https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10001147
-        limit: 12
-      - type: rss
-        name: Bloomberg
-        url:
-          - https://feeds.bloomberg.com/markets/news.rss
-          - https://feeds.bloomberg.com/business/news.rss
-        limit: 12
-      - type: rss
         name: Axios
         url:
           - https://api.axios.com/feed/
@@ -216,42 +187,38 @@ sections:
       - "explained"
       - "here's what"
 
-  - id: ai
-    title: Artificial Intelligence
+  # Projects, not industry news. Hackster and Adafruit are builds with
+
+  # instructions at the end of them. Hackaday runs a mix and MagPi leans
+
+  # towards reviews, so both are capped lower.
+
+  - id: workshop
+    title: Workshop
     kind: headlines
-    limit: 4
-    drop_features: true
+    limit: 5
+    lead_image: true
     sources:
-      # Jack Clark's own site — the Substack address is blocked.
       - type: rss
-        name: Import AI
-        url:
-          - https://jack-clark.net/feed/
-          - https://importai.substack.com/feed
-        limit: 2
-      # Ethan Mollick, on a custom domain, which is why this one works.
+        name: Hackster
+        url: https://www.hackster.io/projects.atom
+        limit: 12
+        show: 2
       - type: rss
-        name: One Useful Thing
-        url:
-          - https://www.oneusefulthing.org/feed
-          - https://oneusefulthing.substack.com/feed
-        limit: 2
+        name: Adafruit
+        url: https://learn.adafruit.com/feed
+        limit: 12
+        show: 2
       - type: rss
-        name: Simon Willison
-        url: https://simonwillison.net/atom/everything/
-        limit: 2
+        name: Hackaday
+        url: https://hackaday.com/feed/
+        limit: 12
+        show: 1
       - type: rss
-        name: Ars Technica
-        url: https://feeds.arstechnica.com/arstechnica/technology-lab
-        limit: 2
-      - type: rss
-        name: OpenAI
-        url: https://openai.com/news/rss.xml
-        limit: 1
-      - type: rss
-        name: Google DeepMind
-        url: https://deepmind.google/blog/feed/basic/
-        limit: 1
+        name: MagPi
+        url: https://magazine.raspberrypi.com/feed
+        limit: 12
+        show: 1
 
   - id: goods
     title: Just Released
@@ -276,6 +243,7 @@ sections:
       - type: shopify
         name: Quaker Marine
         domain: quakermarine.com
+        exclude_tags: [women]
         limit: 24
         show: 1
       - type: shopify
@@ -355,6 +323,21 @@ sections:
       - type: rss
         name: The Seeds Will Grow
         url: https://www.theseedswillgrow.com/feed
+        limit: 6
+        show: 2
+      - type: rss
+        name: Permanent Style
+        url: https://www.permanentstyle.com/feed
+        limit: 6
+        show: 1
+      - type: rss
+        name: Put This On
+        url: https://www.putthison.com/feed/
+        limit: 6
+        show: 2
+      - type: rss
+        name: Menswear Musings
+        url: https://www.menswearmusings.com/feed
         limit: 6
         show: 2
 
