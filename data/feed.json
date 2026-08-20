@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-20T17:57:37.709612+00:00",
+ "generated_at": "2026-08-20T18:33:22.497236+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,7 +10,7 @@
    "more": 0,
    "items": [
     {
-     "title": "Mostly Cloudy",
+     "title": "Cloudy",
      "icon": "cloud",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
@@ -109,15 +109,15 @@
    "more": 0,
    "items": [
     {
-     "title": "3D Printering: Why is my PLA so Brittle?",
-     "url": "https://hackaday.com/2026/08/20/3d-printering-why-is-my-pla-so-brittle/",
+     "title": "Foldable OLED Displays and the Bane of Dust",
+     "url": "https://hackaday.com/2026/08/20/foldable-oled-displays-and-the-bane-of-dust/",
      "source": "Hackaday",
-     "summary": "Over the years poly(lactic acid) (PLA) \u2013 also known as polylactide \u2013 has become a popular thermoplastic for a variety of reasons. One of these reasons is that it\u2019s easily \u2026read mo\u2026",
-     "published": "2026-08-20T17:00:23+00:00",
-     "image": "https://hackaday.com/wp-content/uploads/2020/02/3D-Printering-Header-New.jpg",
+     "summary": "Much like Apple\u2019s once vaunted super-slim butterfly keyboard, today\u2019s range of portable devices featuring flexible OLED displays \u2013 which can fold said display into a much smaller \u2026",
+     "published": "2026-08-20T18:30:33+00:00",
+     "image": "https://hackaday.com/wp-content/uploads/2026/08/folding_phone_uv_dust_on_hinge_ifixit_youtube.jpg",
      "kind": "article",
-     "id": "f87ad59ac007a5d0",
-     "first_seen": "2026-08-20T17:14:15.355312+00:00",
+     "id": "0a0b37684aa33268",
+     "first_seen": "2026-08-20T18:33:22.497236+00:00",
      "is_new": true
     },
     {
