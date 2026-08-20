@@ -389,6 +389,7 @@ def build(config: dict, probe: bool = False) -> dict:
                 "title": section["title"],
                 "kind": kind,
                 "lead_image": section.get("lead_image", False),
+                "row_detail": section.get("row_detail", False),              
                 "more": more_today,
                 "items": shown,
             }
