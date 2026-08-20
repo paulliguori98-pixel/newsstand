@@ -296,6 +296,17 @@ sections:
   # every day, so a freshness window would empty the section most mornings.
   # Expect posts one to two weeks old — that's when they were written, not
   # a fault in the build.
+  # Entirely local: the fortnight's task, crops and reading are decided by
+  # today's date. No network call, so this section cannot fail.
+  - id: garden
+    title: Garden
+    kind: garden
+    limit: 1
+    sources:
+      - type: garden
+        name: Garden
+        zone: Zone 5b
+  
   - id: dispatches
     title: Dispatches
     kind: headlines
