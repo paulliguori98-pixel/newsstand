@@ -142,4 +142,3 @@ def fetch(source: dict, settings: dict) -> list[dict]:
             }
         )
 
-        return _full_size(found) if found else None
