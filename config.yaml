@@ -245,7 +245,7 @@ sections:
       - type: shopify
         name: Quaker Marine
         domain: quakermarine.com
-        exclude_tags: [women]
+        exclude_where: [women]
         limit: 24
         show: 1
       - type: shopify
