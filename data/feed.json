@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-20T19:55:11.126939+00:00",
+ "generated_at": "2026-08-20T20:28:55.252232+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,12 +10,12 @@
    "more": 0,
    "items": [
     {
-     "title": "Cloudy",
-     "icon": "cloud",
+     "title": "Slight Chance Rain Showers",
+     "icon": "rain",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 79,
-     "high": 79,
+     "temp": 77,
+     "high": 80,
      "low": 54,
      "rain": 20,
      "sunrise": "6:07",
@@ -74,6 +74,22 @@
    "more": 0,
    "items": [
     {
+     "title": "Canada and U.S. Resume Talks Over Trump Tariffs as a New Deadline Looms",
+     "url": "https://www.nytimes.com/2026/08/20/world/canada/trump-carney-tariffs-trade-deal.html",
+     "source": "New York Times",
+     "summary": "While President Trump has declared that the two countries effectively have a deal, they remain apart on several key issues.",
+     "published": "2026-08-20T19:53:15+00:00",
+     "image": "https://static01.nyt.com/images/2026/08/20/multimedia/20int-canada-tariffs-deal-mqlb/20int-canada-tariffs-deal-mqlb-mediumSquareAt3X.jpg",
+     "kind": "article",
+     "id": "d2d717f95dab6cab",
+     "first_seen": "2026-08-20T17:14:15.355312+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
      "title": "US says sanctions will 'squash' Iran's economy and 'collapse' its regime",
      "url": "https://www.bbc.co.uk/news/articles/c87n90eg0p2o?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
@@ -99,22 +115,6 @@
      "kind": "article",
      "id": "5ae2df38af75ddb8",
      "first_seen": "2026-08-20T19:35:42.721302+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "Canada and U.S. Resume Talks Over Trump Tariffs as a New Deadline Looms",
-     "url": "https://www.nytimes.com/2026/08/20/world/canada/trump-carney-tariffs-trade-deal.html",
-     "source": "New York Times",
-     "summary": "While President Trump has declared that the two countries effectively have a deal, they remain apart on several key issues.",
-     "published": "2026-08-20T19:13:27+00:00",
-     "image": "https://static01.nyt.com/images/2026/08/20/multimedia/20int-canada-tariffs-deal-mqlb/20int-canada-tariffs-deal-mqlb-mediumSquareAt3X.jpg",
-     "kind": "article",
-     "id": "d2d717f95dab6cab",
-     "first_seen": "2026-08-20T17:14:15.355312+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
@@ -148,15 +148,15 @@
    "more": 0,
    "items": [
     {
-     "title": "Miniaturizing the Atari 2600 Console",
-     "url": "https://hackaday.com/2026/08/20/miniaturizing-the-atari-2600-console/",
+     "title": "Homebrew 68K Machine Has A PCI Bus",
+     "url": "https://hackaday.com/2026/08/20/homebrew-68k-machine-has-a-pci-bus/",
      "source": "Hackaday",
-     "summary": "For as popular as Atari was in their heyday, it wasn\u2019t until well after they were on their famous decline that they released their first handheld, the Atari Lynx. In \u2026read more",
-     "published": "2026-08-20T15:30:57+00:00",
-     "image": "https://hackaday.com/wp-content/uploads/2026/08/micro-atari-main.jpg",
+     "summary": "The Peripheral Component Interconnect (PCI) bus was first introduced all the way back in 1992. It quickly became the standard way to interface add-on cards on the PC platform, sup\u2026",
+     "published": "2026-08-20T20:00:53+00:00",
+     "image": "https://hackaday.com/wp-content/uploads/2026/08/img_20260819_215428_c-e1787210997954.jpg",
      "kind": "article",
-     "id": "d48d4add967c319a",
-     "first_seen": "2026-08-20T15:40:29.555434+00:00",
+     "id": "bdd9f4e1e40e4516",
+     "first_seen": "2026-08-20T20:28:55.252232+00:00",
      "is_new": true
     },
     {
@@ -172,6 +172,18 @@
      "is_new": true
     },
     {
+     "title": "I Built a Tiny Atari 2600",
+     "url": "https://www.hackster.io/nickbild/i-built-a-tiny-atari-2600-8b1a57",
+     "source": "Hackster",
+     "summary": "\u00b5Tari is an Atari 2600, only way smaller.",
+     "published": "2026-08-18T23:25:19+00:00",
+     "image": "https://hackster.imgix.net/uploads/attachments/1988945/_U1S2gbxvDB.blob?auto=compress%2Cformat&w=400&h=300&fit=min",
+     "kind": "article",
+     "id": "b889ee0c79387840",
+     "first_seen": "2026-08-20T15:40:29.555434+00:00",
+     "is_new": true
+    },
+    {
      "title": "AI Voice Assistant with ESP32",
      "url": "https://www.hackster.io/jayesh_nawani/ai-voice-assistant-with-esp32-4a3d5f",
      "source": "Hackster",
@@ -180,18 +192,6 @@
      "image": "https://hackster.imgix.net/uploads/attachments/1988889/_0aTUvVEd3A.blob?auto=compress%2Cformat&w=400&h=300&fit=min",
      "kind": "article",
      "id": "ecc5010cc4b2f148",
-     "first_seen": "2026-08-20T15:40:29.555434+00:00",
-     "is_new": true
-    },
-    {
-     "title": "Microcifra 26 Cyberdeck",
-     "url": "https://www.hackster.io/roni-bandini/microcifra-26-cyberdeck-16e707",
-     "source": "Hackster",
-     "summary": "A retro cyberdeck with surveillance and information-broadcasting capabilities",
-     "published": "2026-08-18T17:42:45+00:00",
-     "image": "https://hackster.imgix.net/uploads/attachments/1988843/ezgif-2cae38eb1c1f481c_MnWwmCRjKB.gif?auto=format%2Ccompress&gifq=35&w=400&h=300&fit=min",
-     "kind": "article",
-     "id": "c184d626aff36602",
      "first_seen": "2026-08-20T15:40:29.555434+00:00",
      "is_new": true
     },
