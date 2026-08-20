@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-20T19:38:22.038770+00:00",
+ "generated_at": "2026-08-20T19:55:11.126939+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,18 +10,57 @@
    "more": 0,
    "items": [
     {
-     "title": "Slight Chance Rain Showers",
-     "icon": "rain",
+     "title": "Cloudy",
+     "icon": "cloud",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 77,
-     "high": 80,
+     "temp": 79,
+     "high": 79,
      "low": 54,
      "rain": 20,
      "sunrise": "6:07",
      "sunset": "7:50",
      "id": "bb806d72c86dcec1",
      "first_seen": "2026-08-19T17:11:19.569450+00:00",
+     "is_new": true
+    }
+   ]
+  },
+  {
+   "id": "garden",
+   "title": "Garden",
+   "kind": "garden",
+   "lead_image": false,
+   "row_detail": false,
+   "more": 0,
+   "items": [
+    {
+     "title": "Last call for fall greens.",
+     "summary": "Only the fast ones now \u2014 anything over 45 days won't finish. Order garlic for October planting.",
+     "kicker": "Zone 5b \u00b7 16\u201331 August \u00b7 27 days to first frost",
+     "plantings": [
+      {
+       "method": "direct",
+       "crops": "spinach \u00b7 arugula \u00b7 radish \u00b7 mustard greens \u00b7 baby lettuce"
+      }
+     ],
+     "reading": [
+      {
+       "source": "Margaret Roach",
+       "title": "What to plant now for a fall vegetable garden",
+       "url": "https://awaytogarden.com/what-to-plant-now-for-a-fall-vegetable-garden/"
+      },
+      {
+       "source": "Margaret Roach",
+       "title": "Growing and storing a year of garlic",
+       "url": "https://awaytogarden.com/growing-and-storing-a-year-of-garlic/"
+      }
+     ],
+     "url": "https://awaytogarden.com/what-to-plant-now-for-a-fall-vegetable-garden/",
+     "source": "Zone 5b",
+     "kind": "garden",
+     "id": "37e79f96d80738d5",
+     "first_seen": "2026-08-20T19:35:42.721302+00:00",
      "is_new": true
     }
    ]
@@ -35,14 +74,14 @@
    "more": 0,
    "items": [
     {
-     "title": "The Iran war and tariffs are costing farmers. Will Republicans pay in November?",
-     "url": "https://www.npr.org/2026/08/20/nx-s1-5914684/farmers-trump-pennsylvania-midterms",
-     "source": "NPR",
-     "summary": "In some tight midterm races, how farmers frustrated with the war and rising costs vote could make a difference.",
-     "published": "2026-08-20T19:22:20+00:00",
-     "image": null,
+     "title": "US says sanctions will 'squash' Iran's economy and 'collapse' its regime",
+     "url": "https://www.bbc.co.uk/news/articles/c87n90eg0p2o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "summary": "US Treasury Secretary Scott Bessent says allies will need to decide whether they \"are with us or against us\".",
+     "published": "2026-08-20T19:52:48+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f685/live/690551d0-9cc6-11f1-a5cd-a14170183a2c.png",
      "kind": "article",
-     "id": "5ae2df38af75ddb8",
+     "id": "910d737212cb1974",
      "first_seen": "2026-08-20T19:35:42.721302+00:00",
      "is_new": true,
      "corroboration": 1,
@@ -51,14 +90,14 @@
      "score": 4
     },
     {
-     "title": "US says sanctions will 'squash' Iran's economy and 'collapse' its regime",
-     "url": "https://www.bbc.co.uk/news/articles/c87n90eg0p2o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "summary": "The US treasury secretary says allies will need to decide whether they \"are with us or against us\".",
-     "published": "2026-08-20T19:19:20+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f685/live/690551d0-9cc6-11f1-a5cd-a14170183a2c.png",
+     "title": "The Iran war and tariffs are costing farmers. Will Republicans pay in November?",
+     "url": "https://www.npr.org/2026/08/20/nx-s1-5914684/farmers-trump-pennsylvania-midterms",
+     "source": "NPR",
+     "summary": "In some tight midterm races, how farmers frustrated with the war and rising costs vote could make a difference.",
+     "published": "2026-08-20T19:22:20+00:00",
+     "image": null,
      "kind": "article",
-     "id": "910d737212cb1974",
+     "id": "5ae2df38af75ddb8",
      "first_seen": "2026-08-20T19:35:42.721302+00:00",
      "is_new": true,
      "corroboration": 1,
@@ -228,45 +267,6 @@
      "kind": "product",
      "id": "39859454f1f3a2c5",
      "first_seen": "2026-08-20T15:40:29.555434+00:00",
-     "is_new": true
-    }
-   ]
-  },
-  {
-   "id": "garden",
-   "title": "Garden",
-   "kind": "garden",
-   "lead_image": false,
-   "row_detail": false,
-   "more": 0,
-   "items": [
-    {
-     "title": "Last call for fall greens.",
-     "summary": "Only the fast ones now \u2014 anything over 45 days won't finish. Order garlic for October planting.",
-     "kicker": "Zone 5b \u00b7 16\u201331 August \u00b7 27 days to first frost",
-     "plantings": [
-      {
-       "method": "direct",
-       "crops": "spinach \u00b7 arugula \u00b7 radish \u00b7 mustard greens \u00b7 baby lettuce"
-      }
-     ],
-     "reading": [
-      {
-       "source": "Margaret Roach",
-       "title": "What to plant now for a fall vegetable garden",
-       "url": "https://awaytogarden.com/what-to-plant-now-for-a-fall-vegetable-garden/"
-      },
-      {
-       "source": "Margaret Roach",
-       "title": "Growing and storing a year of garlic",
-       "url": "https://awaytogarden.com/growing-and-storing-a-year-of-garlic/"
-      }
-     ],
-     "url": "https://awaytogarden.com/what-to-plant-now-for-a-fall-vegetable-garden/",
-     "source": "Zone 5b",
-     "kind": "garden",
-     "id": "37e79f96d80738d5",
-     "first_seen": "2026-08-20T19:35:42.721302+00:00",
      "is_new": true
     }
    ]
