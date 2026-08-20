@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-20T16:11:56.908385+00:00",
+ "generated_at": "2026-08-20T17:14:15.355312+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -14,7 +14,7 @@
      "icon": "cloud",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 75,
+     "temp": 76,
      "high": 78,
      "low": 53,
      "rain": 15,
@@ -34,6 +34,22 @@
    "row_detail": false,
    "more": 0,
    "items": [
+    {
+     "title": "Canada and U.S. Resume Talks Over Trump Tariffs as a New Deadline Looms",
+     "url": "https://www.nytimes.com/2026/08/20/world/canada/trump-carney-tariffs-trade-deal.html",
+     "source": "New York Times",
+     "summary": "While President Trump has declared that the two countries effectively have a deal, they remain apart on several key issues.",
+     "published": "2026-08-20T16:46:04+00:00",
+     "image": "https://static01.nyt.com/images/2026/08/20/multimedia/20int-canada-tariffs-deal-mqlb/20int-canada-tariffs-deal-mqlb-mediumSquareAt3X.jpg",
+     "kind": "article",
+     "id": "d2d717f95dab6cab",
+     "first_seen": "2026-08-20T17:14:15.355312+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
     {
      "title": "Assad officer extradited to Syria on war crimes charges for first time",
      "url": "https://www.bbc.co.uk/news/articles/cvgjdy8q766o?at_medium=RSS&at_campaign=rss",
@@ -81,22 +97,6 @@
      "also_in": [],
      "boosted": true,
      "score": 4
-    },
-    {
-     "title": "Exclusive: GOP warns AI companies that data centers are politically radioactive",
-     "url": "https://www.axios.com/2026/08/19/gop-data-center-memo-ai-election",
-     "source": "Axios",
-     "summary": "The Senate GOP campaign arm, in a private memo to top AI companies, warns that toxic views of U.S. data centers are killing the party's chances of holding a vital seat in Ohio.In \u2026",
-     "published": "2026-08-19T09:53:04+00:00",
-     "image": "https://images.axios.com/gZsARbm115UzgQw3J3-uV2pHkRQ=/0x0:1920x1080/1920x1080/2026/08/18/1787092722776.gif",
-     "kind": "article",
-     "id": "def10dfb6e84abd3",
-     "first_seen": "2026-08-19T10:59:50.515180+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
     }
    ]
   },
@@ -109,15 +109,15 @@
    "more": 0,
    "items": [
     {
-     "title": "Miniaturizing the Atari 2600 Console",
-     "url": "https://hackaday.com/2026/08/20/miniaturizing-the-atari-2600-console/",
+     "title": "3D Printering: Why is my PLA so Brittle?",
+     "url": "https://hackaday.com/2026/08/20/3d-printering-why-is-my-pla-so-brittle/",
      "source": "Hackaday",
-     "summary": "For as popular as Atari was in their heyday, it wasn\u2019t until well after they were on their famous decline that they released their first handheld, the Atari Lynx. In \u2026read more",
-     "published": "2026-08-20T15:30:57+00:00",
-     "image": "https://hackaday.com/wp-content/uploads/2026/08/micro-atari-main.jpg",
+     "summary": "Over the years poly(lactic acid) (PLA) \u2013 also known as polylactide \u2013 has become a popular thermoplastic for a variety of reasons. One of these reasons is that it\u2019s easily \u2026read mo\u2026",
+     "published": "2026-08-20T17:00:23+00:00",
+     "image": "https://hackaday.com/wp-content/uploads/2020/02/3D-Printering-Header-New.jpg",
      "kind": "article",
-     "id": "d48d4add967c319a",
-     "first_seen": "2026-08-20T15:40:29.555434+00:00",
+     "id": "f87ad59ac007a5d0",
+     "first_seen": "2026-08-20T17:14:15.355312+00:00",
      "is_new": true
     },
     {
@@ -133,6 +133,18 @@
      "is_new": true
     },
     {
+     "title": "I Built a Tiny Atari 2600",
+     "url": "https://www.hackster.io/nickbild/i-built-a-tiny-atari-2600-8b1a57",
+     "source": "Hackster",
+     "summary": "\u00b5Tari is an Atari 2600, only way smaller.",
+     "published": "2026-08-18T23:25:19+00:00",
+     "image": "https://hackster.imgix.net/uploads/attachments/1988945/_U1S2gbxvDB.blob?auto=compress%2Cformat&w=400&h=300&fit=min",
+     "kind": "article",
+     "id": "b889ee0c79387840",
+     "first_seen": "2026-08-20T15:40:29.555434+00:00",
+     "is_new": true
+    },
+    {
      "title": "AI Voice Assistant with ESP32",
      "url": "https://www.hackster.io/jayesh_nawani/ai-voice-assistant-with-esp32-4a3d5f",
      "source": "Hackster",
@@ -141,18 +153,6 @@
      "image": "https://hackster.imgix.net/uploads/attachments/1988889/_0aTUvVEd3A.blob?auto=compress%2Cformat&w=400&h=300&fit=min",
      "kind": "article",
      "id": "ecc5010cc4b2f148",
-     "first_seen": "2026-08-20T15:40:29.555434+00:00",
-     "is_new": true
-    },
-    {
-     "title": "Microcifra 26 Cyberdeck",
-     "url": "https://www.hackster.io/roni-bandini/microcifra-26-cyberdeck-16e707",
-     "source": "Hackster",
-     "summary": "A retro cyberdeck with surveillance and information-broadcasting capabilities",
-     "published": "2026-08-18T17:42:45+00:00",
-     "image": "https://hackster.imgix.net/uploads/attachments/1988843/ezgif-2cae38eb1c1f481c_MnWwmCRjKB.gif?auto=format%2Ccompress&gifq=35&w=400&h=300&fit=min",
-     "kind": "article",
-     "id": "c184d626aff36602",
      "first_seen": "2026-08-20T15:40:29.555434+00:00",
      "is_new": true
     },
@@ -278,7 +278,7 @@
      "source": "Vittles",
      "summary": "Simran Hans reviews Tony",
      "published": "2026-08-19T07:37:39+00:00",
-     "image": "https://substackcdn.com/image/fetch/$s_!5r0F!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb4faaca9-5624-4659-8c86-1e1ea73b4087_5712x4284.jpeg",
+     "image": "https://substackcdn.com/image/fetch/$s_!mY_S!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc1b8ed5d-472b-4880-9277-d88640d3127f_594x880.jpeg",
      "kind": "article",
      "id": "6f2886b68db2e8b4",
      "first_seen": "2026-08-19T10:59:50.515180+00:00",
