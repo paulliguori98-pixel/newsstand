@@ -41,6 +41,15 @@ def _published(entry) -> str | None:
             return datetime(*parsed[:6], tzinfo=timezone.utc).isoformat()
     return None
 
+# WordPress serves resized derivatives — foo-150x150.jpg — and feeds often
+# carry the thumbnail rather than the original at foo.jpg. Left alone, a
+# 150px square gets blown up to 655px in a hero slot.
+WP_SIZE = re.compile(r"-\d{2,4}x\d{2,4}(?=\.(?:jpe?g|png|webp|gif)(?:\?|$))", re.I)
+
+
+def _full_size(url: str) -> str:
+    return WP_SIZE.sub("", url or "")
+
 
 def _image(entry) -> str | None:
     for media in (entry.get("media_content") or []) + (entry.get("media_thumbnail") or []):
@@ -133,4 +142,4 @@ def fetch(source: dict, settings: dict) -> list[dict]:
             }
         )
 
-    return items[: source.get("limit", 25)]
+        return _full_size(found) if found else None
