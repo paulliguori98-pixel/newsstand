@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-20T18:33:22.497236+00:00",
+ "generated_at": "2026-08-20T18:35:23.510804+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,7 +10,7 @@
    "more": 0,
    "items": [
     {
-     "title": "Cloudy",
+     "title": "Mostly Cloudy",
      "icon": "cloud",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
