@@ -142,3 +142,5 @@ def fetch(source: dict, settings: dict) -> list[dict]:
             }
         )
 
+    return items
+
