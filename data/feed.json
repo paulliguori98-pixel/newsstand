@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-21T19:55:25.711352+00:00",
+ "generated_at": "2026-08-21T20:06:30.727309+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -15,7 +15,7 @@
      "detail": "It reaches 80\u00b0 today and falls to 55\u00b0 overnight. The sun is up from 6:08 until 7:49.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 79,
+     "temp": 80,
      "high": 80,
      "low": 55,
      "sunrise": "6:08",
@@ -148,12 +148,24 @@
    "more": 0,
    "items": [
     {
+     "title": "Thermoacoustic Sterling Engine is Now Fully 3D Printable",
+     "url": "https://hackaday.com/2026/08/21/thermoacoustic-sterling-engine-is-now-fully-3d-printable/",
+     "source": "Hackaday",
+     "summary": "Would you like to make your own energy? Why, who doesn\u2019t in this era of rising costs! A sterling engine always looks like a good fit for that: highly efficient, \u2026read more",
+     "published": "2026-08-21T20:00:14+00:00",
+     "image": "https://hackaday.com/wp-content/uploads/2026/08/sterling-engine-feat-e1787243009107.jpg",
+     "kind": "article",
+     "id": "df29682af8ac05a4",
+     "first_seen": "2026-08-21T20:06:30.727309+00:00",
+     "is_new": true
+    },
+    {
      "title": "MediaPipe Hand Gesture Pipeline on Dragonwing IQ-9075 EVK",
      "url": "https://www.hackster.io/jallson/mediapipe-hand-gesture-pipeline-on-dragonwing-iq-9075-evk-8bb638",
      "source": "Hackster",
      "summary": "Chained MediaPipe Hand Gesture Pipeline on Dragonwing IQ-9075 EVK: Accelerating Multi-Model AI on Qualcomm's Hexagon NPU",
      "published": "2026-08-21T13:52:43+00:00",
-     "image": "https://hackster.imgix.net/uploads/attachments/1989685/_9rzJs2ojaz.blob?auto=compress%2Cformat&w=400&h=300&fit=min",
+     "image": "https://hackster.imgix.net/uploads/attachments/1989685/_9rzJs2ojaz.blob",
      "kind": "article",
      "id": "d60444bb08198760",
      "first_seen": "2026-08-21T19:49:51.364149+00:00",
@@ -165,21 +177,9 @@
      "source": "Hackster",
      "summary": "Smart Dustib using MakerBuddy IoT Kit and MakerBuddy Rule Engine. we have used HC-SR04 & SG90 Servo Motor for this project.",
      "published": "2026-08-21T13:11:11+00:00",
-     "image": "https://hackster.imgix.net/uploads/attachments/1989675/_RlFYsstlPK.blob?auto=compress%2Cformat&w=400&h=300&fit=min",
+     "image": "https://hackster.imgix.net/uploads/attachments/1989675/_RlFYsstlPK.blob",
      "kind": "article",
      "id": "a7fdcea2a9d74df3",
-     "first_seen": "2026-08-21T19:49:51.364149+00:00",
-     "is_new": true
-    },
-    {
-     "title": "Spoofed Serial Number Unlocks Cricut Machine",
-     "url": "https://hackaday.com/2026/08/21/spoofed-serial-number-unlocks-cricut-machine/",
-     "source": "Hackaday",
-     "summary": "[xssfox] recently found a Cricut Maker in an e-waste disposal. A quick scan over the device indicated it was in moderately good condition, with merely some perished rollers to con\u2026",
-     "published": "2026-08-21T11:00:02+00:00",
-     "image": "https://hackaday.com/wp-content/uploads/2026/08/photo_2026-07-01-13.48.56-e1787211707856.jpeg",
-     "kind": "article",
-     "id": "42dcc98e902944fd",
      "first_seen": "2026-08-21T19:49:51.364149+00:00",
      "is_new": true
     },
@@ -215,19 +215,19 @@
    "kind": "goods",
    "lead_image": false,
    "row_detail": false,
-   "more": 4,
+   "more": 5,
    "items": [
     {
-     "title": "Rolling Footlocker",
-     "url": "https://www.bestmadeco.com/products/rolling-footlocker",
+     "title": "Spare Parts Trays",
+     "url": "https://www.bestmadeco.com/products/spare-parts-trays",
      "source": "Best Made",
      "summary": "Workshop",
-     "published": "2026-08-21T15:53:59-04:00",
-     "image": "https://cdn.shopify.com/s/files/1/0674/2985/9558/files/rolling-footlocker-1_88dea83f-287e-478f-8cd0-ea5092403d92.jpg?v=1726343013",
+     "published": "2026-08-21T15:56:05-04:00",
+     "image": "https://cdn.shopify.com/s/files/1/0674/2985/9558/files/spare-parts-trays-1_656888d5-38c2-4a32-9d8f-3e8bdbcdc1c6.jpg?v=1726345836",
      "price": "$0",
      "kind": "product",
-     "id": "1589fe9fd0611df3",
-     "first_seen": "2026-08-21T19:55:25.711352+00:00",
+     "id": "b1af57654d6590ca",
+     "first_seen": "2026-08-21T20:06:30.727309+00:00",
      "is_new": true
     },
     {
@@ -243,6 +243,19 @@
      "is_new": true
     },
     {
+     "title": "Rolling Footlocker",
+     "url": "https://www.bestmadeco.com/products/rolling-footlocker",
+     "source": "Best Made",
+     "summary": "Workshop",
+     "published": "2026-08-21T15:53:59-04:00",
+     "image": "https://cdn.shopify.com/s/files/1/0674/2985/9558/files/rolling-footlocker-1_88dea83f-287e-478f-8cd0-ea5092403d92.jpg?v=1726343013",
+     "price": "$0",
+     "kind": "product",
+     "id": "1589fe9fd0611df3",
+     "first_seen": "2026-08-21T19:55:25.711352+00:00",
+     "is_new": true
+    },
+    {
      "title": "Trademark Bandana Red",
      "url": "https://www.bestmadeco.com/products/trademark-bandana-red-archive",
      "source": "Best Made",
@@ -252,19 +265,6 @@
      "price": "$58",
      "kind": "product",
      "id": "7ecb00baca9a64ae",
-     "first_seen": "2026-08-21T19:49:51.364149+00:00",
-     "is_new": true
-    },
-    {
-     "title": "Quilted Hanten Jacket",
-     "url": "https://www.bestmadeco.com/products/quilted-hanten-jacket",
-     "source": "Best Made",
-     "summary": "Home",
-     "published": "2026-08-21T15:43:01-04:00",
-     "image": "https://cdn.shopify.com/s/files/1/0674/2985/9558/files/quilted-hanten-jacket-1_3532ec85-d8a0-4e1e-aebf-83cb0b57f5eb.jpg?v=1726343479",
-     "price": "$0",
-     "kind": "product",
-     "id": "ca5ee56dc5bddf80",
      "first_seen": "2026-08-21T19:49:51.364149+00:00",
      "is_new": true
     }
