@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-21T19:49:51.364149+00:00",
+ "generated_at": "2026-08-21T19:55:25.711352+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -215,19 +215,19 @@
    "kind": "goods",
    "lead_image": false,
    "row_detail": false,
-   "more": 3,
+   "more": 4,
    "items": [
     {
-     "title": "Trademark Bandana Red",
-     "url": "https://www.bestmadeco.com/products/trademark-bandana-red-archive",
+     "title": "Rolling Footlocker",
+     "url": "https://www.bestmadeco.com/products/rolling-footlocker",
      "source": "Best Made",
-     "summary": "Accessories",
-     "published": "2026-08-21T15:46:17-04:00",
-     "image": "https://cdn.shopify.com/s/files/1/0674/2985/9558/files/E60A1511-G.jpg?v=1749306359",
-     "price": "$58",
+     "summary": "Workshop",
+     "published": "2026-08-21T15:53:59-04:00",
+     "image": "https://cdn.shopify.com/s/files/1/0674/2985/9558/files/rolling-footlocker-1_88dea83f-287e-478f-8cd0-ea5092403d92.jpg?v=1726343013",
+     "price": "$0",
      "kind": "product",
-     "id": "7ecb00baca9a64ae",
-     "first_seen": "2026-08-21T19:49:51.364149+00:00",
+     "id": "1589fe9fd0611df3",
+     "first_seen": "2026-08-21T19:55:25.711352+00:00",
      "is_new": true
     },
     {
@@ -243,6 +243,19 @@
      "is_new": true
     },
     {
+     "title": "Trademark Bandana Red",
+     "url": "https://www.bestmadeco.com/products/trademark-bandana-red-archive",
+     "source": "Best Made",
+     "summary": "Accessories",
+     "published": "2026-08-21T15:46:17-04:00",
+     "image": "https://cdn.shopify.com/s/files/1/0674/2985/9558/files/E60A1511-G.jpg?v=1749306359",
+     "price": "$58",
+     "kind": "product",
+     "id": "7ecb00baca9a64ae",
+     "first_seen": "2026-08-21T19:49:51.364149+00:00",
+     "is_new": true
+    },
+    {
      "title": "Quilted Hanten Jacket",
      "url": "https://www.bestmadeco.com/products/quilted-hanten-jacket",
      "source": "Best Made",
@@ -252,19 +265,6 @@
      "price": "$0",
      "kind": "product",
      "id": "ca5ee56dc5bddf80",
-     "first_seen": "2026-08-21T19:49:51.364149+00:00",
-     "is_new": true
-    },
-    {
-     "title": "Type P Strongbox, Go Slow Edition",
-     "url": "https://www.bestmadeco.com/products/type-p-strongbox-go-slow-edition-archive",
-     "source": "Best Made",
-     "summary": "Workshop Storage",
-     "published": "2026-08-21T13:48:04-04:00",
-     "image": "https://cdn.shopify.com/s/files/1/0674/2985/9558/files/BMC-HOLIDAY-2025-2936copy.jpg?v=1763224105",
-     "price": "$42",
-     "kind": "product",
-     "id": "f0753a422189046c",
      "first_seen": "2026-08-21T19:49:51.364149+00:00",
      "is_new": true
     }

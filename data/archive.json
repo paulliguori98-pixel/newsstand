@@ -390,7 +390,7 @@
   "title": "Dark Brick Brook Stripe Big Oxford",
   "url": "https://www.buckmason.com/products/dark-brick-brook-stripe-big-oxford",
   "source": "Buck Mason",
-  "image": "https://cdn.shopify.com/s/files/1/0123/5065/2473/files/BM13370.1612_BIG-OXFORD_DARK-BRICK-BROOK-STRIPE_53032_1_fab52a3c-828e-4abf-980a-4c63bef30547.jpg?v=1783700814",
+  "image": "https://cdn.shopify.com/s/files/1/0123/5065/2473/files/BM13370.1612DBKSTM_BIGOXFORDBDSHIRT_1.jpg?v=1787341491",
   "price": "$148",
   "published": "2026-06-03T00:31:53+00:00",
   "first_seen": "2026-08-13T18:33:33.597069+00:00"
@@ -1011,7 +1011,7 @@
   "title": "Olive/White Brook Stripe Big Oxford",
   "url": "https://www.buckmason.com/products/olive-white-brook-stripe-big-oxford",
   "source": "Buck Mason",
-  "image": "https://cdn.shopify.com/s/files/1/0123/5065/2473/files/BM13370.1612_BIG-OXFORD_OLIVE--WHITE-BROOK-STRIPE_50931_1.jpg?v=1783700993",
+  "image": "https://cdn.shopify.com/s/files/1/0123/5065/2473/files/BM13370.1612OWBSTM_BIGOXFORDBDSHIRT_1.jpg?v=1787341549",
   "price": "$148",
   "published": "2026-06-03T00:31:54+00:00",
   "first_seen": "2026-08-19T19:07:16.682920+00:00"
@@ -1474,5 +1474,14 @@
   "price": "$848",
   "published": "2026-07-16T18:32:49+00:00",
   "first_seen": "2026-08-21T19:49:51.364149+00:00"
+ },
+ "1589fe9fd0611df3": {
+  "title": "Rolling Footlocker",
+  "url": "https://www.bestmadeco.com/products/rolling-footlocker",
+  "source": "Best Made",
+  "image": "https://cdn.shopify.com/s/files/1/0674/2985/9558/files/rolling-footlocker-1_88dea83f-287e-478f-8cd0-ea5092403d92.jpg?v=1726343013",
+  "price": "$0",
+  "published": "2026-08-21T15:53:59-04:00",
+  "first_seen": "2026-08-21T19:55:25.711352+00:00"
  }
 }
