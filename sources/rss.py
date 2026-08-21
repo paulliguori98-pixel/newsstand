@@ -45,10 +45,17 @@ def _published(entry) -> str | None:
 # carry the thumbnail rather than the original at foo.jpg. Left alone, a
 # 150px square gets blown up to 655px in a hero slot.
 WP_SIZE = re.compile(r"-\d{2,4}x\d{2,4}(?=\.(?:jpe?g|png|webp|gif)(?:\?|$))", re.I)
+# Hackster's images come through imgix, which resizes to whatever the URL
+# asks for — and their feed asks for 400px. Dropping the query gets the
+# original upload. Only imgix: stripping params elsewhere breaks signed URLs.
+IMGIX = re.compile(r"^https?://[^/]*\.imgix\.net/", re.I)
 
 
 def _full_size(url: str) -> str:
-    return WP_SIZE.sub("", url or "")
+    url = WP_SIZE.sub("", url or "")
+    if IMGIX.match(url):
+        url = url.split("?", 1)[0]
+    return url
 
 
 def _image(entry) -> str | None:
