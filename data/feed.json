@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-22T19:02:51.593080+00:00",
+ "generated_at": "2026-08-22T19:53:22.600666+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -78,7 +78,7 @@
      "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
      "summary": "Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war.",
-     "published": "2026-08-22T18:20:36+00:00",
+     "published": "2026-08-22T19:41:18+00:00",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/336c/live/7ee35600-9e56-11f1-92d9-fda6ee78d386.jpg",
      "kind": "article",
      "id": "f4c36d47d3ddcc6e",
@@ -162,6 +162,18 @@
      "is_new": true
     },
     {
+     "title": "NuttX Dual\u2011Core on Pico/Pico2 with ArduProf",
+     "url": "https://www.hackster.io/teamprof/nuttx-dual-core-on-pico-pico2-with-arduprof-f7d8f0",
+     "source": "Hackster",
+     "summary": "Reference code of running NuttX on dual cores of Pi Pico/Pico2 with ArduProf framework",
+     "published": "2026-08-22T13:52:31+00:00",
+     "image": "https://hackster.imgix.net/uploads/attachments/1989911/_rZmbZQFKCw.blob",
+     "kind": "article",
+     "id": "b18ab84ed13dafbb",
+     "first_seen": "2026-08-22T19:53:22.600666+00:00",
+     "is_new": true
+    },
+    {
      "title": "A Retro Game Clock for Your Desk",
      "url": "https://www.hackster.io/techtalkies1/a-retro-game-clock-for-your-desk-582192",
      "source": "Hackster",
@@ -182,18 +194,6 @@
      "image": "https://www.raspberrypi.com/app/uploads/2026/08/Claw2-web.jpg",
      "kind": "article",
      "id": "7359b744fb0931ae",
-     "first_seen": "2026-08-21T19:49:51.364149+00:00",
-     "is_new": true
-    },
-    {
-     "title": "CUE/IO: Standalone Art-Net + Audio Show Controller",
-     "url": "https://www.hackster.io/manuallvl/cue-io-standalone-art-net-audio-show-controller-a5100d",
-     "source": "Hackster",
-     "summary": "Record Art-Net with synced audio, then run the entire show standalone on a Raspberry Pi \u2014 with GPIO, scheduling, LTC and more.",
-     "published": "2026-08-19T21:50:22+00:00",
-     "image": "https://hackster.imgix.net/uploads/attachments/1989271/_LTASdiKZCk.blob",
-     "kind": "article",
-     "id": "68363ec6f5b4db2d",
      "first_seen": "2026-08-21T19:49:51.364149+00:00",
      "is_new": true
     },
