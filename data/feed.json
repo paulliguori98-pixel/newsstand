@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-22T19:53:22.600666+00:00",
+ "generated_at": "2026-08-22T20:53:00.043171+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -11,7 +11,7 @@
    "items": [
     {
      "title": "Mostly Sunny",
-     "phrase": "An even chance of rain between 3am and 8am.",
+     "phrase": "Rain is likely between 3am and 9am.",
      "detail": "It reaches 79\u00b0 today and falls to 62\u00b0 overnight. The sun is up from 6:09 until 7:47.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
@@ -78,7 +78,7 @@
      "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
      "summary": "Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war.",
-     "published": "2026-08-22T19:41:18+00:00",
+     "published": "2026-08-22T20:10:00+00:00",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/336c/live/7ee35600-9e56-11f1-92d9-fda6ee78d386.jpg",
      "kind": "article",
      "id": "f4c36d47d3ddcc6e",
@@ -95,7 +95,7 @@
      "title": "Canada vows \u2018dollar for dollar\u2019 response as US puts 50% tariffs on some goods",
      "url": "https://www.theguardian.com/world/2026/aug/22/canada-tariffs-trump-trade-deal-talks-fail",
      "source": "Guardian",
-     "summary": "Collapse of trade talks could lead to job losses, but biggest impact on traditional allies is expected to be political The US has imposed 50% tariffs on some goods from Canada, an\u2026",
+     "summary": "Collapse of trade talks could lead to job losses, but biggest impact on traditional allies is expected to be political The trade row is the biggest rupture in recent relations bet\u2026",
      "published": "2026-08-22T14:04:57+00:00",
      "image": "https://i.guim.co.uk/img/media/6fca08f3a759225a7da5912b393aadcad7c6b4e7/0_0_4724_3780/master/4724.jpg?width=140&quality=85&auto=format&fit=max&s=f4a441fe501f609c181fb9eae8b6798a",
      "kind": "article",
@@ -150,15 +150,15 @@
    "more": 0,
    "items": [
     {
-     "title": "555 Makes a Useful Beat Frequency Oscillator",
-     "url": "https://hackaday.com/2026/08/22/555-makes-a-useful-beat-frequency-oscillator/",
+     "title": "The Shutter Makes This 3D Printed Camera Special",
+     "url": "https://hackaday.com/2026/08/22/the-shutter-makes-this-3d-printed-camera-special/",
      "source": "Hackaday",
-     "summary": "If you\u2019ve got a cheap ham rig, it might not be very practical for you to receive certain transmissions out of the box. However, if you were to hack in \u2026read more",
-     "published": "2026-08-22T17:00:32+00:00",
-     "image": "https://hackaday.com/wp-content/uploads/2026/08/Signetics_NE555N-e1787220216328.jpeg",
+     "summary": "Making a film camera is a project within the reach of almost anyone, from the experimenter with cardboard and sticky tape, to the machinist with an aluminium billet. But 3D \u2026read \u2026",
+     "published": "2026-08-22T20:00:00+00:00",
+     "image": "https://hackaday.com/wp-content/uploads/2026/08/3dp-shutter-featured.jpg",
      "kind": "article",
-     "id": "7a2cdbe3eba51623",
-     "first_seen": "2026-08-22T17:45:10.820309+00:00",
+     "id": "186d8cfe12a5ba97",
+     "first_seen": "2026-08-22T20:53:00.043171+00:00",
      "is_new": true
     },
     {
