@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-22T10:53:20.769347+00:00",
+ "generated_at": "2026-08-22T11:43:03.408961+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -74,20 +74,20 @@
    "more": 0,
    "items": [
     {
-     "title": "Canada vows to match Trump\u2019s tariffs \u2018dollar for dollar\u2019 after trade talks fail",
-     "url": "https://www.theguardian.com/world/2026/aug/22/canada-tariffs-trump-trade-deal-talks-fail",
-     "source": "Guardian",
-     "summary": "Mark Carney accuses US of \u2018unfair\u2019 last-minute changes to deal that would have averted 50% import taxesThe Canadian prime minister, Mark Carney, has promised to match US tariffs \u201c\u2026",
-     "published": "2026-08-22T09:45:27+00:00",
-     "image": "https://i.guim.co.uk/img/media/6fca08f3a759225a7da5912b393aadcad7c6b4e7/0_0_4724_3780/master/4724.jpg?width=140&quality=85&auto=format&fit=max&s=f4a441fe501f609c181fb9eae8b6798a",
+     "title": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
+     "url": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "summary": "A new 50% levy on $20bn of Canadian imports comes into force after a last-minute breakdown in trade talks.",
+     "published": "2026-08-22T11:21:05+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef5d/live/88423690-9ddd-11f1-b109-879e35c24276.jpg",
      "kind": "article",
-     "id": "de9106f840b104ba",
+     "id": "1ba93b1032961513",
      "first_seen": "2026-08-22T10:53:20.769347+00:00",
      "is_new": true,
      "corroboration": 5,
      "also_in": [
       "Axios",
-      "BBC",
+      "Guardian",
       "NPR",
       "New York Times"
      ],
@@ -153,15 +153,15 @@
    "more": 0,
    "items": [
     {
-     "title": "Sleeper E-bike has Solenoid Display",
-     "url": "https://hackaday.com/2026/08/22/sleeper-e-bike-has-solenoid-display/",
+     "title": "Building an Analog Geiger Counter",
+     "url": "https://hackaday.com/2026/08/22/building-an-analog-geiger-counter/",
      "source": "Hackaday",
-     "summary": "[GRMNT] decided to bring his grandpa\u2019s beautiful road bike into the future by making a sleeper e-bike conversion. Going into the project, [GRMNT] didn\u2019t really know what he was wo\u2026",
-     "published": "2026-08-22T08:00:40+00:00",
-     "image": "https://hackaday.com/wp-content/uploads/2026/08/I-Built-the-E-Bike-the-Industry-Wont-0-17-00.jpeg",
+     "summary": "These days, it\u2019s plenty easy to build a Geiger counter with a microcontroller that has a nice fancy display and a simple digital readout for how many radiations you\u2019re likely \u2026rea\u2026",
+     "published": "2026-08-22T11:00:12+00:00",
+     "image": "https://hackaday.com/wp-content/uploads/2026/08/Potassium_883f28.jpg",
      "kind": "article",
-     "id": "9637f5af4a709a56",
-     "first_seen": "2026-08-22T10:53:20.769347+00:00",
+     "id": "131d4be989213e01",
+     "first_seen": "2026-08-22T11:43:03.408961+00:00",
      "is_new": true
     },
     {
