@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-22T22:51:35.149175+00:00",
+ "generated_at": "2026-08-22T23:43:07.053797+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -11,11 +11,11 @@
    "items": [
     {
      "title": "Partly Cloudy",
-     "phrase": "Rain is likely between 3am and 11am.",
+     "phrase": "Rain is near certain between 3am and 12pm.",
      "detail": "It reaches 78\u00b0 today and falls to 62\u00b0 overnight. The sun is up from 6:09 until 7:47.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 77,
+     "temp": 74,
      "high": 78,
      "low": 62,
      "sunrise": "6:09",
@@ -95,7 +95,7 @@
      "title": "Canada vows \u2018dollar for dollar\u2019 response as US puts 50% tariffs on some goods",
      "url": "https://www.theguardian.com/world/2026/aug/22/canada-tariffs-trump-trade-deal-talks-fail",
      "source": "Guardian",
-     "summary": "Collapse of trade talks could lead to job losses, but biggest impact on traditional allies is expected to be political The trade row is the biggest rupture in recent relations bet\u2026",
+     "summary": "Collapse of trade talks could lead to job losses, but biggest impact on traditional allies is expected to be political The US has imposed 50% tariffs on some goods from Canada, an\u2026",
      "published": "2026-08-22T14:04:57+00:00",
      "image": "https://i.guim.co.uk/img/media/6fca08f3a759225a7da5912b393aadcad7c6b4e7/0_0_4724_3780/master/4724.jpg?width=140&quality=85&auto=format&fit=max&s=f4a441fe501f609c181fb9eae8b6798a",
      "kind": "article",
@@ -150,15 +150,15 @@
    "more": 0,
    "items": [
     {
-     "title": "The Shutter Makes This 3D Printed Camera Special",
-     "url": "https://hackaday.com/2026/08/22/the-shutter-makes-this-3d-printed-camera-special/",
+     "title": "Open-Source ExpressLRS Receiver Reaches for Range",
+     "url": "https://hackaday.com/2026/08/22/open-source-expresslrs-receiver-reaches-for-range/",
      "source": "Hackaday",
-     "summary": "Making a film camera is a project within the reach of almost anyone, from the experimenter with cardboard and sticky tape, to the machinist with an aluminium billet. But 3D \u2026read \u2026",
-     "published": "2026-08-22T20:00:00+00:00",
-     "image": "https://hackaday.com/wp-content/uploads/2026/08/3dp-shutter-featured.jpg",
+     "summary": "Drone control links are, from a radio signals perspective, nothing short of amazing: using a transmitter capable of transmitting, at most, one watt, a protocol such as ExpressLRS \u2026",
+     "published": "2026-08-22T23:00:00+00:00",
+     "image": "https://hackaday.com/wp-content/uploads/2026/08/elrs_receiver.png",
      "kind": "article",
-     "id": "186d8cfe12a5ba97",
-     "first_seen": "2026-08-22T20:53:00.043171+00:00",
+     "id": "5d3e07876c556176",
+     "first_seen": "2026-08-22T23:43:07.053797+00:00",
      "is_new": true
     },
     {
