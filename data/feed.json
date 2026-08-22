@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-22T11:43:03.408961+00:00",
+ "generated_at": "2026-08-22T13:43:58.125100+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -15,7 +15,7 @@
      "detail": "It reaches 79\u00b0 today and falls to 60\u00b0 overnight. The sun is up from 6:09 until 7:47.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 56,
+     "temp": 63,
      "high": 79,
      "low": 60,
      "sunrise": "6:09",
@@ -74,41 +74,24 @@
    "more": 0,
    "items": [
     {
-     "title": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
-     "url": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "summary": "A new 50% levy on $20bn of Canadian imports comes into force after a last-minute breakdown in trade talks.",
-     "published": "2026-08-22T11:21:05+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef5d/live/88423690-9ddd-11f1-b109-879e35c24276.jpg",
+     "title": "Carney Stands Up to Trump in U.S.-Canada Trade War",
+     "url": "https://www.nytimes.com/2026/08/22/world/canada/carney-trump-canada-tariffs.html",
+     "source": "New York Times",
+     "summary": "Canada\u2019s prime minister walked away from what he thought was a bad trade deal with the United States. Many Canadians are behind him, but it will be costly.",
+     "published": "2026-08-22T13:35:43+00:00",
+     "image": "https://static01.nyt.com/images/2026/08/21/multimedia/00int-canada-tariffs-hfos-pbtz/00int-canada-tariffs-hfos-pbtz-mediumSquareAt3X-v3.jpg",
      "kind": "article",
-     "id": "1ba93b1032961513",
+     "id": "9d52b2af1036fec4",
      "first_seen": "2026-08-22T10:53:20.769347+00:00",
      "is_new": true,
-     "corroboration": 5,
+     "corroboration": 4,
      "also_in": [
       "Axios",
       "Guardian",
-      "NPR",
-      "New York Times"
+      "NPR"
      ],
      "boosted": true,
-     "score": 8
-    },
-    {
-     "title": "Lebanon\u2019s Efforts to Tame Hezbollah Stall Amid Israel War",
-     "url": "https://www.nytimes.com/2026/08/22/world/middleeast/lebanon-hezbollah-israel-diplomacy.html",
-     "source": "New York Times",
-     "summary": "President Joseph Aoun took office with a popular mandate to reassert control after the militant group dragged the country back into war with Israel.",
-     "published": "2026-08-22T09:02:01+00:00",
-     "image": "https://static01.nyt.com/images/2026/08/22/multimedia/22Lebanon-Assess-01-vpgh/22Lebanon-Assess-01-vpgh-mediumSquareAt3X.jpg",
-     "kind": "article",
-     "id": "1262d25144421912",
-     "first_seen": "2026-08-22T10:53:20.769347+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
+     "score": 7
     },
     {
      "title": "MAHA warns Trump against coal-powered AI data centers",
@@ -141,6 +124,22 @@
      "also_in": [],
      "boosted": true,
      "score": 4
+    },
+    {
+     "title": "Rosenberg: Shortage of petrol but not patriotism as Russians feel growing impact of war",
+     "url": "https://www.bbc.co.uk/news/articles/c4gknzgje7go?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "summary": "Drivers are waiting hours in fuel queues, as Moscow prepares to celebrate Russian Flag Day.",
+     "published": "2026-08-21T13:07:00+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11c3/live/c7b37380-9d5a-11f1-b109-879e35c24276.jpg",
+     "kind": "article",
+     "id": "1ca6cd8b7314174e",
+     "first_seen": "2026-08-21T19:49:51.364149+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
     }
    ]
   },
@@ -165,18 +164,6 @@
      "is_new": true
     },
     {
-     "title": "Smart Touchless Dustbin using MakerBuddy IoT Kit",
-     "url": "https://www.hackster.io/mafzal/smart-touchless-dustbin-using-makerbuddy-iot-kit-3accd0",
-     "source": "Hackster",
-     "summary": "Smart Dustib using MakerBuddy IoT Kit and MakerBuddy Rule Engine. we have used HC-SR04 & SG90 Servo Motor for this project.",
-     "published": "2026-08-21T13:11:11+00:00",
-     "image": "https://hackster.imgix.net/uploads/attachments/1989675/_RlFYsstlPK.blob",
-     "kind": "article",
-     "id": "a7fdcea2a9d74df3",
-     "first_seen": "2026-08-21T19:49:51.364149+00:00",
-     "is_new": true
-    },
-    {
      "title": "Claw stand",
      "url": "https://magazine.raspberrypi.com/articles/claw-stand",
      "source": "MagPi",
@@ -197,6 +184,18 @@
      "image": "https://hackster.imgix.net/uploads/attachments/1989271/_LTASdiKZCk.blob",
      "kind": "article",
      "id": "68363ec6f5b4db2d",
+     "first_seen": "2026-08-21T19:49:51.364149+00:00",
+     "is_new": true
+    },
+    {
+     "title": "Budget DIY Pen Plotter: Upgrading to Stepper Control & Auto-",
+     "url": "https://www.hackster.io/dsnindustries/budget-diy-pen-plotter-upgrading-to-stepper-control-auto-c9bb52",
+     "source": "Hackster",
+     "summary": "Improving a 5-bar parallel linkage pen plotter by replacing the jittery servo actuator with a budget 28BYJ stepper motor and limit-switch",
+     "published": "2026-08-19T14:46:40+00:00",
+     "image": "https://hackster.imgix.net/uploads/attachments/1989198/_VJDvwZx1R3.blob",
+     "kind": "article",
+     "id": "654f1476042c915b",
      "first_seen": "2026-08-21T19:49:51.364149+00:00",
      "is_new": true
     },
@@ -232,15 +231,15 @@
    "more": 0,
    "items": [
     {
-     "title": "New Podcast Episode: Is Chicago Collective Paving the Way to the Future of Menswear in America?",
-     "url": "https://www.menswearmusings.com/new-podcast-episode/",
-     "source": "Menswear Musings",
-     "summary": "Having just attended for his first Collective, Joshua Davis of Monogramme shares his insights as an image consultant\u2026 The post New Podcast Episode: Is Chicago Collective Paving th\u2026",
-     "published": "2026-08-21T11:40:38+00:00",
-     "image": "https://i0.wp.com/www.menswearmusings.com/wp-content/uploads/2026/08/Chicago-Collective-Podcast-Thumbnail.jpg?fit=768%2C768&amp;ssl=1",
+     "title": "Merging Onto Memory Lane",
+     "url": "https://www.thisnicelife.com/p/merging-onto-memory-lane",
+     "source": "This Nice Life",
+     "summary": "A vehicle and a song can take you back in time.",
+     "published": "2026-08-22T12:02:05+00:00",
+     "image": "https://substackcdn.com/image/fetch/$s_!7Xdo!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2bf7c313-331a-4432-b729-81c08d305139_4032x2268.jpeg",
      "kind": "article",
-     "id": "981859e364fbb1b8",
-     "first_seen": "2026-08-21T19:49:51.364149+00:00",
+     "id": "06d3681b0771cc47",
+     "first_seen": "2026-08-22T13:43:58.125100+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
@@ -264,6 +263,22 @@
      "score": 1
     },
     {
+     "title": "New Podcast Episode: Is Chicago Collective Paving the Way to the Future of Menswear in America?",
+     "url": "https://www.menswearmusings.com/new-podcast-episode/",
+     "source": "Menswear Musings",
+     "summary": "Having just attended for his first Collective, Joshua Davis of Monogramme shares his insights as an image consultant\u2026 The post New Podcast Episode: Is Chicago Collective Paving th\u2026",
+     "published": "2026-08-21T11:40:38+00:00",
+     "image": "https://i0.wp.com/www.menswearmusings.com/wp-content/uploads/2026/08/Chicago-Collective-Podcast-Thumbnail.jpg?fit=768%2C768&amp;ssl=1",
+     "kind": "article",
+     "id": "981859e364fbb1b8",
+     "first_seen": "2026-08-21T19:49:51.364149+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": false,
+     "score": 1
+    },
+    {
      "title": "Knize: World famous in Vienna",
      "url": "https://www.permanentstyle.com/2026/08/knize-world-famous-in-vienna.html",
      "source": "Permanent Style",
@@ -274,22 +289,6 @@
      "id": "ac8b72021a04e667",
      "first_seen": "2026-08-21T19:49:51.364149+00:00",
      "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": false,
-     "score": 1
-    },
-    {
-     "title": "High Season",
-     "url": "https://www.acl.news/p/high-season",
-     "source": "A Continuous Lean",
-     "summary": "Out of Office. Central Division #216",
-     "published": "2026-08-17T13:35:32+00:00",
-     "image": "https://substack-video.s3.amazonaws.com/video_upload/post/211558103/05a5216d-c8f5-4c3c-a7a0-5fb2ea333662/transcoded-1786973653.png",
-     "kind": "article",
-     "id": "aa58f94c1612830c",
-     "first_seen": "2026-08-17T13:57:29.315026+00:00",
-     "is_new": false,
      "corroboration": 1,
      "also_in": [],
      "boosted": false,
