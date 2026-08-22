@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-22T13:43:58.125100+00:00",
+ "generated_at": "2026-08-22T14:51:34.989450+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -15,7 +15,7 @@
      "detail": "It reaches 79\u00b0 today and falls to 60\u00b0 overnight. The sun is up from 6:09 until 7:47.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 63,
+     "temp": 68,
      "high": 79,
      "low": 60,
      "sunrise": "6:09",
@@ -84,14 +84,29 @@
      "id": "9d52b2af1036fec4",
      "first_seen": "2026-08-22T10:53:20.769347+00:00",
      "is_new": true,
-     "corroboration": 4,
+     "corroboration": 3,
      "also_in": [
       "Axios",
-      "Guardian",
       "NPR"
      ],
      "boosted": true,
-     "score": 7
+     "score": 6
+    },
+    {
+     "title": "Canada vows \u2018dollar for dollar\u2019 response as US puts 50% tariffs on some goods",
+     "url": "https://www.theguardian.com/world/2026/aug/22/canada-tariffs-trump-trade-deal-talks-fail",
+     "source": "Guardian",
+     "summary": "Collapse of trade talks could lead to job losses, but biggest impact on traditional allies is expected to be political The US has imposed 50% tariffs on some goods from Canada, an\u2026",
+     "published": "2026-08-22T14:04:57+00:00",
+     "image": "https://i.guim.co.uk/img/media/6fca08f3a759225a7da5912b393aadcad7c6b4e7/0_0_4724_3780/master/4724.jpg?width=140&quality=85&auto=format&fit=max&s=f4a441fe501f609c181fb9eae8b6798a",
+     "kind": "article",
+     "id": "de9106f840b104ba",
+     "first_seen": "2026-08-22T10:53:20.769347+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
     },
     {
      "title": "MAHA warns Trump against coal-powered AI data centers",
@@ -118,22 +133,6 @@
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/00e4/live/66300b20-9d5d-11f1-a291-b542ee92de7c.jpg",
      "kind": "article",
      "id": "24f1a783acac8824",
-     "first_seen": "2026-08-21T19:49:51.364149+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "Rosenberg: Shortage of petrol but not patriotism as Russians feel growing impact of war",
-     "url": "https://www.bbc.co.uk/news/articles/c4gknzgje7go?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "summary": "Drivers are waiting hours in fuel queues, as Moscow prepares to celebrate Russian Flag Day.",
-     "published": "2026-08-21T13:07:00+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11c3/live/c7b37380-9d5a-11f1-b109-879e35c24276.jpg",
-     "kind": "article",
-     "id": "1ca6cd8b7314174e",
      "first_seen": "2026-08-21T19:49:51.364149+00:00",
      "is_new": true,
      "corroboration": 1,
@@ -279,16 +278,16 @@
      "score": 1
     },
     {
-     "title": "Knize: World famous in Vienna",
-     "url": "https://www.permanentstyle.com/2026/08/knize-world-famous-in-vienna.html",
-     "source": "Permanent Style",
-     "summary": "By Bernhard Roetzel. After I completed the Vienna shopping guide for Permanent Style recently, Simon and I got to talking about the menswear shop Knize. What is left today of the \u2026",
-     "published": "2026-08-21T08:00:11+00:00",
-     "image": "https://www.permanentstyle.com/wp-content/uploads/2026/07/Knize-owners-.jpeg",
+     "title": "High Season",
+     "url": "https://www.acl.news/p/high-season",
+     "source": "A Continuous Lean",
+     "summary": "Out of Office. Central Division #216",
+     "published": "2026-08-17T13:35:32+00:00",
+     "image": "https://substack-video.s3.amazonaws.com/video_upload/post/211558103/05a5216d-c8f5-4c3c-a7a0-5fb2ea333662/transcoded-1786973653.png",
      "kind": "article",
-     "id": "ac8b72021a04e667",
-     "first_seen": "2026-08-21T19:49:51.364149+00:00",
-     "is_new": true,
+     "id": "aa58f94c1612830c",
+     "first_seen": "2026-08-17T13:57:29.315026+00:00",
+     "is_new": false,
      "corroboration": 1,
      "also_in": [],
      "boosted": false,
@@ -297,5 +296,7 @@
    ]
   }
  ],
- "errors": []
+ "errors": [
+  "Permanent Style: RuntimeError \u2014 https://www.permanentstyle.com/feed \u2192 HTTP 415"
+ ]
 }
