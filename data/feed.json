@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-22T17:45:10.820309+00:00",
+ "generated_at": "2026-08-22T19:02:51.593080+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -11,13 +11,13 @@
    "items": [
     {
      "title": "Mostly Sunny",
-     "phrase": "A one-in-three chance of rain around 6am.",
-     "detail": "It reaches 79\u00b0 today and falls to 60\u00b0 overnight. The sun is up from 6:09 until 7:47.",
+     "phrase": "An even chance of rain between 3am and 8am.",
+     "detail": "It reaches 79\u00b0 today and falls to 62\u00b0 overnight. The sun is up from 6:09 until 7:47.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 76,
+     "temp": 78,
      "high": 79,
-     "low": 60,
+     "low": 62,
      "sunrise": "6:09",
      "sunset": "7:47",
      "id": "bb806d72c86dcec1",
@@ -78,19 +78,18 @@
      "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
      "summary": "Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war.",
-     "published": "2026-08-22T16:45:02+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae91/live/dc71e910-9e49-11f1-8871-ff7211da55c9.jpg",
+     "published": "2026-08-22T18:20:36+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/336c/live/7ee35600-9e56-11f1-92d9-fda6ee78d386.jpg",
      "kind": "article",
      "id": "f4c36d47d3ddcc6e",
      "first_seen": "2026-08-22T16:55:16.000833+00:00",
      "is_new": true,
-     "corroboration": 3,
+     "corroboration": 2,
      "also_in": [
-      "Axios",
-      "New York Times"
+      "Axios"
      ],
      "boosted": true,
-     "score": 6
+     "score": 5
     },
     {
      "title": "Canada vows \u2018dollar for dollar\u2019 response as US puts 50% tariffs on some goods",
