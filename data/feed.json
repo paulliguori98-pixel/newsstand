@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-22T14:51:34.989450+00:00",
+ "generated_at": "2026-08-22T15:46:05.554614+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,12 +10,12 @@
    "more": 0,
    "items": [
     {
-     "title": "Mostly Sunny",
-     "phrase": "Mostly Sunny all day.",
+     "title": "Partly Sunny",
+     "phrase": "Partly Sunny all day.",
      "detail": "It reaches 79\u00b0 today and falls to 60\u00b0 overnight. The sun is up from 6:09 until 7:47.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 68,
+     "temp": 72,
      "high": 79,
      "low": 60,
      "sunrise": "6:09",
@@ -74,14 +74,14 @@
    "more": 0,
    "items": [
     {
-     "title": "Carney Stands Up to Trump in U.S.-Canada Trade War",
-     "url": "https://www.nytimes.com/2026/08/22/world/canada/carney-trump-canada-tariffs.html",
+     "title": "Canada-U.S. Trade War Escalates as Talks Collapse",
+     "url": "https://www.nytimes.com/2026/08/21/world/canada/trump-tariffs-trade-no-deal-carney-canada.html",
      "source": "New York Times",
-     "summary": "Canada\u2019s prime minister walked away from what he thought was a bad trade deal with the United States. Many Canadians are behind him, but it will be costly.",
-     "published": "2026-08-22T13:35:43+00:00",
-     "image": "https://static01.nyt.com/images/2026/08/21/multimedia/00int-canada-tariffs-hfos-pbtz/00int-canada-tariffs-hfos-pbtz-mediumSquareAt3X-v3.jpg",
+     "summary": "Intense negotiations to stave off new levies by the Trump administration ended in an impasse as Mark Carney suspended talks. U.S. tariffs on Canada, and retaliatory tariffs on the\u2026",
+     "published": "2026-08-22T15:26:17+00:00",
+     "image": "https://static01.nyt.com/images/2026/08/22/multimedia/22hp-carney-flipper-bqzh/22hp-carney-flipper-bqzh-mediumSquareAt3X.jpg",
      "kind": "article",
-     "id": "9d52b2af1036fec4",
+     "id": "d18325f54aa07452",
      "first_seen": "2026-08-22T10:53:20.769347+00:00",
      "is_new": true,
      "corroboration": 3,
@@ -163,6 +163,18 @@
      "is_new": true
     },
     {
+     "title": "A Retro Game Clock for Your Desk",
+     "url": "https://www.hackster.io/techtalkies1/a-retro-game-clock-for-your-desk-582192",
+     "source": "Hackster",
+     "summary": "A colorful ESP32 desk clock featuring animated retro game-inspired themes, a full-color TFT display, touch controls, Wi-Fi time sync.",
+     "published": "2026-08-22T09:41:05+00:00",
+     "image": "https://hackster.imgix.net/uploads/attachments/1989849/_gPUMNw1xNl.blob",
+     "kind": "article",
+     "id": "3abcc61a7c411572",
+     "first_seen": "2026-08-22T15:46:05.554614+00:00",
+     "is_new": true
+    },
+    {
      "title": "Claw stand",
      "url": "https://magazine.raspberrypi.com/articles/claw-stand",
      "source": "MagPi",
@@ -183,18 +195,6 @@
      "image": "https://hackster.imgix.net/uploads/attachments/1989271/_LTASdiKZCk.blob",
      "kind": "article",
      "id": "68363ec6f5b4db2d",
-     "first_seen": "2026-08-21T19:49:51.364149+00:00",
-     "is_new": true
-    },
-    {
-     "title": "Budget DIY Pen Plotter: Upgrading to Stepper Control & Auto-",
-     "url": "https://www.hackster.io/dsnindustries/budget-diy-pen-plotter-upgrading-to-stepper-control-auto-c9bb52",
-     "source": "Hackster",
-     "summary": "Improving a 5-bar parallel linkage pen plotter by replacing the jittery servo actuator with a budget 28BYJ stepper motor and limit-switch",
-     "published": "2026-08-19T14:46:40+00:00",
-     "image": "https://hackster.imgix.net/uploads/attachments/1989198/_VJDvwZx1R3.blob",
-     "kind": "article",
-     "id": "654f1476042c915b",
      "first_seen": "2026-08-21T19:49:51.364149+00:00",
      "is_new": true
     },
@@ -278,16 +278,16 @@
      "score": 1
     },
     {
-     "title": "High Season",
-     "url": "https://www.acl.news/p/high-season",
-     "source": "A Continuous Lean",
-     "summary": "Out of Office. Central Division #216",
-     "published": "2026-08-17T13:35:32+00:00",
-     "image": "https://substack-video.s3.amazonaws.com/video_upload/post/211558103/05a5216d-c8f5-4c3c-a7a0-5fb2ea333662/transcoded-1786973653.png",
+     "title": "Knize: World famous in Vienna",
+     "url": "https://www.permanentstyle.com/2026/08/knize-world-famous-in-vienna.html",
+     "source": "Permanent Style",
+     "summary": "By Bernhard Roetzel. After I completed the Vienna shopping guide for Permanent Style recently, Simon and I got to talking about the menswear shop Knize. What is left today of the \u2026",
+     "published": "2026-08-21T08:00:11+00:00",
+     "image": "https://www.permanentstyle.com/wp-content/uploads/2026/07/Knize-owners-.jpeg",
      "kind": "article",
-     "id": "aa58f94c1612830c",
-     "first_seen": "2026-08-17T13:57:29.315026+00:00",
-     "is_new": false,
+     "id": "ac8b72021a04e667",
+     "first_seen": "2026-08-21T19:49:51.364149+00:00",
+     "is_new": true,
      "corroboration": 1,
      "also_in": [],
      "boosted": false,
@@ -296,7 +296,5 @@
    ]
   }
  ],
- "errors": [
-  "Permanent Style: RuntimeError \u2014 https://www.permanentstyle.com/feed \u2192 HTTP 415"
- ]
+ "errors": []
 }
