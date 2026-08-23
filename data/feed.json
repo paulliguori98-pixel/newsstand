@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-23T15:49:18.667141+00:00",
+ "generated_at": "2026-08-23T16:56:37.525673+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -11,11 +11,11 @@
    "items": [
     {
      "title": "Chance Showers And Thunderstorms",
-     "phrase": "An even chance of rain between 11am and 7pm.",
+     "phrase": "An even chance of rain between 12pm and 7pm.",
      "detail": "It reaches 77\u00b0 today and falls to 55\u00b0 overnight. The sun is up from 6:10 until 7:45.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 69,
+     "temp": 72,
      "high": 77,
      "low": 55,
      "sunrise": "6:10",
