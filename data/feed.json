@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-23T19:52:57.647405+00:00",
+ "generated_at": "2026-08-23T20:52:23.600789+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -151,15 +151,15 @@
    "more": 0,
    "items": [
     {
-     "title": "Making LEDs in the Home Fab",
-     "url": "https://hackaday.com/2026/08/23/making-leds-in-the-home-fab/",
+     "title": "Using the Basic SNES Hardware to Play Minecraft",
+     "url": "https://hackaday.com/2026/08/23/using-the-basic-snes-hardware-to-play-minecraft/",
      "source": "Hackaday",
-     "summary": "Impressive as it most certainly is when an amateur fabricates a semiconductor, most of the projects we\u2019ve seen are more demonstrations than workable chips. [Dr. Semiconductor], ho\u2026",
-     "published": "2026-08-23T17:00:00+00:00",
-     "image": "https://hackaday.com/wp-content/uploads/2026/08/homemade_LED.png",
+     "summary": "After previously putting a very basic version of Minecraft on the Game Boy Color, [Tobi] decided to have some fun and port that version also to the Super Nintendo (SNES), \u2026read mo\u2026",
+     "published": "2026-08-23T20:00:00+00:00",
+     "image": "https://hackaday.com/wp-content/uploads/2026/08/3d_minecraft_on_snes_game_of_tobi_youtube.jpg",
      "kind": "article",
-     "id": "8ea597fd69a51643",
-     "first_seen": "2026-08-23T17:43:31.108086+00:00",
+     "id": "d4b6869004de7b3a",
+     "first_seen": "2026-08-23T20:52:23.600789+00:00",
      "is_new": true
     },
     {
