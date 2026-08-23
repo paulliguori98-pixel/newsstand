@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-22T23:43:07.053797+00:00",
+ "generated_at": "2026-08-23T10:53:55.982575+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,16 +10,16 @@
    "more": 0,
    "items": [
     {
-     "title": "Partly Cloudy",
-     "phrase": "Rain is near certain between 3am and 12pm.",
-     "detail": "It reaches 78\u00b0 today and falls to 62\u00b0 overnight. The sun is up from 6:09 until 7:47.",
+     "title": "Cloudy",
+     "phrase": "Rain is near certain between 7am and 7pm.",
+     "detail": "It reaches 77\u00b0 today and falls to 55\u00b0 overnight. The sun is up from 6:10 until 7:45.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 74,
-     "high": 78,
-     "low": 62,
-     "sunrise": "6:09",
-     "sunset": "7:47",
+     "temp": 62,
+     "high": 77,
+     "low": 55,
+     "sunrise": "6:10",
+     "sunset": "7:45",
      "id": "bb806d72c86dcec1",
      "first_seen": "2026-08-19T17:11:19.569450+00:00",
      "is_new": true
@@ -37,7 +37,7 @@
     {
      "title": "Last call for fall greens.",
      "summary": "Only the fast ones now \u2014 anything over 45 days won't finish. Order garlic for October planting.",
-     "kicker": "Zone 5b \u00b7 16\u201331 August \u00b7 25 days to first frost",
+     "kicker": "Zone 5b \u00b7 16\u201331 August \u00b7 24 days to first frost",
      "plantings": [
       {
        "method": "direct",
@@ -74,22 +74,20 @@
    "more": 0,
    "items": [
     {
-     "title": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
-     "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "summary": "Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war.",
-     "published": "2026-08-22T20:10:00+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/336c/live/7ee35600-9e56-11f1-92d9-fda6ee78d386.jpg",
+     "title": "The U.S. Start-Up Making Low-Cost Interceptors for the Iran War",
+     "url": "https://www.nytimes.com/2026/08/23/business/powerus-counter-drone-iran-war.html",
+     "source": "New York Times",
+     "summary": "For Florida-based Powerus, becoming a global supplier of counterdrone technology has meant involving the Trumps, a golf course and a new way of doing business.",
+     "published": "2026-08-23T09:00:19+00:00",
+     "image": "https://static01.nyt.com/images/2026/08/18/multimedia/00biz-missile-interceptors-01-mjct/00biz-missile-interceptors-01-mjct-mediumSquareAt3X-v2.jpg",
      "kind": "article",
-     "id": "f4c36d47d3ddcc6e",
-     "first_seen": "2026-08-22T16:55:16.000833+00:00",
+     "id": "df08220fb0f31208",
+     "first_seen": "2026-08-23T10:53:55.982575+00:00",
      "is_new": true,
-     "corroboration": 2,
-     "also_in": [
-      "Axios"
-     ],
+     "corroboration": 1,
+     "also_in": [],
      "boosted": true,
-     "score": 5
+     "score": 4
     },
     {
      "title": "Canada vows \u2018dollar for dollar\u2019 response as US puts 50% tariffs on some goods",
@@ -124,20 +122,22 @@
      "score": 4
     },
     {
-     "title": "MAHA warns Trump against coal-powered AI data centers",
-     "url": "https://www.axios.com/2026/08/21/ai-data-centers-coal-trump-rfk-maga-warning",
-     "source": "Axios",
-     "summary": "Prominent figures in the Make America Healthy Again movement are telling President Trump that \"data centers should not become the justification for burning more coal.\"Why it matte\u2026",
-     "published": "2026-08-21T18:06:10+00:00",
-     "image": "https://images.axios.com/DcxgXi-jVX0GLWDufAKEO7_F0eE=/0x0:1920x1080/1366x768/2025/08/27/1756309650587.jpeg",
+     "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
+     "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "summary": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war.",
+     "published": "2026-08-23T05:46:43+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b8b/live/0b4b35a0-9eba-11f1-8afa-6d906fcc4949.jpg",
      "kind": "article",
-     "id": "c49e07acba0040ab",
-     "first_seen": "2026-08-21T19:49:51.364149+00:00",
+     "id": "f4c36d47d3ddcc6e",
+     "first_seen": "2026-08-22T16:55:16.000833+00:00",
      "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
+     "corroboration": 2,
+     "also_in": [
+      "Axios"
+     ],
+     "boosted": false,
+     "score": 2
     }
    ]
   },
@@ -150,15 +150,27 @@
    "more": 0,
    "items": [
     {
-     "title": "Open-Source ExpressLRS Receiver Reaches for Range",
-     "url": "https://hackaday.com/2026/08/22/open-source-expresslrs-receiver-reaches-for-range/",
+     "title": "So, You Found a Foden Steam Lorry in a Field. What Next?",
+     "url": "https://hackaday.com/2026/08/23/so-you-found-a-foden-steam-lorry-in-a-field-what-next/",
      "source": "Hackaday",
-     "summary": "Drone control links are, from a radio signals perspective, nothing short of amazing: using a transmitter capable of transmitting, at most, one watt, a protocol such as ExpressLRS \u2026",
-     "published": "2026-08-22T23:00:00+00:00",
-     "image": "https://hackaday.com/wp-content/uploads/2026/08/elrs_receiver.png",
+     "summary": "It\u2019s quite likely that many readers will have harbored dreams of owning, or at least driving, a steam engine of some kind. [James Hervey-Bathurst] was lucky enough to do so \u2026read \u2026",
+     "published": "2026-08-23T08:00:00+00:00",
+     "image": "https://hackaday.com/wp-content/uploads/2026/08/steam-truck-featured.jpg",
      "kind": "article",
-     "id": "5d3e07876c556176",
-     "first_seen": "2026-08-22T23:43:07.053797+00:00",
+     "id": "26c6d94273467eb4",
+     "first_seen": "2026-08-23T10:53:55.982575+00:00",
+     "is_new": true
+    },
+    {
+     "title": "Whats Up V2",
+     "url": "https://www.hackster.io/mars91/whats-up-v2-c5760d",
+     "source": "Hackster",
+     "summary": "A portable circuit that uses only GPS to determine what planets are overhead.",
+     "published": "2026-08-22T21:01:40+00:00",
+     "image": "https://hackster.imgix.net/uploads/attachments/1990036/_3WjAY3AxNo.blob",
+     "kind": "article",
+     "id": "eb07f43dd0830c38",
+     "first_seen": "2026-08-23T10:53:55.982575+00:00",
      "is_new": true
     },
     {
@@ -171,18 +183,6 @@
      "kind": "article",
      "id": "b18ab84ed13dafbb",
      "first_seen": "2026-08-22T19:53:22.600666+00:00",
-     "is_new": true
-    },
-    {
-     "title": "A Retro Game Clock for Your Desk",
-     "url": "https://www.hackster.io/techtalkies1/a-retro-game-clock-for-your-desk-582192",
-     "source": "Hackster",
-     "summary": "A colorful ESP32 desk clock featuring animated retro game-inspired themes, a full-color TFT display, touch controls, Wi-Fi time sync.",
-     "published": "2026-08-22T09:41:05+00:00",
-     "image": "https://hackster.imgix.net/uploads/attachments/1989849/_gPUMNw1xNl.blob",
-     "kind": "article",
-     "id": "3abcc61a7c411572",
-     "first_seen": "2026-08-22T15:46:05.554614+00:00",
      "is_new": true
     },
     {
@@ -245,6 +245,22 @@
      "score": 1
     },
     {
+     "title": "Inside Track: August 16th \u2013 August 22nd Edition",
+     "url": "https://www.putthison.com/inside-track-august-16th-august-22nd-edition-2/",
+     "source": "Put This On",
+     "summary": "Here are our hand-selected favorites from eBay for this week, plus a heads-up on recommended sales. If you\u2019re a member... The post Inside Track: August 16th \u2013 August 22nd Edition \u2026",
+     "published": "2026-08-23T08:11:25+00:00",
+     "image": null,
+     "kind": "article",
+     "id": "cfe158e58677acb7",
+     "first_seen": "2026-08-23T10:53:55.982575+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": false,
+     "score": 1
+    },
+    {
      "title": "Tees For Days!",
      "url": "https://www.putthison.com/tees-for-days/",
      "source": "Put This On",
@@ -269,22 +285,6 @@
      "image": "https://i0.wp.com/www.menswearmusings.com/wp-content/uploads/2026/08/Chicago-Collective-Podcast-Thumbnail.jpg?fit=768%2C768&amp;ssl=1",
      "kind": "article",
      "id": "981859e364fbb1b8",
-     "first_seen": "2026-08-21T19:49:51.364149+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": false,
-     "score": 1
-    },
-    {
-     "title": "Knize: World famous in Vienna",
-     "url": "https://www.permanentstyle.com/2026/08/knize-world-famous-in-vienna.html",
-     "source": "Permanent Style",
-     "summary": "By Bernhard Roetzel. After I completed the Vienna shopping guide for Permanent Style recently, Simon and I got to talking about the menswear shop Knize. What is left today of the \u2026",
-     "published": "2026-08-21T08:00:11+00:00",
-     "image": "https://www.permanentstyle.com/wp-content/uploads/2026/07/Knize-owners-.jpeg",
-     "kind": "article",
-     "id": "ac8b72021a04e667",
      "first_seen": "2026-08-21T19:49:51.364149+00:00",
      "is_new": true,
      "corroboration": 1,
