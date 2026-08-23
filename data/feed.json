@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-23T14:54:40.591690+00:00",
+ "generated_at": "2026-08-23T15:49:18.667141+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -11,11 +11,11 @@
    "items": [
     {
      "title": "Chance Showers And Thunderstorms",
-     "phrase": "An even chance of rain between 10am and 7pm.",
+     "phrase": "An even chance of rain between 11am and 7pm.",
      "detail": "It reaches 77\u00b0 today and falls to 55\u00b0 overnight. The sun is up from 6:10 until 7:45.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 67,
+     "temp": 69,
      "high": 77,
      "low": 55,
      "sunrise": "6:10",
@@ -163,18 +163,6 @@
      "is_new": true
     },
     {
-     "title": "Whats Up V2",
-     "url": "https://www.hackster.io/mars91/whats-up-v2-c5760d",
-     "source": "Hackster",
-     "summary": "A portable circuit that uses only GPS to determine what planets are overhead.",
-     "published": "2026-08-22T21:01:40+00:00",
-     "image": "https://hackster.imgix.net/uploads/attachments/1990036/_3WjAY3AxNo.blob",
-     "kind": "article",
-     "id": "eb07f43dd0830c38",
-     "first_seen": "2026-08-23T10:53:55.982575+00:00",
-     "is_new": true
-    },
-    {
      "title": "NuttX Dual\u2011Core on Pico/Pico2 with ArduProf",
      "url": "https://www.hackster.io/teamprof/nuttx-dual-core-on-pico-pico2-with-arduprof-f7d8f0",
      "source": "Hackster",
@@ -184,6 +172,18 @@
      "kind": "article",
      "id": "b18ab84ed13dafbb",
      "first_seen": "2026-08-22T19:53:22.600666+00:00",
+     "is_new": true
+    },
+    {
+     "title": "A Retro Game Clock for Your Desk",
+     "url": "https://www.hackster.io/techtalkies1/a-retro-game-clock-for-your-desk-582192",
+     "source": "Hackster",
+     "summary": "A colorful ESP32 desk clock featuring animated retro game-inspired themes, a full-color TFT display, touch controls, Wi-Fi time sync.",
+     "published": "2026-08-22T09:41:05+00:00",
+     "image": "https://hackster.imgix.net/uploads/attachments/1989849/_gPUMNw1xNl.blob",
+     "kind": "article",
+     "id": "3abcc61a7c411572",
+     "first_seen": "2026-08-22T15:46:05.554614+00:00",
      "is_new": true
     },
     {
