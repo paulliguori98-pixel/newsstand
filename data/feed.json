@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-24T19:19:52.086368+00:00",
+ "generated_at": "2026-08-24T21:00:01.482034+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,12 +10,12 @@
    "more": 0,
    "items": [
     {
-     "title": "Mostly Sunny",
+     "title": "Isolated Showers And Thunderstorms",
      "phrase": "A one-in-five chance of rain around 5pm.",
      "detail": "It reaches 75\u00b0 today and falls to 56\u00b0 overnight. The sun is up from 6:11 until 7:44.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 74,
+     "temp": 75,
      "high": 75,
      "low": 56,
      "sunrise": "6:11",
@@ -61,7 +61,7 @@
      "kind": "garden",
      "id": "37e79f96d80738d5",
      "first_seen": "2026-08-20T19:35:42.721302+00:00",
-     "is_new": true
+     "is_new": false
     }
    ]
   },
@@ -74,7 +74,26 @@
    "more": 0,
    "items": [
     {
-     "title": "Dollar Edge Higher as Bessent Announces New Iran Sanctions",
+     "title": "Canada Tariffs, Again",
+     "url": "https://www.wsj.com/finance/investing/canada-tariffs-again-6bc52ff1?mod=rss_markets_main",
+     "source": "WSJ",
+     "summary": "Plus, a new Iran sanctions campaign.",
+     "published": "2026-08-24T20:33:00+00:00",
+     "image": "https://images.wsj.net/im-29594939",
+     "kind": "article",
+     "id": "565f555d12fdc075",
+     "first_seen": "2026-08-24T21:00:01.482034+00:00",
+     "is_new": true,
+     "corroboration": 3,
+     "also_in": [
+      "Guardian",
+      "New York Times"
+     ],
+     "boosted": true,
+     "score": 6
+    },
+    {
+     "title": "Dollar Edges Higher as Bessent Announces New Iran Sanctions",
      "url": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-may-be-supported-by-u-s-fiscal-worries-4aff1bfd?mod=rss_markets_main",
      "source": "WSJ",
      "summary": "The dollar rose despite a drop in oil prices accentuated by the U.S. plan to use economic sanctions against Iran.",
@@ -84,28 +103,9 @@
      "id": "fc5ba47e1872616d",
      "first_seen": "2026-08-24T11:14:07.125740+00:00",
      "is_new": true,
-     "corroboration": 3,
-     "also_in": [
-      "Axios",
-      "NPR"
-     ],
-     "boosted": true,
-     "score": 6
-    },
-    {
-     "title": "Trump announces new 50% tariff on Canadian cars, trucks and steel",
-     "url": "https://www.theguardian.com/us-news/2026/aug/24/canada-tariff-increase-trump-auto",
-     "source": "Guardian",
-     "summary": "Move is latest deterioration in trade relations between neighbors with historically strong economic tiesDonald Trump announced a new 50% tariff on automobiles and crucial raw mate\u2026",
-     "published": "2026-08-24T18:55:43+00:00",
-     "image": "https://i.guim.co.uk/img/media/f7ea250d483dd414a2a05713c7763b803c19366f/671_0_6298_5039/master/6298.jpg?width=140&quality=85&auto=format&fit=max&s=eced38cf58618edce61042f3491407f2",
-     "kind": "article",
-     "id": "d2d161f43a56f812",
-     "first_seen": "2026-08-24T19:19:52.086368+00:00",
-     "is_new": true,
      "corroboration": 2,
      "also_in": [
-      "New York Times"
+      "Axios"
      ],
      "boosted": true,
      "score": 5
@@ -153,15 +153,15 @@
    "more": 0,
    "items": [
     {
-     "title": "At Last, A Gameboy Advance With Decent Audio",
-     "url": "https://hackaday.com/2026/08/24/at-last-a-gameboy-advance-with-decent-audio/",
+     "title": "An Electronic Explanation Of 1960s Fuzz Boxes",
+     "url": "https://hackaday.com/2026/08/24/an-electronic-explanation-of-1960s-fuzz-boxes/",
      "source": "Hackaday",
-     "summary": "Many pieces of consumer electronics are build down to a price, and the corners cut show up in their performance. The Gameboy Advance from Nintendo is no exception: its audio \u2026read\u2026",
-     "published": "2026-08-24T18:30:00+00:00",
-     "image": "https://hackaday.com/wp-content/uploads/2026/08/gba-audio-featured.jpg",
+     "summary": "It\u2019s likely that even those of us who have never picked up a guitar in our lives will recognize the sound of an electric guitar with a fuzz box effects \u2026read more",
+     "published": "2026-08-24T20:00:15+00:00",
+     "image": "https://hackaday.com/wp-content/uploads/2026/08/fuzz-box-featured.jpg",
      "kind": "article",
-     "id": "974a3ba41d58efbc",
-     "first_seen": "2026-08-24T19:19:52.086368+00:00",
+     "id": "f922dc4b1ebdda70",
+     "first_seen": "2026-08-24T21:00:01.482034+00:00",
      "is_new": true
     },
     {
@@ -221,7 +221,32 @@
    "lead_image": false,
    "row_detail": false,
    "more": 0,
-   "items": []
+   "items": [
+    {
+     "title": "Black Walnut Seafarer Cotton Beanie",
+     "url": "https://www.buckmason.com/products/black-walnut-seafarer-cotton-beanie",
+     "source": "Buck Mason",
+     "image": "https://cdn.shopify.com/s/files/1/0123/5065/2473/files/BM19114.999_SEAFARERCOTTONBEANIEBLACKWALNUT_1.jpg?v=1787596311",
+     "price": "$68",
+     "published": "2026-07-16T18:32:51+00:00",
+     "kind": "product",
+     "id": "8d0a159d1f7d7d9b",
+     "first_seen": "2026-08-24T21:00:01.482034+00:00",
+     "is_new": true
+    },
+    {
+     "title": "Sand Dollar Seafarer Cotton Beanie",
+     "url": "https://www.buckmason.com/products/sand-dollar-seafarer-cotton-beanie",
+     "source": "Buck Mason",
+     "image": "https://cdn.shopify.com/s/files/1/0123/5065/2473/files/BM19114.999_SEAFARERCOTTONBEANIESANDDOLLAR_1.jpg?v=1787596176",
+     "price": "$68",
+     "published": "2026-07-16T18:32:51+00:00",
+     "kind": "product",
+     "id": "17fcff5b40fde156",
+     "first_seen": "2026-08-24T21:00:01.482034+00:00",
+     "is_new": true
+    }
+   ]
   },
   {
    "id": "dispatches",
