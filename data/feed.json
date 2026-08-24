@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-24T21:00:01.482034+00:00",
+ "generated_at": "2026-08-24T21:58:52.507433+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,12 +10,12 @@
    "more": 0,
    "items": [
     {
-     "title": "Isolated Showers And Thunderstorms",
+     "title": "Isolated Rain Showers",
      "phrase": "A one-in-five chance of rain around 5pm.",
      "detail": "It reaches 75\u00b0 today and falls to 56\u00b0 overnight. The sun is up from 6:11 until 7:44.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 75,
+     "temp": 74,
      "high": 75,
      "low": 56,
      "sunrise": "6:11",
@@ -93,19 +93,19 @@
      "score": 6
     },
     {
-     "title": "Dollar Edges Higher as Bessent Announces New Iran Sanctions",
-     "url": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-may-be-supported-by-u-s-fiscal-worries-4aff1bfd?mod=rss_markets_main",
-     "source": "WSJ",
-     "summary": "The dollar rose despite a drop in oil prices accentuated by the U.S. plan to use economic sanctions against Iran.",
-     "published": "2026-08-24T18:46:00+00:00",
-     "image": null,
+     "title": "Iran Pledges to Defy Trump\u2019s Economic Sanctions",
+     "url": "https://www.nytimes.com/2026/08/24/world/middleeast/iran-sanctions-economy-us-trump.html",
+     "source": "New York Times",
+     "summary": "Analysts say Tehran could intensify the dispute militarily after the United States announced new efforts to squeeze Iran\u2019s economy. One Iranian official vowed that \u201cnot a single d\u2026",
+     "published": "2026-08-24T21:12:01+00:00",
+     "image": "https://static01.nyt.com/images/2026/08/24/multimedia/24int-iran-economy-ltpj/24int-iran-economy-ltpj-mediumSquareAt3X.jpg",
      "kind": "article",
-     "id": "fc5ba47e1872616d",
-     "first_seen": "2026-08-24T11:14:07.125740+00:00",
+     "id": "d3400220e3fa14ca",
+     "first_seen": "2026-08-24T16:06:37.747079+00:00",
      "is_new": true,
      "corroboration": 2,
      "also_in": [
-      "Axios"
+      "NPR"
      ],
      "boosted": true,
      "score": 5
@@ -127,15 +127,15 @@
      "score": 4
     },
     {
-     "title": "We\u2019re in a New Era of Class Warfare. History Points to a Way Out.",
-     "url": "https://www.nytimes.com/2026/08/24/opinion/class-warfare-violence.html",
-     "source": "New York Times",
-     "summary": "The class-based violence of the past was part of a broader struggle. Today, the violence is the end in itself.",
-     "published": "2026-08-24T18:16:19+00:00",
-     "image": null,
+     "title": "Australia has just 12,000 sea lions left \u2013 and \u2018carnage\u2019 may await them as bird flu takes hold, scientists warn",
+     "url": "https://www.theguardian.com/world/2026/aug/25/australia-has-just-12000-sea-lions-left-and-carnage-may-await-them-as-bird-flu-takes-hold-scientists-warn",
+     "source": "Guardian",
+     "summary": "Virus has already caused catastrophic losses in pinnipeds in South America and sub-Antarctica, particularly among pupsFollow our Australia news live blog for latest updatesGet our\u2026",
+     "published": "2026-08-24T15:00:36+00:00",
+     "image": "https://i.guim.co.uk/img/media/66d42e616c5193c28373eb4a559da5b04fd53efd/893_1101_1621_1297/master/1621.jpg?width=140&quality=85&auto=format&fit=max&s=7292b73c9b9506e5ff6956748fbbdfc5",
      "kind": "article",
-     "id": "24cd7098aa50c471",
-     "first_seen": "2026-08-24T11:14:07.125740+00:00",
+     "id": "cfc6bd07b3d0dd04",
+     "first_seen": "2026-08-24T16:06:37.747079+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
