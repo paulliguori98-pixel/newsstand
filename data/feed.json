@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-25T19:45:29.658695+00:00",
+ "generated_at": "2026-08-25T21:00:24.811325+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -11,11 +11,11 @@
    "items": [
     {
      "title": "Scattered Rain Showers",
-     "phrase": "A one-in-three chance of rain between 3pm and 7pm.",
+     "phrase": "A one-in-three chance of rain between 5pm and 7pm.",
      "detail": "It reaches 74\u00b0 today and falls to 56\u00b0 overnight. The sun is up from 6:12 until 7:42.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 72,
+     "temp": 73,
      "high": 74,
      "low": 56,
      "sunrise": "6:12",
@@ -74,24 +74,6 @@
    "more": 0,
    "items": [
     {
-     "title": "Canada Fires Back in Trade War Against Trump With Up to 50% Tariffs",
-     "url": "https://www.nytimes.com/2026/08/25/world/canada/canada-tariffs-trump-carney-retaliatory.html",
-     "source": "New York Times",
-     "summary": "Canada said the higher levies, on items from aluminum foil to dishwashers to fish, would help protect workers, producers and manufacturers harmed by new Trump tariffs.",
-     "published": "2026-08-25T18:42:58+00:00",
-     "image": "https://static01.nyt.com/images/2026/08/25/world/25int-canada-trade-retaliate/25int-canada-trade-retaliate-mediumSquareAt3X-v2.jpg",
-     "kind": "article",
-     "id": "2f904347ce0bbfb9",
-     "first_seen": "2026-08-25T16:18:56.563972+00:00",
-     "is_new": true,
-     "corroboration": 2,
-     "also_in": [
-      "NPR"
-     ],
-     "boosted": true,
-     "score": 5
-    },
-    {
      "title": "China denounces US threat of sanctions over trade with Iran",
      "url": "https://www.theguardian.com/world/2026/aug/25/china-us-sanctions-iran-oil",
      "source": "Guardian",
@@ -110,11 +92,11 @@
      "score": 5
     },
     {
-     "title": "Congress Needs to Stop Trump\u2019s Tariff Madness",
+     "title": "The Ludicrous Argument Behind Trump\u2019s Tariffs",
      "url": "https://www.nytimes.com/2026/08/25/opinion/trump-tariffs-illegal-canada.html",
      "source": "New York Times",
      "summary": "Mr. Trump is breaking the law. Congress and the judiciary need to respond.",
-     "published": "2026-08-25T18:47:05+00:00",
+     "published": "2026-08-25T20:46:35+00:00",
      "image": "https://static01.nyt.com/images/2026/08/25/opinion/25tariffs-editorial-image/25tariffs-editorial-image-mediumSquareAt3X-v2.jpg",
      "kind": "article",
      "id": "9b7a460a22a54225",
@@ -130,11 +112,27 @@
      "url": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
      "summary": "The latest escalation in an ongoing trade war between the US and Canada will see new levies on goods from steel to furniture, fresh tuna and makeup.",
-     "published": "2026-08-25T17:54:03+00:00",
+     "published": "2026-08-25T19:50:57+00:00",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e708/live/0a3afb60-a0ad-11f1-a54e-272d756c341e.jpg",
      "kind": "article",
      "id": "94a6ef56b551fe64",
      "first_seen": "2026-08-25T19:45:29.658695+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
+     "title": "Trump Lawyers Warn That Kennedy Center Might Need Demolition if Not Fixed",
+     "url": "https://www.nytimes.com/2026/08/25/arts/music/trump-kennedy-center-demolition-lawyers.html",
+     "source": "New York Times",
+     "summary": "In a court filing about honoring President Trump on the facade, the administration said that without a proper renovation the building might need to be \u201ctaken down.\u201d",
+     "published": "2026-08-25T17:22:59+00:00",
+     "image": "https://static01.nyt.com/images/2026/08/25/multimedia/25cul-kennedy-center-wmgc/25cul-kennedy-center-wmgc-mediumSquareAt3X-v2.jpg",
+     "kind": "article",
+     "id": "15690d3e2f3aa812",
+     "first_seen": "2026-08-25T16:18:56.563972+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
@@ -151,6 +149,18 @@
    "row_detail": true,
    "more": 0,
    "items": [
+    {
+     "title": "Native SMB3 Client Brings Modern NAS Access To 20-Year-Old PowerPC Macs",
+     "url": "https://hackaday.com/2026/08/25/native-smb3-client-brings-modern-nas-access-to-20-year-old-powerpc-macs/",
+     "source": "Hackaday",
+     "summary": "As software updates cease for operating systems, they eventually begin to lose access to parts of the LAN and internet due to out of date encryption features, as well as \u2026read more",
+     "published": "2026-08-25T20:00:54+00:00",
+     "image": "https://hackaday.com/wp-content/uploads/2020/06/apple-hardware-featured.jpg",
+     "kind": "article",
+     "id": "384e39c766cb10dd",
+     "first_seen": "2026-08-25T21:00:24.811325+00:00",
+     "is_new": true
+    },
     {
      "title": "WS2812 inside out",
      "url": "https://www.hackster.io/Klausj/ws2812-inside-out-0c45e1",
@@ -176,18 +186,6 @@
      "is_new": true
     },
     {
-     "title": "The Days Of Broadcast Digital TV Could Be Numbered",
-     "url": "https://hackaday.com/2026/08/25/the-days-of-broadcast-digital-tv-could-be-numbered/",
-     "source": "Hackaday",
-     "summary": "When the analog TV signals were turned off in most places around fifteen years ago, their replacement took the form of a set of digital multiplexes. ATSC for North America, \u2026read \u2026",
-     "published": "2026-08-25T08:00:40+00:00",
-     "image": "https://hackaday.com/wp-content/uploads/2026/08/tv-switchoff-featured.jpg",
-     "kind": "article",
-     "id": "dfa2163adc2ff99c",
-     "first_seen": "2026-08-25T11:04:23.759694+00:00",
-     "is_new": true
-    },
-    {
      "title": "Claw stand",
      "url": "https://magazine.raspberrypi.com/articles/claw-stand",
      "source": "MagPi",
@@ -197,7 +195,7 @@
      "kind": "article",
      "id": "7359b744fb0931ae",
      "first_seen": "2026-08-21T19:49:51.364149+00:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "title": "Glow Up Your Festival Coat with WLED",
@@ -325,7 +323,7 @@
      "kind": "article",
      "id": "c77116916e08aa37",
      "first_seen": "2026-08-21T19:49:51.364149+00:00",
-     "is_new": true,
+     "is_new": false,
      "corroboration": 1,
      "also_in": [],
      "boosted": false,
