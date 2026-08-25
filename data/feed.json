@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-25T14:09:50.350861+00:00",
+ "generated_at": "2026-08-25T16:18:56.563972+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,12 +10,12 @@
    "more": 0,
    "items": [
     {
-     "title": "Mostly Sunny",
-     "phrase": "A one-in-three chance of rain between 11am and 5pm.",
+     "title": "Slight Chance Rain Showers",
+     "phrase": "A one-in-three chance of rain between 1pm and 5pm.",
      "detail": "It reaches 76\u00b0 today and falls to 54\u00b0 overnight. The sun is up from 6:12 until 7:42.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 68,
+     "temp": 72,
      "high": 76,
      "low": 54,
      "sunrise": "6:12",
@@ -92,15 +92,15 @@
      "score": 5
     },
     {
-     "title": "\"Lake America\": Trump turns Canada feud toward Lake Ontario",
-     "url": "https://www.axios.com/2026/08/25/trump-french-language-canada-lake-ontario",
-     "source": "Axios",
-     "summary": "President Trump's war of words with Canada continued Tuesday amid a dispute over trade negotiations. The big picture: U.S. and Canadian officials have swapped barbs since negotiat\u2026",
-     "published": "2026-08-25T14:01:29+00:00",
-     "image": "https://images.axios.com/lHjRjz9GJY5aApHY9LC6Cd_qpt8=/0x0:5353x3011/1366x768/2026/08/25/1787663169978.jpeg",
+     "title": "Trump Lawyers Warn That Kennedy Center Might Need Demolition if Not Fixed",
+     "url": "https://www.nytimes.com/2026/08/25/arts/music/trump-kennedy-center-demolition-lawyers.html",
+     "source": "New York Times",
+     "summary": "In a court filing about honoring President Trump on the facade, the administration said that without a proper renovation the building might need to be \u201ctaken down.\u201d",
+     "published": "2026-08-25T16:07:58+00:00",
+     "image": "https://static01.nyt.com/images/2026/08/25/multimedia/25cul-kennedy-center-wmgc/25cul-kennedy-center-wmgc-mediumSquareAt3X.jpg",
      "kind": "article",
-     "id": "a8d243be1376a08a",
-     "first_seen": "2026-08-25T14:09:50.350861+00:00",
+     "id": "15690d3e2f3aa812",
+     "first_seen": "2026-08-25T16:18:56.563972+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
@@ -108,15 +108,15 @@
      "score": 4
     },
     {
-     "title": "Regulators Probing Near-Collapse of Hedge Fund Situational Awareness",
-     "url": "https://www.wsj.com/finance/regulation/regulators-probing-near-collapse-of-hedge-fund-situational-awareness-dbf5dfc6?mod=rss_markets_main",
-     "source": "WSJ",
-     "summary": "The SEC has sought information from banks that provided financing to supercharge the hedge fund\u2019s AI-centric bets.",
-     "published": "2026-08-25T14:00:00+00:00",
-     "image": "https://images.wsj.net/im-73786870",
+     "title": "Trump\u2019s Canada Tariffs Rely on Untested Law",
+     "url": "https://www.nytimes.com/2026/08/25/business/trump-canada-tariffs.html",
+     "source": "New York Times",
+     "summary": "The president has invoked a long dormant section of law to hit one of America\u2019s closest allies, a move that has troubled courts in the past.",
+     "published": "2026-08-25T15:54:10+00:00",
+     "image": "https://static01.nyt.com/images/2026/08/25/multimedia/25dc-tariffs-law-glmp/25dc-tariffs-law-glmp-mediumSquareAt3X.jpg",
      "kind": "article",
-     "id": "998835f631bf9f0c",
-     "first_seen": "2026-08-25T14:09:50.350861+00:00",
+     "id": "2003596ffb1094df",
+     "first_seen": "2026-08-25T16:18:56.563972+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
@@ -124,15 +124,15 @@
      "score": 4
     },
     {
-     "title": "Trump's Iran \"D-Day\" leaves sanctions hammer hanging",
-     "url": "https://www.axios.com/2026/08/25/trump-iran-dday-secondary-sanctions-china",
-     "source": "Axios",
-     "summary": "President Trump's \"economic D-Day\" for Iran came and went Monday with little of the shock or awe it promised, amounting instead to yet another extended ultimatum.Why it matters: O\u2026",
-     "published": "2026-08-25T09:35:04+00:00",
-     "image": "https://images.axios.com/R-qR5Gqb25E3XUev_hrN15o_oVs=/0x0:1920x1080/1366x768/2020/01/09/1578602456880.jpg",
+     "title": "Lawmakers Push Hochul to Block ICE From Taking Over Upstate Warehouse",
+     "url": "https://www.nytimes.com/2026/08/25/nyregion/newburgh-ice-detention-center-hochul.html",
+     "source": "New York Times",
+     "summary": "As a state law preventing the police from working with federal immigration officials goes into effect, a potential plan to use a warehouse as a detention center has drawn outrage.",
+     "published": "2026-08-25T15:42:03+00:00",
+     "image": "https://static01.nyt.com/images/2026/08/25/multimedia/25met-hochul-ice-tqmp/25met-hochul-ice-tqmp-mediumSquareAt3X.jpg",
      "kind": "article",
-     "id": "a57ead0a30691564",
-     "first_seen": "2026-08-25T11:04:23.759694+00:00",
+     "id": "df1284b38b48b0dc",
+     "first_seen": "2026-08-25T16:18:56.563972+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
@@ -218,7 +218,20 @@
    "lead_image": false,
    "row_detail": false,
    "more": 0,
-   "items": []
+   "items": [
+    {
+     "title": "Delta Toughknit Classic Tee",
+     "url": "https://www.buckmason.com/products/delta-toughknit-classic-tee",
+     "source": "Buck Mason",
+     "image": "https://cdn.shopify.com/s/files/1/0123/5065/2473/files/RT2_20260616_BUCKMASON_MENS_LOOKBOOK_LOOK34_50810.jpg?v=1786755972",
+     "price": "$62",
+     "published": "2026-07-10T19:57:59+00:00",
+     "kind": "product",
+     "id": "f062deda2db3b6c8",
+     "first_seen": "2026-08-25T16:18:56.563972+00:00",
+     "is_new": true
+    }
+   ]
   },
   {
    "id": "dispatches",
