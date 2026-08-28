@@ -2023,5 +2023,77 @@
   "price": "$160",
   "published": "2026-08-27T04:29:56-04:00",
   "first_seen": "2026-08-28T01:31:34.864033+00:00"
+ },
+ "db313edca2c585b9": {
+  "title": "Fieldhouse Short Sleeve Crew",
+  "url": "https://www.tracksmith.com/products/m-fieldhouse-short-sleeve-crew?sku=MT2228TRKE01CAB",
+  "source": "Tracksmith",
+  "image": "https://cdn.shopify.com/s/files/1/1594/4353/files/Fall26-Mens-Trackhouse-Midweight-Short-Sleeve-Crew-Cabernet.png?v=1787579306?auto=format,compress&crop=faces&dpr=2&fit=crop&h=400&w=400",
+  "price": "$75",
+  "published": null,
+  "first_seen": "2026-08-28T21:57:36.363761+00:00"
+ },
+ "f461299353d2b560": {
+  "title": "Navy and Rust Check Cotton Button-Down Shirt",
+  "url": "https://us.drakes.com/products/navy-and-rust-check-cotton-button-down-shirt",
+  "source": "Drake's",
+  "image": "https://cdn.shopify.com/s/files/1/0649/6603/3653/files/DR2A4A26708-02-253-1.jpg?v=1787652882",
+  "price": "$425",
+  "published": "2026-08-28T11:42:14-04:00",
+  "first_seen": "2026-08-28T21:57:36.363761+00:00"
+ },
+ "d6b4d8130193e5f5": {
+  "title": "Charcoal Jaspe Hardware Store Jacket",
+  "url": "https://www.buckmason.com/products/charcoal-jaspe-hardware-store-jacket",
+  "source": "Buck Mason",
+  "image": "https://cdn.shopify.com/s/files/1/0123/5065/2473/files/BM17305.1687_JASPEHARDWARESTOREJACKETCHARCOAL_1.jpg?v=1787937262",
+  "price": "$198",
+  "published": "2026-07-16T18:32:37+00:00",
+  "first_seen": "2026-08-28T21:57:36.363761+00:00"
+ },
+ "9209be72e9443a50": {
+  "title": "Rinse Jaspe Hardware Store Jacket",
+  "url": "https://www.buckmason.com/products/rinse-jaspe-hardware-store-jacket",
+  "source": "Buck Mason",
+  "image": "https://cdn.shopify.com/s/files/1/0123/5065/2473/files/BM17305.1609_JASPEHARDWARESTOREJACKETRINSE_1.jpg?v=1787950918",
+  "price": "$198",
+  "published": "2026-07-16T18:32:37+00:00",
+  "first_seen": "2026-08-28T21:57:36.363761+00:00"
+ },
+ "d794cd3d1630a55e": {
+  "title": "Rinse Jaspe Hardware Store Big Jean",
+  "url": "https://www.buckmason.com/products/rinse-jaspe-hardware-store-big-jean",
+  "source": "Buck Mason",
+  "image": "https://cdn.shopify.com/s/files/1/0123/5065/2473/files/BM12160.1609_JASPEHARDWARESTOREBIGJEANRINSE_1.jpg?v=1787951008",
+  "price": "$168",
+  "published": "2026-07-16T18:32:24+00:00",
+  "first_seen": "2026-08-28T21:57:36.363761+00:00"
+ },
+ "f6a2ffbb4f38c3ed": {
+  "title": "Sepia Brown Seafarer Traveler Cotton Crew",
+  "url": "https://www.buckmason.com/products/sepia-brown-seafarer-traveler-cotton-crew",
+  "source": "Buck Mason",
+  "image": "https://cdn.shopify.com/s/files/1/0123/5065/2473/files/BM16357.999_SEAFARERTRAVELERCOTTONCREWSEPIABROWN_1.jpg?v=1787952109",
+  "price": "$178",
+  "published": "2026-07-10T20:22:44+00:00",
+  "first_seen": "2026-08-28T21:57:36.363761+00:00"
+ },
+ "edc8187882b1ba9f": {
+  "title": "Faded Black Venice Wash Seafarer Traveler Cotton Crew",
+  "url": "https://www.buckmason.com/products/faded-black-venice-wash-seafarer-traveler-cotton-crew",
+  "source": "Buck Mason",
+  "image": "https://cdn.shopify.com/s/files/1/0123/5065/2473/files/BM16357.999_SEAFARERTRAVELERCOTTONCREWFADEDBLACKVENICEWASH_1.jpg?v=1787952174",
+  "price": "$178",
+  "published": "2026-07-10T20:22:44+00:00",
+  "first_seen": "2026-08-28T21:57:36.363761+00:00"
+ },
+ "24fc66d306865b37": {
+  "title": "Charcoal Jaspe Hardware Store Big Jean",
+  "url": "https://www.buckmason.com/products/charcoal-jaspe-hardware-store-big-jean",
+  "source": "Buck Mason",
+  "image": "https://cdn.shopify.com/s/files/1/0123/5065/2473/files/BM12160.1687_JASPEHARDWARESTOREBIGJEANCHARCOAL_1.jpg?v=1787946394",
+  "price": "$168",
+  "published": "2026-07-10T20:21:46+00:00",
+  "first_seen": "2026-08-28T21:57:36.363761+00:00"
  }
 }
