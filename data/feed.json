@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-28T22:44:18.378612+00:00",
+ "generated_at": "2026-08-28T23:04:28.183895+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,12 +10,12 @@
    "more": 0,
    "items": [
     {
-     "title": "Partly Cloudy",
-     "phrase": "Partly Cloudy all day.",
+     "title": "Mostly Clear",
+     "phrase": "Mostly Clear all day.",
      "detail": "It reaches 79\u00b0 today and falls to 51\u00b0 overnight. The sun is up from 6:15 until 7:37.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 75,
+     "temp": 71,
      "high": 79,
      "low": 51,
      "sunrise": "6:15",
@@ -148,15 +148,15 @@
    "more": 0,
    "items": [
     {
-     "title": "DOOM Played on Series of 555 Timers",
-     "url": "https://hackaday.com/2026/08/28/doom-played-on-series-of-555-timers/",
+     "title": "Reviving an SD Card With Shorted Capacitors",
+     "url": "https://hackaday.com/2026/08/28/reviving-an-sd-card-with-shorted-capacitors/",
      "source": "Hackaday",
-     "summary": "It\u2019s technically true that any piece of software can be reproduced in hardware, although modern software\u2019s size and complexity generally makes this a non-starter. But if we go far\u2026",
-     "published": "2026-08-28T20:00:09+00:00",
-     "image": "https://hackaday.com/wp-content/uploads/2026/08/doom-555-main.png",
+     "summary": "A nice thing about SD cards is that even in their non-micro format they are conveniently small. This is however a bit of a problem when an SD card stops \u2026read more",
+     "published": "2026-08-28T23:00:13+00:00",
+     "image": "https://hackaday.com/wp-content/uploads/2026/08/monolithic-sd-card-disassembled-data-recovery.jpg",
      "kind": "article",
-     "id": "61196c940c64b27a",
-     "first_seen": "2026-08-28T21:57:36.363761+00:00",
+     "id": "2916f9c477523eeb",
+     "first_seen": "2026-08-28T23:04:28.183895+00:00",
      "is_new": true
     },
     {
