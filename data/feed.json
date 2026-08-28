@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-28T22:06:59.467279+00:00",
+ "generated_at": "2026-08-28T22:24:30.767289+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -12,11 +12,11 @@
     {
      "title": "Partly Cloudy",
      "phrase": "Partly Cloudy all day.",
-     "detail": "It reaches 81\u00b0 today and falls to 51\u00b0 overnight. The sun is up from 6:15 until 7:37.",
+     "detail": "It reaches 79\u00b0 today and falls to 51\u00b0 overnight. The sun is up from 6:15 until 7:37.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
      "temp": 75,
-     "high": 81,
+     "high": 79,
      "low": 51,
      "sunrise": "6:15",
      "sunset": "7:37",
@@ -75,14 +75,14 @@
    "items": [
     {
      "title": "For Trump, the Iran War Is Stuck Between Combat and Genuine Peace",
-     "url": "https://www.nytimes.com/2026/08/28/us/politics/for-trump-the-iran-war-is-stuck-between-combat-and-genuine-peace.html",
+     "url": "https://www.nytimes.com/2026/08/28/us/politics/trump-iran-war.html",
      "source": "New York Times",
      "summary": "The war has deteriorated over the past six months into Mr. Trump\u2019s own version of a \u201cforever war,\u201d with no clear goals and no end in sight.",
-     "published": "2026-08-28T21:45:12+00:00",
+     "published": "2026-08-28T21:45:13+00:00",
      "image": "https://static01.nyt.com/images/2026/08/28/multimedia/28dc-prexy-klwz/28dc-prexy-klwz-mediumSquareAt3X.jpg",
      "kind": "article",
-     "id": "e2f6113c7ebf131d",
-     "first_seen": "2026-08-28T21:57:36.363761+00:00",
+     "id": "2bcce931fd1892a1",
+     "first_seen": "2026-08-28T22:24:30.767289+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
