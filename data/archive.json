@@ -1591,5 +1591,437 @@
   "price": "$148",
   "published": "2026-07-10T20:21:58+00:00",
   "first_seen": "2026-08-25T17:51:02.752039+00:00"
+ },
+ "1b180e6220539d11": {
+  "title": "Tracksmith Eliot Runner",
+  "url": "https://www.tracksmith.com/products/m-tracksmith-eliot-runner?sku=FT1001070WTAWAW",
+  "source": "Tracksmith",
+  "image": "https://cdn.shopify.com/s/files/1/1594/4353/files/Fall26-Tracksmith-Eliot-Runner-Wine-Ivory-2.png?v=1787668273?auto=format,compress&crop=faces&dpr=2&fit=crop&h=400&w=400",
+  "price": "$198",
+  "published": null,
+  "first_seen": "2026-08-28T01:31:34.864033+00:00"
+ },
+ "aebcfcf32151ef05": {
+  "title": "Brighton Base Layer Tee",
+  "url": "https://www.tracksmith.com/products/m-brighton-base-layer-tee?sku=MT21802AW",
+  "source": "Tracksmith",
+  "image": "https://cdn.shopify.com/s/files/1/1594/4353/files/Fall26-Mens-Brighton-Base-Layer-Tee-Ivory-On-Model_c612e8e2-e336-49d4-ae69-56aa11439bc4.png?v=1787596732?auto=format,compress&crop=faces&dpr=2&fit=crop&h=400&w=400",
+  "price": "$100",
+  "published": null,
+  "first_seen": "2026-08-28T01:31:34.864033+00:00"
+ },
+ "b7a58a25b67fb13c": {
+  "title": "Van Cortlandt Tee",
+  "url": "https://www.tracksmith.com/products/m-van-cortlandt-tee?sku=MT21301NARAW",
+  "source": "Tracksmith",
+  "image": "https://cdn.shopify.com/s/files/1/1594/4353/files/Fall26-Mens-Harrier-Long-Sleeve-Golden-Brown-Narcissus_69e19ba6-00c1-4b0f-a7d0-b6c843b8b276.png?v=1787580921?auto=format,compress&crop=faces&dpr=2&fit=crop&h=400&w=400",
+  "price": "$80",
+  "published": null,
+  "first_seen": "2026-08-28T01:31:34.864033+00:00"
+ },
+ "7021e03f0582db12": {
+  "title": "Van Cortlandt Singlet",
+  "url": "https://www.tracksmith.com/products/m-van-cortlandt-singlet?sku=MT21401RAZAW",
+  "source": "Tracksmith",
+  "image": "https://cdn.shopify.com/s/files/1/1594/4353/files/Fall26-Mens-Van-Cortlandt-Singlet-Rasberry-Ivory.png?v=1787233275?auto=format,compress&crop=faces&dpr=2&fit=crop&h=400&w=400",
+  "price": "$75",
+  "published": null,
+  "first_seen": "2026-08-28T01:31:34.864033+00:00"
+ },
+ "aaf5fd8f866af14f": {
+  "title": "Van Cortlandt Shorts",
+  "url": "https://www.tracksmith.com/products/m-van-cortlandt-shorts?sku=MB311001RR",
+  "source": "Tracksmith",
+  "image": "https://cdn.shopify.com/s/files/1/1594/4353/files/Fall26-Mens-Van-Cortlandt-Shorts-Racing-Red.png?v=1787245702?auto=format,compress&crop=faces&dpr=2&fit=crop&h=400&w=400",
+  "price": "$75",
+  "published": null,
+  "first_seen": "2026-08-28T01:31:34.864033+00:00"
+ },
+ "2574ffe4f49f89ee": {
+  "title": "Twilight Tee",
+  "url": "https://www.tracksmith.com/products/m-twilight-tee?sku=MT223701ALF",
+  "source": "Tracksmith",
+  "image": "https://cdn.shopify.com/s/files/1/1594/4353/files/Fall26-Mens-Twilight-Tee-Alfalfa.png?v=1787249039?auto=format,compress&crop=faces&dpr=2&fit=crop&h=400&w=400",
+  "price": "$70",
+  "published": null,
+  "first_seen": "2026-08-28T01:31:34.864033+00:00"
+ },
+ "14eafdc4fbf994aa": {
+  "title": "Twilight Shorts",
+  "url": "https://www.tracksmith.com/products/m-twilight-shorts?sku=MB326301TEM",
+  "source": "Tracksmith",
+  "image": "https://cdn.shopify.com/s/files/1/1594/4353/files/Fall26-Mens-Twilight-Woven-Short-Wild-Wind.png?v=1787587078?auto=format,compress&crop=faces&dpr=2&fit=crop&h=400&w=400",
+  "price": "$75",
+  "published": null,
+  "first_seen": "2026-08-28T01:31:34.864033+00:00"
+ },
+ "deda962a740124a2": {
+  "title": "Twilight Tank",
+  "url": "https://www.tracksmith.com/products/m-twilight-tank?sku=MT223601CAB",
+  "source": "Tracksmith",
+  "image": "https://cdn.shopify.com/s/files/1/1594/4353/files/Fall26-Mens-Twilight-Tank-Cabernet.png?v=1787249031?auto=format,compress&crop=faces&dpr=2&fit=crop&h=400&w=400",
+  "price": "$65",
+  "published": null,
+  "first_seen": "2026-08-28T01:31:34.864033+00:00"
+ },
+ "e32d9b98757c8ce8": {
+  "title": "Harrier Tee",
+  "url": "https://www.tracksmith.com/products/m-harrier-tee?sku=MT220701CAB",
+  "source": "Tracksmith",
+  "image": "https://cdn.shopify.com/s/files/1/1594/4353/files/Fall26-Mens-Harrier-Tee-Cabernet.png?v=1787580719?auto=format,compress&crop=faces&dpr=2&fit=crop&h=400&w=400",
+  "price": "$100",
+  "published": null,
+  "first_seen": "2026-08-28T01:31:34.864033+00:00"
+ },
+ "f2dc03741d9fd434": {
+  "title": "Twilight Half Tights",
+  "url": "https://www.tracksmith.com/products/m-twilight-half-tights?sku=MB324701NCAB",
+  "source": "Tracksmith",
+  "image": "https://cdn.shopify.com/s/files/1/1594/4353/files/Fall26-Mens-Twilight-Half-Tights-Navy-Cabernet-On-Model_4f939498-809d-4a80-bc66-6914e0596d80.png?v=1787587244?auto=format,compress&crop=faces&dpr=2&fit=crop&h=400&w=400",
+  "price": "$90",
+  "published": null,
+  "first_seen": "2026-08-28T01:31:34.864033+00:00"
+ },
+ "5a5d3571e1af7843": {
+  "title": "Van Cortlandt Long Sleeve",
+  "url": "https://www.tracksmith.com/products/m-van-cortlandt-long-sleeve?sku=MT201201AWNAR",
+  "source": "Tracksmith",
+  "image": "https://cdn.shopify.com/s/files/1/1594/4353/files/Fall26-Mens-Van-Cortlandt-Long-Sleeve-Ivory-Narcissus_87007713-6508-4e9b-9394-5b9f937c669a.png?v=1787580191?auto=format,compress&crop=faces&dpr=2&fit=crop&h=400&w=400",
+  "price": "$90",
+  "published": null,
+  "first_seen": "2026-08-28T01:31:34.864033+00:00"
+ },
+ "753f3a09f16dcf19": {
+  "title": "Twilight Long Sleeve",
+  "url": "https://www.tracksmith.com/products/m-twilight-long-sleeve?sku=MT223901CAB",
+  "source": "Tracksmith",
+  "image": "https://cdn.shopify.com/s/files/1/1594/4353/files/Fall26-Mens-Twilight-Long-Sleeve-Cabernet.png?v=1787249003?auto=format,compress&crop=faces&dpr=2&fit=crop&h=400&w=400",
+  "price": "$80",
+  "published": null,
+  "first_seen": "2026-08-28T01:31:34.864033+00:00"
+ },
+ "aaebaa9c726eec62": {
+  "title": "Twilight Split Shorts",
+  "url": "https://www.tracksmith.com/products/m-twilight-split-shorts?sku=MB325701CAB",
+  "source": "Tracksmith",
+  "image": "https://cdn.shopify.com/s/files/1/1594/4353/files/Fall26-Mens-Twilight-Split-Shorts-Cabernet.png?v=1787249021?auto=format,compress&crop=faces&dpr=2&fit=crop&h=400&w=400",
+  "price": "$70",
+  "published": null,
+  "first_seen": "2026-08-28T01:31:34.864033+00:00"
+ },
+ "51957c08b8cda37b": {
+  "title": "Trackhouse Midweight Sweatshirt",
+  "url": "https://www.tracksmith.com/products/m-trackhouse-midweight-sweatshirt?sku=MT2247TRKE01WIW",
+  "source": "Tracksmith",
+  "image": "https://cdn.shopify.com/s/files/1/1594/4353/files/Fall26-Mens-Fieldhouse-Midweight-Sweatshirt-Wild-Wind.png?v=1787579288?auto=format,compress&crop=faces&dpr=2&fit=crop&h=400&w=400",
+  "price": "$120",
+  "published": null,
+  "first_seen": "2026-08-28T01:31:34.864033+00:00"
+ },
+ "8c93e110d856cee4": {
+  "title": "Trackhouse Midweight Crew",
+  "url": "https://www.tracksmith.com/products/m-trackhouse-midweight-crew?sku=MT2245TRKE01CAB",
+  "source": "Tracksmith",
+  "image": "https://cdn.shopify.com/s/files/1/1594/4353/files/Fall26-Mens-Fieldhouse-Midweight-Crew-Cabernet.png?v=1787579264?auto=format,compress&crop=faces&dpr=2&fit=crop&h=400&w=400",
+  "price": "$110",
+  "published": null,
+  "first_seen": "2026-08-28T01:31:34.864033+00:00"
+ },
+ "a384158ed324772a": {
+  "title": "Brighton Base Layer",
+  "url": "https://www.tracksmith.com/products/m-brighton-base-layer-ls?sku=MT21702NRRS",
+  "source": "Tracksmith",
+  "image": "https://cdn.shopify.com/s/files/1/1594/4353/files/Fall26-Mens-Brighton-Base-Layer-Navy-Red-On-Model.png?v=1787248983?auto=format,compress&crop=faces&dpr=2&fit=crop&h=400&w=400",
+  "price": "$100",
+  "published": null,
+  "first_seen": "2026-08-28T01:31:34.864033+00:00"
+ },
+ "5ad981553e4caeb7": {
+  "title": "Harrier Long Sleeve",
+  "url": "https://www.tracksmith.com/products/m-harrier-long-sleeve?sku=MT222201GDBNARS",
+  "source": "Tracksmith",
+  "image": "https://cdn.shopify.com/s/files/1/1594/4353/files/Fall26-Mens-Harrier-Long-Sleeve-Golden-Brown-Narcissus_12fe9554-b0a1-4d51-b710-bc74bf958270.png?v=1787580960?auto=format,compress&crop=faces&dpr=2&fit=crop&h=400&w=400",
+  "price": "$110",
+  "published": null,
+  "first_seen": "2026-08-28T01:31:34.864033+00:00"
+ },
+ "5580d7d0118fadf8": {
+  "title": "Session Tee",
+  "url": "https://www.tracksmith.com/products/m-session-tee?sku=MT208101DOV",
+  "source": "Tracksmith",
+  "image": "https://cdn.shopify.com/s/files/1/1594/4353/files/Fall26-Mens-Session-Tee-Dove_23ad7368-f4e4-4c0e-a89a-b17aab885714.png?v=1787595404?auto=format,compress&crop=faces&dpr=2&fit=crop&h=400&w=400",
+  "price": "$85",
+  "published": null,
+  "first_seen": "2026-08-28T01:31:34.864033+00:00"
+ },
+ "0cb6d350ad34eff4": {
+  "title": "Session Long Sleeve",
+  "url": "https://www.tracksmith.com/products/m-session-long-sleeve?sku=MT210001NAR",
+  "source": "Tracksmith",
+  "image": "https://cdn.shopify.com/s/files/1/1594/4353/files/Fall26-Mens-Session-Long-Sleeve-Narcissus_2b5a5c9f-9d8e-456e-a22d-d3ecb570d75a.png?v=1787596317?auto=format,compress&crop=faces&dpr=2&fit=crop&h=400&w=400",
+  "price": "$90",
+  "published": null,
+  "first_seen": "2026-08-28T01:31:34.864033+00:00"
+ },
+ "88ad816dcd726396": {
+  "title": "Session Shorts",
+  "url": "https://www.tracksmith.com/products/m-session-shorts?sku=MB323401CAB",
+  "source": "Tracksmith",
+  "image": "https://cdn.shopify.com/s/files/1/1594/4353/files/Fall26-Mens-Session-Shorts-Cabernet_47faaec1-c097-477f-b43f-16d94926a681.png?v=1787595955?auto=format,compress&crop=faces&dpr=2&fit=crop&h=400&w=400",
+  "price": "$85",
+  "published": null,
+  "first_seen": "2026-08-28T01:31:34.864033+00:00"
+ },
+ "302d208b1d014711": {
+  "title": "Session Quarter Zip",
+  "url": "https://www.tracksmith.com/products/m-session-quarter-zip?sku=MT221601BRU",
+  "source": "Tracksmith",
+  "image": "https://cdn.shopify.com/s/files/1/1594/4353/files/Fall26-Mens-Session-Quarter-Zip-Brushed-Nickel-On-Model.png?v=1787671121?auto=format,compress&crop=faces&dpr=2&fit=crop&h=400&w=400",
+  "price": "$120",
+  "published": null,
+  "first_seen": "2026-08-28T01:31:34.864033+00:00"
+ },
+ "207a6e13a67cedbd": {
+  "title": "Session Pants",
+  "url": "https://www.tracksmith.com/products/m-session-pants?sku=MB323501BRU",
+  "source": "Tracksmith",
+  "image": "https://cdn.shopify.com/s/files/1/1594/4353/files/Fall26-Mens-Session-Pants-Brushed-Nickel-On-Model.png?v=1787671133?auto=format,compress&crop=faces&dpr=2&fit=crop&h=400&w=400",
+  "price": "$130",
+  "published": null,
+  "first_seen": "2026-08-28T01:31:34.864033+00:00"
+ },
+ "decb5e28e6f9649d": {
+  "title": "Trackhouse Sweatshirt",
+  "url": "https://www.tracksmith.com/products/m-trackhouse-sweatshirt?sku=MT23801WT",
+  "source": "Tracksmith",
+  "image": "https://cdn.shopify.com/s/files/1/1594/4353/files/Fall25-Mens-Trackhouse-Sweatshirt-Wine.png?v=1758750805?auto=format,compress&crop=faces&dpr=2&fit=crop&h=400&w=400",
+  "price": "$130",
+  "published": null,
+  "first_seen": "2026-08-28T01:31:34.864033+00:00"
+ },
+ "d28e2dd8cb3ab077": {
+  "title": "Indigo Heavy Cotton Twill Games Trousers",
+  "url": "https://us.drakes.com/products/indigo-heavy-cotton-twill-games-trousers-2",
+  "source": "Drake's",
+  "image": "https://cdn.shopify.com/s/files/1/0649/6603/3653/files/DR2A6B26908-04200-1_8b949af0-5e2d-41dc-bcd9-3b4b0773e591.jpg?v=1787848096",
+  "price": "$595",
+  "published": "2026-08-27T12:32:53-04:00",
+  "first_seen": "2026-08-28T01:31:34.864033+00:00"
+ },
+ "c5a4ae76d15ecf17": {
+  "title": "Cocoa Heavy Cotton Twill Games Trousers",
+  "url": "https://us.drakes.com/products/cocoa-heavy-cotton-twill-games-trousers-2",
+  "source": "Drake's",
+  "image": "https://cdn.shopify.com/s/files/1/0649/6603/3653/files/DR2A6B26908-03300-1.jpg?v=1787847605",
+  "price": "$595",
+  "published": "2026-08-27T12:32:52-04:00",
+  "first_seen": "2026-08-28T01:31:34.864033+00:00"
+ },
+ "38d41f1cbfbca6d6": {
+  "title": "Khaki Heavy Cotton Twill Games Trousers",
+  "url": "https://us.drakes.com/products/khaki-heavy-cotton-twill-games-trousers-3",
+  "source": "Drake's",
+  "image": "https://cdn.shopify.com/s/files/1/0649/6603/3653/files/DR2A6B26908-02400-1.jpg?v=1787847462",
+  "price": "$595",
+  "published": "2026-08-27T12:32:51-04:00",
+  "first_seen": "2026-08-28T01:31:34.864033+00:00"
+ },
+ "6628166935d178f7": {
+  "title": "Dark Navy Heavy Cotton Twill Games Trousers",
+  "url": "https://us.drakes.com/products/dark-navy-heavy-cotton-twill-games-trousers-3",
+  "source": "Drake's",
+  "image": "https://cdn.shopify.com/s/files/1/0649/6603/3653/files/DR2A6B26908-01250-1.jpg?v=1787845783",
+  "price": "$595",
+  "published": "2026-08-27T12:32:50-04:00",
+  "first_seen": "2026-08-28T01:31:34.864033+00:00"
+ },
+ "338eecf24a8ad4db": {
+  "title": "Indigo Heavy Cotton Twill Games Blazer Mk. I",
+  "url": "https://us.drakes.com/products/indigo-heavy-cotton-twill-games-blazer-mk-i-3",
+  "source": "Drake's",
+  "image": "https://cdn.shopify.com/s/files/1/0649/6603/3653/files/DR2A2C26908-04200-1.jpg?v=1787844767",
+  "price": "$1,195",
+  "published": "2026-08-27T12:32:49-04:00",
+  "first_seen": "2026-08-28T01:31:34.864033+00:00"
+ },
+ "c6529b28d99cb640": {
+  "title": "Cocoa Heavy Cotton Twill Games Blazer Mk. I",
+  "url": "https://us.drakes.com/products/cocoa-heavy-cotton-twill-games-blazer-mk-i-2",
+  "source": "Drake's",
+  "image": "https://cdn.shopify.com/s/files/1/0649/6603/3653/files/DR2A2C26908-03300-1.jpg?v=1787844630",
+  "price": "$1,195",
+  "published": "2026-08-27T12:32:48-04:00",
+  "first_seen": "2026-08-28T01:31:34.864033+00:00"
+ },
+ "88054d6311cfa9f8": {
+  "title": "Khaki Heavy Cotton Twill Games Blazer Mk. I",
+  "url": "https://us.drakes.com/products/khaki-heavy-cotton-twill-games-blazer-mk-i-3",
+  "source": "Drake's",
+  "image": "https://cdn.shopify.com/s/files/1/0649/6603/3653/files/DR2A2C26908-02400-1.jpg?v=1787844302",
+  "price": "$1,195",
+  "published": "2026-08-27T12:32:47-04:00",
+  "first_seen": "2026-08-28T01:31:34.864033+00:00"
+ },
+ "2fb248087ed7c5f9": {
+  "title": "Dark Navy Heavy Cotton Twill Games Blazer Mk. I",
+  "url": "https://us.drakes.com/products/dark-navy-heavy-cotton-twill-games-blazer-mk-i-3",
+  "source": "Drake's",
+  "image": "https://cdn.shopify.com/s/files/1/0649/6603/3653/files/DR2A2C26908-01250-1.jpg?v=1787841234",
+  "price": "$1,195",
+  "published": "2026-08-27T12:32:45-04:00",
+  "first_seen": "2026-08-28T01:31:34.864033+00:00"
+ },
+ "24f87b2395bcb181": {
+  "title": "Side-Tab Sport Trouser in Coffee Tricotino",
+  "url": "https://shopmashburn.com/products/sid-mashburn-side-tab-sport-trouser-coffee-tricotino-s80258",
+  "source": "Sid Mashburn",
+  "image": "https://cdn.shopify.com/s/files/1/0414/4532/6999/files/S80258_32.jpg?v=1784726455",
+  "price": "$295",
+  "published": "2026-08-27T10:26:27-04:00",
+  "first_seen": "2026-08-28T01:31:34.864033+00:00"
+ },
+ "38d5c2c8b7f37e7c": {
+  "title": "Burgundy Polka Dot Print Shoestring Wool-Silk Scarf",
+  "url": "https://us.drakes.com/products/burgundy-polka-dot-print-shoestring-wool-silk-scarf",
+  "source": "Drake's",
+  "image": "https://cdn.shopify.com/s/files/1/0649/6603/3653/files/DR1AB126778-02-301-1.jpg?v=1787838569",
+  "price": "$375",
+  "published": "2026-08-27T10:14:58-04:00",
+  "first_seen": "2026-08-28T01:31:34.864033+00:00"
+ },
+ "314bd8e2e57ad9b2": {
+  "title": "Navy Polka Dot Print Shoestring Wool-Silk Scarf",
+  "url": "https://us.drakes.com/products/navy-polka-dot-print-shoestring-wool-silk-scarf",
+  "source": "Drake's",
+  "image": "https://cdn.shopify.com/s/files/1/0649/6603/3653/files/DR1AB126778-03-251-1.jpg?v=1787839561",
+  "price": "$375",
+  "published": "2026-08-27T10:11:46-04:00",
+  "first_seen": "2026-08-28T01:31:34.864033+00:00"
+ },
+ "e8a8fc1ad40fd5a7": {
+  "title": "Green Polka Dot Print Shoestring Wool-Silk Scarf",
+  "url": "https://us.drakes.com/products/green-polka-dot-print-shoestring-wool-silk-scarf",
+  "source": "Drake's",
+  "image": "https://cdn.shopify.com/s/files/1/0649/6603/3653/files/DR1AB126778-01-401-1.jpg?v=1787836515",
+  "price": "$375",
+  "published": "2026-08-27T09:39:58-04:00",
+  "first_seen": "2026-08-28T01:31:34.864033+00:00"
+ },
+ "23adee547254faff": {
+  "title": "Green, Yellow and Purple Multi Stripe Hand Rolled Silk Grenadine Tie",
+  "url": "https://us.drakes.com/products/green-yellow-and-purple-multi-stripe-hand-rolled-silk-grenadine-tie",
+  "source": "Drake's",
+  "image": "https://cdn.shopify.com/s/files/1/0649/6603/3653/files/DR1AAR26738-02-402-2.jpg?v=1787831244",
+  "price": "$275",
+  "published": "2026-08-27T09:08:29-04:00",
+  "first_seen": "2026-08-28T01:31:34.864033+00:00"
+ },
+ "c28795ba21b8cbfc": {
+  "title": "Navy, White and Sand Stripe Mogador Cotton-Silk Tipped Tie",
+  "url": "https://us.drakes.com/products/navy-white-and-sand-stripe-mogador-cotton-silk-tipped-tie",
+  "source": "Drake's",
+  "image": "https://cdn.shopify.com/s/files/1/0649/6603/3653/files/26743.jpg?v=1787824197",
+  "price": "$275",
+  "published": "2026-08-27T05:51:50-04:00",
+  "first_seen": "2026-08-28T01:31:34.864033+00:00"
+ },
+ "0af7db767e9d69b7": {
+  "title": "Navy, Yellow and Green Stripe Mogador Silk Tipped Tie",
+  "url": "https://us.drakes.com/products/navy-yellow-and-green-stripe-mogador-silk-tipped-tie",
+  "source": "Drake's",
+  "image": "https://cdn.shopify.com/s/files/1/0649/6603/3653/files/DR1AAN25652-02-662-2.jpg?v=1787823824",
+  "price": "$275",
+  "published": "2026-08-27T05:45:11-04:00",
+  "first_seen": "2026-08-28T01:31:34.864033+00:00"
+ },
+ "17fa6f9fc3aa1d01": {
+  "title": "Blue and Brown Stripe Mogador Cotton-Silk Tipped Tie",
+  "url": "https://us.drakes.com/products/blue-and-brown-stripe-mogador-cotton-silk-tipped-tie",
+  "source": "Drake's",
+  "image": "https://cdn.shopify.com/s/files/1/0649/6603/3653/files/DR1AAN26741-01-202-1.jpg?v=1787823509",
+  "price": "$275",
+  "published": "2026-08-27T05:40:03-04:00",
+  "first_seen": "2026-08-28T01:31:34.864033+00:00"
+ },
+ "069a923c3fd46ae2": {
+  "title": "Brown Mini Squares Tile Print Silk Self-Tipped Tie",
+  "url": "https://us.drakes.com/products/brown-mini-squares-tile-print-silk-self-tipped-tie",
+  "source": "Drake's",
+  "image": "https://cdn.shopify.com/s/files/1/0649/6603/3653/files/DR1AAS26720-02-301-2.jpg?v=1787823166",
+  "price": "$275",
+  "published": "2026-08-27T05:35:49-04:00",
+  "first_seen": "2026-08-28T01:31:34.864033+00:00"
+ },
+ "1f32a7e39e46acfd": {
+  "title": "Grey Melange Cotton Jersey Long-Sleeve Polo Shirt",
+  "url": "https://us.drakes.com/products/grey-melange-cotton-jersey-long-sleeve-polo-shirt",
+  "source": "Drake's",
+  "image": "https://cdn.shopify.com/s/files/1/0649/6603/3653/files/DR2A5D26609-03-600-1.jpg?v=1787650863",
+  "price": "$275",
+  "published": "2026-08-27T04:52:05-04:00",
+  "first_seen": "2026-08-28T01:31:34.864033+00:00"
+ },
+ "5ef526025b638a30": {
+  "title": "Olive Cotton Jersey Long-Sleeve Polo Shirt",
+  "url": "https://us.drakes.com/products/olive-cotton-jersey-long-sleeve-polo-shirt",
+  "source": "Drake's",
+  "image": "https://cdn.shopify.com/s/files/1/0649/6603/3653/files/DR2A5D26609-02-400-1.jpg?v=1787650569",
+  "price": "$275",
+  "published": "2026-08-27T04:51:28-04:00",
+  "first_seen": "2026-08-28T01:31:34.864033+00:00"
+ },
+ "0e36a6b2978ea79c": {
+  "title": "Navy Cotton Jersey Long-Sleeve Polo Shirt",
+  "url": "https://us.drakes.com/products/navy-cotton-jersey-long-sleeve-polo-shirt",
+  "source": "Drake's",
+  "image": "https://cdn.shopify.com/s/files/1/0649/6603/3653/files/26609-01.jpg?v=1787820595",
+  "price": "$275",
+  "published": "2026-08-27T04:50:32-04:00",
+  "first_seen": "2026-08-28T01:31:34.864033+00:00"
+ },
+ "3fa4069447582bef": {
+  "title": "Ecru Moleskin Games Trouser",
+  "url": "https://us.drakes.com/products/ecru-moleskin-games-trouser",
+  "source": "Drake's",
+  "image": "https://cdn.shopify.com/s/files/1/0649/6603/3653/files/DR2A6C26530-02050_transitoinal_-1.jpg?v=1787819945",
+  "price": "$595",
+  "published": "2026-08-27T04:40:20-04:00",
+  "first_seen": "2026-08-28T01:31:34.864033+00:00"
+ },
+ "4b9b5899060a8a7c": {
+  "title": "Red 'D' Emblem Cotton Corduroy Baseball Cap",
+  "url": "https://us.drakes.com/products/red-d-emblem-cotton-corduroy-baseball-cap-1",
+  "source": "Drake's",
+  "image": "https://cdn.shopify.com/s/files/1/0649/6603/3653/files/DR1AG226698-03700_transitional_1.jpg?v=1787751589",
+  "price": "$115",
+  "published": "2026-08-27T04:30:01-04:00",
+  "first_seen": "2026-08-28T01:31:34.864033+00:00"
+ },
+ "9f25937a75fec336": {
+  "title": "Sand 'D' Emblem Cotton Corduroy Baseball Cap",
+  "url": "https://us.drakes.com/products/sand-d-emblem-cotton-corduroy-baseball-cap-1",
+  "source": "Drake's",
+  "image": "https://cdn.shopify.com/s/files/1/0649/6603/3653/files/DR1AG226698-01050_transitional_2.jpg?v=1787750547",
+  "price": "$115",
+  "published": "2026-08-27T04:30:00-04:00",
+  "first_seen": "2026-08-28T01:31:34.864033+00:00"
+ },
+ "6b2e71bc235f7659": {
+  "title": "Burgundy Cross-Stitch 'D' Cotton Twill Baseball Cap",
+  "url": "https://us.drakes.com/products/burgundy-cross-stitch-d-cotton-twill-baseball-cap",
+  "source": "Drake's",
+  "image": "https://cdn.shopify.com/s/files/1/0649/6603/3653/files/DR1AG226697-01-900-1.jpg?v=1787750326",
+  "price": "$115",
+  "published": "2026-08-27T04:29:58-04:00",
+  "first_seen": "2026-08-28T01:31:34.864033+00:00"
+ },
+ "df246418ebb3d5d1": {
+  "title": "Green Dogs Print Wool-Silk Pocket Square",
+  "url": "https://us.drakes.com/products/green-dogs-print-wool-silk-pocket-square",
+  "source": "Drake's",
+  "image": "https://cdn.shopify.com/s/files/1/0649/6603/3653/files/DR1AE026766-02-401-1.jpg?v=1787750167",
+  "price": "$160",
+  "published": "2026-08-27T04:29:56-04:00",
+  "first_seen": "2026-08-28T01:31:34.864033+00:00"
  }
 }
