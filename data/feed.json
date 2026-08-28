@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-28T23:24:30.685451+00:00",
+ "generated_at": "2026-08-28T23:44:21.810323+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -160,18 +160,6 @@
      "is_new": true
     },
     {
-     "title": "Braille Script Teaching Device for Visually Impaired",
-     "url": "https://www.hackster.io/josh2012/braille-script-teaching-device-for-visually-impaired-e49bfc",
-     "source": "Hackster",
-     "summary": "I made a device through which a visually impared child can learn Braille Script on they own any where, any time and without a teacher.",
-     "published": "2026-08-28T15:44:00+00:00",
-     "image": "https://hackster.imgix.net/uploads/attachments/1992016/_sJf3WRnJ5x.blob",
-     "kind": "article",
-     "id": "2d41bcbab3bb6c0d",
-     "first_seen": "2026-08-28T21:57:36.363761+00:00",
-     "is_new": true
-    },
-    {
      "title": "Dako: AI wayfinding navigation device",
      "url": "https://www.hackster.io/fernandonmagallanesjr/dako-ai-wayfinding-navigation-device-d59712",
      "source": "Hackster",
@@ -180,6 +168,18 @@
      "image": "https://hackster.imgix.net/uploads/attachments/1991937/_cEzOt3wz84.blob",
      "kind": "article",
      "id": "cad33fb2f1a71352",
+     "first_seen": "2026-08-28T21:57:36.363761+00:00",
+     "is_new": true
+    },
+    {
+     "title": "FLo: a wireless macropad you never have to reflash",
+     "url": "https://www.hackster.io/mohammedshan6141/flo-a-wireless-macropad-you-never-have-to-reflash-3ecb7d",
+     "source": "Hackster",
+     "summary": "An ESP32-C3 macropad that types over Bluetooth and takes its macros over USB from a desktop app. Set a shortcut, unplug, keep working.",
+     "published": "2026-08-28T06:46:30+00:00",
+     "image": "https://hackster.imgix.net/uploads/attachments/1991859/_A1SiYIyCSz.blob",
+     "kind": "article",
+     "id": "cd605967880c55f1",
      "first_seen": "2026-08-28T21:57:36.363761+00:00",
      "is_new": true
     },
