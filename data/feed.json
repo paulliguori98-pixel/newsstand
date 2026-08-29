@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-29T19:44:30.201408+00:00",
+ "generated_at": "2026-08-29T20:04:43.234426+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -95,22 +95,6 @@
      "score": 5
     },
     {
-     "title": "With Shoppers Wary of Illness, Farmers Destroy Millions of Heads of Lettuce",
-     "url": "https://www.nytimes.com/2026/08/29/us/salinas-california-taylor-farms-lettuce-cyclospora.html",
-     "source": "New York Times",
-     "summary": "After a drop in demand driven by a nationwide outbreak of cyclosporiasis, California growers are plowing lettuce back into the soil and laying off workers.",
-     "published": "2026-08-29T09:00:50+00:00",
-     "image": null,
-     "kind": "article",
-     "id": "01336d21afac5751",
-     "first_seen": "2026-08-29T14:04:40.264827+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
      "title": "Somali piracy surges as the impact of the US-Iran war ripples outwards",
      "url": "https://www.bbc.co.uk/news/articles/cr4vx4pneydo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
@@ -141,6 +125,22 @@
      "also_in": [],
      "boosted": true,
      "score": 4
+    },
+    {
+     "title": "Warsh Speaks and Rate-Hike Odds Rise",
+     "url": "https://www.wsj.com/economy/warsh-speaks-and-rate-cut-odds-rise-22689ee5?mod=rss_markets_main",
+     "source": "WSJ",
+     "summary": "Plus, Hegseth considers another military all-hands and Russians get a small taste of direct democracy.",
+     "published": "2026-08-28T21:43:00+00:00",
+     "image": "https://images.wsj.net/im-74689168",
+     "kind": "article",
+     "id": "bae759713e52d45a",
+     "first_seen": "2026-08-28T21:57:36.363761+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
     }
    ]
   },
@@ -153,15 +153,15 @@
    "more": 0,
    "items": [
     {
-     "title": "Motorized Planer Height Adjustment Dials In",
-     "url": "https://hackaday.com/2026/08/29/motorized-planer-height-adjustment-dials-in/",
+     "title": "Wikipedia on a Cheap Yellow Display",
+     "url": "https://hackaday.com/2026/08/29/wikipedia-on-a-cheap-yellow-display/",
      "source": "Hackaday",
-     "summary": "Having access to a planer opens up a lot of options for woodworking. It enables a craftsman to work with much rougher lumber and the finished results generally have tighter \u2026read \u2026",
-     "published": "2026-08-29T17:00:13+00:00",
-     "image": "https://hackaday.com/wp-content/uploads/2026/08/planer-main.png",
+     "summary": "The Cheap Yellow Display (CYD) is a board carrying a slightly older ESP32 variant, a display with a resistive touchscreen, an SD card, and not much else. It\u2019s often used \u2026read more",
+     "published": "2026-08-29T20:00:36+00:00",
+     "image": "https://hackaday.com/wp-content/uploads/2026/08/cyd-wikipedia-featured.jpg",
      "kind": "article",
-     "id": "1437963e11658ecd",
-     "first_seen": "2026-08-29T17:05:03.758648+00:00",
+     "id": "571cb61fc82ad7ca",
+     "first_seen": "2026-08-29T20:04:43.234426+00:00",
      "is_new": true
     },
     {
