@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-29T12:05:26.477916+00:00",
+ "generated_at": "2026-08-29T12:24:40.344865+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -15,7 +15,7 @@
      "detail": "It reaches 77\u00b0 today and falls to 55\u00b0 overnight. The sun is up from 6:17 until 7:35.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 53,
+     "temp": 55,
      "high": 77,
      "low": 55,
      "sunrise": "6:17",
@@ -74,19 +74,19 @@
    "more": 0,
    "items": [
     {
-     "title": "Russian strike on warehouse near Kyiv kills at least 37",
-     "url": "https://www.theguardian.com/world/2026/aug/29/russian-strike-warehouse-near-kyiv-kills-at-least-37",
-     "source": "Guardian",
-     "summary": "Attack on business apparently storing \u2018explosive objects\u2019 sparks huge fire, damaging residential buildingsAt least 37 people have been killed after a Russian drone struck a wareho\u2026",
-     "published": "2026-08-29T11:59:48+00:00",
-     "image": "https://i.guim.co.uk/img/media/46ee6233f94095020d869c4fa63d641020b7b041/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=4159656ea982635f6ddcae097327c4bd",
+     "title": "At least 37 dead and hundreds evacuated after strike on Kyiv warehouse",
+     "url": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "summary": "An investigation has been launched into the storage of weapons in the deopt near a residential area.",
+     "published": "2026-08-29T12:22:53+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b20a/live/57878280-a391-11f1-8dd3-ff568f69d772.png",
      "kind": "article",
-     "id": "93f9565596adfac6",
-     "first_seen": "2026-08-29T12:05:26.477916+00:00",
+     "id": "2458fe404ed33e6f",
+     "first_seen": "2026-08-29T10:04:55.893929+00:00",
      "is_new": true,
      "corroboration": 2,
      "also_in": [
-      "BBC"
+      "Guardian"
      ],
      "boosted": true,
      "score": 5
@@ -233,16 +233,16 @@
    "more": 0,
    "items": [
     {
-     "title": "Autumn/Winter 26 on the PS Shop (all prices now show taxes/duties!)",
-     "url": "https://www.permanentstyle.com/2026/08/autumn-winter-26-on-the-ps-shop-all-prices-now-show-taxes-duties.html",
-     "source": "Permanent Style",
-     "summary": "Hello lovely readers, Before getting into our seasonal update on the shop, a couple of quick but important updates. First, all customers in the UK, US and Eurozone now see prices \u2026",
-     "published": "2026-08-28T08:00:52+00:00",
-     "image": "https://www.permanentstyle.com/wp-content/uploads/2026/08/wax-jacket-private-whte-vc.jpg",
+     "title": "Merging Onto Memory Lane",
+     "url": "https://www.thisnicelife.com/p/merging-onto-memory-lane",
+     "source": "This Nice Life",
+     "summary": "A vehicle and a song can take you back in time.",
+     "published": "2026-08-22T12:02:05+00:00",
+     "image": "https://substackcdn.com/image/fetch/$s_!7Xdo!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2bf7c313-331a-4432-b729-81c08d305139_4032x2268.jpeg",
      "kind": "article",
-     "id": "e3611336fe10eab3",
-     "first_seen": "2026-08-28T22:06:59.467279+00:00",
-     "is_new": true,
+     "id": "06d3681b0771cc47",
+     "first_seen": "2026-08-22T13:43:58.125100+00:00",
+     "is_new": false,
      "corroboration": 1,
      "also_in": [],
      "boosted": false,
@@ -299,5 +299,7 @@
    ]
   }
  ],
- "errors": []
+ "errors": [
+  "Permanent Style: RuntimeError \u2014 https://www.permanentstyle.com/feed \u2192 HTTP 415"
+ ]
 }
