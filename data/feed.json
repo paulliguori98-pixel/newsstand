@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-29T16:44:36.472181+00:00",
+ "generated_at": "2026-08-29T17:05:03.758648+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -15,7 +15,7 @@
      "detail": "It reaches 77\u00b0 today and falls to 55\u00b0 overnight. The sun is up from 6:17 until 7:35.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 72,
+     "temp": 74,
      "high": 77,
      "low": 55,
      "sunrise": "6:17",
@@ -74,22 +74,22 @@
    "more": 0,
    "items": [
     {
-     "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
-     "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "summary": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
-     "published": "2026-08-29T16:15:56+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6691/live/b40e7f80-a356-11f1-a291-b542ee92de7c.jpg",
+     "title": "Trump Says U.S. Struck Deal for Control of More Than 65 Billion Barrels of Venezuela\u2019s Oil",
+     "url": "https://www.nytimes.com/2026/08/28/business/trump-venezuela-oil-deal.html",
+     "source": "New York Times",
+     "summary": "The president said an agreement between the countries covered more than 65 billion barrels of reserves. A U.S. official said it would involve a partnership with a private company.",
+     "published": "2026-08-29T16:53:10+00:00",
+     "image": "https://static01.nyt.com/images/2026/01/08/multimedia/28biz-trump-venezuela/28biz-trump-venezuela-mediumSquareAt3X-v2.jpg",
      "kind": "article",
-     "id": "d1fd3bc001a527cb",
+     "id": "526026799faa001d",
      "first_seen": "2026-08-29T10:04:55.893929+00:00",
      "is_new": true,
      "corroboration": 5,
      "also_in": [
       "Axios",
+      "BBC",
       "Guardian",
-      "NPR",
-      "New York Times"
+      "NPR"
      ],
      "boosted": false,
      "score": 5
@@ -153,15 +153,15 @@
    "more": 0,
    "items": [
     {
-     "title": "Wear Your Way Out Of AI Surveilance",
-     "url": "https://hackaday.com/2026/08/29/wear-your-way-out-of-ai-surveilance/",
+     "title": "Motorized Planer Height Adjustment Dials In",
+     "url": "https://hackaday.com/2026/08/29/motorized-planer-height-adjustment-dials-in/",
      "source": "Hackaday",
-     "summary": "For decades now many of us have lived in surveillance societies where it\u2019s difficult not to be within the view of a camera. When being noticed depended on the attention \u2026read more",
-     "published": "2026-08-29T11:00:17+00:00",
-     "image": "https://hackaday.com/wp-content/uploads/2026/08/digitalcamo_feat.jpg",
+     "summary": "Having access to a planer opens up a lot of options for woodworking. It enables a craftsman to work with much rougher lumber and the finished results generally have tighter \u2026read \u2026",
+     "published": "2026-08-29T17:00:13+00:00",
+     "image": "https://hackaday.com/wp-content/uploads/2026/08/planer-main.png",
      "kind": "article",
-     "id": "64db38ba41b6a332",
-     "first_seen": "2026-08-29T11:04:43.542994+00:00",
+     "id": "1437963e11658ecd",
+     "first_seen": "2026-08-29T17:05:03.758648+00:00",
      "is_new": true
     },
     {
