@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-29T22:24:33.332033+00:00",
+ "generated_at": "2026-08-29T22:44:29.630791+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -74,6 +74,26 @@
    "more": 0,
    "items": [
     {
+     "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
+     "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "summary": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
+     "published": "2026-08-29T22:40:51+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6691/live/b40e7f80-a356-11f1-a291-b542ee92de7c.jpg",
+     "kind": "article",
+     "id": "d1fd3bc001a527cb",
+     "first_seen": "2026-08-29T10:04:55.893929+00:00",
+     "is_new": true,
+     "corroboration": 4,
+     "also_in": [
+      "Axios",
+      "Guardian",
+      "NPR"
+     ],
+     "boosted": false,
+     "score": 4
+    },
+    {
      "title": "Warsh, After Talking Tough on Inflation, Faces a \u2018No-Win Situation\u2019 on Rates",
      "url": "https://www.nytimes.com/2026/08/29/business/kevin-warsh-inflation-rates-fed.html",
      "source": "New York Times",
@@ -87,26 +107,6 @@
      "corroboration": 1,
      "also_in": [],
      "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
-     "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "summary": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
-     "published": "2026-08-29T16:15:56+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6691/live/b40e7f80-a356-11f1-a291-b542ee92de7c.jpg",
-     "kind": "article",
-     "id": "d1fd3bc001a527cb",
-     "first_seen": "2026-08-29T10:04:55.893929+00:00",
-     "is_new": true,
-     "corroboration": 4,
-     "also_in": [
-      "Axios",
-      "Guardian",
-      "NPR"
-     ],
-     "boosted": false,
      "score": 4
     },
     {
