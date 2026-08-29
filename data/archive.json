@@ -2104,5 +2104,32 @@
   "price": "$268",
   "published": "2026-07-16T18:32:45+00:00",
   "first_seen": "2026-08-28T22:06:59.467279+00:00"
+ },
+ "c9be7e9d78d7054e": {
+  "title": "Black Felted Cyclist Jacket",
+  "url": "https://www.buckmason.com/products/black-felted-cyclist-jacket",
+  "source": "Buck Mason",
+  "image": "https://cdn.shopify.com/s/files/1/0123/5065/2473/files/BM17347.403_FELTED-CYCLIST-JACKET_BLACK_56194_1.jpg?v=1788019194",
+  "price": "$268",
+  "published": "2026-07-16T18:32:43+00:00",
+  "first_seen": "2026-08-29T16:04:56.903906+00:00"
+ },
+ "fc98eaa37bf0565e": {
+  "title": "Rinse Hardware Store Jacket",
+  "url": "https://www.buckmason.com/products/rinse-hardware-store-jacket",
+  "source": "Buck Mason",
+  "image": "https://cdn.shopify.com/s/files/1/0123/5065/2473/files/BM17305.1609_JASPEHARDWARESTOREJACKETRINSE_1.jpg?v=1787950918",
+  "price": "$198",
+  "published": "2026-07-16T18:32:37+00:00",
+  "first_seen": "2026-08-29T16:04:56.903906+00:00"
+ },
+ "5954820e6cc55f15": {
+  "title": "Rinse Hardware Store Big Jean",
+  "url": "https://www.buckmason.com/products/rinse-hardware-store-big-jean",
+  "source": "Buck Mason",
+  "image": "https://cdn.shopify.com/s/files/1/0123/5065/2473/files/BM12160.1609_JASPEHARDWARESTOREBIGJEANRINSE_1.jpg?v=1787951008",
+  "price": "$168",
+  "published": "2026-07-16T18:32:24+00:00",
+  "first_seen": "2026-08-29T16:04:56.903906+00:00"
  }
 }
