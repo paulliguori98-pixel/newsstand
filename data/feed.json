@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-29T18:44:38.592678+00:00",
+ "generated_at": "2026-08-29T19:04:27.730149+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -12,12 +12,12 @@
     {
      "title": "Sunny",
      "phrase": "Sunny all day.",
-     "detail": "It reaches 76\u00b0 today and falls to 53\u00b0 overnight. The sun is up from 6:17 until 7:35.",
+     "detail": "It reaches 77\u00b0 today and falls to 55\u00b0 overnight. The sun is up from 6:17 until 7:35.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 73,
-     "high": 76,
-     "low": 53,
+     "temp": 75,
+     "high": 77,
+     "low": 55,
      "sunrise": "6:17",
      "sunset": "7:35",
      "id": "bb806d72c86dcec1",
@@ -95,22 +95,6 @@
      "score": 5
     },
     {
-     "title": "Fast Forward",
-     "url": "https://www.nytimes.com/2026/08/29/briefing/fast-forward.html",
-     "source": "New York Times",
-     "summary": "How do we balance our desire for modern conveniences with our nostalgia for the uncomplicated felicity of our pre-internet past?",
-     "published": "2026-08-29T09:22:54+00:00",
-     "image": null,
-     "kind": "article",
-     "id": "f5dd770f889a0b71",
-     "first_seen": "2026-08-29T10:04:55.893929+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
      "title": "With Shoppers Wary of Illness, Farmers Destroy Millions of Heads of Lettuce",
      "url": "https://www.nytimes.com/2026/08/29/us/salinas-california-taylor-farms-lettuce-cyclospora.html",
      "source": "New York Times",
@@ -137,6 +121,22 @@
      "id": "ac57fa72d76206ea",
      "first_seen": "2026-08-29T10:04:55.893929+00:00",
      "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
+     "title": "We\u2019re in a New Era of Class Warfare. History Points to a Way Out.",
+     "url": "https://www.nytimes.com/2026/08/24/opinion/class-warfare-violence.html",
+     "source": "New York Times",
+     "summary": "The class-based violence of the past was part of a broader struggle. Today, the violence is the end in itself.",
+     "published": "2026-08-28T23:05:14+00:00",
+     "image": null,
+     "kind": "article",
+     "id": "24cd7098aa50c471",
+     "first_seen": "2026-08-24T11:14:07.125740+00:00",
+     "is_new": false,
      "corroboration": 1,
      "also_in": [],
      "boosted": true,
