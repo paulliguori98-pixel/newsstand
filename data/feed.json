@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-29T22:44:29.630791+00:00",
+ "generated_at": "2026-08-29T23:04:31.951991+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -152,15 +152,15 @@
    "more": 0,
    "items": [
     {
-     "title": "Wikipedia on a Cheap Yellow Display",
-     "url": "https://hackaday.com/2026/08/29/wikipedia-on-a-cheap-yellow-display/",
+     "title": "Compact PCB Vise Uses Up That Leftover Filament",
+     "url": "https://hackaday.com/2026/08/29/compact-pcb-vise-uses-up-that-leftover-filament/",
      "source": "Hackaday",
-     "summary": "The Cheap Yellow Display (CYD) is a board carrying a slightly older ESP32 variant, a display with a resistive touchscreen, an SD card, and not much else. It\u2019s often used \u2026read more",
-     "published": "2026-08-29T20:00:36+00:00",
-     "image": "https://hackaday.com/wp-content/uploads/2026/08/cyd-wikipedia-featured.jpg",
+     "summary": "Needing less than 70 grams of filament, [Chefkoch]\u2019s 3D printed PCB vise solder station might be a good way to use up some filament spool leftovers and get yourself a \u2026read more",
+     "published": "2026-08-29T23:00:03+00:00",
+     "image": "https://hackaday.com/wp-content/uploads/2026/08/solder-station-DIY-reconfigurable.png",
      "kind": "article",
-     "id": "571cb61fc82ad7ca",
-     "first_seen": "2026-08-29T20:04:43.234426+00:00",
+     "id": "8e92a11cc22c7fa0",
+     "first_seen": "2026-08-29T23:04:31.951991+00:00",
      "is_new": true
     },
     {
