@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-29T12:44:31.282109+00:00",
+ "generated_at": "2026-08-29T13:04:48.078046+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -15,7 +15,7 @@
      "detail": "It reaches 77\u00b0 today and falls to 55\u00b0 overnight. The sun is up from 6:17 until 7:35.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 55,
+     "temp": 59,
      "high": 77,
      "low": 55,
      "sunrise": "6:17",
@@ -74,22 +74,20 @@
    "more": 0,
    "items": [
     {
-     "title": "At least 37 dead and hundreds evacuated after strike on Kyiv warehouse",
-     "url": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "summary": "An investigation has been launched into the storage of weapons in the deopt near a residential area.",
-     "published": "2026-08-29T12:22:53+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b20a/live/57878280-a391-11f1-8dd3-ff568f69d772.png",
+     "title": "Russian strike on warehouse near Kyiv kills at least 37",
+     "url": "https://www.theguardian.com/world/2026/aug/29/russian-strike-warehouse-near-kyiv-kills-at-least-37",
+     "source": "Guardian",
+     "summary": "Attack on business apparently storing \u2018explosive objects\u2019 sparks huge fire, damaging residential buildingsAt least 37 people have been killed after a Russian drone struck a wareho\u2026",
+     "published": "2026-08-29T12:01:16+00:00",
+     "image": "https://i.guim.co.uk/img/media/46ee6233f94095020d869c4fa63d641020b7b041/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=4159656ea982635f6ddcae097327c4bd",
      "kind": "article",
-     "id": "2458fe404ed33e6f",
-     "first_seen": "2026-08-29T10:04:55.893929+00:00",
+     "id": "93f9565596adfac6",
+     "first_seen": "2026-08-29T12:05:26.477916+00:00",
      "is_new": true,
-     "corroboration": 2,
-     "also_in": [
-      "Guardian"
-     ],
+     "corroboration": 1,
+     "also_in": [],
      "boosted": true,
-     "score": 5
+     "score": 4
     },
     {
      "title": "Fast Forward",
