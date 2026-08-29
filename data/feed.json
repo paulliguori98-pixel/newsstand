@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-29T20:44:32.740928+00:00",
+ "generated_at": "2026-08-29T21:04:22.614052+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -74,25 +74,40 @@
    "more": 0,
    "items": [
     {
-     "title": "Trump Says U.S. Struck Deal for Control of More Than 65 Billion Barrels of Venezuela\u2019s Oil",
-     "url": "https://www.nytimes.com/2026/08/28/business/trump-venezuela-oil-deal.html",
+     "title": "Warsh, After Talking Tough on Inflation, Faces a \u2018No-Win Situation\u2019 on Rates",
+     "url": "https://www.nytimes.com/2026/08/29/business/kevin-warsh-inflation-rates-fed.html",
      "source": "New York Times",
-     "summary": "The president said an agreement between the countries covered more than 65 billion barrels of reserves. A U.S. official said it would involve a partnership with a private company.",
-     "published": "2026-08-29T16:53:10+00:00",
-     "image": "https://static01.nyt.com/images/2026/01/08/multimedia/28biz-trump-venezuela/28biz-trump-venezuela-mediumSquareAt3X-v2.jpg",
+     "summary": "Kevin M. Warsh, the chairman of the Federal Reserve, must soon decide whether to raise interest rates if inflation does not ease, even if it draws President Trump\u2019s ire.",
+     "published": "2026-08-29T20:39:23+00:00",
+     "image": "https://static01.nyt.com/images/2026/08/30/multimedia/30DC-JACKSON-HOLE-top-wlkt/30DC-JACKSON-HOLE-top-wlkt-mediumSquareAt3X.jpg",
      "kind": "article",
-     "id": "526026799faa001d",
+     "id": "133d99b114d460ef",
+     "first_seen": "2026-08-29T21:04:22.614052+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
+     "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
+     "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "summary": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
+     "published": "2026-08-29T16:15:56+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6691/live/b40e7f80-a356-11f1-a291-b542ee92de7c.jpg",
+     "kind": "article",
+     "id": "d1fd3bc001a527cb",
      "first_seen": "2026-08-29T10:04:55.893929+00:00",
      "is_new": true,
-     "corroboration": 5,
+     "corroboration": 4,
      "also_in": [
       "Axios",
-      "BBC",
       "Guardian",
       "NPR"
      ],
      "boosted": false,
-     "score": 5
+     "score": 4
     },
     {
      "title": "Somali piracy surges as the impact of the US-Iran war ripples outwards",
@@ -105,22 +120,6 @@
      "id": "ac57fa72d76206ea",
      "first_seen": "2026-08-29T10:04:55.893929+00:00",
      "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "We\u2019re in a New Era of Class Warfare. History Points to a Way Out.",
-     "url": "https://www.nytimes.com/2026/08/24/opinion/class-warfare-violence.html",
-     "source": "New York Times",
-     "summary": "The class-based violence of the past was part of a broader struggle. Today, the violence is the end in itself.",
-     "published": "2026-08-28T23:05:14+00:00",
-     "image": null,
-     "kind": "article",
-     "id": "24cd7098aa50c471",
-     "first_seen": "2026-08-24T11:14:07.125740+00:00",
-     "is_new": false,
      "corroboration": 1,
      "also_in": [],
      "boosted": true,
