@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-30T10:44:42.737585+00:00",
+ "generated_at": "2026-08-30T11:04:35.683780+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,12 +10,12 @@
    "more": 0,
    "items": [
     {
-     "title": "Cloudy",
+     "title": "Mostly Cloudy",
      "phrase": "A one-in-five chance of rain between 4pm and 5pm.",
      "detail": "It reaches 78\u00b0 today and falls to 57\u00b0 overnight. The sun is up from 6:18 until 7:34.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 56,
+     "temp": 57,
      "high": 78,
      "low": 57,
      "sunrise": "6:18",
@@ -148,15 +148,15 @@
    "more": 0,
    "items": [
     {
-     "title": "Woodstove Assistant Keeps the Heat on Safely",
-     "url": "https://hackaday.com/2026/08/30/woodstove-assistant-keeps-the-heat-on-safely/",
+     "title": "Giving the NES an Optical Data Storage Add-On",
+     "url": "https://hackaday.com/2026/08/30/giving-the-nes-an-optical-data-storage-add-on/",
      "source": "Hackaday",
-     "summary": "Those who have never lived in a cold climate might romanticize winters around a fire, keeping warm under blankets while snow gently falls outside. While it certainly can be a \u2026rea\u2026",
-     "published": "2026-08-30T08:00:12+00:00",
-     "image": "https://hackaday.com/wp-content/uploads/2026/08/remote-woodstove-main.png",
+     "summary": "The introduction of optical media in the form of CDs meant a revolution in the world of gaming consoles, escaping the restrictions of a few dozen MB of storage and \u2026read more",
+     "published": "2026-08-30T11:00:33+00:00",
+     "image": "https://hackaday.com/wp-content/uploads/2026/08/nes_cd-addon_internals_throaty_mumbo_youtube.jpg",
      "kind": "article",
-     "id": "d1b364274a4f6a89",
-     "first_seen": "2026-08-30T10:04:34.913888+00:00",
+     "id": "6f3475e69f77dc98",
+     "first_seen": "2026-08-30T11:04:35.683780+00:00",
      "is_new": true
     },
     {
