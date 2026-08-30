@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-30T17:44:28.051732+00:00",
+ "generated_at": "2026-08-30T18:04:35.966541+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,7 +10,7 @@
    "more": 0,
    "items": [
     {
-     "title": "Mostly Cloudy",
+     "title": "Cloudy",
      "phrase": "A one-in-five chance of rain between 4pm and 5pm.",
      "detail": "It reaches 78\u00b0 today and falls to 57\u00b0 overnight. The sun is up from 6:18 until 7:34.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
@@ -122,20 +122,22 @@
      "score": 4
     },
     {
-     "title": "Deadly strike on Kyiv warehouse prompts evacuations",
-     "url": "https://www.bbc.co.uk/news/videos/cy8z979y9e4o?at_medium=RSS&at_campaign=rss",
+     "title": "Manhunt after shooting at Swiss rave kills woman, 22, and injures five",
+     "url": "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "summary": "Ukraine correspondent Dan Johnson reports from Kyiv after the deadly strike, which authorities said killed more than 30 people.",
-     "published": "2026-08-29T13:55:55+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b94a/live/3b597a00-a3af-11f1-a291-b542ee92de7c.jpg",
+     "summary": "Five others in their twenties were injured after shots were fired at a techno event near Zurich.",
+     "published": "2026-08-30T17:49:31+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2dc4/live/0a7a6950-a466-11f1-b370-b9b7934350c8.jpg",
      "kind": "article",
-     "id": "83790b150225d5db",
-     "first_seen": "2026-08-30T16:44:34.903436+00:00",
+     "id": "868f6bb6e2a977d4",
+     "first_seen": "2026-08-30T10:04:34.913888+00:00",
      "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
+     "corroboration": 2,
+     "also_in": [
+      "Guardian"
+     ],
+     "boosted": false,
+     "score": 2
     }
    ]
   },
