@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-30T18:24:24.766764+00:00",
+ "generated_at": "2026-08-30T18:44:25.918533+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,14 +10,14 @@
    "more": 0,
    "items": [
     {
-     "title": "Cloudy",
+     "title": "Mostly Cloudy",
      "phrase": "A one-in-five chance of rain between 4pm and 5pm.",
-     "detail": "It reaches 78\u00b0 today and falls to 57\u00b0 overnight. The sun is up from 6:18 until 7:34.",
+     "detail": "It reaches 75\u00b0 today and falls to 58\u00b0 overnight. The sun is up from 6:18 until 7:34.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
      "temp": 77,
-     "high": 78,
-     "low": 57,
+     "high": 75,
+     "low": 58,
      "sunrise": "6:18",
      "sunset": "7:34",
      "id": "bb806d72c86dcec1",
@@ -122,15 +122,15 @@
      "score": 4
     },
     {
-     "title": "Manhunt after shooting at Swiss rave kills woman, 22, and injures five",
-     "url": "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss",
+     "title": "Eight killed and others missing after ferry capsizes off northern Cyprus",
+     "url": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "summary": "Five others in their twenties were injured after shots were fired at a techno event near Zurich.",
-     "published": "2026-08-30T17:49:31+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2dc4/live/0a7a6950-a466-11f1-b370-b9b7934350c8.jpg",
+     "summary": "A search and rescue operation is under way after a ferry carrying nearly 270 people turns over after leaving port.",
+     "published": "2026-08-30T18:31:17+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b564/live/7bd43000-a492-11f1-a291-b542ee92de7c.jpg",
      "kind": "article",
-     "id": "868f6bb6e2a977d4",
-     "first_seen": "2026-08-30T10:04:34.913888+00:00",
+     "id": "80226a3cb4a833b4",
+     "first_seen": "2026-08-30T12:04:59.589777+00:00",
      "is_new": true,
      "corroboration": 2,
      "also_in": [
