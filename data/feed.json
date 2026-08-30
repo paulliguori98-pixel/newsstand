@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-30T19:44:31.074884+00:00",
+ "generated_at": "2026-08-30T20:04:49.376045+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -122,19 +122,19 @@
      "score": 4
     },
     {
-     "title": "Captain and crew arrested after at least eight die in Northern Cyprus ferry disaster \u2013 as it happened",
-     "url": "https://www.theguardian.com/world/live/2026/aug/30/northern-cyprus-ferry-capsizes-latest-news-updates",
-     "source": "Guardian",
-     "summary": "An estimated 237 people have been rescued but 18 are missing after accident off the coast of northern CyprusFatalities after ferry carrying nearly 270 capsizes off northern Cyprus\u2026",
-     "published": "2026-08-30T19:18:02+00:00",
-     "image": "https://i.guim.co.uk/img/media/609399f0d5031bca4c2021f12c2e9919ab204b5f/379_0_2520_2018/master/2520.jpg?width=140&quality=85&auto=format&fit=max&s=3dfe29ad78a173f350ec96256f68b1a2",
+     "title": "Eight killed and others missing after ferry capsizes off northern Cyprus",
+     "url": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "summary": "A search and rescue operation is under way after a ferry carrying nearly 270 people turns over after leaving port.",
+     "published": "2026-08-30T20:02:43+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b564/live/7bd43000-a492-11f1-a291-b542ee92de7c.jpg",
      "kind": "article",
-     "id": "27bddd8655234b16",
-     "first_seen": "2026-08-30T14:04:34.036936+00:00",
+     "id": "80226a3cb4a833b4",
+     "first_seen": "2026-08-30T12:04:59.589777+00:00",
      "is_new": true,
      "corroboration": 2,
      "also_in": [
-      "BBC"
+      "Guardian"
      ],
      "boosted": false,
      "score": 2
@@ -150,15 +150,15 @@
    "more": 0,
    "items": [
     {
-     "title": "Low(er)-Cost Humanoid Robot Leverages DIY Actuators",
-     "url": "https://hackaday.com/2026/08/30/lower-cost-humanoid-robot-leverages-diy-actuators/",
+     "title": "Dissecting a Lethal Universal Travel Adapter",
+     "url": "https://hackaday.com/2026/08/30/dissecting-a-lethal-universal-travel-adapter/",
      "source": "Hackaday",
-     "summary": "Humanoid robots, even scaled-down ones, tend to be expensive. The Berkeley Humanoid Lite offers a more accessible and economical option by centering the design around 3D printed a\u2026",
-     "published": "2026-08-30T14:00:41+00:00",
-     "image": "https://hackaday.com/wp-content/uploads/2026/08/berkeley-humaonid-lite-cover-banner.png",
+     "summary": "The world\u2019s refusal to standardize on a single type of mains power outlet has led to a vibrant market of so-called travel adapters, all of which try to outdo each \u2026read more",
+     "published": "2026-08-30T20:00:16+00:00",
+     "image": "https://hackaday.com/wp-content/uploads/2026/08/universal_travel_adapter_insides_brainiac75_youtube.jpg",
      "kind": "article",
-     "id": "55b6c112499713cd",
-     "first_seen": "2026-08-30T14:04:34.036936+00:00",
+     "id": "8ad059c3cfc57a67",
+     "first_seen": "2026-08-30T20:04:49.376045+00:00",
      "is_new": true
     },
     {
