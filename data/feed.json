@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-30T18:44:25.918533+00:00",
+ "generated_at": "2026-08-30T19:04:38.519568+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,14 +10,14 @@
    "more": 0,
    "items": [
     {
-     "title": "Mostly Cloudy",
+     "title": "Cloudy",
      "phrase": "A one-in-five chance of rain between 4pm and 5pm.",
-     "detail": "It reaches 75\u00b0 today and falls to 58\u00b0 overnight. The sun is up from 6:18 until 7:34.",
+     "detail": "It reaches 78\u00b0 today and falls to 57\u00b0 overnight. The sun is up from 6:18 until 7:34.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
      "temp": 77,
-     "high": 75,
-     "low": 58,
+     "high": 78,
+     "low": 57,
      "sunrise": "6:18",
      "sunset": "7:34",
      "id": "bb806d72c86dcec1",
@@ -122,19 +122,19 @@
      "score": 4
     },
     {
-     "title": "Eight killed and others missing after ferry capsizes off northern Cyprus",
-     "url": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "summary": "A search and rescue operation is under way after a ferry carrying nearly 270 people turns over after leaving port.",
-     "published": "2026-08-30T18:31:17+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b564/live/7bd43000-a492-11f1-a291-b542ee92de7c.jpg",
+     "title": "Canada erects giant \u2018Lake Ontario\u2019 sign as spat with Trump over name escalates",
+     "url": "https://www.theguardian.com/us-news/2026/aug/30/canada-trump-lake-ontario-name",
+     "source": "Guardian",
+     "summary": "Meanwhile, Trump posts video of himself kicking over a Lake Ontario sign and replacing it with Lake America signDonald Trump and Canada continued a verbal duel on Saturday over th\u2026",
+     "published": "2026-08-30T18:57:22+00:00",
+     "image": "https://i.guim.co.uk/img/media/011f2d2e2c8ef5247abade39e8218bd70c89a184/417_0_4167_3335/master/4167.jpg?width=140&quality=85&auto=format&fit=max&s=9d4ae68aaf26740a6f2d7148da8e21cf",
      "kind": "article",
-     "id": "80226a3cb4a833b4",
-     "first_seen": "2026-08-30T12:04:59.589777+00:00",
+     "id": "f1acf504161f40da",
+     "first_seen": "2026-08-30T15:05:03.148369+00:00",
      "is_new": true,
      "corroboration": 2,
      "also_in": [
-      "Guardian"
+      "BBC"
      ],
      "boosted": false,
      "score": 2
