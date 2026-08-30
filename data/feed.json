@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-30T20:04:49.376045+00:00",
+ "generated_at": "2026-08-30T20:24:40.725398+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -74,6 +74,38 @@
    "more": 0,
    "items": [
     {
+     "title": "U.S. strikes Iran to prevent Hormuz mine threat",
+     "url": "https://www.axios.com/2026/08/30/us-iran-strike-hormuz-mines",
+     "source": "Axios",
+     "summary": "The U.S. military struck Iranian military targets to prevent the deployment of sea mines in the Strait of Hormuz, a U.S. official said. Why it matters: This is the first known U.S\u2026",
+     "published": "2026-08-30T20:08:15+00:00",
+     "image": "https://images.axios.com/uWbjaI5ju5bLXMzmIABFaoNRT9o=/0x162:5000x2974/1366x768/2026/08/30/1788120445749.jpeg",
+     "kind": "article",
+     "id": "6b01e1eaefe7e1a2",
+     "first_seen": "2026-08-30T20:24:40.725398+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
+     "title": "'A giant leap forward': Nasa launches powerful new space telescope",
+     "url": "https://www.bbc.co.uk/news/articles/ce87e55vgpjo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "summary": "The US space agency's telescope is starting a multi-year mission to create a new map of the universe and learn more about dark energy and dark matter.",
+     "published": "2026-08-30T18:53:53+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/206f/live/de2a7590-a48b-11f1-b109-879e35c24276.jpg",
+     "kind": "article",
+     "id": "61d0db549830151e",
+     "first_seen": "2026-08-30T19:04:38.519568+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
      "title": "Russia says it helped to repel Niger attempted coup",
      "url": "https://www.bbc.co.uk/news/articles/c5ye8egg596o?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
@@ -104,40 +136,6 @@
      "also_in": [],
      "boosted": true,
      "score": 4
-    },
-    {
-     "title": "People fleeing Sudan civil war face \u2018dire and deteriorating\u2019 conditions in refuge city",
-     "url": "https://www.theguardian.com/world/2026/aug/30/humanitarian-crisis-worsening-refuge-civilians-sudan-el-obeid",
-     "source": "Guardian",
-     "summary": "More traumatised civilians are arriving every day at \u2018shockingly overcrowded\u2019 El Obeid and camps on its outskirtsHumanitarian conditions in the Sudanese city of El Obeid and two c\u2026",
-     "published": "2026-08-30T06:00:48+00:00",
-     "image": "https://i.guim.co.uk/img/media/d8bca429d9ad2a591d7f9ac06371092198b118b5/635_0_3165_2533/master/3165.jpg?width=140&quality=85&auto=format&fit=max&s=58f9f0d7208bbda79fbdbacd5af00b50",
-     "kind": "article",
-     "id": "3ac63c4298f19dec",
-     "first_seen": "2026-08-30T10:04:34.913888+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "Eight killed and others missing after ferry capsizes off northern Cyprus",
-     "url": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "summary": "A search and rescue operation is under way after a ferry carrying nearly 270 people turns over after leaving port.",
-     "published": "2026-08-30T20:02:43+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b564/live/7bd43000-a492-11f1-a291-b542ee92de7c.jpg",
-     "kind": "article",
-     "id": "80226a3cb4a833b4",
-     "first_seen": "2026-08-30T12:04:59.589777+00:00",
-     "is_new": true,
-     "corroboration": 2,
-     "also_in": [
-      "Guardian"
-     ],
-     "boosted": false,
-     "score": 2
     }
    ]
   },
