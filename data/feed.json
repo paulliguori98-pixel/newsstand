@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-30T13:44:34.730804+00:00",
+ "generated_at": "2026-08-30T14:04:34.036936+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -15,7 +15,7 @@
      "detail": "It reaches 78\u00b0 today and falls to 57\u00b0 overnight. The sun is up from 6:18 until 7:34.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 64,
+     "temp": 68,
      "high": 78,
      "low": 57,
      "sunrise": "6:18",
@@ -148,15 +148,15 @@
    "more": 0,
    "items": [
     {
-     "title": "Giving the NES an Optical Data Storage Add-On",
-     "url": "https://hackaday.com/2026/08/30/giving-the-nes-an-optical-data-storage-add-on/",
+     "title": "Low(er)-Cost Humanoid Robot Leverages DIY Actuators",
+     "url": "https://hackaday.com/2026/08/30/lower-cost-humanoid-robot-leverages-diy-actuators/",
      "source": "Hackaday",
-     "summary": "The introduction of optical media in the form of CDs meant a revolution in the world of gaming consoles, escaping the restrictions of a few dozen MB of storage and \u2026read more",
-     "published": "2026-08-30T11:00:33+00:00",
-     "image": "https://hackaday.com/wp-content/uploads/2026/08/nes_cd-addon_internals_throaty_mumbo_youtube.jpg",
+     "summary": "Humanoid robots, even scaled-down ones, tend to be expensive. The Berkeley Humanoid Lite offers a more accessible and economical option by centering the design around 3D printed a\u2026",
+     "published": "2026-08-30T14:00:41+00:00",
+     "image": "https://hackaday.com/wp-content/uploads/2026/08/berkeley-humaonid-lite-cover-banner.png",
      "kind": "article",
-     "id": "6f3475e69f77dc98",
-     "first_seen": "2026-08-30T11:04:35.683780+00:00",
+     "id": "55b6c112499713cd",
+     "first_seen": "2026-08-30T14:04:34.036936+00:00",
      "is_new": true
     },
     {
