@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-30T10:04:34.913888+00:00",
+ "generated_at": "2026-08-30T10:25:14.977667+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -74,14 +74,14 @@
    "more": 0,
    "items": [
     {
-     "title": "Nepal warns of possible fresh flooding as communities grapple with devastation",
-     "url": "https://www.npr.org/2026/08/30/nx-s1-5949239/nepal-warns-fresh-flooding",
-     "source": "NPR",
-     "summary": "Authorities in Nepal warned of possible fresh flooding on Sunday and urged residents in flood-affected districts to remain on high alert after water levels rose in the Bhotekoshi \u2026",
-     "published": "2026-08-30T09:52:41+00:00",
-     "image": null,
+     "title": "Long Lines for Gas in Iran Show War and U.S. Blockade Squeezing Supply",
+     "url": "https://www.nytimes.com/2026/08/30/world/middleeast/iran-fuel-supplies-blockade.html",
+     "source": "New York Times",
+     "summary": "The government is struggling to meet a shortfall in fuel and is wary that higher prices at the pump could stir unrest.",
+     "published": "2026-08-30T10:12:06+00:00",
+     "image": "https://static01.nyt.com/images/2026/08/30/multimedia/30int-Iran-Fuel-fmlk/30int-Iran-Fuel-fmlk-mediumSquareAt3X.jpg",
      "kind": "article",
-     "id": "47599492bb3e47a2",
+     "id": "2fe318bba0db8c0f",
      "first_seen": "2026-08-30T10:04:34.913888+00:00",
      "is_new": true,
      "corroboration": 1,
@@ -90,14 +90,14 @@
      "score": 4
     },
     {
-     "title": "Long Lines for Gas in Iran Show War and U.S. Blockade Squeezing Supply",
-     "url": "https://www.nytimes.com/2026/08/30/world/middleeast/iran-fuel-supplies-blockade.html",
-     "source": "New York Times",
-     "summary": "The government is struggling to meet a shortfall in fuel and is wary that higher prices at the pump could stir unrest.",
-     "published": "2026-08-30T09:07:17+00:00",
-     "image": "https://static01.nyt.com/images/2026/08/30/multimedia/30int-Iran-Fuel-fmlk/30int-Iran-Fuel-fmlk-mediumSquareAt3X.jpg",
+     "title": "Nepal warns of possible fresh flooding as communities grapple with devastation",
+     "url": "https://www.npr.org/2026/08/30/nx-s1-5949239/nepal-warns-fresh-flooding",
+     "source": "NPR",
+     "summary": "Authorities in Nepal warned of possible fresh flooding on Sunday and urged residents in flood-affected districts to remain on high alert after water levels rose in the Bhotekoshi \u2026",
+     "published": "2026-08-30T09:52:41+00:00",
+     "image": null,
      "kind": "article",
-     "id": "2fe318bba0db8c0f",
+     "id": "47599492bb3e47a2",
      "first_seen": "2026-08-30T10:04:34.913888+00:00",
      "is_new": true,
      "corroboration": 1,
