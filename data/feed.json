@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-30T12:44:25.315908+00:00",
+ "generated_at": "2026-08-30T13:04:29.312598+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -15,7 +15,7 @@
      "detail": "It reaches 78\u00b0 today and falls to 57\u00b0 overnight. The sun is up from 6:18 until 7:34.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 59,
+     "temp": 64,
      "high": 78,
      "low": 57,
      "sunrise": "6:18",
@@ -106,10 +106,10 @@
      "score": 4
     },
     {
-     "title": "Humanitarian crisis worsening in refuge for civilians fleeing Sudan\u2019s civil war",
+     "title": "People fleeing Sudan civil war face \u2018dire and deteriorating\u2019 conditions in refuge city",
      "url": "https://www.theguardian.com/world/2026/aug/30/humanitarian-crisis-worsening-refuge-civilians-sudan-el-obeid",
      "source": "Guardian",
-     "summary": "Conditions are deteriorating in city of El Obeid and camps on its outskirts, with more people arriving every dayHumanitarian conditions in the Sudanese city of El Obeid and two ca\u2026",
+     "summary": "More traumatised civilians are arriving every day at \u2018shockingly overcrowded\u2019 El Obeid and camps on its outskirtsHumanitarian conditions in the Sudanese city of El Obeid and two c\u2026",
      "published": "2026-08-30T06:00:48+00:00",
      "image": "https://i.guim.co.uk/img/media/d8bca429d9ad2a591d7f9ac06371092198b118b5/635_0_3165_2533/master/3165.jpg?width=140&quality=85&auto=format&fit=max&s=58f9f0d7208bbda79fbdbacd5af00b50",
      "kind": "article",
