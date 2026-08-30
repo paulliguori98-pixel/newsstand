@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-30T16:24:52.404047+00:00",
+ "generated_at": "2026-08-30T16:44:34.903436+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -74,6 +74,22 @@
    "more": 0,
    "items": [
     {
+     "title": "Russia says it helped to repel Niger attempted coup",
+     "url": "https://www.bbc.co.uk/news/articles/c5ye8egg596o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "summary": "Soldiers tried to attack a key military base early on Saturday morning, authorities say, but were thwarted.",
+     "published": "2026-08-30T16:33:17+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ace6/live/c0f2a130-a488-11f1-8395-fb1eae51ae18.jpg",
+     "kind": "article",
+     "id": "922bf447ed038969",
+     "first_seen": "2026-08-30T16:44:34.903436+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
      "title": "Nepal warns of possible fresh flooding as communities grapple with devastation",
      "url": "https://www.npr.org/2026/08/30/nx-s1-5949239/nepal-warns-fresh-flooding",
      "source": "NPR",
@@ -106,40 +122,20 @@
      "score": 4
     },
     {
-     "title": "Woman, 22, killed and five injured in shooting at Swiss rave",
-     "url": "https://www.theguardian.com/world/2026/aug/30/shooting-rave-party-switzerland",
-     "source": "Guardian",
-     "summary": "Manhunt under way after Italian dies from her injuries in the town of Aarau in the early hours of Sunday A manhunt is under way in Switzerland after a 22-year-old woman was killed\u2026",
-     "published": "2026-08-30T15:00:51+00:00",
-     "image": "https://i.guim.co.uk/img/media/a2a30e96120dae0bb30569ef1c9f6350b10d44df/0_0_4167_3333/master/4167.jpg?width=140&quality=85&auto=format&fit=max&s=4e77ef6eb79cc2f4668815d91a52042c",
+     "title": "Deadly strike on Kyiv warehouse prompts evacuations",
+     "url": "https://www.bbc.co.uk/news/videos/cy8z979y9e4o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "summary": "Ukraine correspondent Dan Johnson reports from Kyiv after the deadly strike, which authorities said killed more than 30 people.",
+     "published": "2026-08-29T13:55:55+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b94a/live/3b597a00-a3af-11f1-a291-b542ee92de7c.jpg",
      "kind": "article",
-     "id": "306aaf995343dcae",
-     "first_seen": "2026-08-30T15:24:29.261264+00:00",
+     "id": "83790b150225d5db",
+     "first_seen": "2026-08-30T16:44:34.903436+00:00",
      "is_new": true,
-     "corroboration": 2,
-     "also_in": [
-      "BBC"
-     ],
-     "boosted": false,
-     "score": 2
-    },
-    {
-     "title": "Canada erects giant \u2018Lake Ontario\u2019 sign as spat with Trump over name escalates",
-     "url": "https://www.theguardian.com/us-news/2026/aug/30/canada-trump-lake-ontario-name",
-     "source": "Guardian",
-     "summary": "Meanwhile, Trump posts video of himself kicking over a Lake Ontario sign and replacing it with Lake America signDonald Trump and Canada continued a verbal duel on Saturday over th\u2026",
-     "published": "2026-08-30T14:55:55+00:00",
-     "image": "https://i.guim.co.uk/img/media/011f2d2e2c8ef5247abade39e8218bd70c89a184/417_0_4167_3335/master/4167.jpg?width=140&quality=85&auto=format&fit=max&s=9d4ae68aaf26740a6f2d7148da8e21cf",
-     "kind": "article",
-     "id": "f1acf504161f40da",
-     "first_seen": "2026-08-30T15:05:03.148369+00:00",
-     "is_new": true,
-     "corroboration": 2,
-     "also_in": [
-      "BBC"
-     ],
-     "boosted": false,
-     "score": 2
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
     }
    ]
   },
@@ -231,16 +227,16 @@
    "more": 0,
    "items": [
     {
-     "title": "Autumn/Winter 26 on the PS Shop (all prices now show taxes/duties!)",
-     "url": "https://www.permanentstyle.com/2026/08/autumn-winter-26-on-the-ps-shop-all-prices-now-show-taxes-duties.html",
-     "source": "Permanent Style",
-     "summary": "Hello lovely readers, Before getting into our seasonal update on the shop, a couple of quick but important updates. First, all customers in the UK, US and Eurozone now see prices \u2026",
-     "published": "2026-08-28T08:00:52+00:00",
-     "image": "https://www.permanentstyle.com/wp-content/uploads/2026/08/wax-jacket-private-whte-vc.jpg",
+     "title": "Merging Onto Memory Lane",
+     "url": "https://www.thisnicelife.com/p/merging-onto-memory-lane",
+     "source": "This Nice Life",
+     "summary": "A vehicle and a song can take you back in time.",
+     "published": "2026-08-22T12:02:05+00:00",
+     "image": "https://substackcdn.com/image/fetch/$s_!7Xdo!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2bf7c313-331a-4432-b729-81c08d305139_4032x2268.jpeg",
      "kind": "article",
-     "id": "e3611336fe10eab3",
-     "first_seen": "2026-08-28T22:06:59.467279+00:00",
-     "is_new": true,
+     "id": "06d3681b0771cc47",
+     "first_seen": "2026-08-22T13:43:58.125100+00:00",
+     "is_new": false,
      "corroboration": 1,
      "also_in": [],
      "boosted": false,
@@ -297,5 +293,7 @@
    ]
   }
  ],
- "errors": []
+ "errors": [
+  "Permanent Style: RuntimeError \u2014 https://www.permanentstyle.com/feed \u2192 HTTP 415"
+ ]
 }
