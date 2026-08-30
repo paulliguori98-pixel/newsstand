@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-30T21:44:19.450407+00:00",
+ "generated_at": "2026-08-30T22:04:30.879564+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -11,12 +11,12 @@
    "items": [
     {
      "title": "Slight Chance Rain Showers",
-     "phrase": "A one-in-five chance of rain around 5pm.",
-     "detail": "It reaches 75\u00b0 today and falls to 58\u00b0 overnight. The sun is up from 6:18 until 7:34.",
+     "phrase": "Slight Chance Rain Showers all day.",
+     "detail": "It reaches 80\u00b0 today and falls to 58\u00b0 overnight. The sun is up from 6:18 until 7:34.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 74,
-     "high": 75,
+     "temp": 72,
+     "high": 80,
      "low": 58,
      "sunrise": "6:18",
      "sunset": "7:34",
@@ -122,15 +122,15 @@
      "score": 4
     },
     {
-     "title": "Nepal warns of possible fresh flooding as communities grapple with devastation",
-     "url": "https://www.npr.org/2026/08/30/nx-s1-5949239/nepal-warns-fresh-flooding",
+     "title": "Politics chat: more tariffs, mail-in voting order, Kushner-Jeffries meeting",
+     "url": "https://www.npr.org/2026/08/30/nx-s1-5948115/politics-chat-more-tariffs-mail-in-voting-order-kushner-jeffries-meeting",
      "source": "NPR",
-     "summary": "Authorities in Nepal warned of possible fresh flooding on Sunday and urged residents in flood-affected districts to remain on high alert after water levels rose in the Bhotekoshi \u2026",
-     "published": "2026-08-30T09:52:41+00:00",
+     "summary": "Real economic sanctions on Canada and economic threats to countries trading with Iran may work against Republicans in the midterm elections.",
+     "published": "2026-08-30T12:02:26+00:00",
      "image": null,
      "kind": "article",
-     "id": "47599492bb3e47a2",
-     "first_seen": "2026-08-30T10:04:34.913888+00:00",
+     "id": "83a1256d9c42af82",
+     "first_seen": "2026-08-30T22:04:30.879564+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
