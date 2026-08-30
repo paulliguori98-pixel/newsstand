@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-30T14:44:46.388793+00:00",
+ "generated_at": "2026-08-30T15:05:03.148369+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -15,7 +15,7 @@
      "detail": "It reaches 78\u00b0 today and falls to 57\u00b0 overnight. The sun is up from 6:18 until 7:34.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 68,
+     "temp": 72,
      "high": 78,
      "low": 57,
      "sunrise": "6:18",
@@ -122,19 +122,19 @@
      "score": 4
     },
     {
-     "title": "Ferry Carrying Hundreds of Passengers Capsizes Off Coast of Cyprus",
-     "url": "https://www.nytimes.com/2026/08/30/world/europe/cyprus-ferry-capsizes-turkey.html",
-     "source": "New York Times",
-     "summary": "Local authorities said 267 people were aboard the catamaran-type vessel when it began taking on water shortly after its departure from Kyrenia.",
-     "published": "2026-08-30T14:33:30+00:00",
-     "image": "https://static01.nyt.com/images/2026/08/30/multimedia/30xp-cyprus-ferry1-hbmk/30xp-cyprus-ferry1-hbmk-mediumSquareAt3X.jpg",
+     "title": "Canada erects giant \u2018Lake Ontario\u2019 sign as spat with Trump over name escalates",
+     "url": "https://www.theguardian.com/us-news/2026/aug/30/canada-trump-lake-ontario-name",
+     "source": "Guardian",
+     "summary": "Meanwhile, Trump posts video of himself kicking over a Lake Ontario sign and replacing it with Lake America signDonald Trump and Canada continued a verbal duel on Saturday over th\u2026",
+     "published": "2026-08-30T14:55:55+00:00",
+     "image": "https://i.guim.co.uk/img/media/011f2d2e2c8ef5247abade39e8218bd70c89a184/417_0_4167_3335/master/4167.jpg?width=140&quality=85&auto=format&fit=max&s=9d4ae68aaf26740a6f2d7148da8e21cf",
      "kind": "article",
-     "id": "29542525d5c20e56",
-     "first_seen": "2026-08-30T14:44:46.388793+00:00",
+     "id": "f1acf504161f40da",
+     "first_seen": "2026-08-30T15:05:03.148369+00:00",
      "is_new": true,
      "corroboration": 2,
      "also_in": [
-      "Guardian"
+      "BBC"
      ],
      "boosted": false,
      "score": 2
