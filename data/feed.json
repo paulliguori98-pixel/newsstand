@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-30T12:04:59.589777+00:00",
+ "generated_at": "2026-08-30T12:24:45.908652+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -227,16 +227,16 @@
    "more": 0,
    "items": [
     {
-     "title": "Autumn/Winter 26 on the PS Shop (all prices now show taxes/duties!)",
-     "url": "https://www.permanentstyle.com/2026/08/autumn-winter-26-on-the-ps-shop-all-prices-now-show-taxes-duties.html",
-     "source": "Permanent Style",
-     "summary": "Hello lovely readers, Before getting into our seasonal update on the shop, a couple of quick but important updates. First, all customers in the UK, US and Eurozone now see prices \u2026",
-     "published": "2026-08-28T08:00:52+00:00",
-     "image": "https://www.permanentstyle.com/wp-content/uploads/2026/08/wax-jacket-private-whte-vc.jpg",
+     "title": "Merging Onto Memory Lane",
+     "url": "https://www.thisnicelife.com/p/merging-onto-memory-lane",
+     "source": "This Nice Life",
+     "summary": "A vehicle and a song can take you back in time.",
+     "published": "2026-08-22T12:02:05+00:00",
+     "image": "https://substackcdn.com/image/fetch/$s_!7Xdo!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2bf7c313-331a-4432-b729-81c08d305139_4032x2268.jpeg",
      "kind": "article",
-     "id": "e3611336fe10eab3",
-     "first_seen": "2026-08-28T22:06:59.467279+00:00",
-     "is_new": true,
+     "id": "06d3681b0771cc47",
+     "first_seen": "2026-08-22T13:43:58.125100+00:00",
+     "is_new": false,
      "corroboration": 1,
      "also_in": [],
      "boosted": false,
@@ -293,5 +293,7 @@
    ]
   }
  ],
- "errors": []
+ "errors": [
+  "Permanent Style: RuntimeError \u2014 https://www.permanentstyle.com/feed \u2192 HTTP 415"
+ ]
 }
