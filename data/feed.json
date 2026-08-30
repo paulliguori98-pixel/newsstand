@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-30T14:24:28.550986+00:00",
+ "generated_at": "2026-08-30T14:44:46.388793+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -15,7 +15,7 @@
      "detail": "It reaches 78\u00b0 today and falls to 57\u00b0 overnight. The sun is up from 6:18 until 7:34.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 64,
+     "temp": 68,
      "high": 78,
      "low": 57,
      "sunrise": "6:18",
@@ -74,22 +74,6 @@
    "more": 0,
    "items": [
     {
-     "title": "Long Lines for Gas in Iran Show War and U.S. Blockade Squeezing Supply",
-     "url": "https://www.nytimes.com/2026/08/30/world/middleeast/iran-fuel-supplies-blockade.html",
-     "source": "New York Times",
-     "summary": "The government is struggling to meet a shortfall in fuel and is wary that higher prices at the pump could stir unrest.",
-     "published": "2026-08-30T10:12:06+00:00",
-     "image": "https://static01.nyt.com/images/2026/08/30/multimedia/30int-Iran-Fuel-fmlk/30int-Iran-Fuel-fmlk-mediumSquareAt3X.jpg",
-     "kind": "article",
-     "id": "2fe318bba0db8c0f",
-     "first_seen": "2026-08-30T10:04:34.913888+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
      "title": "Nepal warns of possible fresh flooding as communities grapple with devastation",
      "url": "https://www.npr.org/2026/08/30/nx-s1-5949239/nepal-warns-fresh-flooding",
      "source": "NPR",
@@ -136,6 +120,24 @@
      "also_in": [],
      "boosted": true,
      "score": 4
+    },
+    {
+     "title": "Ferry Carrying Hundreds of Passengers Capsizes Off Coast of Cyprus",
+     "url": "https://www.nytimes.com/2026/08/30/world/europe/cyprus-ferry-capsizes-turkey.html",
+     "source": "New York Times",
+     "summary": "Local authorities said 267 people were aboard the catamaran-type vessel when it began taking on water shortly after its departure from Kyrenia.",
+     "published": "2026-08-30T14:33:30+00:00",
+     "image": "https://static01.nyt.com/images/2026/08/30/multimedia/30xp-cyprus-ferry1-hbmk/30xp-cyprus-ferry1-hbmk-mediumSquareAt3X.jpg",
+     "kind": "article",
+     "id": "29542525d5c20e56",
+     "first_seen": "2026-08-30T14:44:46.388793+00:00",
+     "is_new": true,
+     "corroboration": 2,
+     "also_in": [
+      "Guardian"
+     ],
+     "boosted": false,
+     "score": 2
     }
    ]
   },
