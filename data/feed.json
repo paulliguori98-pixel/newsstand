@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-31T20:24:34.857332+00:00",
+ "generated_at": "2026-08-31T20:44:32.290721+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -11,11 +11,11 @@
    "items": [
     {
      "title": "Partly Sunny",
-     "phrase": "Rain is near certain between 12am and 8am.",
+     "phrase": "Rain is near certain between 12am and 9am.",
      "detail": "It reaches 79\u00b0 today and falls to 63\u00b0 overnight. The sun is up from 6:19 until 7:32.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 78,
+     "temp": 79,
      "high": 79,
      "low": 63,
      "sunrise": "6:19",
@@ -74,6 +74,22 @@
    "more": 0,
    "items": [
     {
+     "title": "U.S. Stocks Fall as Iran War Inflation Heats Up",
+     "url": "https://www.wsj.com/finance/stocks/u-s-stocks-fall-as-iran-war-inflation-heats-up-6f44ff44?mod=rss_markets_main",
+     "source": "WSJ",
+     "summary": "U.S. stocks fell after renewed hostilities between the U.S. and Iran near the Strait of Hormuz.",
+     "published": "2026-08-31T20:30:00+00:00",
+     "image": "https://images.wsj.net/im-25195144",
+     "kind": "article",
+     "id": "058bf04240d0f106",
+     "first_seen": "2026-08-31T20:44:32.290721+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
      "title": "Summit With Russia, India and Iran Shows Leverage Wars Have Given Xi of China",
      "url": "https://www.nytimes.com/2026/08/31/world/asia/putin-xi-modi-sco.html",
      "source": "New York Times",
@@ -115,22 +131,6 @@
      "kind": "article",
      "id": "7355d7f8134c6c43",
      "first_seen": "2026-08-31T18:24:37.843581+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "\u2018The Nest of Snakes\u2019: Warring Cartels Target Women in Mexico",
-     "url": "https://www.nytimes.com/2026/08/31/world/americas/warring-cartels-target-women-in-mexico.html",
-     "source": "New York Times",
-     "summary": "A two-year war between rival Sinaloa Cartel factions is driving a surge in killings and disappearances targeting women.",
-     "published": "2026-08-31T17:52:03+00:00",
-     "image": "https://static01.nyt.com/images/2026/08/27/multimedia/27int-mexico-women-promo-2/27int-mexico-women-khqb-mediumSquareAt3X.jpg",
-     "kind": "article",
-     "id": "6bbf32ffc02a3a34",
-     "first_seen": "2026-08-31T15:04:45.182905+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
@@ -227,16 +227,16 @@
    "more": 0,
    "items": [
     {
-     "title": "Merging Onto Memory Lane",
-     "url": "https://www.thisnicelife.com/p/merging-onto-memory-lane",
-     "source": "This Nice Life",
-     "summary": "A vehicle and a song can take you back in time.",
-     "published": "2026-08-22T12:02:05+00:00",
-     "image": "https://substackcdn.com/image/fetch/$s_!7Xdo!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2bf7c313-331a-4432-b729-81c08d305139_4032x2268.jpeg",
+     "title": "The wonderful world of motorcycle clothing",
+     "url": "https://www.permanentstyle.com/2026/08/the-wonderful-world-of-motorcycle-clothing.html",
+     "source": "Permanent Style",
+     "summary": "Non-technical motorbike clothing seems to me \u2013 a relative newcomer \u2013 to sit at a particularly enjoyable junction of menswear. This is primarily because if you ride, it is still ne\u2026",
+     "published": "2026-08-31T08:00:58+00:00",
+     "image": "https://www.permanentstyle.com/wp-content/uploads/2026/08/ADN6464-copy.jpg",
      "kind": "article",
-     "id": "06d3681b0771cc47",
-     "first_seen": "2026-08-22T13:43:58.125100+00:00",
-     "is_new": false,
+     "id": "194bcefdb6b4089a",
+     "first_seen": "2026-08-31T10:04:37.190049+00:00",
+     "is_new": true,
      "corroboration": 1,
      "also_in": [],
      "boosted": false,
@@ -293,7 +293,5 @@
    ]
   }
  ],
- "errors": [
-  "Permanent Style: RuntimeError \u2014 https://www.permanentstyle.com/feed \u2192 HTTP 415"
- ]
+ "errors": []
 }
