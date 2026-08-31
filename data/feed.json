@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-31T17:24:39.695860+00:00",
+ "generated_at": "2026-08-31T17:44:43.311682+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -122,15 +122,15 @@
      "score": 4
     },
     {
-     "title": "Wartime Presidents of Russia and Iran Rally With Chinese and Indian Leaders",
-     "url": "https://www.nytimes.com/2026/08/31/world/asia/putin-xi-modi-sco.html",
-     "source": "New York Times",
-     "summary": "The two-day summit of the 10-nation Shanghai Cooperation Organization in Kyrgyzstan shows the limits of U.S. economic warfare.",
-     "published": "2026-08-31T11:31:36+00:00",
-     "image": "https://static01.nyt.com/images/2026/08/31/multimedia/31int-putin-xi-05-lbjf/31int-putin-xi-05-lbjf-mediumSquareAt3X.jpg",
+     "title": "Weather tracker: Warm Yellow Sea strengthens storms in South Korea",
+     "url": "https://www.theguardian.com/environment/2026/aug/31/weather-tracker-warm-yellow-sea-storms-south-korea",
+     "source": "Guardian",
+     "summary": "More than 200mm of rain forecast in parts of South Korea, while parts of southern Europe to be 10C above averageSouth Korea\u2019s prime minister, Han Seong-sook, met officials to prep\u2026",
+     "published": "2026-08-31T07:57:24+00:00",
+     "image": "https://i.guim.co.uk/img/media/a01fb0bdfb85c31911654638acf6584dfe30b585/0_0_2908_2328/master/2908.jpg?width=140&quality=85&auto=format&fit=max&s=7fda738949f564065c9b9f6bbd5b0b68",
      "kind": "article",
-     "id": "c2178eff5967f768",
-     "first_seen": "2026-08-31T11:44:37.806064+00:00",
+     "id": "0b03184e4582f235",
+     "first_seen": "2026-08-31T10:04:37.190049+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
@@ -216,7 +216,32 @@
    "lead_image": false,
    "row_detail": false,
    "more": 0,
-   "items": []
+   "items": [
+    {
+     "title": "Black Top Field-Spec 90S Boxy Heavy Tee",
+     "url": "https://www.buckmason.com/products/black-top-field-spec-90s-boxy-heavy-tee",
+     "source": "Buck Mason",
+     "image": "https://cdn.shopify.com/s/files/1/0123/5065/2473/files/BM11202.549_FIELD-SPEC-90S-BOXY-HEAVY-TEE_BLACK-TOP_51491_1.jpg?v=1788197524",
+     "price": "$62",
+     "published": "2026-08-31T17:32:46+00:00",
+     "kind": "product",
+     "id": "3cdd49c550fce6f7",
+     "first_seen": "2026-08-31T17:44:43.311682+00:00",
+     "is_new": true
+    },
+    {
+     "title": "Heather Grey Field-Spec Rugby Crew",
+     "url": "https://www.buckmason.com/products/heather-grey-field-spec-rugby-crew",
+     "source": "Buck Mason",
+     "image": "https://cdn.shopify.com/s/files/1/0123/5065/2473/files/BM11125.583_FIELD-SPEC-RUGBY-CREW_HEATHER-GREY_57685_1.jpg?v=1788197307",
+     "price": "$108",
+     "published": "2026-08-31T17:29:07+00:00",
+     "kind": "product",
+     "id": "d19bd8e0455f1812",
+     "first_seen": "2026-08-31T17:44:43.311682+00:00",
+     "is_new": true
+    }
+   ]
   },
   {
    "id": "dispatches",
@@ -227,16 +252,16 @@
    "more": 0,
    "items": [
     {
-     "title": "Merging Onto Memory Lane",
-     "url": "https://www.thisnicelife.com/p/merging-onto-memory-lane",
-     "source": "This Nice Life",
-     "summary": "A vehicle and a song can take you back in time.",
-     "published": "2026-08-22T12:02:05+00:00",
-     "image": "https://substackcdn.com/image/fetch/$s_!7Xdo!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2bf7c313-331a-4432-b729-81c08d305139_4032x2268.jpeg",
+     "title": "The wonderful world of motorcycle clothing",
+     "url": "https://www.permanentstyle.com/2026/08/the-wonderful-world-of-motorcycle-clothing.html",
+     "source": "Permanent Style",
+     "summary": "Non-technical motorbike clothing seems to me \u2013 a relative newcomer \u2013 to sit at a particularly enjoyable junction of menswear. This is primarily because if you ride, it is still ne\u2026",
+     "published": "2026-08-31T08:00:58+00:00",
+     "image": "https://www.permanentstyle.com/wp-content/uploads/2026/08/ADN6464-copy.jpg",
      "kind": "article",
-     "id": "06d3681b0771cc47",
-     "first_seen": "2026-08-22T13:43:58.125100+00:00",
-     "is_new": false,
+     "id": "194bcefdb6b4089a",
+     "first_seen": "2026-08-31T10:04:37.190049+00:00",
+     "is_new": true,
      "corroboration": 1,
      "also_in": [],
      "boosted": false,
@@ -293,7 +318,5 @@
    ]
   }
  ],
- "errors": [
-  "Permanent Style: RuntimeError \u2014 https://www.permanentstyle.com/feed \u2192 HTTP 415"
- ]
+ "errors": []
 }
