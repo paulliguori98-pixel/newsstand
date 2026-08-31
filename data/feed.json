@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-31T19:04:29.818557+00:00",
+ "generated_at": "2026-08-31T19:24:43.224019+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -11,7 +11,7 @@
    "items": [
     {
      "title": "Partly Sunny",
-     "phrase": "Rain is near certain between 8pm and 7am.",
+     "phrase": "Rain is near certain between 12am and 8am.",
      "detail": "It reaches 79\u00b0 today and falls to 63\u00b0 overnight. The sun is up from 6:19 until 7:32.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
@@ -240,16 +240,16 @@
    "more": 0,
    "items": [
     {
-     "title": "The wonderful world of motorcycle clothing",
-     "url": "https://www.permanentstyle.com/2026/08/the-wonderful-world-of-motorcycle-clothing.html",
-     "source": "Permanent Style",
-     "summary": "Non-technical motorbike clothing seems to me \u2013 a relative newcomer \u2013 to sit at a particularly enjoyable junction of menswear. This is primarily because if you ride, it is still ne\u2026",
-     "published": "2026-08-31T08:00:58+00:00",
-     "image": "https://www.permanentstyle.com/wp-content/uploads/2026/08/ADN6464-copy.jpg",
+     "title": "Merging Onto Memory Lane",
+     "url": "https://www.thisnicelife.com/p/merging-onto-memory-lane",
+     "source": "This Nice Life",
+     "summary": "A vehicle and a song can take you back in time.",
+     "published": "2026-08-22T12:02:05+00:00",
+     "image": "https://substackcdn.com/image/fetch/$s_!7Xdo!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2bf7c313-331a-4432-b729-81c08d305139_4032x2268.jpeg",
      "kind": "article",
-     "id": "194bcefdb6b4089a",
-     "first_seen": "2026-08-31T10:04:37.190049+00:00",
-     "is_new": true,
+     "id": "06d3681b0771cc47",
+     "first_seen": "2026-08-22T13:43:58.125100+00:00",
+     "is_new": false,
      "corroboration": 1,
      "also_in": [],
      "boosted": false,
@@ -306,5 +306,7 @@
    ]
   }
  ],
- "errors": []
+ "errors": [
+  "Permanent Style: RuntimeError \u2014 https://www.permanentstyle.com/feed \u2192 HTTP 415"
+ ]
 }
