@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-31T14:04:59.714007+00:00",
+ "generated_at": "2026-08-31T14:24:57.358110+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -74,6 +74,22 @@
    "more": 0,
    "items": [
     {
+     "title": "G20 Finance Officials Gather in U.S. as Iran War Grips Global Economy",
+     "url": "https://www.nytimes.com/2026/08/31/business/g20-finance-iran-bessent.html",
+     "source": "New York Times",
+     "summary": "The meeting, which China and Russia are attending, is focused on the ongoing economic shock from the war in Iran, which has driven up oil prices globally.",
+     "published": "2026-08-31T14:19:50+00:00",
+     "image": "https://static01.nyt.com/images/2026/08/31/multimedia/31dc-g20-lktm/31dc-g20-lktm-mediumSquareAt3X-v2.jpg",
+     "kind": "article",
+     "id": "103eb7f8acbb6734",
+     "first_seen": "2026-08-31T10:04:37.190049+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
      "title": "Wartime Presidents of Russia and Iran Rally With Chinese and Indian Leaders",
      "url": "https://www.nytimes.com/2026/08/31/world/asia/putin-xi-modi-sco.html",
      "source": "New York Times",
@@ -99,22 +115,6 @@
      "kind": "article",
      "id": "8ec6e4a140fa585a",
      "first_seen": "2026-08-31T10:24:33.290012+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "G20 Finance Officials Gather in U.S. as Iran War Grips Global Economy",
-     "url": "https://www.nytimes.com/2026/08/31/business/g20-finance-iran-bessent.html",
-     "source": "New York Times",
-     "summary": "The meeting is expected to focus on the ongoing economic shock from the war in Iran, which has driven up oil prices globally.",
-     "published": "2026-08-31T09:09:44+00:00",
-     "image": "https://static01.nyt.com/images/2026/08/31/multimedia/31dc-g20-lktm/31dc-g20-lktm-mediumSquareAt3X-v2.jpg",
-     "kind": "article",
-     "id": "103eb7f8acbb6734",
-     "first_seen": "2026-08-31T10:04:37.190049+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
