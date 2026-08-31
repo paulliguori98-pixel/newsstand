@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-31T10:44:45.888388+00:00",
+ "generated_at": "2026-08-31T11:04:43.961805+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -11,11 +11,11 @@
    "items": [
     {
      "title": "Patchy Fog",
-     "phrase": "Rain is likely between 8pm and 11pm.",
+     "phrase": "Rain is likely between 8pm and 12am.",
      "detail": "It reaches 79\u00b0 today and falls to 62\u00b0 overnight. The sun is up from 6:19 until 7:32.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 56,
+     "temp": 59,
      "high": 79,
      "low": 62,
      "sunrise": "6:19",
@@ -148,15 +148,15 @@
    "more": 0,
    "items": [
     {
-     "title": "Making a Robot to Serve Some Mean Badminton Shuttlecocks",
-     "url": "https://hackaday.com/2026/08/30/making-a-robot-to-serve-some-mean-badminton-shuttlecocks/",
+     "title": "Digital \u201cFilm\u201d For Your Pi Camera",
+     "url": "https://hackaday.com/2026/08/31/digital-film-for-your-pi-camera/",
      "source": "Hackaday",
-     "summary": "Sometimes regarded as a less violent form of tennis, badminton is still a pretty challenging sport. One which suffers like so many sports from requiring at least two players since\u2026",
-     "published": "2026-08-31T05:00:50+00:00",
-     "image": "https://hackaday.com/wp-content/uploads/2026/08/badminton_robot_travis_mitchell_youtube.jpg",
+     "summary": "The formula of a Raspberry Pi camera is such that it\u2019s almost a self-assembly kit of parts. Over the years we\u2019ve seen a lot of attempts to make one that\u2019s \u2026read more",
+     "published": "2026-08-31T11:00:57+00:00",
+     "image": "https://hackaday.com/wp-content/uploads/2026/08/pi-epaper-featured.jpg",
      "kind": "article",
-     "id": "03a1a56bffdffe13",
-     "first_seen": "2026-08-31T10:04:37.190049+00:00",
+     "id": "4179e23134c02200",
+     "first_seen": "2026-08-31T11:04:43.961805+00:00",
      "is_new": true
     },
     {
