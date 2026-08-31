@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-31T18:24:37.843581+00:00",
+ "generated_at": "2026-08-31T18:44:40.246074+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -12,12 +12,12 @@
     {
      "title": "Partly Sunny",
      "phrase": "Rain is near certain between 8pm and 7am.",
-     "detail": "It reaches 79\u00b0 today and falls to 62\u00b0 overnight. The sun is up from 6:19 until 7:32.",
+     "detail": "It reaches 79\u00b0 today and falls to 63\u00b0 overnight. The sun is up from 6:19 until 7:32.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
      "temp": 78,
      "high": 79,
-     "low": 62,
+     "low": 63,
      "sunrise": "6:19",
      "sunset": "7:32",
      "id": "bb806d72c86dcec1",
@@ -74,6 +74,38 @@
    "more": 0,
    "items": [
     {
+     "title": "Westinghouse Electric Wants to Ride a Nuclear Power Revival to an IPO",
+     "url": "https://www.wsj.com/business/energy-oil/westinghouse-electric-wants-to-ride-a-nuclear-power-revival-to-an-ipo-9ad2b196?mod=rss_markets_main",
+     "source": "WSJ",
+     "summary": "The company has a powerful ally with an incentive to see it grow: the U.S. government.",
+     "published": "2026-08-31T18:35:00+00:00",
+     "image": "https://images.wsj.net/im-63713087",
+     "kind": "article",
+     "id": "91ea408a708a2841",
+     "first_seen": "2026-08-31T18:44:40.246074+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
+     "title": "Summit With Russia, India and Iran Shows Leverage Wars Have Given Xi of China",
+     "url": "https://www.nytimes.com/2026/08/31/world/asia/putin-xi-modi-sco.html",
+     "source": "New York Times",
+     "summary": "A two-day conference of the 10-nation Shanghai Cooperation Organization in Kyrgyzstan shows the limits of U.S. economic warfare.",
+     "published": "2026-08-31T18:30:02+00:00",
+     "image": "https://static01.nyt.com/images/2026/08/31/multimedia/31int-xi-1-kjfb/31int-xi-1-kjfb-mediumSquareAt3X.jpg",
+     "kind": "article",
+     "id": "c2178eff5967f768",
+     "first_seen": "2026-08-31T11:44:37.806064+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
      "title": "Trump weighing limited strikes against Iran to curb Hormuz attacks",
      "url": "https://www.axios.com/2026/08/31/trump-iran-war-hormuz-hegseth-centcom",
      "source": "Axios",
@@ -104,38 +136,6 @@
      "also_in": [],
      "boosted": true,
      "score": 4
-    },
-    {
-     "title": "Company offering reward for safe return of truckload of beer",
-     "url": "https://www.bbc.co.uk/news/articles/c780wzj86pno?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "summary": "Police say a thief presented false documentation at a California distribution centre before driving off with the shipment.",
-     "published": "2026-08-31T16:32:59+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a920/live/974712e0-a545-11f1-8689-6589354d0f8e.jpg",
-     "kind": "article",
-     "id": "1e8ba7036ebac1f4",
-     "first_seen": "2026-08-31T17:24:39.695860+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "This Marine Died in the Iraq War. His Mother Asks, \u2018What Was It For?\u2019",
-     "url": "https://www.nytimes.com/2026/08/31/us/politics/iraq-war-marine-death.html",
-     "source": "New York Times",
-     "summary": "Travis Fuller was from my hometown. I went back and talked with his family about how they made sense of his death, 25 years after Sept. 11.",
-     "published": "2026-08-31T15:45:12+00:00",
-     "image": "https://static01.nyt.com/images/2026/08/27/multimedia/00nat-911-death-kfht/00nat-911-death-kfht-mediumSquareAt3X.jpg",
-     "kind": "article",
-     "id": "16b6c7b916f1ce32",
-     "first_seen": "2026-08-31T16:04:45.543516+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
     }
    ]
   },
@@ -148,15 +148,15 @@
    "more": 0,
    "items": [
     {
-     "title": "USB-C Adapted for Legacy Sprinkler Systems",
-     "url": "https://hackaday.com/2026/08/31/usb-c-adapted-for-legacy-sprinkler-systems/",
+     "title": "Simulating UAVs In Unreal Engine",
+     "url": "https://hackaday.com/2026/08/31/simulating-uavs-in-unreal-engine/",
      "source": "Hackaday",
-     "summary": "In the modern world USB has become a truly universal connector, with its inclusion on almost every major piece of consumer electronics. It has even expanded well beyond things tha\u2026",
-     "published": "2026-08-31T15:30:16+00:00",
-     "image": "https://hackaday.com/wp-content/uploads/2026/08/usb-sprinkler-main.jpg",
+     "summary": "When it comes to building real-world flying vehicles, testing can be arduous and expensive. You have to find somewhere to fly, then you have to contend with environmental conditio\u2026",
+     "published": "2026-08-31T18:30:12+00:00",
+     "image": "https://hackaday.com/wp-content/uploads/2026/08/PteroSim-v0.1.0-release-0-7-screenshot-1.png",
      "kind": "article",
-     "id": "df33b4d886a7d939",
-     "first_seen": "2026-08-31T15:44:22.278800+00:00",
+     "id": "786c222949eb746f",
+     "first_seen": "2026-08-31T18:44:40.246074+00:00",
      "is_new": true
     },
     {
