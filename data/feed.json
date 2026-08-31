@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-31T12:44:31.564672+00:00",
+ "generated_at": "2026-08-31T13:04:50.241126+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,12 +10,12 @@
    "more": 0,
    "items": [
     {
-     "title": "Patchy Fog",
-     "phrase": "Rain is likely between 8pm and 1am.",
+     "title": "Partly Sunny",
+     "phrase": "Rain is likely between 8pm and 2am.",
      "detail": "It reaches 79\u00b0 today and falls to 62\u00b0 overnight. The sun is up from 6:19 until 7:32.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 61,
+     "temp": 66,
      "high": 79,
      "low": 62,
      "sunrise": "6:19",
