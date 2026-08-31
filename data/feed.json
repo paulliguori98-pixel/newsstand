@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-31T15:04:45.182905+00:00",
+ "generated_at": "2026-08-31T15:24:29.252826+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -74,22 +74,6 @@
    "more": 0,
    "items": [
     {
-     "title": "'She slipped out of my hand' - couple's children missing after ferry capsizes",
-     "url": "https://www.bbc.co.uk/news/articles/c1mv5ggg1l8o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "summary": "Ayten and Hayri Bicer's two young children are among 20 missing in an incident that killed eight.",
-     "published": "2026-08-31T14:50:36+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78e7/live/97d65330-a548-11f1-8689-6589354d0f8e.png",
-     "kind": "article",
-     "id": "8b8dbefcc48a94fe",
-     "first_seen": "2026-08-31T11:44:37.806064+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
      "title": "Warring Cartels Target Women in Mexico",
      "url": "https://www.nytimes.com/2026/08/31/world/americas/warring-cartels-target-women-in-mexico.html",
      "source": "New York Times",
@@ -131,6 +115,22 @@
      "kind": "article",
      "id": "8ec6e4a140fa585a",
      "first_seen": "2026-08-31T10:24:33.290012+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
+     "title": "He Warned That the End of History Could Be Rough. Maybe Now People Will Listen.",
+     "url": "https://www.nytimes.com/2026/08/31/books/review/francis-fukuyama-in-the-realm-of-the-last-man-end-of-history.html",
+     "source": "New York Times",
+     "summary": "Francis Fukuyama\u2019s famous take on the post-Cold War world was widely misunderstood. In a new memoir, he tries to set the record straight.",
+     "published": "2026-08-31T09:00:27+00:00",
+     "image": "https://static01.nyt.com/images/2026/08/07/multimedia/00TBR-Fukuyama-01-fbkj/00TBR-Fukuyama-01-fbkj-mediumSquareAt3X.jpg",
+     "kind": "article",
+     "id": "247ec8e094cbd5b3",
+     "first_seen": "2026-08-31T10:04:37.190049+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
