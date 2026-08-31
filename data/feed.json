@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-31T22:04:40.833994+00:00",
+ "generated_at": "2026-08-31T22:24:32.001834+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -74,6 +74,22 @@
    "more": 0,
    "items": [
     {
+     "title": "\u2018The Nest of Snakes\u2019: Warring Cartels Target Women in Mexico",
+     "url": "https://www.nytimes.com/2026/08/31/world/americas/warring-cartels-target-women-in-mexico.html",
+     "source": "New York Times",
+     "summary": "A two-year war between rival Sinaloa Cartel factions is driving a surge in killings and disappearances targeting women.",
+     "published": "2026-08-31T22:12:27+00:00",
+     "image": "https://static01.nyt.com/images/2026/08/27/multimedia/27int-mexico-women-promo-2/27int-mexico-women-khqb-mediumSquareAt3X.jpg",
+     "kind": "article",
+     "id": "6bbf32ffc02a3a34",
+     "first_seen": "2026-08-31T15:04:45.182905+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
      "title": "U.S. Stocks Fall as Iran War Inflation Heats Up",
      "url": "https://www.wsj.com/finance/stocks/u-s-stocks-fall-as-iran-war-inflation-heats-up-6f44ff44?mod=rss_markets_main",
      "source": "WSJ",
@@ -115,22 +131,6 @@
      "kind": "article",
      "id": "c2178eff5967f768",
      "first_seen": "2026-08-31T11:44:37.806064+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "Westinghouse Electric Wants to Ride a Nuclear Power Revival to an IPO",
-     "url": "https://www.wsj.com/business/energy-oil/westinghouse-electric-wants-to-ride-a-nuclear-power-revival-to-an-ipo-9ad2b196?mod=rss_markets_main",
-     "source": "WSJ",
-     "summary": "The company has a powerful ally with an incentive to see it grow: the U.S. government.",
-     "published": "2026-08-31T18:35:00+00:00",
-     "image": "https://images.wsj.net/im-63713087",
-     "kind": "article",
-     "id": "91ea408a708a2841",
-     "first_seen": "2026-08-31T18:44:40.246074+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
@@ -216,20 +216,7 @@
    "lead_image": false,
    "row_detail": false,
    "more": 0,
-   "items": [
-    {
-     "title": "Golden Wheat Pima Curved Hem Tee",
-     "url": "https://www.buckmason.com/products/golden-wheat-pima-curved-hem-tee",
-     "source": "Buck Mason",
-     "image": "https://cdn.shopify.com/s/files/1/0123/5065/2473/files/BM11007.101_PIMA-CURVED-HEM-TEE_GOLDEN-WHEAT_53730_1.jpg?v=1788209822",
-     "price": "$48",
-     "published": "2026-08-31T20:58:10+00:00",
-     "kind": "product",
-     "id": "e7f4a94f50c6b892",
-     "first_seen": "2026-08-31T21:04:37.741442+00:00",
-     "is_new": true
-    }
-   ]
+   "items": []
   },
   {
    "id": "dispatches",
