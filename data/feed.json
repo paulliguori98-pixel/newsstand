@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-31T22:24:32.001834+00:00",
+ "generated_at": "2026-08-31T22:44:19.638140+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,12 +10,12 @@
    "more": 0,
    "items": [
     {
-     "title": "Partly Sunny",
-     "phrase": "Rain is near certain between 12am and 10am.",
+     "title": "Mostly Cloudy",
+     "phrase": "Rain is near certain between 12am and 11am.",
      "detail": "It reaches 71\u00b0 today and falls to 63\u00b0 overnight. The sun is up from 6:19 until 7:32.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 78,
+     "temp": 76,
      "high": 71,
      "low": 63,
      "sunrise": "6:19",
@@ -74,6 +74,42 @@
    "more": 0,
    "items": [
     {
+     "title": "Army Secretary Dan Driscoll resigns from post",
+     "url": "https://www.axios.com/2026/08/31/hegseth-dan-driscoll-trump-administration",
+     "source": "Axios",
+     "summary": "U.S. Army Secretary Dan Driscoll is stepping down from his post, according to multiple reports.Why it matters: Driscoll, the youngest Army secretary in U.S. history, was well-like\u2026",
+     "published": "2026-08-31T22:38:40+00:00",
+     "image": "https://images.axios.com/0mQG4Rb0Hre0mL7xri4n0TIOWkw=/0x51:7503x4271/1366x768/2026/04/03/1775179762271.jpeg",
+     "kind": "article",
+     "id": "ac06ed822e95badb",
+     "first_seen": "2026-08-31T22:44:19.638140+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
+     "title": "US Supreme Court clears way for Trump to keep building White House ballroom",
+     "url": "https://www.bbc.co.uk/news/articles/c9w457e7ydlo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "summary": "But Chief Justice John Roberts dissents, writing that \"construction is likely unlawful\".",
+     "published": "2026-08-31T22:38:24+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ead3/live/f03f27e0-a57a-11f1-9648-5fefd339ae88.jpg",
+     "kind": "article",
+     "id": "08f45c7b66fd4ded",
+     "first_seen": "2026-08-31T20:44:32.290721+00:00",
+     "is_new": true,
+     "corroboration": 4,
+     "also_in": [
+      "Axios",
+      "New York Times",
+      "WSJ"
+     ],
+     "boosted": false,
+     "score": 4
+    },
+    {
      "title": "\u2018The Nest of Snakes\u2019: Warring Cartels Target Women in Mexico",
      "url": "https://www.nytimes.com/2026/08/31/world/americas/warring-cartels-target-women-in-mexico.html",
      "source": "New York Times",
@@ -99,38 +135,6 @@
      "kind": "article",
      "id": "058bf04240d0f106",
      "first_seen": "2026-08-31T20:44:32.290721+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "Stocks Decline to End August as War Fears Persist",
-     "url": "https://www.wsj.com/finance/stocks/stocks-decline-to-end-august-as-war-fears-persist-4388a594?mod=rss_markets_main",
-     "source": "WSJ",
-     "summary": "Oil prices rise with new fighting reported in the Strait of Hormuz,",
-     "published": "2026-08-31T21:02:00+00:00",
-     "image": "https://images.wsj.net/im-67727943",
-     "kind": "article",
-     "id": "650979d77a662e7f",
-     "first_seen": "2026-08-31T21:44:21.555420+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "Summit With Russia, India and Iran Shows Leverage Wars Have Given Xi of China",
-     "url": "https://www.nytimes.com/2026/08/31/world/asia/putin-xi-modi-sco.html",
-     "source": "New York Times",
-     "summary": "A two-day conference of the 10-nation Shanghai Cooperation Organization in Kyrgyzstan shows the limits of U.S. economic warfare.",
-     "published": "2026-08-31T20:11:10+00:00",
-     "image": "https://static01.nyt.com/images/2026/08/31/multimedia/31int-xi-1-kjfb/31int-xi-1-kjfb-mediumSquareAt3X-v2.jpg",
-     "kind": "article",
-     "id": "c2178eff5967f768",
-     "first_seen": "2026-08-31T11:44:37.806064+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
