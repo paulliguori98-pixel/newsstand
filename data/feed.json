@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-31T17:44:43.311682+00:00",
+ "generated_at": "2026-08-31T18:04:57.351474+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,12 +10,12 @@
    "more": 0,
    "items": [
     {
-     "title": "Mostly Sunny",
-     "phrase": "Rain is near certain between 8pm and 6am.",
+     "title": "Partly Sunny",
+     "phrase": "Rain is near certain between 8pm and 7am.",
      "detail": "It reaches 79\u00b0 today and falls to 62\u00b0 overnight. The sun is up from 6:19 until 7:32.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 77,
+     "temp": 78,
      "high": 79,
      "low": 62,
      "sunrise": "6:19",
@@ -74,6 +74,22 @@
    "more": 0,
    "items": [
     {
+     "title": "\u2018The Nest of Snakes\u2019: Warring Cartels Target Women in Mexico",
+     "url": "https://www.nytimes.com/2026/08/31/world/americas/warring-cartels-target-women-in-mexico.html",
+     "source": "New York Times",
+     "summary": "A two-year war between rival Sinaloa Cartel factions is driving a surge in killings and disappearances targeting women.",
+     "published": "2026-08-31T17:52:03+00:00",
+     "image": "https://static01.nyt.com/images/2026/08/27/multimedia/27int-mexico-women-promo-2/27int-mexico-women-khqb-mediumSquareAt3X.jpg",
+     "kind": "article",
+     "id": "6bbf32ffc02a3a34",
+     "first_seen": "2026-08-31T15:04:45.182905+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
      "title": "Company offering reward for safe return of truckload of beer",
      "url": "https://www.bbc.co.uk/news/articles/c780wzj86pno?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
@@ -99,22 +115,6 @@
      "kind": "article",
      "id": "16b6c7b916f1ce32",
      "first_seen": "2026-08-31T16:04:45.543516+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "\u2018The Nest of Snakes\u2019: Warring Cartels Target Women in Mexico",
-     "url": "https://www.nytimes.com/2026/08/31/world/americas/warring-cartels-target-women-in-mexico.html",
-     "source": "New York Times",
-     "summary": "A two-year war between rival Sinaloa Cartel factions is driving a surge in killings and disappearances targeting women.",
-     "published": "2026-08-31T15:34:29+00:00",
-     "image": "https://static01.nyt.com/images/2026/08/27/multimedia/27int-mexico-women-promo-2/27int-mexico-women-khqb-mediumSquareAt3X.jpg",
-     "kind": "article",
-     "id": "6bbf32ffc02a3a34",
-     "first_seen": "2026-08-31T15:04:45.182905+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
@@ -216,32 +216,7 @@
    "lead_image": false,
    "row_detail": false,
    "more": 0,
-   "items": [
-    {
-     "title": "Black Top Field-Spec 90S Boxy Heavy Tee",
-     "url": "https://www.buckmason.com/products/black-top-field-spec-90s-boxy-heavy-tee",
-     "source": "Buck Mason",
-     "image": "https://cdn.shopify.com/s/files/1/0123/5065/2473/files/BM11202.549_FIELD-SPEC-90S-BOXY-HEAVY-TEE_BLACK-TOP_51491_1.jpg?v=1788197524",
-     "price": "$62",
-     "published": "2026-08-31T17:32:46+00:00",
-     "kind": "product",
-     "id": "3cdd49c550fce6f7",
-     "first_seen": "2026-08-31T17:44:43.311682+00:00",
-     "is_new": true
-    },
-    {
-     "title": "Heather Grey Field-Spec Rugby Crew",
-     "url": "https://www.buckmason.com/products/heather-grey-field-spec-rugby-crew",
-     "source": "Buck Mason",
-     "image": "https://cdn.shopify.com/s/files/1/0123/5065/2473/files/BM11125.583_FIELD-SPEC-RUGBY-CREW_HEATHER-GREY_57685_1.jpg?v=1788197307",
-     "price": "$108",
-     "published": "2026-08-31T17:29:07+00:00",
-     "kind": "product",
-     "id": "d19bd8e0455f1812",
-     "first_seen": "2026-08-31T17:44:43.311682+00:00",
-     "is_new": true
-    }
-   ]
+   "items": []
   },
   {
    "id": "dispatches",
