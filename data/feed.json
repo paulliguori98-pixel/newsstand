@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-31T22:44:19.638140+00:00",
+ "generated_at": "2026-08-31T23:04:33.049656+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -11,11 +11,11 @@
    "items": [
     {
      "title": "Mostly Cloudy",
-     "phrase": "Rain is near certain between 12am and 11am.",
+     "phrase": "Rain is near certain between 12am and 12pm.",
      "detail": "It reaches 71\u00b0 today and falls to 63\u00b0 overnight. The sun is up from 6:19 until 7:32.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 76,
+     "temp": 74,
      "high": 71,
      "low": 63,
      "sunrise": "6:19",
@@ -74,15 +74,15 @@
    "more": 0,
    "items": [
     {
-     "title": "Army Secretary Dan Driscoll resigns from post",
-     "url": "https://www.axios.com/2026/08/31/hegseth-dan-driscoll-trump-administration",
-     "source": "Axios",
-     "summary": "U.S. Army Secretary Dan Driscoll is stepping down from his post, according to multiple reports.Why it matters: Driscoll, the youngest Army secretary in U.S. history, was well-like\u2026",
-     "published": "2026-08-31T22:38:40+00:00",
-     "image": "https://images.axios.com/0mQG4Rb0Hre0mL7xri4n0TIOWkw=/0x51:7503x4271/1366x768/2026/04/03/1775179762271.jpeg",
+     "title": "Australia news live: NSW confirms new HSC assessment rules to crack down on AI use; Sydney man killed in home invasion",
+     "url": "https://www.theguardian.com/australia-news/live/2026/sep/01/nepal-tibet-flooding-missing-australians-penny-wong-anthony-albanese-pacific-islands-forum-liberal-national-coalition-one-nation-politics-reactions-ntwnfb",
+     "source": "Guardian",
+     "summary": "Follow updates liveGet our breaking news email, free app or daily news podcast43 Australians still missing, with concerns growing \u2018every day, every hour\u2019 that goes by, Wong saysTh\u2026",
+     "published": "2026-08-31T22:42:30+00:00",
+     "image": "https://i.guim.co.uk/img/media/f9b053734ec55adf7950968da36041ad7706f546/195_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=cb4135a6b551d46ce0724e2c64bd319b",
      "kind": "article",
-     "id": "ac06ed822e95badb",
-     "first_seen": "2026-08-31T22:44:19.638140+00:00",
+     "id": "8bce93a407b2ee1c",
+     "first_seen": "2026-08-31T21:24:47.026798+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
@@ -90,35 +90,15 @@
      "score": 4
     },
     {
-     "title": "US Supreme Court clears way for Trump to keep building White House ballroom",
-     "url": "https://www.bbc.co.uk/news/articles/c9w457e7ydlo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "summary": "But Chief Justice John Roberts dissents, writing that \"construction is likely unlawful\".",
-     "published": "2026-08-31T22:38:24+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ead3/live/f03f27e0-a57a-11f1-9648-5fefd339ae88.jpg",
+     "title": "Army Secretary Dan Driscoll resigns from post",
+     "url": "https://www.axios.com/2026/08/31/hegseth-dan-driscoll-trump-administration",
+     "source": "Axios",
+     "summary": "U.S. Army Secretary Dan Driscoll is stepping down from his post, according to a Department of Defense official.Why it matters: Driscoll, the youngest Army secretary in U.S. histor\u2026",
+     "published": "2026-08-31T22:38:40+00:00",
+     "image": "https://images.axios.com/0mQG4Rb0Hre0mL7xri4n0TIOWkw=/0x51:7503x4271/1366x768/2026/04/03/1775179762271.jpeg",
      "kind": "article",
-     "id": "08f45c7b66fd4ded",
-     "first_seen": "2026-08-31T20:44:32.290721+00:00",
-     "is_new": true,
-     "corroboration": 4,
-     "also_in": [
-      "Axios",
-      "New York Times",
-      "WSJ"
-     ],
-     "boosted": false,
-     "score": 4
-    },
-    {
-     "title": "\u2018The Nest of Snakes\u2019: Warring Cartels Target Women in Mexico",
-     "url": "https://www.nytimes.com/2026/08/31/world/americas/warring-cartels-target-women-in-mexico.html",
-     "source": "New York Times",
-     "summary": "A two-year war between rival Sinaloa Cartel factions is driving a surge in killings and disappearances targeting women.",
-     "published": "2026-08-31T22:12:27+00:00",
-     "image": "https://static01.nyt.com/images/2026/08/27/multimedia/27int-mexico-women-promo-2/27int-mexico-women-khqb-mediumSquareAt3X.jpg",
-     "kind": "article",
-     "id": "6bbf32ffc02a3a34",
-     "first_seen": "2026-08-31T15:04:45.182905+00:00",
+     "id": "ac06ed822e95badb",
+     "first_seen": "2026-08-31T22:44:19.638140+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
@@ -140,6 +120,22 @@
      "also_in": [],
      "boosted": true,
      "score": 4
+    },
+    {
+     "title": "Stocks Decline to End August as War Fears Persist",
+     "url": "https://www.wsj.com/finance/stocks/stocks-decline-to-end-august-as-war-fears-persist-4388a594?mod=rss_markets_main",
+     "source": "WSJ",
+     "summary": "Oil prices rise with new fighting reported in the Strait of Hormuz,",
+     "published": "2026-08-31T21:02:00+00:00",
+     "image": "https://images.wsj.net/im-67727943",
+     "kind": "article",
+     "id": "650979d77a662e7f",
+     "first_seen": "2026-08-31T21:44:21.555420+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
     }
    ]
   },
@@ -152,15 +148,15 @@
    "more": 0,
    "items": [
     {
-     "title": "Building An Energy-Harvesting Business Card",
-     "url": "https://hackaday.com/2026/08/31/building-an-energy-harvesting-business-card/",
+     "title": "Fixing an Expensive Amprobe Cable Tracer With Mystery Fault",
+     "url": "https://hackaday.com/2026/08/31/fixing-an-expensive-amprobe-cable-tracer-with-mystery-fault/",
      "source": "Hackaday",
-     "summary": "The hope is always that a good business card will leave a good impression. For those in the electronics field, they also serve as an opportunity to showcase creative design \u2026read \u2026",
-     "published": "2026-08-31T20:00:22+00:00",
-     "image": "https://hackaday.com/wp-content/uploads/2026/08/hero-1400-e1788134770224.webp",
+     "summary": "Perhaps the most annoying kinds of faults are those that involve expensive equipment that just sit around in a cupboard, only for them to just stop working at all. Such \u2026read more",
+     "published": "2026-08-31T23:00:22+00:00",
+     "image": "https://hackaday.com/wp-content/uploads/2026/08/amprobe_cable_tracer_kit_buy_it_fix_it_youtube.jpg",
      "kind": "article",
-     "id": "99ccb16d4a1fbdf4",
-     "first_seen": "2026-08-31T20:04:45.439030+00:00",
+     "id": "525a9994c46b7f6f",
+     "first_seen": "2026-08-31T23:04:33.049656+00:00",
      "is_new": true
     },
     {
