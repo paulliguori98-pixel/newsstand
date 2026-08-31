@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-31T18:04:57.351474+00:00",
+ "generated_at": "2026-08-31T18:24:37.843581+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -74,6 +74,22 @@
    "more": 0,
    "items": [
     {
+     "title": "Trump weighing limited strikes against Iran to curb Hormuz attacks",
+     "url": "https://www.axios.com/2026/08/31/trump-iran-war-hormuz-hegseth-centcom",
+     "source": "Axios",
+     "summary": "President Trump and his senior aides have been considering waging limited strikes in the Strait of Hormuz to prevent Iran from reconstituting its radar and missile capabilities to\u2026",
+     "published": "2026-08-31T18:12:12+00:00",
+     "image": "https://images.axios.com/DqPGlAYVSb_kkaaUoVouBhhGy4c=/0x0:1920x1080/1366x768/2026/08/17/1786995611264.jpeg",
+     "kind": "article",
+     "id": "7355d7f8134c6c43",
+     "first_seen": "2026-08-31T18:24:37.843581+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
      "title": "\u2018The Nest of Snakes\u2019: Warring Cartels Target Women in Mexico",
      "url": "https://www.nytimes.com/2026/08/31/world/americas/warring-cartels-target-women-in-mexico.html",
      "source": "New York Times",
@@ -115,22 +131,6 @@
      "kind": "article",
      "id": "16b6c7b916f1ce32",
      "first_seen": "2026-08-31T16:04:45.543516+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "Weather tracker: Warm Yellow Sea strengthens storms in South Korea",
-     "url": "https://www.theguardian.com/environment/2026/aug/31/weather-tracker-warm-yellow-sea-storms-south-korea",
-     "source": "Guardian",
-     "summary": "More than 200mm of rain forecast in parts of South Korea, while parts of southern Europe to be 10C above averageSouth Korea\u2019s prime minister, Han Seong-sook, met officials to prep\u2026",
-     "published": "2026-08-31T07:57:24+00:00",
-     "image": "https://i.guim.co.uk/img/media/a01fb0bdfb85c31911654638acf6584dfe30b585/0_0_2908_2328/master/2908.jpg?width=140&quality=85&auto=format&fit=max&s=7fda738949f564065c9b9f6bbd5b0b68",
-     "kind": "article",
-     "id": "0b03184e4582f235",
-     "first_seen": "2026-08-31T10:04:37.190049+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
