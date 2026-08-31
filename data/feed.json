@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-31T15:44:22.278800+00:00",
+ "generated_at": "2026-08-31T16:04:45.543516+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -11,11 +11,11 @@
    "items": [
     {
      "title": "Mostly Sunny",
-     "phrase": "Rain is near certain between 8pm and 4am.",
+     "phrase": "Rain is near certain between 8pm and 5am.",
      "detail": "It reaches 79\u00b0 today and falls to 62\u00b0 overnight. The sun is up from 6:19 until 7:32.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 72,
+     "temp": 75,
      "high": 79,
      "low": 62,
      "sunrise": "6:19",
@@ -74,6 +74,22 @@
    "more": 0,
    "items": [
     {
+     "title": "This Marine Died in the Iraq War. His Mother Asks, \u2018What Was It For?\u2019",
+     "url": "https://www.nytimes.com/2026/08/31/us/politics/iraq-war-marine-death.html",
+     "source": "New York Times",
+     "summary": "Travis Fuller was from my hometown. I went back and talked with his family about how they made sense of his death, 25 years after Sept. 11.",
+     "published": "2026-08-31T15:45:12+00:00",
+     "image": "https://static01.nyt.com/images/2026/08/27/multimedia/00nat-911-death-kfht/00nat-911-death-kfht-mediumSquareAt3X.jpg",
+     "kind": "article",
+     "id": "16b6c7b916f1ce32",
+     "first_seen": "2026-08-31T16:04:45.543516+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
      "title": "Nonstop Russian Drones Make for Dangerous New Phase of War in Kyiv",
      "url": "https://www.nytimes.com/2026/08/31/world/europe/ukraine-kyiv-drones-russia-sirens.html",
      "source": "New York Times",
@@ -115,22 +131,6 @@
      "kind": "article",
      "id": "c2178eff5967f768",
      "first_seen": "2026-08-31T11:44:37.806064+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "He Warned That the End of History Could Be Rough. Maybe Now People Will Listen.",
-     "url": "https://www.nytimes.com/2026/08/31/books/review/francis-fukuyama-in-the-realm-of-the-last-man-end-of-history.html",
-     "source": "New York Times",
-     "summary": "Francis Fukuyama\u2019s famous take on the post-Cold War world was widely misunderstood. In a new memoir, he tries to set the record straight.",
-     "published": "2026-08-31T09:00:27+00:00",
-     "image": "https://static01.nyt.com/images/2026/08/07/multimedia/00TBR-Fukuyama-01-fbkj/00TBR-Fukuyama-01-fbkj-mediumSquareAt3X.jpg",
-     "kind": "article",
-     "id": "247ec8e094cbd5b3",
-     "first_seen": "2026-08-31T10:04:37.190049+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
