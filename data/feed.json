@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-31T11:24:40.647727+00:00",
+ "generated_at": "2026-08-31T11:44:37.806064+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -74,6 +74,22 @@
    "more": 0,
    "items": [
     {
+     "title": "Wartime Presidents of Russia and Iran Rally With Chinese and Indian Leaders",
+     "url": "https://www.nytimes.com/2026/08/31/world/asia/putin-xi-modi-sco.html",
+     "source": "New York Times",
+     "summary": "The two-day summit of the 10-nation Shanghai Cooperation Organization in Kyrgyzstan shows the limits of U.S. economic warfare.",
+     "published": "2026-08-31T11:31:35+00:00",
+     "image": "https://static01.nyt.com/images/2026/08/31/multimedia/31int-putin-xi-05-lbjf/31int-putin-xi-05-lbjf-mediumSquareAt3X.jpg",
+     "kind": "article",
+     "id": "c2178eff5967f768",
+     "first_seen": "2026-08-31T11:44:37.806064+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
      "title": "Nonstop Russian Drones Make for Dangerous New Phase of War in Kyiv",
      "url": "https://www.nytimes.com/2026/08/31/world/europe/ukraine-kyiv-drones-russia-sirens.html",
      "source": "New York Times",
@@ -114,22 +130,6 @@
      "image": "https://static01.nyt.com/images/2026/08/07/multimedia/00TBR-Fukuyama-01-fbkj/00TBR-Fukuyama-01-fbkj-mediumSquareAt3X.jpg",
      "kind": "article",
      "id": "247ec8e094cbd5b3",
-     "first_seen": "2026-08-31T10:04:37.190049+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "U.S. Stock Futures Little Changed as Markets Weigh Warsh\u2019s Hawkish Remarks",
-     "url": "https://www.wsj.com/finance/investing/u-s-stock-futures-little-changed-as-markets-weigh-warshs-hawkish-remarks-5a036994?mod=rss_markets_main",
-     "source": "WSJ",
-     "summary": "Investors are weighing the Fed\u2019s rate-setting path after Warsh said inflation remained too high and that better readings this summer hadn\u2019t convinced him that underlying trends ha\u2026",
-     "published": "2026-08-31T08:50:00+00:00",
-     "image": "https://images.wsj.net/im-01378559",
-     "kind": "article",
-     "id": "f91a47a4419a0d6f",
      "first_seen": "2026-08-31T10:04:37.190049+00:00",
      "is_new": true,
      "corroboration": 1,
