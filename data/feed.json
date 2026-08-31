@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-31T21:04:37.741442+00:00",
+ "generated_at": "2026-08-31T21:24:47.026798+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -74,6 +74,22 @@
    "more": 0,
    "items": [
     {
+     "title": "U.S. Stocks Fall as Iran War Inflation Heats Up",
+     "url": "https://www.wsj.com/finance/stocks/u-s-stocks-fall-as-iran-war-inflation-heats-up-6f44ff44?mod=rss_markets_main",
+     "source": "WSJ",
+     "summary": "U.S. stocks fell after renewed hostilities between the U.S. and Iran near the Strait of Hormuz.",
+     "published": "2026-08-31T21:16:00+00:00",
+     "image": "https://images.wsj.net/im-25195144",
+     "kind": "article",
+     "id": "058bf04240d0f106",
+     "first_seen": "2026-08-31T20:44:32.290721+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
      "title": "Stocks Decline to End August as War Fears Persist",
      "url": "https://www.wsj.com/opinion/stocks-decline-to-end-august-as-war-fears-persist-4388a594?mod=rss_markets_main",
      "source": "WSJ",
@@ -83,22 +99,6 @@
      "kind": "article",
      "id": "a4dae7acbd2e895f",
      "first_seen": "2026-08-31T21:04:37.741442+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "U.S. Stocks Fall as Iran War Inflation Heats Up",
-     "url": "https://www.wsj.com/finance/stocks/u-s-stocks-fall-as-iran-war-inflation-heats-up-6f44ff44?mod=rss_markets_main",
-     "source": "WSJ",
-     "summary": "U.S. stocks fell after renewed hostilities between the U.S. and Iran near the Strait of Hormuz.",
-     "published": "2026-08-31T20:30:00+00:00",
-     "image": "https://images.wsj.net/im-25195144",
-     "kind": "article",
-     "id": "058bf04240d0f106",
-     "first_seen": "2026-08-31T20:44:32.290721+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
@@ -217,6 +217,18 @@
    "row_detail": false,
    "more": 0,
    "items": [
+    {
+     "title": "Green Mist Pima Curved Hem Tee",
+     "url": "https://www.buckmason.com/products/green-mist-pima-curved-hem-tee",
+     "source": "Buck Mason",
+     "image": "https://cdn.shopify.com/s/files/1/0123/5065/2473/files/BM11007.101GMS_GREENMISTPIMACURVEDHEMTEE_1.jpg?v=1788202876",
+     "price": "$48",
+     "published": "2026-08-31T21:15:11+00:00",
+     "kind": "product",
+     "id": "378019cc935fa354",
+     "first_seen": "2026-08-31T21:24:47.026798+00:00",
+     "is_new": true
+    },
     {
      "title": "Golden Wheat Pima Curved Hem Tee",
      "url": "https://www.buckmason.com/products/golden-wheat-pima-curved-hem-tee",
