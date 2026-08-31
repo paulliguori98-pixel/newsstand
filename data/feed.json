@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-31T18:44:40.246074+00:00",
+ "generated_at": "2026-08-31T19:04:29.818557+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -216,7 +216,20 @@
    "lead_image": false,
    "row_detail": false,
    "more": 0,
-   "items": []
+   "items": [
+    {
+     "title": "Dark Marine Vintage Thermal Surplus Tee",
+     "url": "https://www.buckmason.com/products/dark-marine-vintage-thermal-surplus-tee",
+     "source": "Buck Mason",
+     "image": "https://cdn.shopify.com/s/files/1/0123/5065/2473/files/BM11025.283_VINTAGETHERMALSURPLUSTEEDARKMARINE_1.jpg?v=1788201726",
+     "price": "$98",
+     "published": "2026-08-31T18:44:05+00:00",
+     "kind": "product",
+     "id": "6e77ff1c565c21b4",
+     "first_seen": "2026-08-31T19:04:29.818557+00:00",
+     "is_new": true
+    }
+   ]
   },
   {
    "id": "dispatches",
