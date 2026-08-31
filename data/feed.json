@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-31T21:44:21.555420+00:00",
+ "generated_at": "2026-08-31T22:04:40.833994+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -12,11 +12,11 @@
     {
      "title": "Partly Sunny",
      "phrase": "Rain is near certain between 12am and 10am.",
-     "detail": "It reaches 79\u00b0 today and falls to 63\u00b0 overnight. The sun is up from 6:19 until 7:32.",
+     "detail": "It reaches 71\u00b0 today and falls to 63\u00b0 overnight. The sun is up from 6:19 until 7:32.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
      "temp": 78,
-     "high": 79,
+     "high": 71,
      "low": 63,
      "sunrise": "6:19",
      "sunset": "7:32",
@@ -217,18 +217,6 @@
    "row_detail": false,
    "more": 0,
    "items": [
-    {
-     "title": "Green Mist Pima Curved Hem Tee",
-     "url": "https://www.buckmason.com/products/green-mist-pima-curved-hem-tee",
-     "source": "Buck Mason",
-     "image": "https://cdn.shopify.com/s/files/1/0123/5065/2473/files/BM11007.101GMS_GREENMISTPIMACURVEDHEMTEE_1.jpg?v=1788202876",
-     "price": "$48",
-     "published": "2026-08-31T21:15:11+00:00",
-     "kind": "product",
-     "id": "378019cc935fa354",
-     "first_seen": "2026-08-31T21:24:47.026798+00:00",
-     "is_new": true
-    },
     {
      "title": "Golden Wheat Pima Curved Hem Tee",
      "url": "https://www.buckmason.com/products/golden-wheat-pima-curved-hem-tee",
