@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-31T17:04:38.918049+00:00",
+ "generated_at": "2026-08-31T17:24:39.695860+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -74,6 +74,22 @@
    "more": 0,
    "items": [
     {
+     "title": "Company offering reward for safe return of truckload of beer",
+     "url": "https://www.bbc.co.uk/news/articles/c780wzj86pno?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "summary": "Police say a thief presented false documentation at a California distribution centre before driving off with the shipment.",
+     "published": "2026-08-31T16:32:59+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a920/live/974712e0-a545-11f1-8689-6589354d0f8e.jpg",
+     "kind": "article",
+     "id": "1e8ba7036ebac1f4",
+     "first_seen": "2026-08-31T17:24:39.695860+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
      "title": "This Marine Died in the Iraq War. His Mother Asks, \u2018What Was It For?\u2019",
      "url": "https://www.nytimes.com/2026/08/31/us/politics/iraq-war-marine-death.html",
      "source": "New York Times",
@@ -115,22 +131,6 @@
      "kind": "article",
      "id": "c2178eff5967f768",
      "first_seen": "2026-08-31T11:44:37.806064+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "Weather tracker: Warm Yellow Sea strengthens storms in South Korea",
-     "url": "https://www.theguardian.com/environment/2026/aug/31/weather-tracker-warm-yellow-sea-storms-south-korea",
-     "source": "Guardian",
-     "summary": "More than 200mm of rain forecast in parts of South Korea, while parts of southern Europe to be 10C above averageSouth Korea\u2019s prime minister, Han Seong-sook, met officials to prep\u2026",
-     "published": "2026-08-31T07:57:24+00:00",
-     "image": "https://i.guim.co.uk/img/media/a01fb0bdfb85c31911654638acf6584dfe30b585/0_0_2908_2328/master/2908.jpg?width=140&quality=85&auto=format&fit=max&s=7fda738949f564065c9b9f6bbd5b0b68",
-     "kind": "article",
-     "id": "0b03184e4582f235",
-     "first_seen": "2026-08-31T10:04:37.190049+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
@@ -227,16 +227,16 @@
    "more": 0,
    "items": [
     {
-     "title": "The wonderful world of motorcycle clothing",
-     "url": "https://www.permanentstyle.com/2026/08/the-wonderful-world-of-motorcycle-clothing.html",
-     "source": "Permanent Style",
-     "summary": "Non-technical motorbike clothing seems to me \u2013 a relative newcomer \u2013 to sit at a particularly enjoyable junction of menswear. This is primarily because if you ride, it is still ne\u2026",
-     "published": "2026-08-31T08:00:58+00:00",
-     "image": "https://www.permanentstyle.com/wp-content/uploads/2026/08/ADN6464-copy.jpg",
+     "title": "Merging Onto Memory Lane",
+     "url": "https://www.thisnicelife.com/p/merging-onto-memory-lane",
+     "source": "This Nice Life",
+     "summary": "A vehicle and a song can take you back in time.",
+     "published": "2026-08-22T12:02:05+00:00",
+     "image": "https://substackcdn.com/image/fetch/$s_!7Xdo!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2bf7c313-331a-4432-b729-81c08d305139_4032x2268.jpeg",
      "kind": "article",
-     "id": "194bcefdb6b4089a",
-     "first_seen": "2026-08-31T10:04:37.190049+00:00",
-     "is_new": true,
+     "id": "06d3681b0771cc47",
+     "first_seen": "2026-08-22T13:43:58.125100+00:00",
+     "is_new": false,
      "corroboration": 1,
      "also_in": [],
      "boosted": false,
@@ -293,5 +293,7 @@
    ]
   }
  ],
- "errors": []
+ "errors": [
+  "Permanent Style: RuntimeError \u2014 https://www.permanentstyle.com/feed \u2192 HTTP 415"
+ ]
 }
