@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-31T16:24:33.872889+00:00",
+ "generated_at": "2026-08-31T16:44:32.135013+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -90,22 +90,6 @@
      "score": 4
     },
     {
-     "title": "Nonstop Russian Drones Make for Dangerous New Phase of War in Kyiv",
-     "url": "https://www.nytimes.com/2026/08/31/world/europe/ukraine-kyiv-drones-russia-sirens.html",
-     "source": "New York Times",
-     "summary": "The nearly constant air raids, a shift from years of largely overnight attacks, have left residents exhausted and on edge.",
-     "published": "2026-08-31T15:42:20+00:00",
-     "image": null,
-     "kind": "article",
-     "id": "8ec6e4a140fa585a",
-     "first_seen": "2026-08-31T10:24:33.290012+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
      "title": "\u2018The Nest of Snakes\u2019: Warring Cartels Target Women in Mexico",
      "url": "https://www.nytimes.com/2026/08/31/world/americas/warring-cartels-target-women-in-mexico.html",
      "source": "New York Times",
@@ -131,6 +115,22 @@
      "kind": "article",
      "id": "c2178eff5967f768",
      "first_seen": "2026-08-31T11:44:37.806064+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
+     "title": "Weather tracker: Warm Yellow Sea strengthens storms in South Korea",
+     "url": "https://www.theguardian.com/environment/2026/aug/31/weather-tracker-warm-yellow-sea-storms-south-korea",
+     "source": "Guardian",
+     "summary": "More than 200mm of rain forecast in parts of South Korea, while parts of southern Europe to be 10C above averageSouth Korea\u2019s prime minister, Han Seong-sook, met officials to prep\u2026",
+     "published": "2026-08-31T07:57:24+00:00",
+     "image": "https://i.guim.co.uk/img/media/a01fb0bdfb85c31911654638acf6584dfe30b585/0_0_2908_2328/master/2908.jpg?width=140&quality=85&auto=format&fit=max&s=7fda738949f564065c9b9f6bbd5b0b68",
+     "kind": "article",
+     "id": "0b03184e4582f235",
+     "first_seen": "2026-08-31T10:04:37.190049+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
