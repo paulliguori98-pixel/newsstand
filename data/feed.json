@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-01T18:48:16.860957+00:00",
+ "generated_at": "2026-09-01T19:07:28.634360+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -11,11 +11,11 @@
    "items": [
     {
      "title": "Chance Rain Showers",
-     "phrase": "An even chance of rain between 2pm and 9pm.",
+     "phrase": "An even chance of rain between 3pm and 9pm.",
      "detail": "It reaches 69\u00b0 today and falls to 62\u00b0 overnight. The sun is up from 6:20 until 7:30.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 67,
+     "temp": 68,
      "high": 69,
      "low": 62,
      "sunrise": "6:20",
@@ -88,6 +88,38 @@
      "score": 6
     },
     {
+     "title": "At G20 Summit, Scott Bessent Says U.S. Has Support for Economic War Against Iran",
+     "url": "https://www.nytimes.com/2026/09/01/business/economy/bessent-iran-g20.html",
+     "source": "New York Times",
+     "summary": "The Treasury secretary is also facing pushback on the Trump administration\u2019s trade policies at the global gathering.",
+     "published": "2026-09-01T18:56:26+00:00",
+     "image": "https://static01.nyt.com/images/2026/09/01/multimedia/01dc-g20-flhm/01dc-g20-flhm-mediumSquareAt3X.jpg",
+     "kind": "article",
+     "id": "588eaa94004200ea",
+     "first_seen": "2026-09-01T16:35:58.981081+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
+     "title": "USPS whistleblower warns new ballot system could fail",
+     "url": "https://www.axios.com/2026/09/01/usps-whistleblower-mail-ballots-warning",
+     "source": "Axios",
+     "summary": "A U.S. Postal Service whistleblower is alleging the agency defied court orders while rushing to build a new ballot system that could reject thousands of mail ballots.The big pictu\u2026",
+     "published": "2026-09-01T18:51:17+00:00",
+     "image": "https://images.axios.com/vRVJ1iF2NlNDBhj3Q9J8sIkSq5s=/0x192:4000x2442/1366x768/2026/09/01/1788273343853.jpeg",
+     "kind": "article",
+     "id": "1eb0fada541a0f2b",
+     "first_seen": "2026-09-01T15:50:22.317415+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
      "title": "Two More Oil Tankers Are Attacked in the Strait of Hormuz",
      "url": "https://www.nytimes.com/2026/09/01/business/ships-oil-hormuz-iran-war.html",
      "source": "New York Times",
@@ -97,38 +129,6 @@
      "kind": "article",
      "id": "43ef24d2ce1c73ef",
      "first_seen": "2026-09-01T16:35:58.981081+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "U.S. military conducting fresh strikes in the Strait of Hormuz",
-     "url": "https://www.axios.com/2026/09/01/hormuz-centcom-strikes-trump-iran",
-     "source": "Axios",
-     "summary": "The U.S. military is conducting strikes on Iranian targets in the area of the Strait of Hormuz, U.S. Central Command said Tuesday. Why it matters: The attacks are part of a plan P\u2026",
-     "published": "2026-09-01T17:47:04+00:00",
-     "image": "https://images.axios.com/nLunnHCys-nf1suop7wVA_Xs6iw=/0x0:5616x3159/1366x768/2026/09/01/1788281089585.jpeg",
-     "kind": "article",
-     "id": "e56bcc482b53c6cf",
-     "first_seen": "2026-09-01T17:08:13.411204+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "Russia targets Ukraine\u2019s rail network as war enters deadly new phase",
-     "url": "https://www.theguardian.com/world/2026/sep/01/russia-targets-ukraines-rail-network-as-war-enters-deadly-new-phase",
-     "source": "Guardian",
-     "summary": "Six employees killed on Tuesday after Moscow escalates attacks on infrastructure and Ukrainian capitalRussia has opened a deadly new phase in its war against Ukraine by deliberate\u2026",
-     "published": "2026-09-01T17:23:15+00:00",
-     "image": "https://i.guim.co.uk/img/media/091ccb31d63cd85e337f1aaf70d104f5e9402cb8/120_0_7443_5954/master/7443.jpg?width=140&quality=85&auto=format&fit=max&s=1df02f1c9e4154e8ba6632f262efab76",
-     "kind": "article",
-     "id": "f0b52a8e896d7414",
-     "first_seen": "2026-09-01T17:45:28.754844+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
