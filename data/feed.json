@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-01T15:07:15.780032+00:00",
+ "generated_at": "2026-09-01T15:50:22.317415+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -88,11 +88,27 @@
      "score": 6
     },
     {
+     "title": "USPS whistleblower warns new ballot system could fail",
+     "url": "https://www.axios.com/2026/09/01/usps-whistleblower-mail-ballots-warning",
+     "source": "Axios",
+     "summary": "A U.S. Postal Service whistleblower is alleging the agency defied court orders while rushing to build a new ballot system that could reject thousands of mail ballots.The big pictu\u2026",
+     "published": "2026-09-01T15:13:03+00:00",
+     "image": "https://images.axios.com/vRVJ1iF2NlNDBhj3Q9J8sIkSq5s=/0x192:4000x2442/1366x768/2026/09/01/1788273343853.jpeg",
+     "kind": "article",
+     "id": "1eb0fada541a0f2b",
+     "first_seen": "2026-09-01T15:50:22.317415+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
      "title": "U.S. Sanctions on Iran Cut Off Students From Tests Needed for Study Abroad",
      "url": "https://www.nytimes.com/2026/09/01/world/middleeast/iran-study-abroad-sanctions.html",
      "source": "New York Times",
      "summary": "The latest measures have forced the cancellation of English proficiency and graduate exams, isolating many Iranians most eager to foster ties with the world.",
-     "published": "2026-09-01T13:07:06+00:00",
+     "published": "2026-09-01T15:04:17+00:00",
      "image": "https://static01.nyt.com/images/2026/08/31/multimedia/00int-iran-educaton-01-ktjc/00int-iran-educaton-01-ktjc-mediumSquareAt3X.jpg",
      "kind": "article",
      "id": "06673d12febfc736",
@@ -118,22 +134,6 @@
      "also_in": [],
      "boosted": true,
      "score": 4
-    },
-    {
-     "title": "Jersey Mike\u2019s Is Winning the Sandwich War. It Still Needs to Win Over Gen Z.",
-     "url": "https://www.wsj.com/business/hospitality/jersey-mikes-is-winning-the-sandwich-war-it-still-needs-to-win-over-gen-z-324b4e0b?mod=rss_markets_main",
-     "source": "WSJ",
-     "summary": "The chain\u2019s affluent, older base gives it an edge. But to grow it also needs young customers.",
-     "published": "2026-09-01T09:30:00+00:00",
-     "image": "https://images.wsj.net/im-31319952",
-     "kind": "article",
-     "id": "0beb6d6f4a634cfa",
-     "first_seen": "2026-09-01T10:08:31.131288+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
     }
    ]
   },
@@ -146,15 +146,27 @@
    "more": 0,
    "items": [
     {
-     "title": "Sliding Into Perfection: The Open Task Light",
-     "url": "https://hackaday.com/2026/09/01/sliding-into-perfection-the-open-task-light/",
+     "title": "It\u2019s Teletext, But On The Radio",
+     "url": "https://hackaday.com/2026/09/01/its-teletext-but-on-the-radio/",
      "source": "Hackaday",
-     "summary": "A few years ago Dyson released a desk lamp that could slide up and down, in and out, balancing itself at every position. [Steven Bennett] saw that lamp and wanted \u2026read more",
-     "published": "2026-09-01T08:00:29+00:00",
-     "image": "https://hackaday.com/wp-content/uploads/2026/08/Screenshot-2026-08-31-7.57.49-PM-16-9.png",
+     "summary": "Old-school teletext with its pixelated text and block graphics may now be largely a thing of the past, but that doesn\u2019t mean it\u2019s without enthusiasts or there\u2019s no more life \u2026read\u2026",
+     "published": "2026-09-01T15:30:58+00:00",
+     "image": "https://hackaday.com/wp-content/uploads/2026/08/ceefax-featured.jpg",
      "kind": "article",
-     "id": "5f65e6897a29038a",
-     "first_seen": "2026-09-01T10:08:31.131288+00:00",
+     "id": "7757c79c5dbc98de",
+     "first_seen": "2026-09-01T15:50:22.317415+00:00",
+     "is_new": true
+    },
+    {
+     "title": "ESP32-Based Smart Home Automation System With Alexa",
+     "url": "https://www.hackster.io/rau7han/esp32-based-smart-home-automation-system-with-alexa-4f0301",
+     "source": "Hackster",
+     "summary": "In this project, I will show you how I connected an ESP32 4-channel relay board with Amazon Alexa and controlled all four relay channels",
+     "published": "2026-09-01T08:38:51+00:00",
+     "image": "https://hackster.imgix.net/uploads/attachments/1993317/_N4DxJ4uHzX.blob",
+     "kind": "article",
+     "id": "9ac9318bc948a24d",
+     "first_seen": "2026-09-01T15:50:22.317415+00:00",
      "is_new": true
     },
     {
@@ -166,18 +178,6 @@
      "image": "https://hackster.imgix.net/uploads/attachments/1993300/_IXzEcHSQwp.blob",
      "kind": "article",
      "id": "5452a0a5b3e043c6",
-     "first_seen": "2026-09-01T12:11:15.452074+00:00",
-     "is_new": true
-    },
-    {
-     "title": "I Controlled Chrome Dino With Rock-Paper-Scissors",
-     "url": "https://www.hackster.io/roboattic_Lab/i-controlled-chrome-dino-with-rock-paper-scissors-702514",
-     "source": "Hackster",
-     "summary": "A camera looks at my hand, the AI recognizes the gesture, and then the controller sends the corresponding keyboard command to the laptop.",
-     "published": "2026-09-01T05:12:25+00:00",
-     "image": "https://hackster.imgix.net/uploads/attachments/1993149/dino_game_final_(1)_X8Y14sSfdi.gif",
-     "kind": "article",
-     "id": "5005825e218a74e7",
      "first_seen": "2026-09-01T12:11:15.452074+00:00",
      "is_new": true
     },
