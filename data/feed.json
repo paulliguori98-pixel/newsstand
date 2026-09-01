@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-01T22:45:31.727195+00:00",
+ "generated_at": "2026-09-01T23:07:04.643474+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -11,7 +11,7 @@
    "items": [
     {
      "title": "Chance Rain Showers",
-     "phrase": "An even chance of rain between 6pm and 9pm.",
+     "phrase": "A one-in-three chance of rain between 7pm and 9pm.",
      "detail": "It reaches 72\u00b0 today and falls to 62\u00b0 overnight. The sun is up from 6:20 until 7:30.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
@@ -72,8 +72,8 @@
      "title": "U.S. Strikes Iran Over Strait of Hormuz Mines, Trump Says",
      "url": "https://www.nytimes.com/2026/09/01/us/politics/us-launches-air-strikes-iran.html",
      "source": "New York Times",
-     "summary": "U.S. Central Command did not say precisely what it was trying to destroy in Iran, but it said the attacks were aimed at Iran\u2019s Islamic Revolutionary Guards Corps.",
-     "published": "2026-09-01T22:17:32+00:00",
+     "summary": "The renewed hostilities underscore how a durable solution to the conflict remains far-off.",
+     "published": "2026-09-01T23:01:13+00:00",
      "image": "https://static01.nyt.com/images/2026/09/01/multimedia/live-blog-20260901-trump-news-header-klbc/live-blog-20260901-trump-news-header-klbc-mediumSquareAt3X.jpg",
      "kind": "article",
      "id": "16fd3a90273f483d",
@@ -149,15 +149,15 @@
    "more": 0,
    "items": [
     {
-     "title": "How Gold Plastic Syndrome is Killing Toys and Game Consoles",
-     "url": "https://hackaday.com/2026/09/01/how-gold-plastic-syndrome-is-killing-toys-and-game-consoles/",
+     "title": "Building An Airsoft Claymore Mine",
+     "url": "https://hackaday.com/2026/09/01/building-an-airsoft-claymore-mine/",
      "source": "Hackaday",
-     "summary": "In a recent video [Sqwerks] does a deep-dive into the problem of disintegrating plastic enclosures of Nintendo DS consoles. These original NDS handheld consoles have a metallic-li\u2026",
-     "published": "2026-09-01T20:00:11+00:00",
-     "image": "https://hackaday.com/wp-content/uploads/2026/08/brittle_plastic_nintendo_ds_sqwerks_youtube.jpg",
+     "summary": "The Claymore mine is a rather fearsome weapon of war, using explosives to blast a cone of shrapnel towards advancing enemies. It\u2019s not really something you should try and build \u2026r\u2026",
+     "published": "2026-09-01T23:00:19+00:00",
+     "image": "https://hackaday.com/wp-content/uploads/2026/08/IMG_0518-e1788133082699.jpg",
      "kind": "article",
-     "id": "85c18a29cb0d964a",
-     "first_seen": "2026-09-01T20:08:52.461691+00:00",
+     "id": "4d62fdce9718e782",
+     "first_seen": "2026-09-01T23:07:04.643474+00:00",
      "is_new": true
     },
     {
