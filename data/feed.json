@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-01T18:33:06.265522+00:00",
+ "generated_at": "2026-09-01T18:48:16.860957+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,14 +10,14 @@
    "more": 0,
    "items": [
     {
-     "title": "Chance Showers And Thunderstorms",
-     "phrase": "An even chance of rain between 2pm and 4am.",
-     "detail": "It reaches 73\u00b0 today and falls to 61\u00b0 overnight. The sun is up from 6:20 until 7:30.",
+     "title": "Chance Rain Showers",
+     "phrase": "An even chance of rain between 2pm and 9pm.",
+     "detail": "It reaches 69\u00b0 today and falls to 62\u00b0 overnight. The sun is up from 6:20 until 7:30.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 72,
-     "high": 73,
-     "low": 61,
+     "temp": 67,
+     "high": 69,
+     "low": 62,
      "sunrise": "6:20",
      "sunset": "7:30",
      "id": "bb806d72c86dcec1",
@@ -92,7 +92,7 @@
      "url": "https://www.nytimes.com/2026/09/01/business/ships-oil-hormuz-iran-war.html",
      "source": "New York Times",
      "summary": "The ships were hit near Oman on Monday, the latest attacks on vessels in the Persian Gulf. Oil prices rose more than 2 percent.",
-     "published": "2026-09-01T18:00:25+00:00",
+     "published": "2026-09-01T18:40:58+00:00",
      "image": "https://static01.nyt.com/images/2026/09/01/multimedia/01biz-hormuz-shipping-btkf/01biz-hormuz-shipping-btkf-mediumSquareAt3X.jpg",
      "kind": "article",
      "id": "43ef24d2ce1c73ef",
