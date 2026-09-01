@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-01T21:28:39.517596+00:00",
+ "generated_at": "2026-09-01T21:45:11.198782+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -69,6 +69,25 @@
    "more": 0,
    "items": [
     {
+     "title": "U.S. military launches fresh strikes in the Strait of Hormuz",
+     "url": "https://www.axios.com/2026/09/01/hormuz-centcom-strikes-trump-iran",
+     "source": "Axios",
+     "summary": "The U.S. military is conducting strikes on Iranian targets in the area of the Strait of Hormuz, U.S. Central Command said Tuesday. Why it matters: The attacks are part of a plan P\u2026",
+     "published": "2026-09-01T21:26:28+00:00",
+     "image": "https://images.axios.com/nLunnHCys-nf1suop7wVA_Xs6iw=/0x0:5616x3159/1366x768/2026/09/01/1788281089585.jpeg",
+     "kind": "article",
+     "id": "e56bcc482b53c6cf",
+     "first_seen": "2026-09-01T17:08:13.411204+00:00",
+     "is_new": true,
+     "corroboration": 3,
+     "also_in": [
+      "New York Times",
+      "WSJ"
+     ],
+     "boosted": true,
+     "score": 6
+    },
+    {
      "title": "SCOTUS allows Trump's ballroom project to continue. And, the Army secretary resigns",
      "url": "https://www.npr.org/2026/09/01/g-s1-141357/up-first-newsletter-trump-white-house-ballroom-dan-driscoll-g20-iran-usps-mail-in-voting",
      "source": "NPR",
@@ -86,24 +105,6 @@
      ],
      "boosted": true,
      "score": 6
-    },
-    {
-     "title": "U.S. military conducting fresh strikes in the Strait of Hormuz",
-     "url": "https://www.axios.com/2026/09/01/hormuz-centcom-strikes-trump-iran",
-     "source": "Axios",
-     "summary": "The U.S. military is conducting strikes on Iranian targets in the area of the Strait of Hormuz, U.S. Central Command said Tuesday. Why it matters: The attacks are part of a plan P\u2026",
-     "published": "2026-09-01T20:56:02+00:00",
-     "image": "https://images.axios.com/nLunnHCys-nf1suop7wVA_Xs6iw=/0x0:5616x3159/1366x768/2026/09/01/1788281089585.jpeg",
-     "kind": "article",
-     "id": "e56bcc482b53c6cf",
-     "first_seen": "2026-09-01T17:08:13.411204+00:00",
-     "is_new": true,
-     "corroboration": 2,
-     "also_in": [
-      "New York Times"
-     ],
-     "boosted": true,
-     "score": 5
     },
     {
      "title": "U.S. Stocks Fall as Oil, Bond Yields Spike, U.S.-Iran War Heats Up",
