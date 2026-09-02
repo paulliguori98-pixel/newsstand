@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-02T23:27:01.154511+00:00",
+ "generated_at": "2026-09-02T23:44:40.692505+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -143,6 +143,18 @@
    "more": 0,
    "items": [
     {
+     "title": "Swarm Robots: Controlled Using Arduino Uno Q (Central Brain)",
+     "url": "https://www.hackster.io/Pikas/swarm-robots-controlled-using-arduino-uno-q-central-brain-99fd36",
+     "source": "Hackster",
+     "summary": "SWARM-Q uses Arduino UNO Q and AI vision to coordinate multiple autonomous robots for intelligent, collaborative physical tasks.",
+     "published": "2026-09-02T17:24:02+00:00",
+     "image": "https://hackster.imgix.net/uploads/attachments/1993888/_U8bMWaW8dv.blob",
+     "kind": "article",
+     "id": "bb30519f6b8f4919",
+     "first_seen": "2026-09-02T23:44:40.692505+00:00",
+     "is_new": true
+    },
+    {
      "title": "I Built a Radio That Turns Signals Into Pictures",
      "url": "https://www.hackster.io/CiferTech/i-built-a-radio-that-turns-signals-into-pictures-d7a402",
      "source": "Hackster",
@@ -164,18 +176,6 @@
      "kind": "article",
      "id": "1fc3ae1021e72d93",
      "first_seen": "2026-09-02T14:08:41.959787+00:00",
-     "is_new": true
-    },
-    {
-     "title": "STM32F103C8T6 Smart Temperature-Control Fan with OLED Displa",
-     "url": "https://www.hackster.io/robertfletcher1582/stm32f103c8t6-smart-temperature-control-fan-with-oled-displa-b58ce4",
-     "source": "Hackster",
-     "summary": "Build a low-cost smart cooling controller with the STM32F103C8T6 \u201cBlue Pill. \u201d The MCU reads temperature, drives a 4-wire PWM fan,...",
-     "published": "2026-09-02T07:05:15+00:00",
-     "image": "https://hackster.imgix.net/uploads/attachments/1993672/_1bwSg9fwSZ.blob",
-     "kind": "article",
-     "id": "d74746e9c727590a",
-     "first_seen": "2026-09-02T15:34:55.294990+00:00",
      "is_new": true
     },
     {
