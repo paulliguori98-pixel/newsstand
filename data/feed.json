@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-02T14:08:41.959787+00:00",
+ "generated_at": "2026-09-02T14:30:19.890109+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -11,11 +11,11 @@
    "items": [
     {
      "title": "Cloudy",
-     "phrase": "Rain is near certain between 5pm and 2am.",
+     "phrase": "Rain is near certain between 5pm and 3am.",
      "detail": "It reaches 76\u00b0 today and falls to 61\u00b0 overnight. The sun is up from 6:21 until 7:29.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 64,
+     "temp": 66,
      "high": 76,
      "low": 61,
      "sunrise": "6:21",
@@ -69,6 +69,22 @@
    "more": 0,
    "items": [
     {
+     "title": "Trump Returns to a Familiar Playbook as the War With Iran Flares Up Again",
+     "url": "https://www.nytimes.com/2026/09/02/us/politics/trump-iran-strait-of-hormuz.html",
+     "source": "New York Times",
+     "summary": "President Trump called on Iranians to \u201crise up and fight\u201d on Tuesday as the United States seems increasingly bogged down after six months of conflict.",
+     "published": "2026-09-02T14:00:47+00:00",
+     "image": "https://static01.nyt.com/images/2026/09/02/multimedia/02dc-prexy-wvkg/02dc-prexy-wvkg-mediumSquareAt3X.jpg",
+     "kind": "article",
+     "id": "23e8cd00efeee7fa",
+     "first_seen": "2026-09-02T14:30:19.890109+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
      "title": "More than 900 killed in Gaza this year despite ceasefire, Hamas-run health ministry says",
      "url": "https://www.bbc.co.uk/news/articles/c7708dy33pdo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
@@ -110,22 +126,6 @@
      "kind": "article",
      "id": "a4973b7a47304342",
      "first_seen": "2026-09-02T10:09:28.627850+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "House censures Chuck Edwards over \"sexual harassment\" of staff",
-     "url": "https://www.axios.com/2026/09/01/chuck-edwards-censure-sexual-harassment-female-staff",
-     "source": "Axios",
-     "summary": "Rep. Chuck Edwards (R-N.C.) was censured by the House on Tuesday after the Ethics Committee found he failed \"to adhere to the spirit of rules prohibiting sexual harassment of and \u2026",
-     "published": "2026-09-01T22:20:07+00:00",
-     "image": "https://images.axios.com/KmVEOWNg9ct_UDWKFZbYOqUzXjg=/0x0:7578x4263/1366x768/2026/09/01/1788275016255.jpeg",
-     "kind": "article",
-     "id": "b614bf9ac7f0da81",
-     "first_seen": "2026-09-01T22:27:46.765598+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
