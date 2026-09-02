@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-02T22:46:13.734291+00:00",
+ "generated_at": "2026-09-02T23:07:24.331647+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,7 +10,7 @@
    "more": 0,
    "items": [
     {
-     "title": "Cloudy",
+     "title": "Slight Chance Rain Showers",
      "phrase": "Rain is near certain between 7pm and 8am.",
      "detail": "It reaches 82\u00b0 today and falls to 64\u00b0 overnight. The sun is up from 6:21 until 7:29.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
@@ -69,6 +69,22 @@
    "more": 0,
    "items": [
     {
+     "title": "China\u2019s falling emissions amid Iran war spark hope of decarbonisation watershed",
+     "url": "https://www.theguardian.com/environment/2026/sep/03/china-co2-emissions-iran-war",
+     "source": "Guardian",
+     "summary": "Oil consumption plummets and EV sales soar as analysts say demand may not fully return even if crude price fallsChina\u2019s carbon dioxide emissions fell by 1% after the outbreak of t\u2026",
+     "published": "2026-09-02T23:01:37+00:00",
+     "image": "https://i.guim.co.uk/img/media/6ea929b173a07426ae9cb8a54f972e2c163a3ac1/157_0_4945_3956/master/4945.jpg?width=140&quality=85&auto=format&fit=max&s=db2e3602ad2fd97bcd8f3a63c8dfef1c",
+     "kind": "article",
+     "id": "afeb0f886514dcf4",
+     "first_seen": "2026-09-02T23:07:24.331647+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
      "title": "Trump Returns to a Familiar Playbook as the War With Iran Flares Up Again",
      "url": "https://www.nytimes.com/2026/09/02/us/politics/trump-iran-strait-of-hormuz.html",
      "source": "New York Times",
@@ -110,22 +126,6 @@
      "kind": "article",
      "id": "dd31cd78444455f7",
      "first_seen": "2026-09-02T12:10:53.459964+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "House censures Chuck Edwards over \"sexual harassment\" of staff",
-     "url": "https://www.axios.com/2026/09/01/chuck-edwards-censure-sexual-harassment-female-staff",
-     "source": "Axios",
-     "summary": "Rep. Chuck Edwards (R-N.C.) was censured by the House on Tuesday after the Ethics Committee found he failed \"to adhere to the spirit of rules prohibiting sexual harassment of and \u2026",
-     "published": "2026-09-01T22:20:07+00:00",
-     "image": "https://images.axios.com/KmVEOWNg9ct_UDWKFZbYOqUzXjg=/0x0:7578x4263/1366x768/2026/09/01/1788275016255.jpeg",
-     "kind": "article",
-     "id": "b614bf9ac7f0da81",
-     "first_seen": "2026-09-01T22:27:46.765598+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
@@ -236,16 +236,16 @@
    "more": 0,
    "items": [
     {
-     "title": "Merging Onto Memory Lane",
-     "url": "https://www.thisnicelife.com/p/merging-onto-memory-lane",
-     "source": "This Nice Life",
-     "summary": "A vehicle and a song can take you back in time.",
-     "published": "2026-08-22T12:02:05+00:00",
-     "image": "https://substackcdn.com/image/fetch/$s_!7Xdo!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2bf7c313-331a-4432-b729-81c08d305139_4032x2268.jpeg",
+     "title": "The silks of Como: A reminder of the value of craft",
+     "url": "https://www.permanentstyle.com/2026/09/the-silks-of-como-a-reminder-of-the-value-of-craft.html",
+     "source": "Permanent Style",
+     "summary": "I miss this. Visiting a mill is such an enjoyable, often inspiring experience, yet I don\u2019t do it as much as I used to. Perhaps because once you\u2019d done one worsted weaver it\u2019s hard\u2026",
+     "published": "2026-09-02T08:00:52+00:00",
+     "image": "https://www.permanentstyle.com/wp-content/uploads/2026/08/Como-silk-quality.jpg",
      "kind": "article",
-     "id": "06d3681b0771cc47",
-     "first_seen": "2026-08-22T13:43:58.125100+00:00",
-     "is_new": false,
+     "id": "a27567868d197e93",
+     "first_seen": "2026-09-02T10:09:28.627850+00:00",
+     "is_new": true,
      "corroboration": 1,
      "also_in": [],
      "boosted": false,
@@ -302,7 +302,5 @@
    ]
   }
  ],
- "errors": [
-  "Permanent Style: RuntimeError \u2014 https://www.permanentstyle.com/feed \u2192 HTTP 415"
- ]
+ "errors": []
 }
