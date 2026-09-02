@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-02T15:13:34.573042+00:00",
+ "generated_at": "2026-09-02T15:34:55.294990+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,12 +10,12 @@
    "more": 0,
    "items": [
     {
-     "title": "Cloudy",
-     "phrase": "Rain is near certain between 5pm and 3am.",
+     "title": "Mostly Cloudy",
+     "phrase": "Rain is near certain between 5pm and 4am.",
      "detail": "It reaches 76\u00b0 today and falls to 61\u00b0 overnight. The sun is up from 6:21 until 7:29.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 66,
+     "temp": 68,
      "high": 76,
      "low": 61,
      "sunrise": "6:21",
@@ -155,6 +155,18 @@
      "is_new": true
     },
     {
+     "title": "STM32F103C8T6 Smart Temperature-Control Fan with OLED Displa",
+     "url": "https://www.hackster.io/robertfletcher1582/stm32f103c8t6-smart-temperature-control-fan-with-oled-displa-b58ce4",
+     "source": "Hackster",
+     "summary": "Build a low-cost smart cooling controller with the STM32F103C8T6 \u201cBlue Pill. \u201d The MCU reads temperature, drives a 4-wire PWM fan,...",
+     "published": "2026-09-02T07:05:15+00:00",
+     "image": "https://hackster.imgix.net/uploads/attachments/1993672/_1bwSg9fwSZ.blob",
+     "kind": "article",
+     "id": "d74746e9c727590a",
+     "first_seen": "2026-09-02T15:34:55.294990+00:00",
+     "is_new": true
+    },
+    {
      "title": "Modernizing Legacy RC: FlySky RF Module Hack with ESP32",
      "url": "https://www.hackster.io/iothub-guy/modernizing-legacy-rc-flysky-rf-module-hack-with-esp32-2e2448",
      "source": "Hackster",
@@ -164,18 +176,6 @@
      "kind": "article",
      "id": "95b77f1b775ffd05",
      "first_seen": "2026-09-02T12:10:53.459964+00:00",
-     "is_new": true
-    },
-    {
-     "title": "Meet special \"Agent Fingers\"",
-     "url": "https://www.hackster.io/MRBElectronics/meet-special-agent-fingers-d833fd",
-     "source": "Hackster",
-     "summary": "A raspberry pi pico 2 based digital IO MCP tool to automate and help debug embedded systems.",
-     "published": "2026-09-02T00:20:29+00:00",
-     "image": "https://hackster.imgix.net/uploads/attachments/1993589/_J4WbAVc1aG.blob",
-     "kind": "article",
-     "id": "ed876363aa3a1002",
-     "first_seen": "2026-09-02T10:09:28.627850+00:00",
      "is_new": true
     },
     {
