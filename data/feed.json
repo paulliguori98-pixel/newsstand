@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-02T12:51:19.299020+00:00",
+ "generated_at": "2026-09-02T13:08:26.911934+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -11,11 +11,11 @@
    "items": [
     {
      "title": "Cloudy",
-     "phrase": "Rain is near certain between 5pm and 1am.",
+     "phrase": "Rain is near certain between 5pm and 2am.",
      "detail": "It reaches 76\u00b0 today and falls to 61\u00b0 overnight. The sun is up from 6:21 until 7:29.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 63,
+     "temp": 64,
      "high": 76,
      "low": 61,
      "sunrise": "6:21",
@@ -117,15 +117,15 @@
      "score": 4
     },
     {
-     "title": "Ryanair warns air fares in Europe will jump next year if oil price stays high",
-     "url": "https://www.theguardian.com/business/2026/sep/02/ryanair-warns-air-fares-europe-jump-next-year-oil-price-stays-high",
-     "source": "Guardian",
-     "summary": "Budget carrier says airlines could go bust as it cuts passenger targets to reduce exposure to \u2018unhedged winter oil\u2019Business live \u2013 latest updatesRyanair has warned that air fares \u2026",
-     "published": "2026-09-02T08:58:04+00:00",
-     "image": "https://i.guim.co.uk/img/media/b52864d4c0b9d2ab7fa534706c339430bddbd71f/183_0_2102_1682/master/2102.jpg?width=140&quality=85&auto=format&fit=max&s=f08dcb9f087d272e64225149de6b3d68",
+     "title": "House censures Chuck Edwards over \"sexual harassment\" of staff",
+     "url": "https://www.axios.com/2026/09/01/chuck-edwards-censure-sexual-harassment-female-staff",
+     "source": "Axios",
+     "summary": "Rep. Chuck Edwards (R-N.C.) was censured by the House on Tuesday after the Ethics Committee found he failed \"to adhere to the spirit of rules prohibiting sexual harassment of and \u2026",
+     "published": "2026-09-01T22:20:07+00:00",
+     "image": "https://images.axios.com/KmVEOWNg9ct_UDWKFZbYOqUzXjg=/0x0:7578x4263/1366x768/2026/09/01/1788275016255.jpeg",
      "kind": "article",
-     "id": "5f8e6568fd0caaeb",
-     "first_seen": "2026-09-02T10:09:28.627850+00:00",
+     "id": "b614bf9ac7f0da81",
+     "first_seen": "2026-09-01T22:27:46.765598+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
