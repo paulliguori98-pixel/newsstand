@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-02T12:10:53.459964+00:00",
+ "generated_at": "2026-09-02T12:36:18.429139+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -85,22 +85,6 @@
      "score": 4
     },
     {
-     "title": "Investors Still on Edge Over War, Debt and Inflation",
-     "url": "https://www.nytimes.com/2026/09/02/business/oil-bond-yields-iran.html",
-     "source": "New York Times",
-     "summary": "U.S. and Iranian forces traded attacks again, pushing oil prices higher, stocks lower and making bond investors nervous.",
-     "published": "2026-09-02T11:27:17+00:00",
-     "image": null,
-     "kind": "article",
-     "id": "ae1254eca1fe673a",
-     "first_seen": "2026-09-02T10:30:28.103476+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
      "title": "Russia\u2019s New Push to Torment Kyiv, and a Whistle-Blower\u2019s Warning on Mail-In Voting",
      "url": "https://www.nytimes.com/2026/09/02/podcasts/the-headlines/russia-kyiv-strikes-whistleblower-warning-mail-voting.html",
      "source": "New York Times",
@@ -125,6 +109,22 @@
      "image": "https://i.guim.co.uk/img/media/12728f301eb465e6b186e677cfab7274934ec4ed/0_946_1950_1560/master/1950.jpg?width=140&quality=85&auto=format&fit=max&s=b25cf4ec7f8729f5c73bd5302e0745cf",
      "kind": "article",
      "id": "a4973b7a47304342",
+     "first_seen": "2026-09-02T10:09:28.627850+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
+     "title": "Ryanair warns air fares in Europe will jump next year if oil price stays high",
+     "url": "https://www.theguardian.com/business/2026/sep/02/ryanair-warns-air-fares-europe-jump-next-year-oil-price-stays-high",
+     "source": "Guardian",
+     "summary": "Budget carrier says airlines could go bust as it cuts passenger targets to reduce exposure to \u2018unhedged winter oil\u2019Business live \u2013 latest updatesRyanair has warned that air fares \u2026",
+     "published": "2026-09-02T08:58:04+00:00",
+     "image": "https://i.guim.co.uk/img/media/b52864d4c0b9d2ab7fa534706c339430bddbd71f/183_0_2102_1682/master/2102.jpg?width=140&quality=85&auto=format&fit=max&s=f08dcb9f087d272e64225149de6b3d68",
+     "kind": "article",
+     "id": "5f8e6568fd0caaeb",
      "first_seen": "2026-09-02T10:09:28.627850+00:00",
      "is_new": true,
      "corroboration": 1,
