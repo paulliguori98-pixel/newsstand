@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-02T19:44:43.753201+00:00",
+ "generated_at": "2026-09-02T20:08:52.642688+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -69,6 +69,22 @@
    "more": 0,
    "items": [
     {
+     "title": "Trump Returns to a Familiar Playbook as the War With Iran Flares Up Again",
+     "url": "https://www.nytimes.com/2026/09/02/us/politics/trump-iran-strait-of-hormuz.html",
+     "source": "New York Times",
+     "summary": "The United States seems increasingly bogged down in Iran after six months of conflict, despite President Trump\u2019s declarations of military dominance.",
+     "published": "2026-09-02T19:56:52+00:00",
+     "image": "https://static01.nyt.com/images/2026/09/02/multimedia/02dc-prexy-wvkg/02dc-prexy-wvkg-mediumSquareAt3X.jpg",
+     "kind": "article",
+     "id": "23e8cd00efeee7fa",
+     "first_seen": "2026-09-02T14:30:19.890109+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
      "title": "Iran says US strike killed four at wedding in 'war crime' as US denies targeting civilians",
      "url": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
@@ -78,22 +94,6 @@
      "kind": "article",
      "id": "eef742c7215c240c",
      "first_seen": "2026-09-01T19:07:28.634360+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "Trump Returns to a Familiar Playbook as the War With Iran Flares Up Again",
-     "url": "https://www.nytimes.com/2026/09/02/us/politics/trump-iran-strait-of-hormuz.html",
-     "source": "New York Times",
-     "summary": "President Trump called on Iranians to \u201crise up and fight\u201d on Tuesday as the United States seems increasingly bogged down after six months of conflict.",
-     "published": "2026-09-02T14:00:47+00:00",
-     "image": "https://static01.nyt.com/images/2026/09/02/multimedia/02dc-prexy-wvkg/02dc-prexy-wvkg-mediumSquareAt3X.jpg",
-     "kind": "article",
-     "id": "23e8cd00efeee7fa",
-     "first_seen": "2026-09-02T14:30:19.890109+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
