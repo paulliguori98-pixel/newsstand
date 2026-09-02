@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-02T15:34:55.294990+00:00",
+ "generated_at": "2026-09-02T15:50:25.027902+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -69,6 +69,22 @@
    "more": 0,
    "items": [
     {
+     "title": "Iran says US strike killed four at wedding in 'war crime' as US denies targeting civilians",
+     "url": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "summary": "Iranian media reports two children were among those killed when shrapnel hit a home. Iran then launched missiles and drones at US targets in the Middle East.",
+     "published": "2026-09-02T15:33:19+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38d2/live/03a25690-a693-11f1-a291-b542ee92de7c.jpg",
+     "kind": "article",
+     "id": "eef742c7215c240c",
+     "first_seen": "2026-09-01T19:07:28.634360+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
      "title": "Trump Returns to a Familiar Playbook as the War With Iran Flares Up Again",
      "url": "https://www.nytimes.com/2026/09/02/us/politics/trump-iran-strait-of-hormuz.html",
      "source": "New York Times",
@@ -110,22 +126,6 @@
      "kind": "article",
      "id": "135b06f0f03ccad2",
      "first_seen": "2026-09-02T10:30:28.103476+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "House censures Chuck Edwards over \"sexual harassment\" of staff",
-     "url": "https://www.axios.com/2026/09/01/chuck-edwards-censure-sexual-harassment-female-staff",
-     "source": "Axios",
-     "summary": "Rep. Chuck Edwards (R-N.C.) was censured by the House on Tuesday after the Ethics Committee found he failed \"to adhere to the spirit of rules prohibiting sexual harassment of and \u2026",
-     "published": "2026-09-01T22:20:07+00:00",
-     "image": "https://images.axios.com/KmVEOWNg9ct_UDWKFZbYOqUzXjg=/0x0:7578x4263/1366x768/2026/09/01/1788275016255.jpeg",
-     "kind": "article",
-     "id": "b614bf9ac7f0da81",
-     "first_seen": "2026-09-01T22:27:46.765598+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
