@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-02T19:26:49.423232+00:00",
+ "generated_at": "2026-09-02T19:44:43.753201+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,14 +10,14 @@
    "more": 0,
    "items": [
     {
-     "title": "Mostly Cloudy",
-     "phrase": "Rain is near certain between 5pm and 7am.",
-     "detail": "It reaches 76\u00b0 today and falls to 61\u00b0 overnight. The sun is up from 6:21 until 7:29.",
+     "title": "Cloudy",
+     "phrase": "Rain is near certain between 7pm and 8am.",
+     "detail": "It reaches 71\u00b0 today and falls to 64\u00b0 overnight. The sun is up from 6:21 until 7:29.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 74,
-     "high": 76,
-     "low": 61,
+     "temp": 69,
+     "high": 71,
+     "low": 64,
      "sunrise": "6:21",
      "sunset": "7:29",
      "id": "bb806d72c86dcec1",
@@ -143,6 +143,18 @@
    "more": 0,
    "items": [
     {
+     "title": "I Built a Radio That Turns Signals Into Pictures",
+     "url": "https://www.hackster.io/CiferTech/i-built-a-radio-that-turns-signals-into-pictures-d7a402",
+     "source": "Hackster",
+     "summary": "Handheld AM / FM / SW receiver on ESP32-S3 and SI4732. SSTV, Morse, RSSI homing, and a web remote.",
+     "published": "2026-09-02T15:28:47+00:00",
+     "image": "https://hackster.imgix.net/uploads/attachments/1993819/_oRkXzwfRRx.blob",
+     "kind": "article",
+     "id": "58860487dbdc81c1",
+     "first_seen": "2026-09-02T19:44:43.753201+00:00",
+     "is_new": true
+    },
+    {
      "title": "\u201cI\u2019m Not Dead Yet!\u201d Reverse Polish Notation Calculators You Can Still Buy",
      "url": "https://hackaday.com/2026/09/02/im-not-dead-yet-reverse-polish-notation-calculators-you-can-still-buy/",
      "source": "Hackaday",
@@ -164,18 +176,6 @@
      "kind": "article",
      "id": "d74746e9c727590a",
      "first_seen": "2026-09-02T15:34:55.294990+00:00",
-     "is_new": true
-    },
-    {
-     "title": "Modernizing Legacy RC: FlySky RF Module Hack with ESP32",
-     "url": "https://www.hackster.io/iothub-guy/modernizing-legacy-rc-flysky-rf-module-hack-with-esp32-2e2448",
-     "source": "Hackster",
-     "summary": "Ditching outdated T6Config PC software by repurposing the FS-HF030A 2.4GHz module into a smartphone-controlled transmitter with hardware-tim",
-     "published": "2026-09-02T06:47:16+00:00",
-     "image": "https://hackster.imgix.net/uploads/attachments/1993677/_tCtDtNI6YP.blob",
-     "kind": "article",
-     "id": "95b77f1b775ffd05",
-     "first_seen": "2026-09-02T12:10:53.459964+00:00",
      "is_new": true
     },
     {
