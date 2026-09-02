@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-02T11:46:34.771729+00:00",
+ "generated_at": "2026-09-02T12:10:53.459964+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -11,11 +11,11 @@
    "items": [
     {
      "title": "Cloudy",
-     "phrase": "Rain is near certain between 5pm and 12am.",
+     "phrase": "Rain is near certain between 5pm and 1am.",
      "detail": "It reaches 76\u00b0 today and falls to 61\u00b0 overnight. The sun is up from 6:21 until 7:29.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 61,
+     "temp": 63,
      "high": 76,
      "low": 61,
      "sunrise": "6:21",
@@ -69,6 +69,22 @@
    "more": 0,
    "items": [
     {
+     "title": "More than 900 killed in Gaza this year despite ceasefire, Hamas-run health ministry says",
+     "url": "https://www.bbc.co.uk/news/articles/c7708dy33pdo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "summary": "The ministry says the total number of people killed in the Strip since 10 October is now more than 1,300, including 301 children.",
+     "published": "2026-09-02T11:51:46+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bae6/live/70e46460-a6ba-11f1-b109-879e35c24276.jpg",
+     "kind": "article",
+     "id": "dd31cd78444455f7",
+     "first_seen": "2026-09-02T12:10:53.459964+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
      "title": "Investors Still on Edge Over War, Debt and Inflation",
      "url": "https://www.nytimes.com/2026/09/02/business/oil-bond-yields-iran.html",
      "source": "New York Times",
@@ -78,22 +94,6 @@
      "kind": "article",
      "id": "ae1254eca1fe673a",
      "first_seen": "2026-09-02T10:30:28.103476+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "Status of Iran\u2019s Nuclear Program Is Unclear, U.N. Watchdog Says",
-     "url": "https://www.nytimes.com/2026/09/02/world/middleeast/iran-nuclear-program-iaea.html",
-     "source": "New York Times",
-     "summary": "As the war sputters on, an internal report from the International Atomic Energy Agency said Iran\u2019s refusal to grant access to its inspectors was an urgent concern.",
-     "published": "2026-09-02T10:32:45+00:00",
-     "image": "https://static01.nyt.com/images/2026/09/02/multimedia/02int-iran-nuclear-01-qgcf/02int-iran-nuclear-01-qgcf-mediumSquareAt3X.jpg",
-     "kind": "article",
-     "id": "185ae067f26baf90",
-     "first_seen": "2026-09-02T11:07:51.922400+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
@@ -143,6 +143,18 @@
    "more": 0,
    "items": [
     {
+     "title": "Modernizing Legacy RC: FlySky RF Module Hack with ESP32",
+     "url": "https://www.hackster.io/iothub-guy/modernizing-legacy-rc-flysky-rf-module-hack-with-esp32-2e2448",
+     "source": "Hackster",
+     "summary": "Ditching outdated T6Config PC software by repurposing the FS-HF030A 2.4GHz module into a smartphone-controlled transmitter with hardware-tim",
+     "published": "2026-09-02T06:47:16+00:00",
+     "image": "https://hackster.imgix.net/uploads/attachments/1993677/_tCtDtNI6YP.blob",
+     "kind": "article",
+     "id": "95b77f1b775ffd05",
+     "first_seen": "2026-09-02T12:10:53.459964+00:00",
+     "is_new": true
+    },
+    {
      "title": "A Defrag Simulator In Your Browser",
      "url": "https://hackaday.com/2026/09/01/a-defrag-simulator-in-your-browser/",
      "source": "Hackaday",
@@ -164,18 +176,6 @@
      "kind": "article",
      "id": "ed876363aa3a1002",
      "first_seen": "2026-09-02T10:09:28.627850+00:00",
-     "is_new": true
-    },
-    {
-     "title": "ESP32-Based Smart Home Automation System With Alexa",
-     "url": "https://www.hackster.io/rau7han/esp32-based-smart-home-automation-system-with-alexa-4f0301",
-     "source": "Hackster",
-     "summary": "In this project, I will show you how I connected an ESP32 4-channel relay board with Amazon Alexa and controlled all four relay channels",
-     "published": "2026-09-01T08:38:51+00:00",
-     "image": "https://hackster.imgix.net/uploads/attachments/1993317/_N4DxJ4uHzX.blob",
-     "kind": "article",
-     "id": "9ac9318bc948a24d",
-     "first_seen": "2026-09-01T15:50:22.317415+00:00",
      "is_new": true
     },
     {
