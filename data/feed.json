@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-03T10:45:54.665567+00:00",
+ "generated_at": "2026-09-03T11:08:07.590259+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -143,15 +143,15 @@
    "more": 0,
    "items": [
     {
-     "title": "Miniaturized, Working Replica of Vintage Leslie Speaker",
-     "url": "https://hackaday.com/2026/09/03/miniaturized-working-replica-of-vintage-leslie-speaker/",
+     "title": "Rescuing a Rescue Device With a DIY Battery Pack",
+     "url": "https://hackaday.com/2026/09/03/rescuing-a-rescue-device-with-a-diy-battery-pack/",
      "source": "Hackaday",
-     "summary": "Few pieces of vintage audio gear from the turn of the century (the previous one) inspire the kind of devotion that a Leslie speaker does. Sure, there are plenty of \u2026read more",
-     "published": "2026-09-03T08:00:49+00:00",
-     "image": "https://hackaday.com/wp-content/uploads/2026/09/mini-leslie-main.png",
+     "summary": "If you find yourself lost in the woods or adrift in the ocean, a GPS-enabled Personal Locator Beacon (PLB) is certainly a handy thing to have as it will pinpoint \u2026read more",
+     "published": "2026-09-03T11:00:16+00:00",
+     "image": "https://hackaday.com/wp-content/uploads/2026/09/plbpack_feat.jpg",
      "kind": "article",
-     "id": "cb4c8aa59ae9d124",
-     "first_seen": "2026-09-03T10:08:59.205059+00:00",
+     "id": "1c243a6236c9e4c9",
+     "first_seen": "2026-09-03T11:08:07.590259+00:00",
      "is_new": true
     },
     {
@@ -210,8 +210,21 @@
    "kind": "goods",
    "lead_image": false,
    "row_detail": false,
-   "more": 4,
+   "more": 5,
    "items": [
+    {
+     "title": "Dark Green Lambswool Sleeveless Cardigan",
+     "url": "https://us.drakes.com/products/dark-green-lambswool-sleeveless-cardigan",
+     "source": "Drake's",
+     "summary": "Knitwear",
+     "published": "2026-09-03T06:59:02-04:00",
+     "image": "https://cdn.shopify.com/s/files/1/0649/6603/3653/files/DR2A3D22688-10400-1.jpg?v=1788364996",
+     "price": "$345",
+     "kind": "product",
+     "id": "2b02d6820dd51202",
+     "first_seen": "2026-09-03T11:08:07.590259+00:00",
+     "is_new": true
+    },
     {
      "title": "Indigo Cotton Long Point Collar Work Shirt",
      "url": "https://us.drakes.com/products/indigo-cotton-long-point-collar-work-shirt",
@@ -248,19 +261,6 @@
      "price": "$240",
      "kind": "product",
      "id": "8b1aa629ddee17a6",
-     "first_seen": "2026-09-03T10:08:59.205059+00:00",
-     "is_new": true
-    },
-    {
-     "title": "Il Bisonte Leather Passport Holder",
-     "url": "https://us.drakes.com/products/il-bisonte-leather-passport-holder",
-     "source": "Drake's",
-     "summary": "Accessories",
-     "published": "2026-09-03T05:25:39-04:00",
-     "image": "https://cdn.shopify.com/s/files/1/0649/6603/3653/files/DR1AL526284-01300-1.jpg?v=1788356234",
-     "price": "$95",
-     "kind": "product",
-     "id": "d9ae4e1288b326fb",
      "first_seen": "2026-09-03T10:08:59.205059+00:00",
      "is_new": true
     }
