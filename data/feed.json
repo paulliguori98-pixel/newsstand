@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-03T20:08:12.365821+00:00",
+ "generated_at": "2026-09-03T20:29:03.542965+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -214,8 +214,21 @@
    "kind": "goods",
    "lead_image": false,
    "row_detail": false,
-   "more": 5,
+   "more": 14,
    "items": [
+    {
+     "title": "Spread Collar Dress Shirt in Dutch/White Stripe Poplin",
+     "url": "https://shopmashburn.com/products/sid-mashburn-spread-collar-dress-shirt-dutch-white-stripe-poplin-s80619",
+     "source": "Sid Mashburn",
+     "summary": "Sid Dress Shirts",
+     "published": "2026-09-03T16:20:00-04:00",
+     "image": "https://cdn.shopify.com/s/files/1/0414/4532/6999/files/S80619_0033.jpg?v=1785880050",
+     "price": "$195",
+     "kind": "product",
+     "id": "5d2a83c8ef3c446e",
+     "first_seen": "2026-09-03T20:29:03.542965+00:00",
+     "is_new": true
+    },
     {
      "title": "Dark Green Lambswool Sleeveless Cardigan",
      "url": "https://us.drakes.com/products/dark-green-lambswool-sleeveless-cardigan",
@@ -230,6 +243,19 @@
      "is_new": true
     },
     {
+     "title": "1\" Conroy Belt in Chocolate Wild Boar",
+     "url": "https://shopmashburn.com/products/mashburn-1-conroy-belt-chocolate-wild-boar-s81236",
+     "source": "Sid Mashburn",
+     "summary": "Mash Belts",
+     "published": "2026-09-03T16:19:58-04:00",
+     "image": "https://cdn.shopify.com/s/files/1/0414/4532/6999/files/M-26-AUG-FALL-CATALOG-1-PDP-REVISED-18.jpg?v=1787845354",
+     "price": "$195",
+     "kind": "product",
+     "id": "2b68aef367942664",
+     "first_seen": "2026-09-03T20:29:03.542965+00:00",
+     "is_new": true
+    },
+    {
      "title": "Indigo Cotton Long Point Collar Work Shirt",
      "url": "https://us.drakes.com/products/indigo-cotton-long-point-collar-work-shirt",
      "source": "Drake's",
@@ -239,32 +265,6 @@
      "price": "$375",
      "kind": "product",
      "id": "fe3166ffab24804f",
-     "first_seen": "2026-09-03T10:08:59.205059+00:00",
-     "is_new": true
-    },
-    {
-     "title": "Navy, Green and Brown Multi Stripe Hand Rolled Silk Grenadine Tie",
-     "url": "https://us.drakes.com/products/navy-green-and-brown-multi-stripe-hand-rolled-silk-grenadine-tie",
-     "source": "Drake's",
-     "summary": "Striped Tie",
-     "published": "2026-09-03T05:29:46-04:00",
-     "image": "https://cdn.shopify.com/s/files/1/0649/6603/3653/files/DR1AAR26738-01-252-2.jpg?v=1788341724",
-     "price": "$275",
-     "kind": "product",
-     "id": "3b4671d62ff3ac1e",
-     "first_seen": "2026-09-03T10:08:59.205059+00:00",
-     "is_new": true
-    },
-    {
-     "title": "New Balance 'Elevated Essentials' Wind Chime and Brilliant White Made in UK 991v2 Trainers",
-     "url": "https://us.drakes.com/products/new-balance-elevated-essentials-wind-chime-and-brilliant-white-made-in-uk-991v2-trainers",
-     "source": "Drake's",
-     "summary": "Trainers",
-     "published": "2026-09-03T05:28:28-04:00",
-     "image": "https://cdn.shopify.com/s/files/1/0649/6603/3653/files/DR1AF226814-03000-1.jpg?v=1788342909",
-     "price": "$240",
-     "kind": "product",
-     "id": "8b1aa629ddee17a6",
      "first_seen": "2026-09-03T10:08:59.205059+00:00",
      "is_new": true
     }
