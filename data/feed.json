@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-03T21:28:17.831404+00:00",
+ "generated_at": "2026-09-03T21:44:37.094659+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,8 +10,8 @@
    "more": 0,
    "items": [
     {
-     "title": "Mostly Sunny",
-     "phrase": "Mostly Sunny all day.",
+     "title": "Sunny",
+     "phrase": "Sunny all day.",
      "detail": "It reaches 75\u00b0 today and falls to 59\u00b0 overnight. The sun is up from 6:22 until 7:27.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
@@ -72,8 +72,8 @@
      "title": "News live: Two more Australians confirmed safe in Nepal-Tibet floods; Hanson to make cost of living \u2018worse\u2019, union boss warns",
      "url": "https://www.theguardian.com/australia-news/live/2026/sep/04/anthony-albanese-pauline-hanson-actu-union-labor-one-nation-coalition-angus-taylor-ntwnfb",
      "source": "Guardian",
-     "summary": "Follow the day\u2019s news live.Get our breaking news email, free app or daily news podcastGood morning, Nick Visser here to take over the blog and see us through Friday. Let\u2019s get to \u2026",
-     "published": "2026-09-03T21:15:12+00:00",
+     "summary": "Follow the day\u2019s news live.Get our breaking news email, free app or daily news podcastCoalition says main focus of tobacco excise cut is tackling organised crimeAnne Ruston, the s\u2026",
+     "published": "2026-09-03T21:34:45+00:00",
      "image": "https://i.guim.co.uk/img/media/4ca5cfaea4f860f8cd42de45ec371cbe68e189f1/915_0_4549_3640/master/4549.jpg?width=140&quality=85&auto=format&fit=max&s=04c20dd09d0fc133a5a753d89a0c0037",
      "kind": "article",
      "id": "ef4fd0e97d6848f9",
