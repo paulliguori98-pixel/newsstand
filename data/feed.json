@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-03T17:29:14.448821+00:00",
+ "generated_at": "2026-09-03T17:47:28.696487+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -69,26 +69,6 @@
    "more": 0,
    "items": [
     {
-     "title": "Gloria Steinem Came to New York to Be a Writer. She Became a Movement.",
-     "url": "https://www.nytimes.com/2026/09/03/books/review/gloria-steinem-writing-appraisal.html",
-     "source": "New York Times",
-     "summary": "Her 1983 book \u201cOutrageous Acts and Everyday Rebellions\u201d is a master class in grit, empathy, curiosity and hustle.",
-     "published": "2026-09-03T15:26:06+00:00",
-     "image": null,
-     "kind": "article",
-     "id": "e9275cd65c47441e",
-     "first_seen": "2026-09-03T12:36:39.600688+00:00",
-     "is_new": true,
-     "corroboration": 4,
-     "also_in": [
-      "Axios",
-      "BBC",
-      "NPR"
-     ],
-     "boosted": false,
-     "score": 4
-    },
-    {
      "title": "EU\u2019s ability to defend against invasion remains in doubt, finds official report",
      "url": "https://www.theguardian.com/world/2026/sep/03/eu-defence-readiness-eca-auditors-us-reliance",
      "source": "Guardian",
@@ -130,6 +110,22 @@
      "kind": "article",
      "id": "292e784a2d86cce4",
      "first_seen": "2026-09-03T10:08:59.205059+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
+     "title": "Off-grid UK-Australian couple describe \u2018anguish\u2019 at removal of children by Italian court",
+     "url": "https://www.theguardian.com/world/2026/sep/03/off-grid-uk-australian-couple-children-italy-ntwnfb",
+     "source": "Guardian",
+     "summary": "After judge allows partial access rights, Catherine Birmingham and Nathan Trevallion say the enforced separation \u2018broke each of our hearts\u2019A couple have told of their heartache, t\u2026",
+     "published": "2026-09-03T10:20:22+00:00",
+     "image": "https://i.guim.co.uk/img/media/e814a9f709f171d5e2714e08599e2938cefffc2a/0_117_1200_960/master/1200.jpg?width=140&quality=85&auto=format&fit=max&s=3a1d6447f89ca1abd1511c51787791a0",
+     "kind": "article",
+     "id": "be490e81c591ad58",
+     "first_seen": "2026-09-03T10:45:54.665567+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
