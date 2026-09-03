@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-03T12:51:29.819199+00:00",
+ "generated_at": "2026-09-03T13:08:31.324025+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,12 +10,12 @@
    "more": 0,
    "items": [
     {
-     "title": "Slight Chance Rain Showers",
-     "phrase": "Slight Chance Rain Showers all day.",
+     "title": "Partly Sunny",
+     "phrase": "Partly Sunny all day.",
      "detail": "It reaches 84\u00b0 today and falls to 60\u00b0 overnight. The sun is up from 6:22 until 7:27.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 66,
+     "temp": 69,
      "high": 84,
      "low": 60,
      "sunrise": "6:22",
@@ -69,6 +69,26 @@
    "more": 0,
    "items": [
     {
+     "title": "Feminist activist and journalist Gloria Steinem dies, aged 92",
+     "url": "https://www.bbc.co.uk/news/articles/clyeq3ngwe4o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "summary": "Her foundation said she \"passed away peacefully\" at her home in New York City, \"surrounded by many who loved her\".",
+     "published": "2026-09-03T12:57:46+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/23c8/live/cf91da40-a784-11f1-b2d5-535b3b3d379f.jpg",
+     "kind": "article",
+     "id": "ca58672fbc860fb8",
+     "first_seen": "2026-09-03T10:30:25.467257+00:00",
+     "is_new": true,
+     "corroboration": 4,
+     "also_in": [
+      "Axios",
+      "NPR",
+      "New York Times"
+     ],
+     "boosted": false,
+     "score": 4
+    },
+    {
      "title": "Australian science prize awarded to researcher studying memory accuracy of domestic violence survivors",
      "url": "https://www.theguardian.com/science/2026/sep/03/eureka-prize-2026-helen-paterson-jane-tiller-australian-science-prizes",
      "source": "Guardian",
@@ -82,26 +102,6 @@
      "corroboration": 1,
      "also_in": [],
      "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "Gloria Steinem, feminist icon, dies at 92",
-     "url": "https://www.axios.com/2026/09/03/gloria-steinem-dies-92-feminist-icon",
-     "source": "Axios",
-     "summary": "Gloria Steinem, the journalist, activist and organizer who became the most recognizable face of the U.S. women's movement, died Wednesday at 92.The big picture: Steinem resisted b\u2026",
-     "published": "2026-09-03T12:23:35+00:00",
-     "image": "https://images.axios.com/IoCi5fC_V3GG2G5B7RC1W4nYepg=/0x330:3682x2401/1366x768/2026/09/03/1788434278111.jpeg",
-     "kind": "article",
-     "id": "c639e5266a75bf6e",
-     "first_seen": "2026-09-03T12:36:39.600688+00:00",
-     "is_new": true,
-     "corroboration": 4,
-     "also_in": [
-      "BBC",
-      "NPR",
-      "New York Times"
-     ],
-     "boosted": false,
      "score": 4
     },
     {
