@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-03T22:44:37.342940+00:00",
+ "generated_at": "2026-09-03T23:07:18.460140+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,8 +10,8 @@
    "more": 0,
    "items": [
     {
-     "title": "Mostly Clear",
-     "phrase": "Mostly Clear all day.",
+     "title": "Partly Cloudy",
+     "phrase": "Partly Cloudy all day.",
      "detail": "It reaches 81\u00b0 today and falls to 59\u00b0 overnight. The sun is up from 6:22 until 7:27.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
@@ -69,22 +69,6 @@
    "more": 0,
    "items": [
     {
-     "title": "News live: Two more Australians confirmed safe in Nepal-Tibet floods; Hanson to make cost of living \u2018worse\u2019, union boss warns",
-     "url": "https://www.theguardian.com/australia-news/live/2026/sep/04/anthony-albanese-pauline-hanson-actu-union-labor-one-nation-coalition-angus-taylor-ntwnfb",
-     "source": "Guardian",
-     "summary": "Follow the day\u2019s news live.Get our breaking news email, free app or daily news podcast\u2018Gut-wrenching\u2019Chris Bowen said he would meet members of the Nepali Australian community late\u2026",
-     "published": "2026-09-03T22:33:05+00:00",
-     "image": "https://i.guim.co.uk/img/media/4ca5cfaea4f860f8cd42de45ec371cbe68e189f1/915_0_4549_3640/master/4549.jpg?width=140&quality=85&auto=format&fit=max&s=04c20dd09d0fc133a5a753d89a0c0037",
-     "kind": "article",
-     "id": "ef4fd0e97d6848f9",
-     "first_seen": "2026-09-03T21:08:26.141517+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
      "title": "Serbians targeted with spyware in country\u2019s \u2018largest documented wave of surveillance\u2019",
      "url": "https://www.theguardian.com/world/2026/sep/03/serbians-targeted-with-advanced-spyware",
      "source": "Guardian",
@@ -135,6 +119,22 @@
      "also_in": [],
      "boosted": true,
      "score": 4
+    },
+    {
+     "title": "Australian science prize awarded to researcher studying memory accuracy of domestic violence survivors",
+     "url": "https://www.theguardian.com/science/2026/sep/03/eureka-prize-2026-helen-paterson-jane-tiller-australian-science-prizes",
+     "source": "Guardian",
+     "summary": "Helen Paterson\u2019s work on advancing how police and courts understand memory is recognised in prestigious Eureka prizesFollow our Australia news live blog for latest updatesGet our \u2026",
+     "published": "2026-09-03T12:30:38+00:00",
+     "image": "https://i.guim.co.uk/img/media/35addbfcdf9acb152b2c3df46eb207dfc5f6dbcf/159_4_1441_1153/master/1441.jpg?width=140&quality=85&auto=format&fit=max&s=470cff007a166e58e19c02568fb4960b",
+     "kind": "article",
+     "id": "4133a0b6acd521d6",
+     "first_seen": "2026-09-03T12:36:39.600688+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
     }
    ]
   },
@@ -147,15 +147,15 @@
    "more": 0,
    "items": [
     {
-     "title": "A Split Keyboard Designed for Human Hands",
-     "url": "https://hackaday.com/2026/09/03/a-split-keyboard-designed-for-human-hands/",
+     "title": "How to Avoid Getting Arc Flashed",
+     "url": "https://hackaday.com/2026/09/03/how-to-avoid-getting-arc-flashed/",
      "source": "Hackaday",
-     "summary": "A surprising number of things we use in everyday life retain most of their design cues from their 19th century ancestors. The bicycle retains the same basic design as it \u2026read more",
-     "published": "2026-09-03T20:00:53+00:00",
-     "image": "https://hackaday.com/wp-content/uploads/2026/09/cogito-keyboard-main.png",
+     "summary": "After getting called out in the field to troubleshoot a large PV solar installation, [Derek] found himself suddenly in the midst of an arc flash, causing burns all over his \u2026read \u2026",
+     "published": "2026-09-03T23:00:43+00:00",
+     "image": "https://hackaday.com/wp-content/uploads/2026/09/arc_flash_aftermath_derek_the_solarboi_youtube.jpg",
      "kind": "article",
-     "id": "68772848c46353fb",
-     "first_seen": "2026-09-03T20:08:12.365821+00:00",
+     "id": "2ae762085f128a4e",
+     "first_seen": "2026-09-03T23:07:18.460140+00:00",
      "is_new": true
     },
     {
