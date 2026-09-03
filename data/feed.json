@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-03T17:47:28.696487+00:00",
+ "generated_at": "2026-09-03T18:10:01.861022+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -69,6 +69,42 @@
    "more": 0,
    "items": [
     {
+     "title": "Feminist activist and journalist Gloria Steinem dies, aged 92",
+     "url": "https://www.bbc.co.uk/news/articles/clyeq3ngwe4o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "summary": "Her foundation said she \"passed away peacefully\" at her home in New York City, \"surrounded by many who loved her\".",
+     "published": "2026-09-03T18:04:34+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/23c8/live/cf91da40-a784-11f1-b2d5-535b3b3d379f.jpg",
+     "kind": "article",
+     "id": "ca58672fbc860fb8",
+     "first_seen": "2026-09-03T10:30:25.467257+00:00",
+     "is_new": true,
+     "corroboration": 4,
+     "also_in": [
+      "Axios",
+      "NPR",
+      "New York Times"
+     ],
+     "boosted": false,
+     "score": 4
+    },
+    {
+     "title": "At least 14 Serbians targeted with advanced spyware",
+     "url": "https://www.theguardian.com/world/2026/sep/03/serbians-targeted-with-advanced-spyware",
+     "source": "Guardian",
+     "summary": "Student protesters among those hacked, Share Foundation says, but government denies spyingAt least 14 people from across Serbian civil society were targeted with advanced spyware \u2026",
+     "published": "2026-09-03T17:48:36+00:00",
+     "image": "https://i.guim.co.uk/img/media/ae0aac5465ad3cebc026a1a93415ec31b229a2d8/475_0_4740_3793/master/4740.jpg?width=140&quality=85&auto=format&fit=max&s=6699fa729d5f5a8db700b8085df6cd2b",
+     "kind": "article",
+     "id": "e4a1ce9ee168dfdc",
+     "first_seen": "2026-09-03T18:10:01.861022+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
      "title": "EU\u2019s ability to defend against invasion remains in doubt, finds official report",
      "url": "https://www.theguardian.com/world/2026/sep/03/eu-defence-readiness-eca-auditors-us-reliance",
      "source": "Guardian",
@@ -94,38 +130,6 @@
      "kind": "article",
      "id": "4133a0b6acd521d6",
      "first_seen": "2026-09-03T12:36:39.600688+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "Embattled Spanish PM insists there were no prior warnings before Ceuta crisis",
-     "url": "https://www.bbc.co.uk/news/articles/c07lz7rn2mjo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "summary": "Pedro S\u00e1nchez tells parliament it is absurd to think the government knew and did nothing, after thousands join protests in Spanish cities.",
-     "published": "2026-09-03T12:18:07+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8fb5/live/4dfc9a20-a792-11f1-b64a-71b1e45ff5c7.jpg",
-     "kind": "article",
-     "id": "292e784a2d86cce4",
-     "first_seen": "2026-09-03T10:08:59.205059+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "Off-grid UK-Australian couple describe \u2018anguish\u2019 at removal of children by Italian court",
-     "url": "https://www.theguardian.com/world/2026/sep/03/off-grid-uk-australian-couple-children-italy-ntwnfb",
-     "source": "Guardian",
-     "summary": "After judge allows partial access rights, Catherine Birmingham and Nathan Trevallion say the enforced separation \u2018broke each of our hearts\u2019A couple have told of their heartache, t\u2026",
-     "published": "2026-09-03T10:20:22+00:00",
-     "image": "https://i.guim.co.uk/img/media/e814a9f709f171d5e2714e08599e2938cefffc2a/0_117_1200_960/master/1200.jpg?width=140&quality=85&auto=format&fit=max&s=3a1d6447f89ca1abd1511c51787791a0",
-     "kind": "article",
-     "id": "be490e81c591ad58",
-     "first_seen": "2026-09-03T10:45:54.665567+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
