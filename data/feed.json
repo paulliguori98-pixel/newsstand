@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-03T15:08:18.728697+00:00",
+ "generated_at": "2026-09-03T15:32:00.980544+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -69,15 +69,15 @@
    "more": 0,
    "items": [
     {
-     "title": "Gloria Steinem, Personification of the Feminist Movement, Dies at 92",
-     "url": "https://www.nytimes.com/2026/09/03/us/politics/gloria-steinem-dead.html",
+     "title": "Gloria Steinem Came to New York to Be a Writer. She Became a Movement.",
+     "url": "https://www.nytimes.com/2026/09/03/books/review/gloria-steinem-writing-appraisal.html",
      "source": "New York Times",
-     "summary": "She challenged sexist assumptions, helping women develop a sense of self-worth and gain a measure of equality at work, at home and in society at large.",
-     "published": "2026-09-03T14:39:47+00:00",
-     "image": "https://static01.nyt.com/images/2022/11/07/obituaries/00steinem-01/00steinem-01-mediumSquareAt3X.jpg",
+     "summary": "Her 1983 book \u201cOutrageous Acts and Everyday Rebellions\u201d is a master class in grit, empathy, curiosity and hustle.",
+     "published": "2026-09-03T15:26:06+00:00",
+     "image": null,
      "kind": "article",
-     "id": "026304f17e0cfa7d",
-     "first_seen": "2026-09-03T10:30:25.467257+00:00",
+     "id": "e9275cd65c47441e",
+     "first_seen": "2026-09-03T12:36:39.600688+00:00",
      "is_new": true,
      "corroboration": 4,
      "also_in": [
@@ -86,6 +86,22 @@
       "NPR"
      ],
      "boosted": false,
+     "score": 4
+    },
+    {
+     "title": "EU\u2019s ability to defend against invasion remains in doubt, finds official report",
+     "url": "https://www.theguardian.com/world/2026/sep/03/eu-defence-readiness-eca-auditors-us-reliance",
+     "source": "Guardian",
+     "summary": "Fragmented infrastructure and reliance on US continue to hinder \u2018defence readiness\u2019, says European court of auditorsEurope live \u2013 latest updatesThe EU\u2019s ability to respond to a fo\u2026",
+     "published": "2026-09-03T15:09:25+00:00",
+     "image": "https://i.guim.co.uk/img/media/3687b0dcb945ef4e931bf862da36b3409ac9e77e/422_0_5810_4648/master/5810.jpg?width=140&quality=85&auto=format&fit=max&s=e831f9de6db21ad826a8853b4a2a8223",
+     "kind": "article",
+     "id": "00fee9d810ebb9f1",
+     "first_seen": "2026-09-03T15:32:00.980544+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
      "score": 4
     },
     {
@@ -119,22 +135,6 @@
      "also_in": [],
      "boosted": true,
      "score": 4
-    },
-    {
-     "title": "Off-grid UK-Australian couple describe \u2018anguish\u2019 at removal of children by Italian court",
-     "url": "https://www.theguardian.com/world/2026/sep/03/off-grid-uk-australian-couple-children-italy-ntwnfb",
-     "source": "Guardian",
-     "summary": "After judge allows partial access rights, Catherine Birmingham and Nathan Trevallion say the enforced separation \u2018broke each of our hearts\u2019A couple have told of their heartache, t\u2026",
-     "published": "2026-09-03T10:20:22+00:00",
-     "image": "https://i.guim.co.uk/img/media/e814a9f709f171d5e2714e08599e2938cefffc2a/0_117_1200_960/master/1200.jpg?width=140&quality=85&auto=format&fit=max&s=3a1d6447f89ca1abd1511c51787791a0",
-     "kind": "article",
-     "id": "be490e81c591ad58",
-     "first_seen": "2026-09-03T10:45:54.665567+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
     }
    ]
   },
@@ -147,15 +147,15 @@
    "more": 0,
    "items": [
     {
-     "title": "Rescuing a Rescue Device With a DIY Battery Pack",
-     "url": "https://hackaday.com/2026/09/03/rescuing-a-rescue-device-with-a-diy-battery-pack/",
+     "title": "A Thoroughly Modern Minimalist Transceiver",
+     "url": "https://hackaday.com/2026/09/03/a-thoroughly-modern-minimalist-transceiver/",
      "source": "Hackaday",
-     "summary": "If you find yourself lost in the woods or adrift in the ocean, a GPS-enabled Personal Locator Beacon (PLB) is certainly a handy thing to have as it will pinpoint \u2026read more",
-     "published": "2026-09-03T11:00:16+00:00",
-     "image": "https://hackaday.com/wp-content/uploads/2026/09/plbpack_feat.jpg",
+     "summary": "Making a radio is so often a case of taking tried and tested designs and working with them to create something new. It\u2019s a safe way to make something that \u2026read more",
+     "published": "2026-09-03T15:30:34+00:00",
+     "image": "https://hackaday.com/wp-content/uploads/2026/09/mini-tcvr-featured.jpg",
      "kind": "article",
-     "id": "1c243a6236c9e4c9",
-     "first_seen": "2026-09-03T11:08:07.590259+00:00",
+     "id": "5f9e368188e1db19",
+     "first_seen": "2026-09-03T15:32:00.980544+00:00",
      "is_new": true
     },
     {
@@ -279,16 +279,16 @@
    "more": 0,
    "items": [
     {
-     "title": "The silks of Como: A reminder of the value of craft",
-     "url": "https://www.permanentstyle.com/2026/09/the-silks-of-como-a-reminder-of-the-value-of-craft.html",
-     "source": "Permanent Style",
-     "summary": "I miss this. Visiting a mill is such an enjoyable, often inspiring experience, yet I don\u2019t do it as much as I used to. Perhaps because once you\u2019d done one worsted weaver it\u2019s hard\u2026",
-     "published": "2026-09-02T08:00:52+00:00",
-     "image": "https://www.permanentstyle.com/wp-content/uploads/2026/08/Como-silk-quality.jpg",
+     "title": "Merging Onto Memory Lane",
+     "url": "https://www.thisnicelife.com/p/merging-onto-memory-lane",
+     "source": "This Nice Life",
+     "summary": "A vehicle and a song can take you back in time.",
+     "published": "2026-08-22T12:02:05+00:00",
+     "image": "https://substackcdn.com/image/fetch/$s_!7Xdo!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2bf7c313-331a-4432-b729-81c08d305139_4032x2268.jpeg",
      "kind": "article",
-     "id": "a27567868d197e93",
-     "first_seen": "2026-09-02T10:09:28.627850+00:00",
-     "is_new": true,
+     "id": "06d3681b0771cc47",
+     "first_seen": "2026-08-22T13:43:58.125100+00:00",
+     "is_new": false,
      "corroboration": 1,
      "also_in": [],
      "boosted": false,
@@ -345,5 +345,7 @@
    ]
   }
  ],
- "errors": []
+ "errors": [
+  "Permanent Style: RuntimeError \u2014 https://www.permanentstyle.com/feed \u2192 HTTP 415"
+ ]
 }
