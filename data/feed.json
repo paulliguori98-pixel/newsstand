@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-03T20:45:26.515490+00:00",
+ "generated_at": "2026-09-03T21:08:26.141517+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,8 +10,8 @@
    "more": 0,
    "items": [
     {
-     "title": "Mostly Sunny",
-     "phrase": "Mostly Sunny all day.",
+     "title": "Sunny",
+     "phrase": "Sunny all day.",
      "detail": "It reaches 75\u00b0 today and falls to 59\u00b0 overnight. The sun is up from 6:22 until 7:27.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
@@ -69,6 +69,22 @@
    "more": 0,
    "items": [
     {
+     "title": "Australia news live: Pauline Hanson to make cost of living \u2018worse\u2019, new union boss warns; Labor scraps course citing \u2018integrity\u2019",
+     "url": "https://www.theguardian.com/australia-news/live/2026/sep/04/anthony-albanese-pauline-hanson-actu-union-labor-one-nation-coalition-angus-taylor-ntwnfb",
+     "source": "Guardian",
+     "summary": "The new ACTU secretary, Melissa Donnelly, says One Nation \u2018says one thing and does another\u2019Get our breaking news email, free app or daily news podcastAsked if she saw her role as \u2026",
+     "published": "2026-09-03T20:57:40+00:00",
+     "image": "https://i.guim.co.uk/img/media/5e197f0b420803950aa951cab8c94ade624fc4d3/767_125_2159_1728/master/2159.jpg?width=140&quality=85&auto=format&fit=max&s=b9399d583eb4022671f67d9ad5c92f24",
+     "kind": "article",
+     "id": "ef4fd0e97d6848f9",
+     "first_seen": "2026-09-03T21:08:26.141517+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
      "title": "Gloria Steinem, Personification of the Feminist Movement, Dies at 92",
      "url": "https://www.nytimes.com/2026/09/03/us/politics/gloria-steinem-dead.html",
      "source": "New York Times",
@@ -114,22 +130,6 @@
      "kind": "article",
      "id": "00fee9d810ebb9f1",
      "first_seen": "2026-09-03T15:32:00.980544+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "Australian science prize awarded to researcher studying memory accuracy of domestic violence survivors",
-     "url": "https://www.theguardian.com/science/2026/sep/03/eureka-prize-2026-helen-paterson-jane-tiller-australian-science-prizes",
-     "source": "Guardian",
-     "summary": "Helen Paterson\u2019s work on advancing how police and courts understand memory is recognised in prestigious Eureka prizesGet our breaking news email, free app or daily news podcastMem\u2026",
-     "published": "2026-09-03T12:30:38+00:00",
-     "image": "https://i.guim.co.uk/img/media/35addbfcdf9acb152b2c3df46eb207dfc5f6dbcf/159_4_1441_1153/master/1441.jpg?width=140&quality=85&auto=format&fit=max&s=470cff007a166e58e19c02568fb4960b",
-     "kind": "article",
-     "id": "4133a0b6acd521d6",
-     "first_seen": "2026-09-03T12:36:39.600688+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
