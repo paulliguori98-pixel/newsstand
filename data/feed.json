@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-03T19:26:05.519199+00:00",
+ "generated_at": "2026-09-03T19:44:42.410174+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -69,21 +69,21 @@
    "more": 0,
    "items": [
     {
-     "title": "Feminist activist and journalist Gloria Steinem dies, aged 92",
-     "url": "https://www.bbc.co.uk/news/articles/clyeq3ngwe4o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "summary": "Her foundation said she \"passed away peacefully\" at her home in New York City, \"surrounded by many who loved her\".",
-     "published": "2026-09-03T18:04:34+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/23c8/live/cf91da40-a784-11f1-b2d5-535b3b3d379f.jpg",
+     "title": "Gloria Steinem, Personification of the Feminist Movement, Dies at 92",
+     "url": "https://www.nytimes.com/2026/09/03/us/politics/gloria-steinem-dead.html",
+     "source": "New York Times",
+     "summary": "She challenged sexist assumptions, helping women develop a sense of self-worth and gain a measure of equality at work, at home and in society at large.",
+     "published": "2026-09-03T19:35:18+00:00",
+     "image": "https://static01.nyt.com/images/2022/11/07/obituaries/00steinem-01/00steinem-01-mediumSquareAt3X.jpg",
      "kind": "article",
-     "id": "ca58672fbc860fb8",
+     "id": "026304f17e0cfa7d",
      "first_seen": "2026-09-03T10:30:25.467257+00:00",
      "is_new": true,
      "corroboration": 4,
      "also_in": [
       "Axios",
-      "NPR",
-      "New York Times"
+      "BBC",
+      "NPR"
      ],
      "boosted": false,
      "score": 4
@@ -159,27 +159,27 @@
      "is_new": true
     },
     {
-     "title": "Raspberry Pi Pico - Relay",
-     "url": "https://www.hackster.io/diyablesio/raspberry-pi-pico-relay-5ea91c",
+     "title": "Understanding and Implementing Series Resistors",
+     "url": "https://www.hackster.io/electroniclovers/understanding-and-implementing-series-resistors-b60c67",
      "source": "Hackster",
-     "summary": "Learn to control devices like light bulbs and fans using a Raspberry Pi Pico and a relay.",
-     "published": "2026-09-03T06:40:25+00:00",
-     "image": "https://hackster.imgix.net/uploads/attachments/1994090/_vZipZGQNs4.blob",
+     "summary": "A Step-by-Step Hardware Guide for Signal Integrity, Noise Reduction, and PCB Debugging",
+     "published": "2026-09-03T07:17:48+00:00",
+     "image": "https://hackster.imgix.net/uploads/attachments/1994101/_WFuwIT26Fq.blob",
      "kind": "article",
-     "id": "cf826084ab21e5a0",
-     "first_seen": "2026-09-03T12:11:28.020531+00:00",
+     "id": "cd5d3749cb9be381",
+     "first_seen": "2026-09-03T19:44:42.410174+00:00",
      "is_new": true
     },
     {
-     "title": "How to use Google Coral with reComputer RK3576",
-     "url": "https://www.hackster.io/Myang/how-to-use-google-coral-with-recomputer-rk3576-b86f7d",
+     "title": "Building an 18-DOF Hexapod: A 20-Year Dream Finally Walking",
+     "url": "https://www.hackster.io/Deadpohl/building-an-18-dof-hexapod-a-20-year-dream-finally-walking-8b8d9c",
      "source": "Hackster",
-     "summary": "Add Google Coral Edge TPU acceleration to reComputer RK3576 and run a TensorFlow Lite model with the Edge TPU runtime",
-     "published": "2026-09-03T02:57:02+00:00",
-     "image": "https://hackster.imgix.net/uploads/attachments/1994079/_DRqVN75ZXZ.blob",
+     "summary": "18-DOF hexapod built from scratch: firmware, electronics, and walking logic. Fire, servo failures, and one very stubborn maker.",
+     "published": "2026-09-03T07:10:33+00:00",
+     "image": "https://hackster.imgix.net/uploads/attachments/1994253/_m1KoPWdBvg.blob",
      "kind": "article",
-     "id": "b175ad3dc9c39c19",
-     "first_seen": "2026-09-03T12:11:28.020531+00:00",
+     "id": "4ab8c73bd2fbc834",
+     "first_seen": "2026-09-03T19:44:42.410174+00:00",
      "is_new": true
     },
     {
@@ -193,18 +193,6 @@
      "id": "d92f4dc96a98a4b1",
      "first_seen": "2026-09-03T14:08:36.239658+00:00",
      "is_new": true
-    },
-    {
-     "title": "Adafruit GP8403 I2C DAC with 12V Booster",
-     "url": "https://learn.adafruit.com/adafruit-gp8403-i2c-dac-with-12v-booster",
-     "source": "Adafruit",
-     "summary": "0-10V analog voltages!The Adafruit GP8403 Breakout Board has the ability to output 0-10V analog voltages, so it's useful for devices that have wide voltage input ranges - like aud\u2026",
-     "published": "2026-08-20T20:31:53+00:00",
-     "image": "https://cdn-learn.adafruit.com/guides/images/000/004/589/medium500/6516-00.jpg?1787258164",
-     "kind": "article",
-     "id": "ae78f57fd60f6ec0",
-     "first_seen": "2026-08-28T01:31:34.864033+00:00",
-     "is_new": false
     }
    ]
   },
@@ -279,16 +267,16 @@
    "more": 0,
    "items": [
     {
-     "title": "Merging Onto Memory Lane",
-     "url": "https://www.thisnicelife.com/p/merging-onto-memory-lane",
-     "source": "This Nice Life",
-     "summary": "A vehicle and a song can take you back in time.",
-     "published": "2026-08-22T12:02:05+00:00",
-     "image": "https://substackcdn.com/image/fetch/$s_!7Xdo!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2bf7c313-331a-4432-b729-81c08d305139_4032x2268.jpeg",
+     "title": "The silks of Como: A reminder of the value of craft",
+     "url": "https://www.permanentstyle.com/2026/09/the-silks-of-como-a-reminder-of-the-value-of-craft.html",
+     "source": "Permanent Style",
+     "summary": "I miss this. Visiting a mill is such an enjoyable, often inspiring experience, yet I don\u2019t do it as much as I used to. Perhaps because once you\u2019d done one worsted weaver it\u2019s hard\u2026",
+     "published": "2026-09-02T08:00:52+00:00",
+     "image": "https://www.permanentstyle.com/wp-content/uploads/2026/08/Como-silk-quality.jpg",
      "kind": "article",
-     "id": "06d3681b0771cc47",
-     "first_seen": "2026-08-22T13:43:58.125100+00:00",
-     "is_new": false,
+     "id": "a27567868d197e93",
+     "first_seen": "2026-09-02T10:09:28.627850+00:00",
+     "is_new": true,
      "corroboration": 1,
      "also_in": [],
      "boosted": false,
@@ -346,6 +334,6 @@
   }
  ],
  "errors": [
-  "Permanent Style: RuntimeError \u2014 https://www.permanentstyle.com/feed \u2192 HTTP 415"
+  "Adafruit: RuntimeError \u2014 https://learn.adafruit.com/feed \u2192 HTTP 403"
  ]
 }
