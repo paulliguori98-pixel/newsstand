@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-03T13:48:09.154406+00:00",
+ "generated_at": "2026-09-03T14:08:36.239658+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,12 +10,12 @@
    "more": 0,
    "items": [
     {
-     "title": "Partly Sunny",
-     "phrase": "Partly Sunny all day.",
+     "title": "Mostly Cloudy",
+     "phrase": "Mostly Cloudy all day.",
      "detail": "It reaches 84\u00b0 today and falls to 60\u00b0 overnight. The sun is up from 6:22 until 7:27.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 69,
+     "temp": 72,
      "high": 84,
      "low": 60,
      "sunrise": "6:22",
@@ -69,26 +69,6 @@
    "more": 0,
    "items": [
     {
-     "title": "Gloria Steinem Came to New York to Be a Writer. She Became a Movement.",
-     "url": "https://www.nytimes.com/2026/09/03/books/review/gloria-steinem-writing-appraisal.html",
-     "source": "New York Times",
-     "summary": "Her 1983 book \u201cOutrageous Acts and Everyday Rebellions\u201d is a master class in grit, empathy, curiosity and hustle.",
-     "published": "2026-09-03T13:41:08+00:00",
-     "image": null,
-     "kind": "article",
-     "id": "e9275cd65c47441e",
-     "first_seen": "2026-09-03T12:36:39.600688+00:00",
-     "is_new": true,
-     "corroboration": 4,
-     "also_in": [
-      "Axios",
-      "BBC",
-      "NPR"
-     ],
-     "boosted": false,
-     "score": 4
-    },
-    {
      "title": "Australian science prize awarded to researcher studying memory accuracy of domestic violence survivors",
      "url": "https://www.theguardian.com/science/2026/sep/03/eureka-prize-2026-helen-paterson-jane-tiller-australian-science-prizes",
      "source": "Guardian",
@@ -130,6 +110,22 @@
      "kind": "article",
      "id": "be490e81c591ad58",
      "first_seen": "2026-09-03T10:45:54.665567+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
+     "title": "Markets can't ignore the war anymore",
+     "url": "https://www.axios.com/2026/09/03/oil-bonds-stocks-iran",
+     "source": "Axios",
+     "summary": "Oil prices are heading back toward $100 a barrel, and, perhaps more crucially, the price of diesel fuel futures is now sitting at an all-time high. Why it matters: Investors are s\u2026",
+     "published": "2026-09-03T09:25:07+00:00",
+     "image": "https://images.axios.com/M8Qnj2NR6N4WWys6VtbXvJa1Bso=/0x0:1920x1080/1366x768/2026/04/07/1775585646791.jpeg",
+     "kind": "article",
+     "id": "2e16b41ee280f473",
+     "first_seen": "2026-09-03T10:08:59.205059+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
@@ -183,16 +179,16 @@
      "is_new": true
     },
     {
-     "title": "Retro gaming in Raspberry Pi Official Magazine 169",
-     "url": "https://magazine.raspberrypi.com/articles/retro-gaming-in-raspberry-pi-official-magazine-169",
+     "title": "Sage Cadence interview",
+     "url": "https://magazine.raspberrypi.com/articles/sage-cadence-interview",
      "source": "MagPi",
-     "summary": "Retro gaming on Raspberry Pi: a chance to relive the games of your youth. Or if you\u2019re too young to remember the Nintendo Entertainment System, Sega Mega Drive and Amiga, relive t\u2026",
-     "published": "2026-08-27T00:00:00+00:00",
-     "image": "https://www.raspberrypi.com/app/uploads/2026/08/RPOM169-blog-image-1.png",
+     "summary": "An electrical engineering student trying to provide the educational content she would have wanted",
+     "published": "2026-09-03T00:00:00+00:00",
+     "image": "https://www.raspberrypi.com/app/uploads/2026/09/sage.png",
      "kind": "article",
-     "id": "60bbc560b56c7128",
-     "first_seen": "2026-08-28T01:31:34.864033+00:00",
-     "is_new": false
+     "id": "d92f4dc96a98a4b1",
+     "first_seen": "2026-09-03T14:08:36.239658+00:00",
+     "is_new": true
     },
     {
      "title": "Adafruit GP8403 I2C DAC with 12V Booster",
