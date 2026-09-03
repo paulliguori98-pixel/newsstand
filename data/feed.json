@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-03T14:31:26.262496+00:00",
+ "generated_at": "2026-09-03T14:49:00.811336+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -69,6 +69,26 @@
    "more": 0,
    "items": [
     {
+     "title": "Gloria Steinem, Personification of the Feminist Movement, Dies at 92",
+     "url": "https://www.nytimes.com/2026/09/03/us/politics/gloria-steinem-dead.html",
+     "source": "New York Times",
+     "summary": "She challenged sexist assumptions, helping women develop a sense of self-worth and gain a measure of equality at work, at home and in society at large.",
+     "published": "2026-09-03T14:39:47+00:00",
+     "image": "https://static01.nyt.com/images/2022/11/07/obituaries/00steinem-01/00steinem-01-mediumSquareAt3X.jpg",
+     "kind": "article",
+     "id": "026304f17e0cfa7d",
+     "first_seen": "2026-09-03T10:30:25.467257+00:00",
+     "is_new": true,
+     "corroboration": 4,
+     "also_in": [
+      "Axios",
+      "BBC",
+      "NPR"
+     ],
+     "boosted": false,
+     "score": 4
+    },
+    {
      "title": "Australian science prize awarded to researcher studying memory accuracy of domestic violence survivors",
      "url": "https://www.theguardian.com/science/2026/sep/03/eureka-prize-2026-helen-paterson-jane-tiller-australian-science-prizes",
      "source": "Guardian",
@@ -110,22 +130,6 @@
      "kind": "article",
      "id": "be490e81c591ad58",
      "first_seen": "2026-09-03T10:45:54.665567+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "Markets can't ignore the war anymore",
-     "url": "https://www.axios.com/2026/09/03/oil-bonds-stocks-iran",
-     "source": "Axios",
-     "summary": "Oil prices are heading back toward $100 a barrel, and, perhaps more crucially, the price of diesel fuel futures is now sitting at an all-time high. Why it matters: Investors are s\u2026",
-     "published": "2026-09-03T09:25:07+00:00",
-     "image": "https://images.axios.com/M8Qnj2NR6N4WWys6VtbXvJa1Bso=/0x0:1920x1080/1366x768/2026/04/07/1775585646791.jpeg",
-     "kind": "article",
-     "id": "2e16b41ee280f473",
-     "first_seen": "2026-09-03T10:08:59.205059+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
