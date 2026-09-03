@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-03T23:26:01.258387+00:00",
+ "generated_at": "2026-09-03T23:44:28.766066+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,8 +10,8 @@
    "more": 0,
    "items": [
     {
-     "title": "Partly Cloudy",
-     "phrase": "Partly Cloudy all day.",
+     "title": "Mostly Clear",
+     "phrase": "Mostly Clear all day.",
      "detail": "It reaches 81\u00b0 today and falls to 59\u00b0 overnight. The sun is up from 6:22 until 7:27.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
@@ -105,6 +105,22 @@
      "score": 4
     },
     {
+     "title": "Trump hints US would not back UK over Falkland Islands due to lack of Iran war support",
+     "url": "https://www.bbc.co.uk/news/articles/c1kx4m70l4yo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "summary": "The US president says the UK was not \"there to help me\" in his ongoing war with Iran.",
+     "published": "2026-09-03T16:16:49+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bbd3/live/c8f1c0a0-a7b2-11f1-b5cf-8556ae508a51.jpg",
+     "kind": "article",
+     "id": "f9c9052e0da7f42a",
+     "first_seen": "2026-09-03T23:44:28.766066+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
      "title": "EU\u2019s ability to defend against invasion remains in doubt, finds official report",
      "url": "https://www.theguardian.com/world/2026/sep/03/eu-defence-readiness-eca-auditors-us-reliance",
      "source": "Guardian",
@@ -114,22 +130,6 @@
      "kind": "article",
      "id": "00fee9d810ebb9f1",
      "first_seen": "2026-09-03T15:32:00.980544+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "Australian science prize awarded to researcher studying memory accuracy of domestic violence survivors",
-     "url": "https://www.theguardian.com/science/2026/sep/03/eureka-prize-2026-helen-paterson-jane-tiller-australian-science-prizes",
-     "source": "Guardian",
-     "summary": "Helen Paterson\u2019s work on advancing how police and courts understand memory is recognised in prestigious Eureka prizesFollow our Australia news live blog for latest updatesGet our \u2026",
-     "published": "2026-09-03T12:30:38+00:00",
-     "image": "https://i.guim.co.uk/img/media/35addbfcdf9acb152b2c3df46eb207dfc5f6dbcf/159_4_1441_1153/master/1441.jpg?width=140&quality=85&auto=format&fit=max&s=470cff007a166e58e19c02568fb4960b",
-     "kind": "article",
-     "id": "4133a0b6acd521d6",
-     "first_seen": "2026-09-03T12:36:39.600688+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
@@ -279,16 +279,16 @@
    "more": 0,
    "items": [
     {
-     "title": "Merging Onto Memory Lane",
-     "url": "https://www.thisnicelife.com/p/merging-onto-memory-lane",
-     "source": "This Nice Life",
-     "summary": "A vehicle and a song can take you back in time.",
-     "published": "2026-08-22T12:02:05+00:00",
-     "image": "https://substackcdn.com/image/fetch/$s_!7Xdo!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2bf7c313-331a-4432-b729-81c08d305139_4032x2268.jpeg",
+     "title": "The silks of Como: A reminder of the value of craft",
+     "url": "https://www.permanentstyle.com/2026/09/the-silks-of-como-a-reminder-of-the-value-of-craft.html",
+     "source": "Permanent Style",
+     "summary": "I miss this. Visiting a mill is such an enjoyable, often inspiring experience, yet I don\u2019t do it as much as I used to. Perhaps because once you\u2019d done one worsted weaver it\u2019s hard\u2026",
+     "published": "2026-09-02T08:00:52+00:00",
+     "image": "https://www.permanentstyle.com/wp-content/uploads/2026/08/Como-silk-quality.jpg",
      "kind": "article",
-     "id": "06d3681b0771cc47",
-     "first_seen": "2026-08-22T13:43:58.125100+00:00",
-     "is_new": false,
+     "id": "a27567868d197e93",
+     "first_seen": "2026-09-02T10:09:28.627850+00:00",
+     "is_new": true,
      "corroboration": 1,
      "also_in": [],
      "boosted": false,
@@ -345,7 +345,5 @@
    ]
   }
  ],
- "errors": [
-  "Permanent Style: RuntimeError \u2014 https://www.permanentstyle.com/feed \u2192 HTTP 415"
- ]
+ "errors": []
 }
