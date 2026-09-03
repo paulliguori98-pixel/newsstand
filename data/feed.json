@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-03T19:44:42.410174+00:00",
+ "generated_at": "2026-09-03T20:08:12.365821+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -147,15 +147,15 @@
    "more": 0,
    "items": [
     {
-     "title": "Exploring the Downsides of Cooling Roof Paint",
-     "url": "https://hackaday.com/2026/09/03/exploring-the-downsides-of-cooling-roof-paint/",
+     "title": "A Split Keyboard Designed for Human Hands",
+     "url": "https://hackaday.com/2026/09/03/a-split-keyboard-designed-for-human-hands/",
      "source": "Hackaday",
-     "summary": "The idea of painting a roof or wall white in order to reflect sunshine and keep the building\u2019s insides cool is hardly a new one, and even in the loosest \u2026read more",
-     "published": "2026-09-03T18:30:28+00:00",
-     "image": "https://hackaday.com/wp-content/uploads/2026/09/cooling_roof_paint_nighthawkinlight_youtube.jpg",
+     "summary": "A surprising number of things we use in everyday life retain most of their design cues from their 19th century ancestors. The bicycle retains the same basic design as it \u2026read more",
+     "published": "2026-09-03T20:00:53+00:00",
+     "image": "https://hackaday.com/wp-content/uploads/2026/09/cogito-keyboard-main.png",
      "kind": "article",
-     "id": "3ed447c1ef720843",
-     "first_seen": "2026-09-03T18:33:16.796792+00:00",
+     "id": "68772848c46353fb",
+     "first_seen": "2026-09-03T20:08:12.365821+00:00",
      "is_new": true
     },
     {
@@ -193,6 +193,18 @@
      "id": "d92f4dc96a98a4b1",
      "first_seen": "2026-09-03T14:08:36.239658+00:00",
      "is_new": true
+    },
+    {
+     "title": "Adafruit GP8403 I2C DAC with 12V Booster",
+     "url": "https://learn.adafruit.com/adafruit-gp8403-i2c-dac-with-12v-booster",
+     "source": "Adafruit",
+     "summary": "0-10V analog voltages!The Adafruit GP8403 Breakout Board has the ability to output 0-10V analog voltages, so it's useful for devices that have wide voltage input ranges - like aud\u2026",
+     "published": "2026-08-20T20:31:53+00:00",
+     "image": "https://cdn-learn.adafruit.com/guides/images/000/004/589/medium500/6516-00.jpg?1787258164",
+     "kind": "article",
+     "id": "ae78f57fd60f6ec0",
+     "first_seen": "2026-08-28T01:31:34.864033+00:00",
+     "is_new": false
     }
    ]
   },
@@ -333,7 +345,5 @@
    ]
   }
  ],
- "errors": [
-  "Adafruit: RuntimeError \u2014 https://learn.adafruit.com/feed \u2192 HTTP 403"
- ]
+ "errors": []
 }
