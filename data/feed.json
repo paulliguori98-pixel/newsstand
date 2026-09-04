@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-04T22:44:26.836793+00:00",
+ "generated_at": "2026-09-04T23:07:27.613717+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -143,15 +143,15 @@
    "more": 0,
    "items": [
     {
-     "title": "Making a Pole Balance Itself With Propellers",
-     "url": "https://hackaday.com/2026/09/04/making-a-pole-balance-itself-with-propellers/",
+     "title": "Fixing an Expensive Seagate LaCie Hard Drive Array",
+     "url": "https://hackaday.com/2026/09/04/fixing-an-expensive-seagate-lacie-hard-drive-array/",
      "source": "Hackaday",
-     "summary": "A fun trick with a pole is to try to balance it so that it can stand on one end. This can be done in a few ways, such as \u2026read more",
-     "published": "2026-09-04T20:00:14+00:00",
-     "image": "https://hackaday.com/wp-content/uploads/2026/09/self_balancing_pole_peter_ryseck_youtube.jpg",
+     "summary": "After the [Slow Mo Guys] acquired a 168 TB Seagate LaCie Thunderbolt 3-based RAID storage system back in 2019 to store their video footage, they were obviously slightly miffed whe\u2026",
+     "published": "2026-09-04T23:00:51+00:00",
+     "image": "https://hackaday.com/wp-content/uploads/2026/09/seagate_lacie_hard_drive_array_mend_it_mark_youtube.jpg",
      "kind": "article",
-     "id": "a74337178b00b269",
-     "first_seen": "2026-09-04T20:07:59.809098+00:00",
+     "id": "30500d54b54dfd21",
+     "first_seen": "2026-09-04T23:07:27.613717+00:00",
      "is_new": true
     },
     {
