@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-04T10:30:25.475807+00:00",
+ "generated_at": "2026-09-04T10:47:25.073613+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -12,12 +12,12 @@
     {
      "title": "Patchy Fog",
      "phrase": "Patchy Fog all day.",
-     "detail": "It reaches 82\u00b0 today and falls to 60\u00b0 overnight. The sun is up from 6:23 until 7:25.",
+     "detail": "It reaches 82\u00b0 today and falls to 56\u00b0 overnight. The sun is up from 6:23 until 7:25.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
      "temp": 61,
      "high": 82,
-     "low": 60,
+     "low": 56,
      "sunrise": "6:23",
      "sunset": "7:25",
      "id": "bb806d72c86dcec1",
@@ -167,6 +167,18 @@
      "is_new": true
     },
     {
+     "title": "Robot arm lamp",
+     "url": "https://magazine.raspberrypi.com/articles/robot-arm-lamp",
+     "source": "MagPi",
+     "summary": "This won\u2019t be jumping on any animation studio logos",
+     "published": "2026-09-04T00:00:00+00:00",
+     "image": "https://www.raspberrypi.com/app/uploads/2026/09/PXL_20260731_072817362.jpg",
+     "kind": "article",
+     "id": "1dbc74482c65b5d7",
+     "first_seen": "2026-09-04T10:47:25.073613+00:00",
+     "is_new": true
+    },
+    {
      "title": "ESP32 C3 Super Mini - LCD",
      "url": "https://www.hackster.io/diyablesio/esp32-c3-super-mini-lcd-3656c3",
      "source": "Hackster",
@@ -176,18 +188,6 @@
      "kind": "article",
      "id": "30f31842e0bf040d",
      "first_seen": "2026-09-04T10:09:03.571930+00:00",
-     "is_new": true
-    },
-    {
-     "title": "Sage Cadence interview",
-     "url": "https://magazine.raspberrypi.com/articles/sage-cadence-interview",
-     "source": "MagPi",
-     "summary": "An electrical engineering student trying to provide the educational content she would have wanted",
-     "published": "2026-09-03T00:00:00+00:00",
-     "image": "https://www.raspberrypi.com/app/uploads/2026/09/sage.png",
-     "kind": "article",
-     "id": "d92f4dc96a98a4b1",
-     "first_seen": "2026-09-03T14:08:36.239658+00:00",
      "is_new": true
     },
     {
@@ -222,16 +222,16 @@
    "more": 0,
    "items": [
     {
-     "title": "What JM Weston 180s tell us about shoe fit",
-     "url": "https://www.permanentstyle.com/2026/09/what-jm-weston-180s-tell-us-about-shoe-fit.html",
-     "source": "Permanent Style",
-     "summary": "I\u2019ve never owned a 180 loafer , and so I didn\u2019t realise until recently how tricky a shoe it is to fit. A recent visit to the Weston store opened my eyes, however. It really is a t\u2026",
-     "published": "2026-09-04T08:00:25+00:00",
-     "image": "https://www.permanentstyle.com/wp-content/uploads/2026/08/B000490-R1-08-9-4000x5000-copy.jpg",
+     "title": "Merging Onto Memory Lane",
+     "url": "https://www.thisnicelife.com/p/merging-onto-memory-lane",
+     "source": "This Nice Life",
+     "summary": "A vehicle and a song can take you back in time.",
+     "published": "2026-08-22T12:02:05+00:00",
+     "image": "https://substackcdn.com/image/fetch/$s_!7Xdo!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2bf7c313-331a-4432-b729-81c08d305139_4032x2268.jpeg",
      "kind": "article",
-     "id": "fb03541a6afb78e3",
-     "first_seen": "2026-09-04T10:09:03.571930+00:00",
-     "is_new": true,
+     "id": "06d3681b0771cc47",
+     "first_seen": "2026-08-22T13:43:58.125100+00:00",
+     "is_new": false,
      "corroboration": 1,
      "also_in": [],
      "boosted": false,
@@ -288,5 +288,7 @@
    ]
   }
  ],
- "errors": []
+ "errors": [
+  "Permanent Style: RuntimeError \u2014 https://www.permanentstyle.com/feed \u2192 HTTP 415"
+ ]
 }
