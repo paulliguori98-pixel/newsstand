@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-04T18:09:38.513836+00:00",
+ "generated_at": "2026-09-04T18:30:28.341364+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -212,6 +212,18 @@
    "row_detail": false,
    "more": 0,
    "items": [
+    {
+     "title": "Hunter Green Seafarer Cotton Rib Crew",
+     "url": "https://www.buckmason.com/products/hunter-green-seafarer-cotton-rib-crew",
+     "source": "Buck Mason",
+     "image": "https://cdn.shopify.com/s/files/1/0123/5065/2473/files/BM16351.999_SEAFARER-COTTON-RIB-CREW_HUNTER-GREEN_54539_1.jpg?v=1788545586",
+     "price": "$188",
+     "published": "2026-07-10T20:22:42+00:00",
+     "kind": "product",
+     "id": "52c71b60c9a0b639",
+     "first_seen": "2026-09-04T18:30:28.341364+00:00",
+     "is_new": true
+    },
     {
      "title": "Canyon Plaid Pacific Twill Flannel One Pocket Shirt",
      "url": "https://www.buckmason.com/products/canyon-plaid-pacific-twill-flannel-one-pocket-shirt",
