@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-04T17:44:31.603867+00:00",
+ "generated_at": "2026-09-04T18:09:38.513836+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -15,7 +15,7 @@
      "detail": "It reaches 82\u00b0 today and falls to 56\u00b0 overnight. The sun is up from 6:23 until 7:25.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 79,
+     "temp": 80,
      "high": 82,
      "low": 56,
      "sunrise": "6:23",
@@ -69,12 +69,28 @@
    "more": 0,
    "items": [
     {
+     "title": "Scoop: Trump administration drafting post-war Middle East plan",
+     "url": "https://www.axios.com/2026/09/04/trump-middle-east-iran-post-war-strategy",
+     "source": "Axios",
+     "summary": "The Trump administration is working on a post-war strategy focused on a regional effort to contain Iran and expand normalization of relations between Israel and its neighbors, acc\u2026",
+     "published": "2026-09-04T17:49:40+00:00",
+     "image": "https://images.axios.com/u0opw5Xsgl-k80zA01KPtTLytH4=/0x0:3683x2072/1366x768/2026/09/04/1788543291861.jpeg",
+     "kind": "article",
+     "id": "426f662babc55ee9",
+     "first_seen": "2026-09-04T18:09:38.513836+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
      "title": "Argentine couple to return Nazi-looted painting to rightful owner",
      "url": "https://www.bbc.co.uk/news/articles/cy0zxjp50j6o?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
      "summary": "The late-baroque Portrait of a Lady was lost for 80 years until it was spotted in photographs of a house for sale near Buenos Aires.",
      "published": "2026-09-04T17:14:21+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/72b0/live/b396bf10-829e-11f0-a21f-a946aea0c353.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6bdc/live/e95d23d0-a888-11f1-96fc-dd627484b0e6.jpg",
      "kind": "article",
      "id": "537d21e4712827ae",
      "first_seen": "2026-09-04T17:26:59.804825+00:00",
@@ -110,22 +126,6 @@
      "kind": "article",
      "id": "d3212f0b0e8dcf1d",
      "first_seen": "2026-09-04T14:47:23.479834+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "The coming verdict on Trump's Strait of Hormuz claims",
-     "url": "https://www.axios.com/2026/09/04/trump-strait-hormuz-oil-claims-iran",
-     "source": "Axios",
-     "summary": "The White House is at odds with some private sector analysts over how much oil is leaving the Strait of Hormuz \u2014 but it will take weeks until the picture of what's truly getting t\u2026",
-     "published": "2026-09-04T09:30:04+00:00",
-     "image": "https://images.axios.com/-5jKLJxPFU-8FXViGLQUAq2sK9Y=/0x0:1920x1080/1366x768/2026/07/14/1784052682617.jpeg",
-     "kind": "article",
-     "id": "cdee0080665287df",
-     "first_seen": "2026-09-04T10:09:03.571930+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
