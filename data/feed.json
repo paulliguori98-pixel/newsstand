@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-04T15:46:41.955710+00:00",
+ "generated_at": "2026-09-04T16:08:40.100622+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,12 +10,12 @@
    "more": 0,
    "items": [
     {
-     "title": "Sunny",
-     "phrase": "Sunny all day.",
+     "title": "Mostly Sunny",
+     "phrase": "Mostly Sunny all day.",
      "detail": "It reaches 82\u00b0 today and falls to 56\u00b0 overnight. The sun is up from 6:23 until 7:25.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 76,
+     "temp": 78,
      "high": 82,
      "low": 56,
      "sunrise": "6:23",
@@ -69,6 +69,25 @@
    "more": 0,
    "items": [
     {
+     "title": "Iran War Helps to Drive U.S. Diesel Prices to New High",
+     "url": "https://www.nytimes.com/2026/09/04/business/diesel-price-record-oil-iran.html",
+     "source": "New York Times",
+     "summary": "Because of the war in Iran, the cost has climbed past the record it reached in 2022 after Russia\u2019s full-scale invasion of Ukraine.",
+     "published": "2026-09-04T14:59:21+00:00",
+     "image": "https://static01.nyt.com/images/2026/09/03/multimedia/00biz-diesel-record-hkmz/00biz-diesel-record-hkmz-mediumSquareAt3X.jpg",
+     "kind": "article",
+     "id": "35c1b6514247fedc",
+     "first_seen": "2026-09-04T10:09:03.571930+00:00",
+     "is_new": true,
+     "corroboration": 3,
+     "also_in": [
+      "Axios",
+      "BBC"
+     ],
+     "boosted": true,
+     "score": 6
+    },
+    {
      "title": "Howard Lutnick Made Over $250 Million Last Year",
      "url": "https://www.wsj.com/politics/policy/howard-lutnick-commerce-secretary-income-2d49acf3?mod=rss_markets_main",
      "source": "WSJ",
@@ -85,23 +104,19 @@
      "score": 4
     },
     {
-     "title": "U.S. Diesel Prices Set New High",
-     "url": "https://www.nytimes.com/2026/09/04/business/diesel-price-record-oil-iran.html",
+     "title": "A More Confident Iran Emerges After Six Months of War With the U.S.",
+     "url": "https://www.nytimes.com/2026/09/04/us/politics/iran-war-intelligence-reports.html",
      "source": "New York Times",
-     "summary": "Because of the war in Iran, the cost has climbed past the record it reached in 2022 after Russia\u2019s full-scale invasion of Ukraine.",
-     "published": "2026-09-04T14:59:20+00:00",
-     "image": "https://static01.nyt.com/images/2026/09/03/multimedia/00biz-diesel-record-hkmz/00biz-diesel-record-hkmz-mediumSquareAt3X.jpg",
+     "summary": "New intelligence reports have assessed that Iran now has a far better understanding of its capabilities and the limits of U.S. power.",
+     "published": "2026-09-04T15:21:43+00:00",
+     "image": "https://static01.nyt.com/images/2026/09/04/multimedia/04dc-iran-intel-chgv/04dc-iran-intel-chgv-mediumSquareAt3X.jpg",
      "kind": "article",
-     "id": "35c1b6514247fedc",
-     "first_seen": "2026-09-04T10:09:03.571930+00:00",
+     "id": "a65ec0df643ce9ef",
+     "first_seen": "2026-09-04T16:08:40.100622+00:00",
      "is_new": true,
-     "corroboration": 4,
-     "also_in": [
-      "Axios",
-      "BBC",
-      "NPR"
-     ],
-     "boosted": false,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
      "score": 4
     },
     {
@@ -114,22 +129,6 @@
      "kind": "article",
      "id": "d3212f0b0e8dcf1d",
      "first_seen": "2026-09-04T14:47:23.479834+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "A Surge of Russian Sabotage Attacks in Europe, and Musk\u2019s Political War Chest",
-     "url": "https://www.nytimes.com/2026/09/04/podcasts/the-headlines/russia-sabotage-attacks-elon-musk.html",
-     "source": "New York Times",
-     "summary": "Plus, your Friday news quiz.",
-     "published": "2026-09-04T11:26:06+00:00",
-     "image": "https://static01.nyt.com/images/2026/09/04/multimedia/04headlines-russia-europe/04russia-europe-01-fczp-mediumSquareAt3X.jpg",
-     "kind": "article",
-     "id": "0e449ac4fb09c78c",
-     "first_seen": "2026-09-04T10:09:03.571930+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
@@ -195,16 +194,16 @@
      "is_new": true
     },
     {
-     "title": "Adafruit GP8403 I2C DAC with 12V Booster",
-     "url": "https://learn.adafruit.com/adafruit-gp8403-i2c-dac-with-12v-booster",
+     "title": "CircuitPython Watchdog Module",
+     "url": "https://learn.adafruit.com/circuitpython-watchdog-module",
      "source": "Adafruit",
-     "summary": "0-10V analog voltages!The Adafruit GP8403 Breakout Board has the ability to output 0-10V analog voltages, so it's useful for devices that have wide voltage input ranges - like aud\u2026",
-     "published": "2026-08-20T20:31:53+00:00",
-     "image": "https://cdn-learn.adafruit.com/guides/images/000/004/589/medium500/6516-00.jpg?1787258164",
+     "summary": "The watchdog's got your back. It will reset your microcontroller if it gets locked up.The CircuitPython watchdog module provides access to the low level watchdog timer peripheral \u2026",
+     "published": "2026-09-01T15:16:21+00:00",
+     "image": "https://cdn-learn.adafruit.com/guides/images/000/004/602/medium500/guide_thumb.jpg?1788461759",
      "kind": "article",
-     "id": "ae78f57fd60f6ec0",
-     "first_seen": "2026-08-28T01:31:34.864033+00:00",
-     "is_new": false
+     "id": "07e077582da6e434",
+     "first_seen": "2026-09-04T16:08:40.100622+00:00",
+     "is_new": true
     }
    ]
   },
