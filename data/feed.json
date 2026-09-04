@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-04T16:30:00.991686+00:00",
+ "generated_at": "2026-09-04T16:45:18.628105+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -69,22 +69,6 @@
    "more": 0,
    "items": [
     {
-     "title": "Howard Lutnick Made Over $250 Million Last Year",
-     "url": "https://www.wsj.com/politics/policy/howard-lutnick-commerce-secretary-income-2d49acf3?mod=rss_markets_main",
-     "source": "WSJ",
-     "summary": "The commerce secretary sold his stake in Cantor Fitzgerald and other stocks, and scooped up index funds.",
-     "published": "2026-09-04T15:26:00+00:00",
-     "image": "https://images.wsj.net/im-66422925",
-     "kind": "article",
-     "id": "548fcbbfd0ad1120",
-     "first_seen": "2026-09-04T15:46:41.955710+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
      "title": "A More Confident Iran Emerges After Six Months of War With the U.S.",
      "url": "https://www.nytimes.com/2026/09/04/us/politics/iran-war-intelligence-reports.html",
      "source": "New York Times",
@@ -125,6 +109,22 @@
      "image": "https://images.axios.com/-5jKLJxPFU-8FXViGLQUAq2sK9Y=/0x0:1920x1080/1366x768/2026/07/14/1784052682617.jpeg",
      "kind": "article",
      "id": "cdee0080665287df",
+     "first_seen": "2026-09-04T10:09:03.571930+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
+     "title": "South Korea pushes back on reports it is readying Hormuz deployment amid US pressure",
+     "url": "https://www.theguardian.com/world/2026/sep/04/south-korea-pushes-back-reports-hormuz-deployment-us-pressure",
+     "source": "Guardian",
+     "summary": "Seoul reportedly seeking parliamentary approval to send military assets to Middle East but president\u2019s office plays down claimsSouth Korea is reviewing a possible deployment of mi\u2026",
+     "published": "2026-09-04T07:47:41+00:00",
+     "image": "https://i.guim.co.uk/img/media/9d5c19d1d2fb8cc1a332e36bb6c7886808938047/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=b03dbd5cd5b80ec7ebfcd7c0c24f84a9",
+     "kind": "article",
+     "id": "1d6cd5c692ac8e70",
      "first_seen": "2026-09-04T10:09:03.571930+00:00",
      "is_new": true,
      "corroboration": 1,
@@ -211,7 +211,20 @@
    "lead_image": false,
    "row_detail": false,
    "more": 0,
-   "items": []
+   "items": [
+    {
+     "title": "Canyon Plaid Pacific Twill Flannel Bd Shirt",
+     "url": "https://www.buckmason.com/products/canyon-plaid-pacific-twill-flannel-bd-shirt",
+     "source": "Buck Mason",
+     "image": "https://cdn.shopify.com/s/files/1/0123/5065/2473/files/BM13366.1785_PACIFICTWILLFLANNELBDSHIRTCANYONPLAID_1.jpg?v=1788539520",
+     "price": "$158",
+     "published": "2026-07-10T20:21:53+00:00",
+     "kind": "product",
+     "id": "944182d662cc5eed",
+     "first_seen": "2026-09-04T16:45:18.628105+00:00",
+     "is_new": true
+    }
+   ]
   },
   {
    "id": "dispatches",
