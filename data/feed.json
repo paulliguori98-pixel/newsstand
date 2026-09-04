@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-04T14:07:51.544587+00:00",
+ "generated_at": "2026-09-04T14:29:25.090566+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -15,7 +15,7 @@
      "detail": "It reaches 82\u00b0 today and falls to 56\u00b0 overnight. The sun is up from 6:23 until 7:25.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 72,
+     "temp": 67,
      "high": 82,
      "low": 56,
      "sunrise": "6:23",
