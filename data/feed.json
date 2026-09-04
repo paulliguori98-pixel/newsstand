@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-04T11:29:04.940848+00:00",
+ "generated_at": "2026-09-04T11:46:21.294104+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -69,6 +69,26 @@
    "more": 0,
    "items": [
     {
+     "title": "Trump asks SCOTUS to OK changes to mail-in ballots. And, diesel prices hit record high",
+     "url": "https://www.npr.org/2026/09/04/g-s1-141972/up-first-newsletter-usps-mail-in-voting-irs-schools-christian-castro",
+     "source": "NPR",
+     "summary": "Trump has asked the Supreme Court to lift the block on his plan for the USPS to restrict mail voting ahead of the midterm elections. And, diesel prices have reached a record high.",
+     "published": "2026-09-04T11:29:11+00:00",
+     "image": null,
+     "kind": "article",
+     "id": "b3fa3cd8594a28c1",
+     "first_seen": "2026-09-04T11:46:21.294104+00:00",
+     "is_new": true,
+     "corroboration": 4,
+     "also_in": [
+      "Axios",
+      "BBC",
+      "New York Times"
+     ],
+     "boosted": false,
+     "score": 4
+    },
+    {
      "title": "A Surge of Russian Sabotage Attacks in Europe, and Musk\u2019s Political War Chest",
      "url": "https://www.nytimes.com/2026/09/04/podcasts/the-headlines/russia-sabotage-attacks-elon-musk.html",
      "source": "New York Times",
@@ -109,22 +129,6 @@
      "image": null,
      "kind": "article",
      "id": "5f33321eb208d486",
-     "first_seen": "2026-09-04T10:09:03.571930+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "South Korea pushes back on reports it is readying Hormuz deployment amid US pressure",
-     "url": "https://www.theguardian.com/world/2026/sep/04/south-korea-pushes-back-reports-hormuz-deployment-us-pressure",
-     "source": "Guardian",
-     "summary": "Seoul reportedly seeking parliamentary approval to send military assets to Middle East but president\u2019s office plays down claimsSouth Korea is reviewing a possible deployment of mi\u2026",
-     "published": "2026-09-04T07:47:41+00:00",
-     "image": "https://i.guim.co.uk/img/media/9d5c19d1d2fb8cc1a332e36bb6c7886808938047/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=b03dbd5cd5b80ec7ebfcd7c0c24f84a9",
-     "kind": "article",
-     "id": "1d6cd5c692ac8e70",
      "first_seen": "2026-09-04T10:09:03.571930+00:00",
      "is_new": true,
      "corroboration": 1,
