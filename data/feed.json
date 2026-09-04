@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-04T13:47:52.831112+00:00",
+ "generated_at": "2026-09-04T14:07:51.544587+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -15,7 +15,7 @@
      "detail": "It reaches 82\u00b0 today and falls to 56\u00b0 overnight. The sun is up from 6:23 until 7:25.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 67,
+     "temp": 72,
      "high": 82,
      "low": 56,
      "sunrise": "6:23",
@@ -93,7 +93,7 @@
      "url": "https://www.nytimes.com/2026/09/04/podcasts/the-headlines/russia-sabotage-attacks-elon-musk.html",
      "source": "New York Times",
      "summary": "Plus, your Friday news quiz.",
-     "published": "2026-09-04T11:26:05+00:00",
+     "published": "2026-09-04T11:26:06+00:00",
      "image": "https://static01.nyt.com/images/2026/09/04/multimedia/04headlines-russia-europe/04russia-europe-01-fczp-mediumSquareAt3X.jpg",
      "kind": "article",
      "id": "0e449ac4fb09c78c",
