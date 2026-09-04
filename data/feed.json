@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-04T18:30:28.341364+00:00",
+ "generated_at": "2026-09-04T18:46:59.674368+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -12,12 +12,12 @@
     {
      "title": "Mostly Sunny",
      "phrase": "Mostly Sunny all day.",
-     "detail": "It reaches 82\u00b0 today and falls to 56\u00b0 overnight. The sun is up from 6:23 until 7:25.",
+     "detail": "It reaches 83\u00b0 today and falls to 59\u00b0 overnight. The sun is up from 6:23 until 7:25.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
      "temp": 80,
-     "high": 82,
-     "low": 56,
+     "high": 83,
+     "low": 59,
      "sunrise": "6:23",
      "sunset": "7:25",
      "id": "bb806d72c86dcec1",
@@ -143,15 +143,15 @@
    "more": 0,
    "items": [
     {
-     "title": "3D Printed Cubes Provide Passive Cooling",
-     "url": "https://hackaday.com/2026/09/04/3d-printed-cubes-provide-passive-cooling/",
+     "title": "Repairing Traces on a Delidded Pentium III CPU Gone Wrong",
+     "url": "https://hackaday.com/2026/09/04/repairing-traces-on-a-delidded-pentium-iii-cpu-gone-wrong/",
      "source": "Hackaday",
-     "summary": "Passive evaporative cooling has been used for centuries to reduce temperatures. Heat is drawn off as water evaporates, which in turn reduces temperature. The more efficiently this\u2026",
-     "published": "2026-09-04T15:30:18+00:00",
-     "image": "https://hackaday.com/wp-content/uploads/2026/09/3d-printed-evaporative-cooling-cubes-2.png",
+     "summary": "Delidding a CPU involves removing the integrated heat spreader (IHS) that\u2019s put over the bare die and the substrate that it is mounted on. The reason for this is usually \u2026read more",
+     "published": "2026-09-04T18:30:11+00:00",
+     "image": "https://hackaday.com/wp-content/uploads/2026/09/pentium_3_cpu_delidding_damage_bits_und_bolts_youtube.jpg",
      "kind": "article",
-     "id": "d3e6172c4582476f",
-     "first_seen": "2026-09-04T15:46:41.955710+00:00",
+     "id": "686cfe52cfb4e5bb",
+     "first_seen": "2026-09-04T18:46:59.674368+00:00",
      "is_new": true
     },
     {
@@ -216,7 +216,7 @@
      "title": "Hunter Green Seafarer Cotton Rib Crew",
      "url": "https://www.buckmason.com/products/hunter-green-seafarer-cotton-rib-crew",
      "source": "Buck Mason",
-     "image": "https://cdn.shopify.com/s/files/1/0123/5065/2473/files/BM16351.999_SEAFARER-COTTON-RIB-CREW_HUNTER-GREEN_54539_1.jpg?v=1788545586",
+     "image": "https://cdn.shopify.com/s/files/1/0123/5065/2473/files/BM16351.999_SEAFARERCOTTONRIBCREWHUNTERGREEN_1_741d8052-5407-4738-a207-65d1088c93ad.jpg?v=1788545621",
      "price": "$188",
      "published": "2026-07-10T20:22:42+00:00",
      "kind": "product",
