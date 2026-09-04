@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-04T16:08:40.100622+00:00",
+ "generated_at": "2026-09-04T16:30:00.991686+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -69,25 +69,6 @@
    "more": 0,
    "items": [
     {
-     "title": "Iran War Helps to Drive U.S. Diesel Prices to New High",
-     "url": "https://www.nytimes.com/2026/09/04/business/diesel-price-record-oil-iran.html",
-     "source": "New York Times",
-     "summary": "Because of the war in Iran, the cost has climbed past the record it reached in 2022 after Russia\u2019s full-scale invasion of Ukraine.",
-     "published": "2026-09-04T14:59:21+00:00",
-     "image": "https://static01.nyt.com/images/2026/09/03/multimedia/00biz-diesel-record-hkmz/00biz-diesel-record-hkmz-mediumSquareAt3X.jpg",
-     "kind": "article",
-     "id": "35c1b6514247fedc",
-     "first_seen": "2026-09-04T10:09:03.571930+00:00",
-     "is_new": true,
-     "corroboration": 3,
-     "also_in": [
-      "Axios",
-      "BBC"
-     ],
-     "boosted": true,
-     "score": 6
-    },
-    {
      "title": "Howard Lutnick Made Over $250 Million Last Year",
      "url": "https://www.wsj.com/politics/policy/howard-lutnick-commerce-secretary-income-2d49acf3?mod=rss_markets_main",
      "source": "WSJ",
@@ -129,6 +110,22 @@
      "kind": "article",
      "id": "d3212f0b0e8dcf1d",
      "first_seen": "2026-09-04T14:47:23.479834+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
+     "title": "The coming verdict on Trump's Strait of Hormuz claims",
+     "url": "https://www.axios.com/2026/09/04/trump-strait-hormuz-oil-claims-iran",
+     "source": "Axios",
+     "summary": "The White House is at odds with some private sector analysts over how much oil is leaving the Strait of Hormuz \u2014 but it will take weeks until the picture of what's truly getting t\u2026",
+     "published": "2026-09-04T09:30:04+00:00",
+     "image": "https://images.axios.com/-5jKLJxPFU-8FXViGLQUAq2sK9Y=/0x0:1920x1080/1366x768/2026/07/14/1784052682617.jpeg",
+     "kind": "article",
+     "id": "cdee0080665287df",
+     "first_seen": "2026-09-04T10:09:03.571930+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
