@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-04T19:25:13.521512+00:00",
+ "generated_at": "2026-09-04T19:44:37.006148+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -8,23 +8,7 @@
    "lead_image": false,
    "row_detail": false,
    "more": 0,
-   "items": [
-    {
-     "title": "Mostly Sunny",
-     "phrase": "Mostly Sunny all day.",
-     "detail": "It reaches 82\u00b0 today and falls to 56\u00b0 overnight. The sun is up from 6:23 until 7:25.",
-     "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
-     "source": "Saratoga Springs",
-     "temp": 80,
-     "high": 82,
-     "low": 56,
-     "sunrise": "6:23",
-     "sunset": "7:25",
-     "id": "bb806d72c86dcec1",
-     "first_seen": "2026-08-19T17:11:19.569450+00:00",
-     "is_new": false
-    }
-   ]
+   "items": []
   },
   {
    "id": "garden",
@@ -313,5 +297,7 @@
    ]
   }
  ],
- "errors": []
+ "errors": [
+  "NWS Albany: HTTPError \u2014 403 Client Error: Forbidden for url: https://api.weather.gov/gridpoints/ALY/68,82/forecast"
+ ]
 }
