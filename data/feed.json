@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-04T19:44:37.006148+00:00",
+ "generated_at": "2026-09-04T20:07:59.809098+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -8,7 +8,23 @@
    "lead_image": false,
    "row_detail": false,
    "more": 0,
-   "items": []
+   "items": [
+    {
+     "title": "Mostly Sunny",
+     "phrase": "Mostly Sunny all day.",
+     "detail": "It reaches 83\u00b0 today and falls to 59\u00b0 overnight. The sun is up from 6:23 until 7:25.",
+     "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
+     "source": "Saratoga Springs",
+     "temp": 81,
+     "high": 83,
+     "low": 59,
+     "sunrise": "6:23",
+     "sunset": "7:25",
+     "id": "bb806d72c86dcec1",
+     "first_seen": "2026-08-19T17:11:19.569450+00:00",
+     "is_new": false
+    }
+   ]
   },
   {
    "id": "garden",
@@ -127,15 +143,15 @@
    "more": 0,
    "items": [
     {
-     "title": "Repairing Traces on a Delidded Pentium III CPU Gone Wrong",
-     "url": "https://hackaday.com/2026/09/04/repairing-traces-on-a-delidded-pentium-iii-cpu-gone-wrong/",
+     "title": "Making a Pole Balance Itself With Propellers",
+     "url": "https://hackaday.com/2026/09/04/making-a-pole-balance-itself-with-propellers/",
      "source": "Hackaday",
-     "summary": "Delidding a CPU involves removing the integrated heat spreader (IHS) that\u2019s put over the bare die and the substrate that it is mounted on. The reason for this is usually \u2026read more",
-     "published": "2026-09-04T18:30:11+00:00",
-     "image": "https://hackaday.com/wp-content/uploads/2026/09/pentium_3_cpu_delidding_damage_bits_und_bolts_youtube.jpg",
+     "summary": "A fun trick with a pole is to try to balance it so that it can stand on one end. This can be done in a few ways, such as \u2026read more",
+     "published": "2026-09-04T20:00:14+00:00",
+     "image": "https://hackaday.com/wp-content/uploads/2026/09/self_balancing_pole_peter_ryseck_youtube.jpg",
      "kind": "article",
-     "id": "686cfe52cfb4e5bb",
-     "first_seen": "2026-09-04T18:46:59.674368+00:00",
+     "id": "a74337178b00b269",
+     "first_seen": "2026-09-04T20:07:59.809098+00:00",
      "is_new": true
     },
     {
@@ -297,7 +313,5 @@
    ]
   }
  ],
- "errors": [
-  "NWS Albany: HTTPError \u2014 403 Client Error: Forbidden for url: https://api.weather.gov/gridpoints/ALY/68,82/forecast"
- ]
+ "errors": []
 }
