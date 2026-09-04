@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-04T15:30:03.559371+00:00",
+ "generated_at": "2026-09-04T15:46:41.955710+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -70,14 +70,14 @@
    "items": [
     {
      "title": "Howard Lutnick Made Over $250 Million Last Year",
-     "url": "https://www.wsj.com/politics/policy/howard-lutnick-made-over-250-million-last-year-2d49acf3?mod=rss_markets_main",
+     "url": "https://www.wsj.com/politics/policy/howard-lutnick-commerce-secretary-income-2d49acf3?mod=rss_markets_main",
      "source": "WSJ",
      "summary": "The commerce secretary sold his stake in Cantor Fitzgerald and other stocks, and scooped up index funds.",
      "published": "2026-09-04T15:26:00+00:00",
      "image": "https://images.wsj.net/im-66422925",
      "kind": "article",
-     "id": "b0a6a0f5c17e3181",
-     "first_seen": "2026-09-04T15:30:03.559371+00:00",
+     "id": "548fcbbfd0ad1120",
+     "first_seen": "2026-09-04T15:46:41.955710+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
@@ -147,15 +147,27 @@
    "more": 0,
    "items": [
     {
-     "title": "Take Tool Photo, Generate Custom Gridfinity Bin",
-     "url": "https://hackaday.com/2026/09/04/take-tool-photo-generate-custom-gridfinity-bin/",
+     "title": "3D Printed Cubes Provide Passive Cooling",
+     "url": "https://hackaday.com/2026/09/04/3d-printed-cubes-provide-passive-cooling/",
      "source": "Hackaday",
-     "summary": "What if the organization and storage benefits of tool shadowing could be had and improved with a modular, semi-automated process? Tracefinity attempts that by generating custom Gr\u2026",
-     "published": "2026-09-04T11:00:13+00:00",
-     "image": "https://hackaday.com/wp-content/uploads/2026/09/bin-editor-banner.png",
+     "summary": "Passive evaporative cooling has been used for centuries to reduce temperatures. Heat is drawn off as water evaporates, which in turn reduces temperature. The more efficiently this\u2026",
+     "published": "2026-09-04T15:30:18+00:00",
+     "image": "https://hackaday.com/wp-content/uploads/2026/09/3d-printed-evaporative-cooling-cubes-2.png",
      "kind": "article",
-     "id": "7f12deebefeee2bf",
-     "first_seen": "2026-09-04T11:07:54.990062+00:00",
+     "id": "d3e6172c4582476f",
+     "first_seen": "2026-09-04T15:46:41.955710+00:00",
+     "is_new": true
+    },
+    {
+     "title": "WildGuard: Off-Grid Edge AI Wildlife Monitoring",
+     "url": "https://www.hackster.io/ademosuoluwatobi/wildguard-off-grid-edge-ai-wildlife-monitoring-018444",
+     "source": "Hackster",
+     "summary": "WildGuard is an advanced edge-AI early-warning camera designed to combat illegal poaching and monitor wildlife corridors.",
+     "published": "2026-09-04T09:33:34+00:00",
+     "image": "https://hackster.imgix.net/uploads/attachments/1994587/_dLeU1b2T3o.blob",
+     "kind": "article",
+     "id": "20753a2e8ed9eb26",
+     "first_seen": "2026-09-04T15:46:41.955710+00:00",
      "is_new": true
     },
     {
@@ -167,18 +179,6 @@
      "image": "https://hackster.imgix.net/uploads/attachments/1994535/_z0VjMGODXk.blob",
      "kind": "article",
      "id": "ad3ffa4a3f8df551",
-     "first_seen": "2026-09-04T12:11:07.006594+00:00",
-     "is_new": true
-    },
-    {
-     "title": "Build Retro Stereo Amplifier with Toshiba TA8211AH and ESP32",
-     "url": "https://www.hackster.io/robertfletcher1582/build-retro-stereo-amplifier-with-toshiba-ta8211ah-and-esp32-151597",
-     "source": "Hackster",
-     "summary": "Build a compact two-channel audio amplifier around the classic Toshiba TA8211AH and use an ESP32 as a simple audio test source. This project",
-     "published": "2026-09-04T06:07:51+00:00",
-     "image": "https://hackster.imgix.net/uploads/attachments/1994480/_41MACcrHWi.blob",
-     "kind": "article",
-     "id": "cea89dfd8eb73595",
      "first_seen": "2026-09-04T12:11:07.006594+00:00",
      "is_new": true
     },
