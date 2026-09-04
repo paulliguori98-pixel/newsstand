@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-04T10:47:25.073613+00:00",
+ "generated_at": "2026-09-04T11:07:54.990062+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,8 +10,8 @@
    "more": 0,
    "items": [
     {
-     "title": "Patchy Fog",
-     "phrase": "Patchy Fog all day.",
+     "title": "Mostly Sunny",
+     "phrase": "Mostly Sunny all day.",
      "detail": "It reaches 82\u00b0 today and falls to 56\u00b0 overnight. The sun is up from 6:23 until 7:25.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
@@ -143,15 +143,15 @@
    "more": 0,
    "items": [
     {
-     "title": "Tube Launch Boosts Rocket\u2019s Performance",
-     "url": "https://hackaday.com/2026/09/03/tube-launch-boosts-rockets-performance/",
+     "title": "Take Tool Photo, Generate Custom Gridfinity Bin",
+     "url": "https://hackaday.com/2026/09/04/take-tool-photo-generate-custom-gridfinity-bin/",
      "source": "Hackaday",
-     "summary": "If you want improve a model rocket\u2019s performance, all the common options come with serious trade-offs: you could increase the motor\u2019s size, which raises safety issues, or you coul\u2026",
-     "published": "2026-09-04T05:00:23+00:00",
-     "image": "https://hackaday.com/wp-content/uploads/2026/09/rocket_tube_launch.png",
+     "summary": "What if the organization and storage benefits of tool shadowing could be had and improved with a modular, semi-automated process? Tracefinity attempts that by generating custom Gr\u2026",
+     "published": "2026-09-04T11:00:13+00:00",
+     "image": "https://hackaday.com/wp-content/uploads/2026/09/bin-editor-banner.png",
      "kind": "article",
-     "id": "b2770cdf2e3d07a4",
-     "first_seen": "2026-09-04T10:09:03.571930+00:00",
+     "id": "7f12deebefeee2bf",
+     "first_seen": "2026-09-04T11:07:54.990062+00:00",
      "is_new": true
     },
     {
@@ -222,16 +222,16 @@
    "more": 0,
    "items": [
     {
-     "title": "Merging Onto Memory Lane",
-     "url": "https://www.thisnicelife.com/p/merging-onto-memory-lane",
-     "source": "This Nice Life",
-     "summary": "A vehicle and a song can take you back in time.",
-     "published": "2026-08-22T12:02:05+00:00",
-     "image": "https://substackcdn.com/image/fetch/$s_!7Xdo!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2bf7c313-331a-4432-b729-81c08d305139_4032x2268.jpeg",
+     "title": "What JM Weston 180s tell us about shoe fit",
+     "url": "https://www.permanentstyle.com/2026/09/what-jm-weston-180s-tell-us-about-shoe-fit.html",
+     "source": "Permanent Style",
+     "summary": "I\u2019ve never owned a 180 loafer , and so I didn\u2019t realise until recently how tricky a shoe it is to fit. A recent visit to the Weston store opened my eyes, however. It really is a t\u2026",
+     "published": "2026-09-04T08:00:25+00:00",
+     "image": "https://www.permanentstyle.com/wp-content/uploads/2026/08/B000490-R1-08-9-4000x5000-copy.jpg",
      "kind": "article",
-     "id": "06d3681b0771cc47",
-     "first_seen": "2026-08-22T13:43:58.125100+00:00",
-     "is_new": false,
+     "id": "fb03541a6afb78e3",
+     "first_seen": "2026-09-04T10:09:03.571930+00:00",
+     "is_new": true,
      "corroboration": 1,
      "also_in": [],
      "boosted": false,
@@ -288,7 +288,5 @@
    ]
   }
  ],
- "errors": [
-  "Permanent Style: RuntimeError \u2014 https://www.permanentstyle.com/feed \u2192 HTTP 415"
- ]
+ "errors": []
 }
