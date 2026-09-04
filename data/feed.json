@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-04T14:29:25.090566+00:00",
+ "generated_at": "2026-09-04T14:47:23.479834+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -69,6 +69,22 @@
    "more": 0,
    "items": [
     {
+     "title": "Yemen\u2019s Houthis Push Toward Red Sea Strait as Ground Fighting Escalates",
+     "url": "https://www.nytimes.com/2026/09/04/world/middleeast/yemen-houthis-red-sea-strait.html",
+     "source": "New York Times",
+     "summary": "The Houthis, an Iran-backed militia, appear to be trying to gain control of a port city near the Bab al-Mandab Strait, a key choke point for global trade.",
+     "published": "2026-09-04T14:08:53+00:00",
+     "image": "https://static01.nyt.com/images/2026/09/04/multimedia/00int-Yemen-NewBattles-1-tpbm/00int-Yemen-NewBattles-1-tpbm-mediumSquareAt3X.jpg",
+     "kind": "article",
+     "id": "d3212f0b0e8dcf1d",
+     "first_seen": "2026-09-04T14:47:23.479834+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
      "title": "Trump asks SCOTUS to OK changes to mail-in ballots. And, diesel prices hit record high",
      "url": "https://www.npr.org/2026/09/04/g-s1-141972/up-first-newsletter-usps-mail-in-voting-irs-schools-christian-castro",
      "source": "NPR",
@@ -113,22 +129,6 @@
      "image": "https://images.axios.com/-5jKLJxPFU-8FXViGLQUAq2sK9Y=/0x0:1920x1080/1366x768/2026/07/14/1784052682617.jpeg",
      "kind": "article",
      "id": "cdee0080665287df",
-     "first_seen": "2026-09-04T10:09:03.571930+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "Trump already tried to hurt Iran with sanctions once - and it didn't work",
-     "url": "https://www.npr.org/2026/09/04/nx-s1-5945582/trump-already-tried-to-hurt-iran-with-sanctions-once-and-it-didnt-work",
-     "source": "NPR",
-     "summary": "President Trump is again hoping to use economic pressure to force Iran to the negotiating table.",
-     "published": "2026-09-04T08:06:02+00:00",
-     "image": null,
-     "kind": "article",
-     "id": "5f33321eb208d486",
      "first_seen": "2026-09-04T10:09:03.571930+00:00",
      "is_new": true,
      "corroboration": 1,
