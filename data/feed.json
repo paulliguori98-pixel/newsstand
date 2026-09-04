@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-04T15:07:54.168223+00:00",
+ "generated_at": "2026-09-04T15:30:03.559371+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -69,6 +69,22 @@
    "more": 0,
    "items": [
     {
+     "title": "Howard Lutnick Made Over $250 Million Last Year",
+     "url": "https://www.wsj.com/politics/policy/howard-lutnick-made-over-250-million-last-year-2d49acf3?mod=rss_markets_main",
+     "source": "WSJ",
+     "summary": "The commerce secretary sold his stake in Cantor Fitzgerald and other stocks, and scooped up index funds.",
+     "published": "2026-09-04T15:26:00+00:00",
+     "image": "https://images.wsj.net/im-66422925",
+     "kind": "article",
+     "id": "b0a6a0f5c17e3181",
+     "first_seen": "2026-09-04T15:30:03.559371+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
      "title": "U.S. Diesel Prices Set New High",
      "url": "https://www.nytimes.com/2026/09/04/business/diesel-price-record-oil-iran.html",
      "source": "New York Times",
@@ -113,22 +129,6 @@
      "image": "https://static01.nyt.com/images/2026/09/04/multimedia/04headlines-russia-europe/04russia-europe-01-fczp-mediumSquareAt3X.jpg",
      "kind": "article",
      "id": "0e449ac4fb09c78c",
-     "first_seen": "2026-09-04T10:09:03.571930+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "The coming verdict on Trump's Strait of Hormuz claims",
-     "url": "https://www.axios.com/2026/09/04/trump-strait-hormuz-oil-claims-iran",
-     "source": "Axios",
-     "summary": "The White House is at odds with some private sector analysts over how much oil is leaving the Strait of Hormuz \u2014 but it will take weeks until the picture of what's truly getting t\u2026",
-     "published": "2026-09-04T09:30:04+00:00",
-     "image": "https://images.axios.com/-5jKLJxPFU-8FXViGLQUAq2sK9Y=/0x0:1920x1080/1366x768/2026/07/14/1784052682617.jpeg",
-     "kind": "article",
-     "id": "cdee0080665287df",
      "first_seen": "2026-09-04T10:09:03.571930+00:00",
      "is_new": true,
      "corroboration": 1,
