@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-04T11:46:21.294104+00:00",
+ "generated_at": "2026-09-04T12:11:07.006594+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -15,7 +15,7 @@
      "detail": "It reaches 82\u00b0 today and falls to 56\u00b0 overnight. The sun is up from 6:23 until 7:25.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 61,
+     "temp": 64,
      "high": 82,
      "low": 56,
      "sunrise": "6:23",
@@ -105,7 +105,7 @@
      "score": 4
     },
     {
-     "title": "The coming verdict on Trump's Strait of Hormuz strategy",
+     "title": "The coming verdict on Trump's Strait of Hormuz claims",
      "url": "https://www.axios.com/2026/09/04/trump-strait-hormuz-oil-claims-iran",
      "source": "Axios",
      "summary": "The White House is at odds with some private sector analysts over how much oil is leaving the Strait of Hormuz \u2014 but it will take weeks until the picture of what's truly getting t\u2026",
@@ -159,15 +159,27 @@
      "is_new": true
     },
     {
-     "title": "Demystifying Switching Power Supplies",
-     "url": "https://www.hackster.io/electroniclovers/demystifying-switching-power-supplies-4a9d8a",
+     "title": "Smart Automatic Clothesline Using MakerBuddy",
+     "url": "https://www.hackster.io/mafzal/smart-automatic-clothesline-using-makerbuddy-06fce4",
      "source": "Hackster",
-     "summary": "Demystifying Switching Power Supplies: A 6-Block Circuit Guide",
-     "published": "2026-09-04T03:33:25+00:00",
-     "image": "https://hackster.imgix.net/uploads/attachments/1994432/_vf9xzXUwgf.blob",
+     "summary": "What happens when clothes are drying outside and it suddenly starts raining?",
+     "published": "2026-09-04T07:34:25+00:00",
+     "image": "https://hackster.imgix.net/uploads/attachments/1994535/_z0VjMGODXk.blob",
      "kind": "article",
-     "id": "4d086f097fa2bcc2",
-     "first_seen": "2026-09-04T10:09:03.571930+00:00",
+     "id": "ad3ffa4a3f8df551",
+     "first_seen": "2026-09-04T12:11:07.006594+00:00",
+     "is_new": true
+    },
+    {
+     "title": "Build Retro Stereo Amplifier with Toshiba TA8211AH and ESP32",
+     "url": "https://www.hackster.io/robertfletcher1582/build-retro-stereo-amplifier-with-toshiba-ta8211ah-and-esp32-151597",
+     "source": "Hackster",
+     "summary": "Build a compact two-channel audio amplifier around the classic Toshiba TA8211AH and use an ESP32 as a simple audio test source. This project",
+     "published": "2026-09-04T06:07:51+00:00",
+     "image": "https://hackster.imgix.net/uploads/attachments/1994480/_41MACcrHWi.blob",
+     "kind": "article",
+     "id": "cea89dfd8eb73595",
+     "first_seen": "2026-09-04T12:11:07.006594+00:00",
      "is_new": true
     },
     {
@@ -180,18 +192,6 @@
      "kind": "article",
      "id": "1dbc74482c65b5d7",
      "first_seen": "2026-09-04T10:47:25.073613+00:00",
-     "is_new": true
-    },
-    {
-     "title": "ESP32 C3 Super Mini - LCD",
-     "url": "https://www.hackster.io/diyablesio/esp32-c3-super-mini-lcd-3656c3",
-     "source": "Hackster",
-     "summary": "Learn: how LCD I2C works, how to connect LCD I2C to ESP32, how to program ESP32 C3 Super Mini step by step.",
-     "published": "2026-09-03T23:59:29+00:00",
-     "image": "https://hackster.imgix.net/uploads/attachments/1994381/_sYIhaK4Lxx.blob",
-     "kind": "article",
-     "id": "30f31842e0bf040d",
-     "first_seen": "2026-09-04T10:09:03.571930+00:00",
      "is_new": true
     },
     {
