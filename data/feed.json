@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-04T17:07:39.654726+00:00",
+ "generated_at": "2026-09-04T17:26:59.804825+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -69,6 +69,22 @@
    "more": 0,
    "items": [
     {
+     "title": "Argentine couple to return Nazi-looted painting to rightful owner",
+     "url": "https://www.bbc.co.uk/news/articles/cy0zxjp50j6o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "summary": "The late-baroque Portrait of a Lady was lost for 80 years until it was spotted in photographs of a house for sale near Buenos Aires.",
+     "published": "2026-09-04T17:14:21+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/72b0/live/b396bf10-829e-11f0-a21f-a946aea0c353.jpg",
+     "kind": "article",
+     "id": "537d21e4712827ae",
+     "first_seen": "2026-09-04T17:26:59.804825+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
      "title": "A More Confident Iran Emerges After Six Months of War With the U.S.",
      "url": "https://www.nytimes.com/2026/09/04/us/politics/iran-war-intelligence-reports.html",
      "source": "New York Times",
@@ -109,22 +125,6 @@
      "image": "https://images.axios.com/-5jKLJxPFU-8FXViGLQUAq2sK9Y=/0x0:1920x1080/1366x768/2026/07/14/1784052682617.jpeg",
      "kind": "article",
      "id": "cdee0080665287df",
-     "first_seen": "2026-09-04T10:09:03.571930+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "South Korea pushes back on reports it is readying Hormuz deployment amid US pressure",
-     "url": "https://www.theguardian.com/world/2026/sep/04/south-korea-pushes-back-reports-hormuz-deployment-us-pressure",
-     "source": "Guardian",
-     "summary": "Seoul reportedly seeking parliamentary approval to send military assets to Middle East but president\u2019s office plays down claimsSouth Korea is reviewing a possible deployment of mi\u2026",
-     "published": "2026-09-04T07:47:41+00:00",
-     "image": "https://i.guim.co.uk/img/media/9d5c19d1d2fb8cc1a332e36bb6c7886808938047/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=b03dbd5cd5b80ec7ebfcd7c0c24f84a9",
-     "kind": "article",
-     "id": "1d6cd5c692ac8e70",
      "first_seen": "2026-09-04T10:09:03.571930+00:00",
      "is_new": true,
      "corroboration": 1,
