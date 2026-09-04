@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-04T10:09:03.571930+00:00",
+ "generated_at": "2026-09-04T10:30:25.475807+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -12,12 +12,12 @@
     {
      "title": "Patchy Fog",
      "phrase": "Patchy Fog all day.",
-     "detail": "It reaches 82\u00b0 today and falls to 56\u00b0 overnight. The sun is up from 6:23 until 7:25.",
+     "detail": "It reaches 82\u00b0 today and falls to 60\u00b0 overnight. The sun is up from 6:23 until 7:25.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
      "temp": 61,
      "high": 82,
-     "low": 56,
+     "low": 60,
      "sunrise": "6:23",
      "sunset": "7:25",
      "id": "bb806d72c86dcec1",
@@ -69,24 +69,6 @@
    "more": 0,
    "items": [
     {
-     "title": "Diesel price surges to all-time high, fueled by wars",
-     "url": "https://www.axios.com/2026/09/04/diesel-prices-record-iran-truckers-farmers",
-     "source": "Axios",
-     "summary": "The average price of diesel topped its 2022 record high on Friday, spiking to $5.85 per gallon, per AAA.Why it matters: Farmers, truckers and freight companies have been absorbing\u2026",
-     "published": "2026-09-04T08:12:45+00:00",
-     "image": "https://images.axios.com/GdW9gZ5Uw4XDRvxIxAoKH5bICN4=/1366x768/smart/2022/09/29/141257-1664460777695.jpg",
-     "kind": "article",
-     "id": "b39d33a63984922c",
-     "first_seen": "2026-09-04T10:09:03.571930+00:00",
-     "is_new": true,
-     "corroboration": 2,
-     "also_in": [
-      "New York Times"
-     ],
-     "boosted": true,
-     "score": 5
-    },
-    {
      "title": "A Surge of Russian Sabotage Attacks in Europe, and Musk\u2019s Political War Chest",
      "url": "https://www.nytimes.com/2026/09/04/podcasts/the-headlines/russia-sabotage-attacks-elon-musk.html",
      "source": "New York Times",
@@ -127,6 +109,22 @@
      "image": null,
      "kind": "article",
      "id": "5f33321eb208d486",
+     "first_seen": "2026-09-04T10:09:03.571930+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
+     "title": "South Korea pushes back on reports it is readying Hormuz deployment amid US pressure",
+     "url": "https://www.theguardian.com/world/2026/sep/04/south-korea-pushes-back-reports-hormuz-deployment-us-pressure",
+     "source": "Guardian",
+     "summary": "Seoul reportedly seeking parliamentary approval to send military assets to Middle East but president\u2019s office plays down claimsSouth Korea is reviewing a possible deployment of mi\u2026",
+     "published": "2026-09-04T07:47:41+00:00",
+     "image": "https://i.guim.co.uk/img/media/9d5c19d1d2fb8cc1a332e36bb6c7886808938047/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=b03dbd5cd5b80ec7ebfcd7c0c24f84a9",
+     "kind": "article",
+     "id": "1d6cd5c692ac8e70",
      "first_seen": "2026-09-04T10:09:03.571930+00:00",
      "is_new": true,
      "corroboration": 1,
