@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-05T16:07:59.094067+00:00",
+ "generated_at": "2026-09-05T16:28:18.743343+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -72,8 +72,8 @@
      "title": "US hits three Iranian oil tankers after saying its warships were targeted",
      "url": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "summary": "US Central Command says the attacks came after Iran launched ballistic missiles at two of its Navy warships.",
-     "published": "2026-09-05T15:14:21+00:00",
+     "summary": "The tit-for-tat strikes come nearly a week after fighting between the US and Iran flared again following weeks of relative calm.",
+     "published": "2026-09-05T16:13:01+00:00",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9613/live/a1c35120-a93c-11f1-a291-b542ee92de7c.png",
      "kind": "article",
      "id": "84a48662e571df04",
@@ -294,6 +294,22 @@
      "score": 1
     },
     {
+     "title": "What JM Weston 180s tell us about shoe fit",
+     "url": "https://www.permanentstyle.com/2026/09/what-jm-weston-180s-tell-us-about-shoe-fit.html",
+     "source": "Permanent Style",
+     "summary": "I\u2019ve never owned a 180 loafer , and so I didn\u2019t realise until recently how tricky a shoe it is to fit. A recent visit to the Weston store opened my eyes, however. It really is a t\u2026",
+     "published": "2026-09-04T08:00:25+00:00",
+     "image": "https://www.permanentstyle.com/wp-content/uploads/2026/08/B000490-R1-08-9-4000x5000-copy.jpg",
+     "kind": "article",
+     "id": "fb03541a6afb78e3",
+     "first_seen": "2026-09-04T10:09:03.571930+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": false,
+     "score": 1
+    },
+    {
      "title": "Inside Track: August 23rd \u2013 August 29th Edition",
      "url": "https://www.putthison.com/inside-track-august-23rd-august-29th-edition-2/",
      "source": "Put This On",
@@ -324,27 +340,9 @@
      "also_in": [],
      "boosted": false,
      "score": 1
-    },
-    {
-     "title": "The Book Club",
-     "url": "https://www.acl.news/p/the-book-club",
-     "source": "A Continuous Lean",
-     "summary": "Light Years by James Salter. The first Central Division Book Club.",
-     "published": "2026-08-28T12:04:34+00:00",
-     "image": null,
-     "kind": "article",
-     "id": "0cff4c8393dc1af6",
-     "first_seen": "2026-08-28T21:57:36.363761+00:00",
-     "is_new": false,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": false,
-     "score": 1
     }
    ]
   }
  ],
- "errors": [
-  "Permanent Style: RuntimeError \u2014 https://www.permanentstyle.com/feed \u2192 HTTP 415"
- ]
+ "errors": []
 }
