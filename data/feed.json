@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-05T22:26:48.263510+00:00",
+ "generated_at": "2026-09-05T22:44:46.777919+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -69,20 +69,20 @@
    "more": 0,
    "items": [
     {
-     "title": "Putin begins talks with Steve Witkoff and Jared Kushner on ending war with Ukraine",
-     "url": "https://www.theguardian.com/world/2026/sep/05/steve-witkoff-jared-kushner-russia-revive-ukraine-talks",
-     "source": "Guardian",
-     "summary": "Moscow and Kyiv vow not to strike each other\u2019s capitals for three days during negotiations Russian president Vladimir Putin began talks with US envoys Jared Kushner and Steve Witk\u2026",
-     "published": "2026-09-05T22:13:55+00:00",
-     "image": "https://i.guim.co.uk/img/media/6c169677a60bc6a610e0f252fbbe628a152fa07e/2_0_4440_3553/master/4440.jpg?width=140&quality=85&auto=format&fit=max&s=0654b6dd46204528f1b130253d178fc2",
+     "title": "Witkoff and Kushner meet with Putin about ending Ukraine war",
+     "url": "https://www.axios.com/2026/09/05/putin-witkoff-kushner-trump-ukraine-war",
+     "source": "Axios",
+     "summary": "President Trump envoys Steve Witkoff and Jared Kushner met with Russian President Vladimir Putin at the Kremlin Saturday and discussed U.S. ideas for ending the war in Ukraine.Why\u2026",
+     "published": "2026-09-05T22:26:58+00:00",
+     "image": "https://images.axios.com/sqobC2V6dO7WGrEXkPw-XV_iKao=/0x0:4894x2753/1366x768/2026/09/05/1788640436966.jpeg",
      "kind": "article",
-     "id": "37d665c20f72abe6",
-     "first_seen": "2026-09-05T14:27:23.118869+00:00",
+     "id": "6e376e970322388e",
+     "first_seen": "2026-09-05T21:07:31.698386+00:00",
      "is_new": true,
      "corroboration": 4,
      "also_in": [
-      "Axios",
       "BBC",
+      "Guardian",
       "New York Times"
      ],
      "boosted": true,
