@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-05T11:44:20.329907+00:00",
+ "generated_at": "2026-09-05T12:09:19.872522+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,12 +10,12 @@
    "more": 0,
    "items": [
     {
-     "title": "Sunny",
-     "phrase": "Sunny all day.",
+     "title": "Patchy Fog",
+     "phrase": "Patchy Fog all day.",
      "detail": "It reaches 77\u00b0 today and falls to 54\u00b0 overnight. The sun is up from 6:24 until 7:23.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 57,
+     "temp": 61,
      "high": 77,
      "low": 54,
      "sunrise": "6:24",
@@ -155,27 +155,27 @@
      "is_new": true
     },
     {
-     "title": "WildGuard: Off-Grid Edge AI Wildlife Monitoring",
-     "url": "https://www.hackster.io/ademosuoluwatobi/wildguard-off-grid-edge-ai-wildlife-monitoring-018444",
+     "title": "High-Precision Multi-Channel Sensor Monitor Using ADS1219IRT",
+     "url": "https://www.hackster.io/lc2403478/high-precision-multi-channel-sensor-monitor-using-ads1219irt-7a5b19",
      "source": "Hackster",
-     "summary": "WildGuard is an advanced edge-AI early-warning camera designed to combat illegal poaching and monitor wildlife corridors.",
-     "published": "2026-09-04T09:33:34+00:00",
-     "image": "https://hackster.imgix.net/uploads/attachments/1994587/_dLeU1b2T3o.blob",
+     "summary": "The ADS1219IRTER is a useful choice for developers building precision analog measurement and sensor monitoring systems.",
+     "published": "2026-09-05T07:19:56+00:00",
+     "image": "https://hackster.imgix.net/uploads/attachments/1994925/_mVMVXE9E9J.blob",
      "kind": "article",
-     "id": "20753a2e8ed9eb26",
-     "first_seen": "2026-09-04T15:46:41.955710+00:00",
+     "id": "50fb2e93c78831ff",
+     "first_seen": "2026-09-05T12:09:19.872522+00:00",
      "is_new": true
     },
     {
-     "title": "Smart Automatic Clothesline Using MakerBuddy",
-     "url": "https://www.hackster.io/mafzal/smart-automatic-clothesline-using-makerbuddy-06fce4",
+     "title": "Tiwaz gaming keyboard",
+     "url": "https://www.hackster.io/tstrube/tiwaz-gaming-keyboard-5cc338",
      "source": "Hackster",
-     "summary": "What happens when clothes are drying outside and it suddenly starts raining?",
-     "published": "2026-09-04T07:34:25+00:00",
-     "image": "https://hackster.imgix.net/uploads/attachments/1994535/_z0VjMGODXk.blob",
+     "summary": "Fully open-source split, ergo gaming keyboard with configurable joysticks running QMK and VIAL firmware. Also usable as macro pad.",
+     "published": "2026-09-04T18:52:47+00:00",
+     "image": "https://hackster.imgix.net/uploads/attachments/1994773/_iFzgemmbp0.blob",
      "kind": "article",
-     "id": "ad3ffa4a3f8df551",
-     "first_seen": "2026-09-04T12:11:07.006594+00:00",
+     "id": "e89a3265509ac573",
+     "first_seen": "2026-09-05T12:09:19.872522+00:00",
      "is_new": true
     },
     {
