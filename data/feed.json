@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-05T10:07:48.148630+00:00",
+ "generated_at": "2026-09-05T10:27:27.171764+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -56,7 +56,7 @@
      "kind": "garden",
      "id": "2cdff5df7de68adb",
      "first_seen": "2026-09-01T10:08:31.131288+00:00",
-     "is_new": true
+     "is_new": false
     }
    ]
   },
@@ -68,6 +68,38 @@
    "row_detail": false,
    "more": 0,
    "items": [
+    {
+     "title": "Trump Envoys Arrive in Moscow for Talks on Ukraine War",
+     "url": "https://www.nytimes.com/2026/09/05/world/europe/russia-ukraine-witkoff-kushner-moscow.html",
+     "source": "New York Times",
+     "summary": "Steve Witkoff, President Trump\u2019s special envoy, and Jared Kushner, his son-in-law, plan to visit Kyiv next, in an effort to revive peace negotiations between Russia and Ukraine.",
+     "published": "2026-09-05T10:05:20+00:00",
+     "image": "https://static01.nyt.com/images/2026/09/05/multimedia/05int-russia-meeting-placeholder-lwjb/05int-russia-meeting-placeholder-lwjb-mediumSquareAt3X.jpg",
+     "kind": "article",
+     "id": "6d3b5604c5abe89f",
+     "first_seen": "2026-09-05T10:27:27.171764+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
+     "title": "\u2018It cost me many friendships\u2019: former Brazil military chief reveals inside struggle to stop Bolsonaro\u2019s coup",
+     "url": "https://www.theguardian.com/world/2026/sep/05/jair-bolsonaro-coup-plan-2022-election-brazil-air-force-baptista-junior",
+     "source": "Guardian",
+     "summary": "Carlos de Almeida Baptista Ju\u0301nior describes 2022 meeting in new book as ex-leader\u2019s son vies with Lula for presidencyThe far-right populist Jair Bolsonaro was in his final days a\u2026",
+     "published": "2026-09-05T10:00:34+00:00",
+     "image": "https://i.guim.co.uk/img/media/28299cd26cb005726bef0fc856481cef483cd627/232_188_2166_1734/master/2166.jpg?width=140&quality=85&auto=format&fit=max&s=62b18adeae7c2ddff9f4669bc84fc2f7",
+     "kind": "article",
+     "id": "32856331b5260f72",
+     "first_seen": "2026-09-05T10:27:27.171764+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
     {
      "title": "Sydney reaches 33C in potentially warmest start to spring since mid-1800s, while snow forecast in southern NSW",
      "url": "https://www.theguardian.com/australia-news/2026/sep/05/sydney-set-to-hit-33c-in-warmest-start-to-spring-since-mid-1800s-while-snow-forecast-in-southern-nsw",
@@ -94,38 +126,6 @@
      "kind": "article",
      "id": "0c2260fc15829e01",
      "first_seen": "2026-09-05T10:07:48.148630+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "Scoop: Trump administration drafting post-war Middle East plan",
-     "url": "https://www.axios.com/2026/09/04/trump-middle-east-iran-post-war-strategy",
-     "source": "Axios",
-     "summary": "The Trump administration is working on a post-war strategy focused on a regional effort to contain Iran and expand normalization of relations between Israel and its neighbors, acc\u2026",
-     "published": "2026-09-04T17:49:40+00:00",
-     "image": "https://images.axios.com/u0opw5Xsgl-k80zA01KPtTLytH4=/0x0:3683x2072/1366x768/2026/09/04/1788543291861.jpeg",
-     "kind": "article",
-     "id": "426f662babc55ee9",
-     "first_seen": "2026-09-04T18:09:38.513836+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "Argentine couple to return Nazi-looted painting to rightful owner",
-     "url": "https://www.bbc.co.uk/news/articles/cy0zxjp50j6o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "summary": "The late-baroque Portrait of a Lady was lost for 80 years until it was spotted in photographs of a house for sale near Buenos Aires.",
-     "published": "2026-09-04T17:14:21+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6bdc/live/e95d23d0-a888-11f1-96fc-dd627484b0e6.jpg",
-     "kind": "article",
-     "id": "537d21e4712827ae",
-     "first_seen": "2026-09-04T17:26:59.804825+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
