@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-05T11:26:35.462378+00:00",
+ "generated_at": "2026-09-05T11:44:20.329907+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -222,16 +222,32 @@
    "more": 0,
    "items": [
     {
-     "title": "Merging Onto Memory Lane",
-     "url": "https://www.thisnicelife.com/p/merging-onto-memory-lane",
-     "source": "This Nice Life",
-     "summary": "A vehicle and a song can take you back in time.",
-     "published": "2026-08-22T12:02:05+00:00",
-     "image": "https://substackcdn.com/image/fetch/$s_!7Xdo!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2bf7c313-331a-4432-b729-81c08d305139_4032x2268.jpeg",
+     "title": "The Good List",
+     "url": "https://www.acl.news/p/the-good-list",
+     "source": "A Continuous Lean",
+     "summary": "Buyer\u2019s Guide to Things Worth the Money.",
+     "published": "2026-09-05T11:39:34+00:00",
+     "image": "https://substackcdn.com/image/fetch/$s_!Cewu!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa22ecffe-7d63-419f-95ed-8065faf82391_1536x2048.jpeg",
      "kind": "article",
-     "id": "06d3681b0771cc47",
-     "first_seen": "2026-08-22T13:43:58.125100+00:00",
-     "is_new": false,
+     "id": "3f21c71e57e03f19",
+     "first_seen": "2026-09-05T11:44:20.329907+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": false,
+     "score": 1
+    },
+    {
+     "title": "What JM Weston 180s tell us about shoe fit",
+     "url": "https://www.permanentstyle.com/2026/09/what-jm-weston-180s-tell-us-about-shoe-fit.html",
+     "source": "Permanent Style",
+     "summary": "I\u2019ve never owned a 180 loafer , and so I didn\u2019t realise until recently how tricky a shoe it is to fit. A recent visit to the Weston store opened my eyes, however. It really is a t\u2026",
+     "published": "2026-09-04T08:00:25+00:00",
+     "image": "https://www.permanentstyle.com/wp-content/uploads/2026/08/B000490-R1-08-9-4000x5000-copy.jpg",
+     "kind": "article",
+     "id": "fb03541a6afb78e3",
+     "first_seen": "2026-09-04T10:09:03.571930+00:00",
+     "is_new": true,
      "corroboration": 1,
      "also_in": [],
      "boosted": false,
@@ -268,27 +284,9 @@
      "also_in": [],
      "boosted": false,
      "score": 1
-    },
-    {
-     "title": "The Book Club",
-     "url": "https://www.acl.news/p/the-book-club",
-     "source": "A Continuous Lean",
-     "summary": "Light Years by James Salter. The first Central Division Book Club.",
-     "published": "2026-08-28T12:04:34+00:00",
-     "image": null,
-     "kind": "article",
-     "id": "0cff4c8393dc1af6",
-     "first_seen": "2026-08-28T21:57:36.363761+00:00",
-     "is_new": false,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": false,
-     "score": 1
     }
    ]
   }
  ],
- "errors": [
-  "Permanent Style: RuntimeError \u2014 https://www.permanentstyle.com/feed \u2192 HTTP 415"
- ]
+ "errors": []
 }
