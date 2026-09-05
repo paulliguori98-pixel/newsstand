@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-05T20:44:32.939357+00:00",
+ "generated_at": "2026-09-05T21:07:31.698386+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -15,7 +15,7 @@
      "detail": "It reaches 75\u00b0 today and falls to 54\u00b0 overnight. The sun is up from 6:24 until 7:23.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 74,
+     "temp": 73,
      "high": 75,
      "low": 54,
      "sunrise": "6:24",
@@ -69,21 +69,21 @@
    "more": 0,
    "items": [
     {
-     "title": "Putin Meets Witkoff and Kushner in Moscow to Discuss Ukraine War",
-     "url": "https://www.nytimes.com/2026/09/05/world/europe/russia-ukraine-witkoff-kushner-moscow.html",
-     "source": "New York Times",
-     "summary": "President Vladimir V. Putin ordered a pause in strikes on Ukraine\u2019s capital, Kyiv, ahead of the meeting with President Trump\u2019s envoys: his son-in-law Jared Kushner and the busines\u2026",
-     "published": "2026-09-05T20:28:48+00:00",
-     "image": "https://static01.nyt.com/images/2026/09/05/multimedia/05int-russia-meeting-sub-ckmh/05int-russia-meeting-sub-ckmh-mediumSquareAt3X.jpg",
+     "title": "Witkoff and Kushner meet with Putin about ending Ukraine war",
+     "url": "https://www.axios.com/2026/09/05/putin-witkoff-kushner-trump-ukraine-war",
+     "source": "Axios",
+     "summary": "President Trump envoys Steve Witkoff and Jared Kushner met with Russian President Vladimir Putin at the Kremlin Saturday and discussed U.S. ideas for ending the war in Ukraine.Why\u2026",
+     "published": "2026-09-05T20:44:51+00:00",
+     "image": "https://images.axios.com/sqobC2V6dO7WGrEXkPw-XV_iKao=/0x0:4894x2753/1366x768/2026/09/05/1788640436966.jpeg",
      "kind": "article",
-     "id": "6d3b5604c5abe89f",
-     "first_seen": "2026-09-05T10:27:27.171764+00:00",
+     "id": "6e376e970322388e",
+     "first_seen": "2026-09-05T21:07:31.698386+00:00",
      "is_new": true,
      "corroboration": 4,
      "also_in": [
-      "Axios",
       "BBC",
-      "Guardian"
+      "Guardian",
+      "New York Times"
      ],
      "boosted": true,
      "score": 7
@@ -92,7 +92,7 @@
      "title": "US hits three Iranian oil tankers after saying its warships were targeted",
      "url": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "summary": "Iran's state media reports that Tehran has launched retaliatory attacks against three US-affiliated vessels; the US is yet to comment.",
+     "summary": "Iran's state media reported that Tehran has launched retaliatory attacks against three US-affiliated vessels; the US is yet to comment.",
      "published": "2026-09-05T20:41:59+00:00",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9613/live/a1c35120-a93c-11f1-a291-b542ee92de7c.png",
      "kind": "article",
