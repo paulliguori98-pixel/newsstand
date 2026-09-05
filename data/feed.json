@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-05T14:27:23.118869+00:00",
+ "generated_at": "2026-09-05T14:44:34.450581+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -69,6 +69,22 @@
    "more": 0,
    "items": [
     {
+     "title": "US hits three Iranian oil tankers after saying its warships were targeted",
+     "url": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "summary": "US Central Command says the attacks came after Iran launched ballistic missiles at two of its Navy warships.",
+     "published": "2026-09-05T14:40:53+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e249/live/f2d95940-a934-11f1-bb81-8fbd2d2d397c.jpg",
+     "kind": "article",
+     "id": "84a48662e571df04",
+     "first_seen": "2026-09-05T14:44:34.450581+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
      "title": "Europe would not be able to sustain war of attrition with Russia, defence officials say",
      "url": "https://www.theguardian.com/world/2026/sep/05/europe-unable-sustain-war-of-attrition-russia-defence-officials-say",
      "source": "Guardian",
@@ -110,22 +126,6 @@
      "kind": "article",
      "id": "6d45043f8183bb02",
      "first_seen": "2026-09-05T10:07:48.148630+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "Scoop: Trump administration drafting post-war Middle East plan",
-     "url": "https://www.axios.com/2026/09/04/trump-middle-east-iran-post-war-strategy",
-     "source": "Axios",
-     "summary": "The Trump administration is working on a post-war strategy focused on a regional effort to contain Iran and expand normalization of relations between Israel and its neighbors, acc\u2026",
-     "published": "2026-09-04T17:49:40+00:00",
-     "image": "https://images.axios.com/u0opw5Xsgl-k80zA01KPtTLytH4=/0x0:3683x2072/1366x768/2026/09/04/1788543291861.jpeg",
-     "kind": "article",
-     "id": "426f662babc55ee9",
-     "first_seen": "2026-09-04T18:09:38.513836+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
