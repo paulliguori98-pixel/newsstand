@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-05T16:45:09.211259+00:00",
+ "generated_at": "2026-09-05T17:07:13.311792+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -73,7 +73,7 @@
      "url": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
      "summary": "The tit-for-tat strikes come nearly a week after fighting between the US and Iran flared again following weeks of relative calm.",
-     "published": "2026-09-05T16:13:01+00:00",
+     "published": "2026-09-05T16:53:43+00:00",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9613/live/a1c35120-a93c-11f1-a291-b542ee92de7c.png",
      "kind": "article",
      "id": "84a48662e571df04",
@@ -146,15 +146,15 @@
    "more": 0,
    "items": [
     {
-     "title": "Free Your Rotary Telephone From Its Wire",
-     "url": "https://hackaday.com/2026/09/05/free-your-rotary-telephone-from-its-wire/",
+     "title": "Voicebox FX is a Blueprint for CircuitPython I2S Audio",
+     "url": "https://hackaday.com/2026/09/05/voicebox-fx-is-a-blueprint-for-circuitpython-i2s-audio/",
      "source": "Hackaday",
-     "summary": "It\u2019s said that a teenager given a rotary telephone in 2026 would be mystified by its operation, yet there are enough surviving instruments for them to be an attractive target \u2026rea\u2026",
-     "published": "2026-09-05T08:00:06+00:00",
-     "image": "https://hackaday.com/wp-content/uploads/2026/09/dial-cellphone-featured.jpg",
+     "summary": "[Adafruit]\u2019s Voicebox FX gadget is a fun, well-documented project that serves another useful purpose: being a fantastic reference design for audio on CircuitPython, with I2S audio\u2026",
+     "published": "2026-09-05T17:00:28+00:00",
+     "image": "https://hackaday.com/wp-content/uploads/2026/09/Voicebox-FX-Demo-0-35-screenshot-banner.png",
      "kind": "article",
-     "id": "eed3ad008e858f78",
-     "first_seen": "2026-09-05T10:07:48.148630+00:00",
+     "id": "bc8e8d309f4bcc2c",
+     "first_seen": "2026-09-05T17:07:13.311792+00:00",
      "is_new": true
     },
     {
