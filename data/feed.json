@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-05T12:48:37.280084+00:00",
+ "generated_at": "2026-09-05T13:07:15.651703+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,12 +10,12 @@
    "more": 0,
    "items": [
     {
-     "title": "Patchy Fog",
-     "phrase": "Patchy Fog all day.",
+     "title": "Sunny",
+     "phrase": "Sunny all day.",
      "detail": "It reaches 77\u00b0 today and falls to 54\u00b0 overnight. The sun is up from 6:24 until 7:23.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 61,
+     "temp": 63,
      "high": 77,
      "low": 54,
      "sunrise": "6:24",
