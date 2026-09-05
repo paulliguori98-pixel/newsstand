@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-05T19:26:14.217876+00:00",
+ "generated_at": "2026-09-05T19:44:23.637249+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -159,27 +159,27 @@
      "is_new": true
     },
     {
-     "title": "DFRobot Motion Cam: mmWave-Triggered AI Security Camera",
-     "url": "https://www.hackster.io/pradeeplogu0/dfrobot-motion-cam-mmwave-triggered-ai-security-camera-a152d7",
+     "title": "Using device trees to configure Linux hardare interfaces",
+     "url": "https://www.hackster.io/MichalsTC/using-device-trees-to-configure-linux-hardare-interfaces-4b0569",
      "source": "Hackster",
-     "summary": "A privacy-aware mmWave security camera that photographs anyone who walks up to it and sends the shot straight to your phone.",
-     "published": "2026-09-05T04:42:17+00:00",
-     "image": "https://hackster.imgix.net/uploads/attachments/1995093/_bJczj0pbuh.blob",
+     "summary": "How to use device trees at boot up. How uboot is able to merge teh trees",
+     "published": "2026-09-05T14:16:29+00:00",
+     "image": "https://hackster.imgix.net/uploads/attachments/1995132/_2HeqcEF55f.blob",
      "kind": "article",
-     "id": "daeebea109eef13b",
-     "first_seen": "2026-09-05T15:44:54.294973+00:00",
+     "id": "5c7709ef19e3d41b",
+     "first_seen": "2026-09-05T19:44:23.637249+00:00",
      "is_new": true
     },
     {
-     "title": "Smart Automatic Clothesline Using MakerBuddy",
-     "url": "https://www.hackster.io/mafzal/smart-automatic-clothesline-using-makerbuddy-06fce4",
+     "title": "Introduction to the Cubie A5E",
+     "url": "https://www.hackster.io/MichalsTC/introduction-to-the-cubie-a5e-2287ec",
      "source": "Hackster",
-     "summary": "What happens when clothes are drying outside and it suddenly starts raining?",
-     "published": "2026-09-04T07:34:25+00:00",
-     "image": "https://hackster.imgix.net/uploads/attachments/1994535/_z0VjMGODXk.blob",
+     "summary": "Tiny SBC with 8\u00d7 A55 cores, RISC-V E907, PCIe, Wi-Fi, camera, & 40-pin GPIO. Full Linux power plus real-time control in your pocket.",
+     "published": "2026-09-05T12:59:39+00:00",
+     "image": "https://hackster.imgix.net/uploads/attachments/1995101/_BG2fdo1P1F.blob",
      "kind": "article",
-     "id": "ad3ffa4a3f8df551",
-     "first_seen": "2026-09-04T12:11:07.006594+00:00",
+     "id": "5da642b552208d7b",
+     "first_seen": "2026-09-05T19:44:23.637249+00:00",
      "is_new": true
     },
     {
