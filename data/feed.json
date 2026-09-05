@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-05T15:44:54.294973+00:00",
+ "generated_at": "2026-09-05T16:07:59.094067+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,12 +10,12 @@
    "more": 0,
    "items": [
     {
-     "title": "Partly Sunny",
-     "phrase": "Partly Sunny all day.",
+     "title": "Mostly Sunny",
+     "phrase": "Mostly Sunny all day.",
      "detail": "It reaches 77\u00b0 today and falls to 54\u00b0 overnight. The sun is up from 6:24 until 7:23.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 70,
+     "temp": 72,
      "high": 77,
      "low": 54,
      "sunrise": "6:24",
@@ -213,8 +213,61 @@
    "kind": "goods",
    "lead_image": false,
    "row_detail": false,
-   "more": 0,
-   "items": []
+   "more": 3,
+   "items": [
+    {
+     "title": "Ghost Rider Jacket in Chocolate/Oat Cavalry Twill",
+     "url": "https://shopmashburn.com/products/sid-mashburn-ghost-rider-jacket-chocolate-oat-cavalry-twill-s80247",
+     "source": "Sid Mashburn",
+     "summary": "Sid Sport Jackets",
+     "published": "2026-09-03T17:42:02-04:00",
+     "image": "https://cdn.shopify.com/s/files/1/0414/4532/6999/files/M-26-AUG-FALL-CATALOG-1-PDP-REVISED-16.jpg?v=1787846028",
+     "price": "$895",
+     "kind": "product",
+     "id": "d3cf23716f6fbb50",
+     "first_seen": "2026-09-05T15:27:38.186720+00:00",
+     "is_new": true
+    },
+    {
+     "title": "Harrington Jacket in Gordon Dress Tartan Dry Wax Poplin",
+     "url": "https://shopmashburn.com/products/sid-mashburn-harrington-jacket-gordon-dress-tartan-dry-wax-poplin-s79176",
+     "source": "Sid Mashburn",
+     "summary": "Sid Outerwear",
+     "published": "2026-09-03T16:19:46-04:00",
+     "image": "https://cdn.shopify.com/s/files/1/0414/4532/6999/files/M-26-AUG-FALL-CATALOG-1-PDP-REVISED-8.jpg?v=1787846166",
+     "price": "$495",
+     "kind": "product",
+     "id": "b148c3426f789c3b",
+     "first_seen": "2026-09-05T15:27:38.186720+00:00",
+     "is_new": true
+    },
+    {
+     "title": "Dress Trouser in Charcoal Flannel",
+     "url": "https://shopmashburn.com/products/sid-mashburn-dress-trouser-charcoal-flannel-s78670",
+     "source": "Sid Mashburn",
+     "summary": "Sid Dress Trousers",
+     "published": "2026-09-03T16:19:46-04:00",
+     "image": "https://cdn.shopify.com/s/files/1/0414/4532/6999/files/S78670_62_8b26b51d-d42c-4717-9d49-e8633ceb6cf6.jpg?v=1761144082",
+     "price": "$425",
+     "kind": "product",
+     "id": "cca7de682af236eb",
+     "first_seen": "2026-09-05T15:27:38.186720+00:00",
+     "is_new": true
+    },
+    {
+     "title": "Spread Collar Sport Shirt in Pink Flannel",
+     "url": "https://shopmashburn.com/products/sid-mashburn-spread-collar-sport-shirt-pink-flannel-s78731",
+     "source": "Sid Mashburn",
+     "summary": "Sid Sport Shirts",
+     "published": "2026-09-03T16:19:46-04:00",
+     "image": "https://cdn.shopify.com/s/files/1/0414/4532/6999/files/S78731_0058.jpg?v=1782914198",
+     "price": "$195",
+     "kind": "product",
+     "id": "6a7060ad502309e0",
+     "first_seen": "2026-09-05T15:27:38.186720+00:00",
+     "is_new": true
+    }
+   ]
   },
   {
    "id": "dispatches",
@@ -234,22 +287,6 @@
      "kind": "article",
      "id": "3f21c71e57e03f19",
      "first_seen": "2026-09-05T11:44:20.329907+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": false,
-     "score": 1
-    },
-    {
-     "title": "What JM Weston 180s tell us about shoe fit",
-     "url": "https://www.permanentstyle.com/2026/09/what-jm-weston-180s-tell-us-about-shoe-fit.html",
-     "source": "Permanent Style",
-     "summary": "I\u2019ve never owned a 180 loafer , and so I didn\u2019t realise until recently how tricky a shoe it is to fit. A recent visit to the Weston store opened my eyes, however. It really is a t\u2026",
-     "published": "2026-09-04T08:00:25+00:00",
-     "image": "https://www.permanentstyle.com/wp-content/uploads/2026/08/B000490-R1-08-9-4000x5000-copy.jpg",
-     "kind": "article",
-     "id": "fb03541a6afb78e3",
-     "first_seen": "2026-09-04T10:09:03.571930+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
@@ -287,9 +324,27 @@
      "also_in": [],
      "boosted": false,
      "score": 1
+    },
+    {
+     "title": "The Book Club",
+     "url": "https://www.acl.news/p/the-book-club",
+     "source": "A Continuous Lean",
+     "summary": "Light Years by James Salter. The first Central Division Book Club.",
+     "published": "2026-08-28T12:04:34+00:00",
+     "image": null,
+     "kind": "article",
+     "id": "0cff4c8393dc1af6",
+     "first_seen": "2026-08-28T21:57:36.363761+00:00",
+     "is_new": false,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": false,
+     "score": 1
     }
    ]
   }
  ],
- "errors": []
+ "errors": [
+  "Permanent Style: RuntimeError \u2014 https://www.permanentstyle.com/feed \u2192 HTTP 415"
+ ]
 }
