@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-05T17:07:13.311792+00:00",
+ "generated_at": "2026-09-05T17:26:11.675290+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,8 +10,8 @@
    "more": 0,
    "items": [
     {
-     "title": "Mostly Sunny",
-     "phrase": "Mostly Sunny all day.",
+     "title": "Partly Sunny",
+     "phrase": "Partly Sunny all day.",
      "detail": "It reaches 77\u00b0 today and falls to 54\u00b0 overnight. The sun is up from 6:24 until 7:23.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
@@ -72,8 +72,8 @@
      "title": "US hits three Iranian oil tankers after saying its warships were targeted",
      "url": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "summary": "The tit-for-tat strikes come nearly a week after fighting between the US and Iran flared again following weeks of relative calm.",
-     "published": "2026-09-05T16:53:43+00:00",
+     "summary": "The strikes come nearly a week after fighting between the US and Iran flared again following weeks of relative calm.",
+     "published": "2026-09-05T17:15:05+00:00",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9613/live/a1c35120-a93c-11f1-a291-b542ee92de7c.png",
      "kind": "article",
      "id": "84a48662e571df04",
