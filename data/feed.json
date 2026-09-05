@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-05T18:47:40.368156+00:00",
+ "generated_at": "2026-09-05T19:06:50.150825+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,12 +10,12 @@
    "more": 0,
    "items": [
     {
-     "title": "Partly Sunny",
-     "phrase": "Partly Sunny all day.",
+     "title": "Mostly Sunny",
+     "phrase": "A one-in-five chance of rain around 2am.",
      "detail": "It reaches 75\u00b0 today and falls to 54\u00b0 overnight. The sun is up from 6:24 until 7:23.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 72,
+     "temp": 74,
      "high": 75,
      "low": 54,
      "sunrise": "6:24",
@@ -73,7 +73,7 @@
      "url": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
      "summary": "The strikes come nearly a week after fighting between the US and Iran flared again following weeks of relative calm.",
-     "published": "2026-09-05T17:15:05+00:00",
+     "published": "2026-09-05T18:48:37+00:00",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9613/live/a1c35120-a93c-11f1-a291-b542ee92de7c.png",
      "kind": "article",
      "id": "84a48662e571df04",
@@ -86,6 +86,26 @@
      ],
      "boosted": true,
      "score": 6
+    },
+    {
+     "title": "US envoys meet Putin in Moscow for Ukraine talks",
+     "url": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "summary": "Footage shows Vladimir Putin greeting Steve Witkoff and Jared Kushner, before saying the current situation \"is not so easy\".",
+     "published": "2026-09-05T19:01:31+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d7d/live/1a5083e0-a953-11f1-adf0-6d46cbf5ba37.png",
+     "kind": "article",
+     "id": "83f9a270e22c04aa",
+     "first_seen": "2026-09-05T10:44:37.979068+00:00",
+     "is_new": true,
+     "corroboration": 4,
+     "also_in": [
+      "Axios",
+      "Guardian",
+      "New York Times"
+     ],
+     "boosted": false,
+     "score": 4
     },
     {
      "title": "Europe would not be able to sustain war of attrition with Russia, defence officials say",
@@ -113,22 +133,6 @@
      "kind": "article",
      "id": "32856331b5260f72",
      "first_seen": "2026-09-05T10:27:27.171764+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "Sydney reaches 33C in potentially warmest start to spring since mid-1800s, while snow forecast in southern NSW",
-     "url": "https://www.theguardian.com/australia-news/2026/sep/05/sydney-set-to-hit-33c-in-warmest-start-to-spring-since-mid-1800s-while-snow-forecast-in-southern-nsw",
-     "source": "Guardian",
-     "summary": "A total fire ban is in place for greater Sydney with extreme fire danger exacerbated by hot and windy conditionsGet our breaking news email, free app or daily news podcastSummer h\u2026",
-     "published": "2026-09-05T07:27:24+00:00",
-     "image": "https://i.guim.co.uk/img/media/d887c12ed110bc6933132a94ed89b54555c6f658/12_0_2462_1970/master/2462.jpg?width=140&quality=85&auto=format&fit=max&s=c9e6f6351f0452aa0912fdb93868f5ff",
-     "kind": "article",
-     "id": "6d45043f8183bb02",
-     "first_seen": "2026-09-05T10:07:48.148630+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
