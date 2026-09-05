@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-05T14:44:34.450581+00:00",
+ "generated_at": "2026-09-05T15:07:14.788195+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,12 +10,12 @@
    "more": 0,
    "items": [
     {
-     "title": "Sunny",
-     "phrase": "Sunny all day.",
+     "title": "Partly Sunny",
+     "phrase": "Partly Sunny all day.",
      "detail": "It reaches 77\u00b0 today and falls to 54\u00b0 overnight. The sun is up from 6:24 until 7:23.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 68,
+     "temp": 70,
      "high": 77,
      "low": 54,
      "sunrise": "6:24",
@@ -69,20 +69,23 @@
    "more": 0,
    "items": [
     {
-     "title": "US hits three Iranian oil tankers after saying its warships were targeted",
-     "url": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "summary": "US Central Command says the attacks came after Iran launched ballistic missiles at two of its Navy warships.",
-     "published": "2026-09-05T14:40:53+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e249/live/f2d95940-a934-11f1-bb81-8fbd2d2d397c.jpg",
+     "title": "US military hits 3 Iranian oil tankers after saying Navy warships were targeted",
+     "url": "https://www.npr.org/2026/09/05/nx-s1-5959159/us-iran-warships-targeted",
+     "source": "NPR",
+     "summary": "The strikes come a day after President Trump appeared to downplay the war with Iran as \"small potatoes\" during an exchange with reporters in the Oval Office.",
+     "published": "2026-09-05T15:05:08+00:00",
+     "image": null,
      "kind": "article",
-     "id": "84a48662e571df04",
-     "first_seen": "2026-09-05T14:44:34.450581+00:00",
+     "id": "64e915be2e1411a5",
+     "first_seen": "2026-09-05T15:07:14.788195+00:00",
      "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
+     "corroboration": 3,
+     "also_in": [
+      "BBC",
+      "New York Times"
+     ],
      "boosted": true,
-     "score": 4
+     "score": 6
     },
     {
      "title": "Europe would not be able to sustain war of attrition with Russia, defence officials say",
