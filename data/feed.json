@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-06T18:30:15.927888+00:00",
+ "generated_at": "2026-09-06T18:45:43.736781+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -69,6 +69,22 @@
    "more": 0,
    "items": [
     {
+     "title": "Zelensky says he expects war to continue into winter after talks with US envoys",
+     "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "summary": "Talks finished without an announcement of a major breakthrough, after Steve Witkoff and Jared Kushner travelled to Kyiv.",
+     "published": "2026-09-06T18:33:50+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7828/live/f5ab4970-a9ee-11f1-921b-6365210e1c9d.jpg",
+     "kind": "article",
+     "id": "5ea7c78ca31e6d44",
+     "first_seen": "2026-09-06T10:08:13.670139+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
      "title": "Iran warns of 'faster, heavier, more painful response' to US attacks",
      "url": "https://www.bbc.co.uk/news/articles/cp8d56w7d9po?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
@@ -118,22 +134,6 @@
       "New York Times"
      ],
      "boosted": false,
-     "score": 4
-    },
-    {
-     "title": "Trump\u2019s War on Mail-In Ballots Has Voters Baffled. That May Be the Point.",
-     "url": "https://www.nytimes.com/2026/09/06/us/elections/trump-mail-in-voting-confusion.html",
-     "source": "New York Times",
-     "summary": "From Oregon to Florida, officials are at once reassuring voters that their ballots are safe and encouraging them to use drop boxes or vote in person.",
-     "published": "2026-09-06T14:58:03+00:00",
-     "image": "https://static01.nyt.com/images/2026/09/06/multimedia/06nat-mail-voting-1-gkpj/06nat-mail-voting-1-gkpj-mediumSquareAt3X.jpg",
-     "kind": "article",
-     "id": "89d9334429ee577c",
-     "first_seen": "2026-09-06T10:08:13.670139+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
      "score": 4
     }
    ]
