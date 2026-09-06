@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-06T18:45:43.736781+00:00",
+ "generated_at": "2026-09-06T19:06:48.373594+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -12,12 +12,12 @@
     {
      "title": "Sunny",
      "phrase": "Sunny all day.",
-     "detail": "It reaches 72\u00b0 today and falls to 50\u00b0 overnight. The sun is up from 6:25 until 7:22.",
+     "detail": "It reaches 72\u00b0 today and falls to 49\u00b0 overnight. The sun is up from 6:25 until 7:22.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 70,
+     "temp": 72,
      "high": 72,
-     "low": 50,
+     "low": 49,
      "sunrise": "6:25",
      "sunset": "7:22",
      "id": "bb806d72c86dcec1",
@@ -69,6 +69,26 @@
    "more": 0,
    "items": [
     {
+     "title": "US envoys Kushner and Witkoff visit Kyiv for first time after Putin talks",
+     "url": "https://www.theguardian.com/world/2026/sep/06/us-envoys-jared-kushner-steve-witkoff-arrive-kyiv-talks-on-ending-war",
+     "source": "Guardian",
+     "summary": "Witkoff says he hopes trilateral talks involving the US, Ukraine and Europe will be announced \u2018in short order\u2019The US negotiators Jared Kushner and Steve Witkoff travelled to Ukrai\u2026",
+     "published": "2026-09-06T18:47:59+00:00",
+     "image": "https://i.guim.co.uk/img/media/894e23975128a19a89301a4a3b5ecf0390ebfe14/533_0_3692_2955/master/3692.jpg?width=140&quality=85&auto=format&fit=max&s=39b06eb97c51ef57507b8d817bebba63",
+     "kind": "article",
+     "id": "8f2a6544ec60cd67",
+     "first_seen": "2026-09-06T13:07:33.371115+00:00",
+     "is_new": true,
+     "corroboration": 4,
+     "also_in": [
+      "Axios",
+      "NPR",
+      "New York Times"
+     ],
+     "boosted": false,
+     "score": 4
+    },
+    {
      "title": "Zelensky says he expects war to continue into winter after talks with US envoys",
      "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
@@ -114,26 +134,6 @@
      "corroboration": 1,
      "also_in": [],
      "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "Witkoff and Kushner, in a first, visit Ukraine for peace talks",
-     "url": "https://www.axios.com/2026/09/06/witkoff-kushner-kyiv-ukraine-peace-talks",
-     "source": "Axios",
-     "summary": "President Trump's envoys Steve Witkoff and Jared Kushner arrived in Kyiv on Sunday for diplomatic talks aimed at resuming negotiations between Russia and Ukraine. Why it matters: \u2026",
-     "published": "2026-09-06T15:43:51+00:00",
-     "image": "https://images.axios.com/kQXPGwPqpA5dNV_Pj6GjJ0vSPNI=/0x0:5456x3069/1366x768/2026/09/06/1788706708131.jpeg",
-     "kind": "article",
-     "id": "f54f92e6165c1ef7",
-     "first_seen": "2026-09-06T15:44:59.885042+00:00",
-     "is_new": true,
-     "corroboration": 4,
-     "also_in": [
-      "Guardian",
-      "NPR",
-      "New York Times"
-     ],
-     "boosted": false,
      "score": 4
     }
    ]
