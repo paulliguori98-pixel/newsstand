@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-06T11:27:36.505799+00:00",
+ "generated_at": "2026-09-06T11:44:45.150017+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,8 +10,8 @@
    "more": 0,
    "items": [
     {
-     "title": "Mostly Cloudy",
-     "phrase": "Mostly Cloudy all day.",
+     "title": "Partly Sunny",
+     "phrase": "Partly Sunny all day.",
      "detail": "It reaches 72\u00b0 today and falls to 50\u00b0 overnight. The sun is up from 6:25 until 7:22.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
@@ -270,16 +270,16 @@
      "score": 1
     },
     {
-     "title": "Even More Dress Shirts.",
-     "url": "https://www.putthison.com/even-more-dress-shirts/",
-     "source": "Put This On",
-     "summary": "Hi everyone, it\u2019s your Put This On Shopkeeper Brynna. It\u2019s summer, which means we\u2019re all trying to look our best... The post Even More Dress Shirts. appeared first on Put This On.",
-     "published": "2026-08-28T18:29:15+00:00",
-     "image": null,
+     "title": "What JM Weston 180s tell us about shoe fit",
+     "url": "https://www.permanentstyle.com/2026/09/what-jm-weston-180s-tell-us-about-shoe-fit.html",
+     "source": "Permanent Style",
+     "summary": "I\u2019ve never owned a 180 loafer , and so I didn\u2019t realise until recently how tricky a shoe it is to fit. A recent visit to the Weston store opened my eyes, however. It really is a t\u2026",
+     "published": "2026-09-04T08:00:25+00:00",
+     "image": "https://www.permanentstyle.com/wp-content/uploads/2026/08/B000490-R1-08-9-4000x5000-copy.jpg",
      "kind": "article",
-     "id": "60d858bcbfe06438",
-     "first_seen": "2026-08-28T21:57:36.363761+00:00",
-     "is_new": false,
+     "id": "fb03541a6afb78e3",
+     "first_seen": "2026-09-04T10:09:03.571930+00:00",
+     "is_new": true,
      "corroboration": 1,
      "also_in": [],
      "boosted": false,
@@ -288,7 +288,5 @@
    ]
   }
  ],
- "errors": [
-  "Permanent Style: RuntimeError \u2014 https://www.permanentstyle.com/feed \u2192 HTTP 415"
- ]
+ "errors": []
 }
