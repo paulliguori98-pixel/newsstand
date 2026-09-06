@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-06T21:07:50.071670+00:00",
+ "generated_at": "2026-09-06T21:27:05.882016+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -69,6 +69,26 @@
    "more": 0,
    "items": [
     {
+     "title": "Witkoff and Kushner, in a first, visit Ukraine for peace talks",
+     "url": "https://www.axios.com/2026/09/06/witkoff-kushner-kyiv-ukraine-peace-talks",
+     "source": "Axios",
+     "summary": "President Trump's envoys Steve Witkoff and Jared Kushner arrived in Kyiv on Sunday for diplomatic talks aimed at resuming negotiations between Russia and Ukraine. Why it matters: \u2026",
+     "published": "2026-09-06T21:06:29+00:00",
+     "image": "https://images.axios.com/kQXPGwPqpA5dNV_Pj6GjJ0vSPNI=/0x0:5456x3069/1366x768/2026/09/06/1788706708131.jpeg",
+     "kind": "article",
+     "id": "f54f92e6165c1ef7",
+     "first_seen": "2026-09-06T15:44:59.885042+00:00",
+     "is_new": true,
+     "corroboration": 4,
+     "also_in": [
+      "BBC",
+      "Guardian",
+      "NPR"
+     ],
+     "boosted": false,
+     "score": 4
+    },
+    {
      "title": "Zelensky says he expects war to continue into winter after talks with US envoys",
      "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
@@ -110,22 +130,6 @@
      "kind": "article",
      "id": "44ac47f1f8a433ef",
      "first_seen": "2026-09-06T17:26:32.655137+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "EU faces 300,000 factory job cuts as China \u2018colonises\u2019 supply chains, industry warns",
-     "url": "https://www.theguardian.com/business/2026/sep/06/eu-factory-job-cuts-china-colonises-supply-chains-industry-warns",
-     "source": "Guardian",
-     "summary": "Protest using 10 coffins to symbolise struggling manufacturing industry to take place in BrusselsJob losses in EU manufacturing will rapidly increase unless Brussels stops the \u201cco\u2026",
-     "published": "2026-09-06T17:00:10+00:00",
-     "image": "https://i.guim.co.uk/img/media/6b6dafbc404b0c27d0aaba0086da073b6f8e0bbc/43_9_4094_3274/master/4094.jpg?width=140&quality=85&auto=format&fit=max&s=b7955ddbacf0869078b57be7314c1cda",
-     "kind": "article",
-     "id": "3c34644eab7e76a7",
-     "first_seen": "2026-09-06T17:06:56.143123+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
