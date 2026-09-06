@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-06T20:08:16.955057+00:00",
+ "generated_at": "2026-09-06T20:28:44.895563+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -69,6 +69,22 @@
    "more": 0,
    "items": [
     {
+     "title": "Zelensky says he expects war to continue into winter after talks with US envoys",
+     "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "summary": "There was no announcement of a major breakthrough, after Steve Witkoff and Jared Kushner travelled to Kyiv.",
+     "published": "2026-09-06T20:18:52+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e748/live/cb0ec8b0-aa2d-11f1-8785-3786c2a9a1ba.png",
+     "kind": "article",
+     "id": "5ea7c78ca31e6d44",
+     "first_seen": "2026-09-06T10:08:13.670139+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
      "title": "The US now has access to more than half Australia\u2019s military bases \u2013 could it drag the country unwillingly into war?",
      "url": "https://www.theguardian.com/australia-news/ng-interactive/2026/sep/07/us-military-bases-in-australia-map-list-spy-satellite-pine-gap",
      "source": "Guardian",
@@ -102,22 +118,6 @@
       "NPR"
      ],
      "boosted": false,
-     "score": 4
-    },
-    {
-     "title": "Zelensky says he expects war to continue into winter after talks with US envoys",
-     "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "summary": "Talks finished without an announcement of a major breakthrough, after Steve Witkoff and Jared Kushner travelled to Kyiv.",
-     "published": "2026-09-06T18:33:50+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7828/live/f5ab4970-a9ee-11f1-921b-6365210e1c9d.jpg",
-     "kind": "article",
-     "id": "5ea7c78ca31e6d44",
-     "first_seen": "2026-09-06T10:08:13.670139+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
      "score": 4
     },
     {
