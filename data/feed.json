@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-06T10:45:46.001876+00:00",
+ "generated_at": "2026-09-06T11:07:23.914182+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,8 +10,8 @@
    "more": 0,
    "items": [
     {
-     "title": "Mostly Cloudy",
-     "phrase": "Mostly Cloudy all day.",
+     "title": "Partly Sunny",
+     "phrase": "Partly Sunny all day.",
      "detail": "It reaches 72\u00b0 today and falls to 50\u00b0 overnight. The sun is up from 6:25 until 7:22.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
@@ -143,15 +143,15 @@
    "more": 0,
    "items": [
     {
-     "title": "WordStar Lives Again (and Again)",
-     "url": "https://hackaday.com/2026/09/06/wordstar-lives-again-and-again/",
+     "title": "Printing Micron-Scale Benchies With Resin and Turmeric",
+     "url": "https://hackaday.com/2026/09/06/printing-micron-scale-benchies-with-resin-and-turmeric/",
      "source": "Hackaday",
-     "summary": "Word processors and editors are a funny thing. It doesn\u2019t really matter what\u2019s \u201cbest,\u201d whatever that means. If you have finger memory built up for one program, it\u2019s painful to \u2026re\u2026",
-     "published": "2026-09-06T08:00:05+00:00",
-     "image": "https://hackaday.com/wp-content/uploads/2026/09/ws.png",
+     "summary": "Resin 3D printing has opened up a whole new scale of resolution for hackers, but the technology can go still finer; commercial micro-SLA and two-photon polymerization printers can\u2026",
+     "published": "2026-09-06T11:00:42+00:00",
+     "image": "https://hackaday.com/wp-content/uploads/2026/09/micron_benchies.png",
      "kind": "article",
-     "id": "a3ab44a065a6e0d2",
-     "first_seen": "2026-09-06T10:08:13.670139+00:00",
+     "id": "b9dbea044bfc701d",
+     "first_seen": "2026-09-06T11:07:23.914182+00:00",
      "is_new": true
     },
     {
