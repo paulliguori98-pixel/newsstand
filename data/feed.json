@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-06T15:27:55.023474+00:00",
+ "generated_at": "2026-09-06T15:44:59.885042+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -69,22 +69,24 @@
    "more": 0,
    "items": [
     {
-     "title": "Witkoff and Kushner discussed \u2018next steps\u2019 with Putin to end Ukraine war, says US",
-     "url": "https://www.theguardian.com/world/2026/sep/05/steve-witkoff-jared-kushner-russia-revive-ukraine-talks",
-     "source": "Guardian",
-     "summary": "Donald Trump\u2019s business ally and son-in-law now heading from Moscow to Kyiv to meet ZelenskyySteve Witkoff and Jared Kushner are heading to Kyiv for the first time in their roles \u2026",
-     "published": "2026-09-06T09:23:22+00:00",
-     "image": "https://i.guim.co.uk/img/media/6c169677a60bc6a610e0f252fbbe628a152fa07e/2_0_4440_3553/master/4440.jpg?width=140&quality=85&auto=format&fit=max&s=0654b6dd46204528f1b130253d178fc2",
+     "title": "US envoys hold talks with Zelensky in Kyiv after meeting Putin",
+     "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "summary": "Steve Witkoff tells reporters the US team feels \"encouraged\" by a \"substantive\" and important discussion.",
+     "published": "2026-09-06T15:32:27+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7828/live/f5ab4970-a9ee-11f1-921b-6365210e1c9d.jpg",
      "kind": "article",
-     "id": "37d665c20f72abe6",
-     "first_seen": "2026-09-05T14:27:23.118869+00:00",
+     "id": "5ea7c78ca31e6d44",
+     "first_seen": "2026-09-06T10:08:13.670139+00:00",
      "is_new": true,
-     "corroboration": 2,
+     "corroboration": 4,
      "also_in": [
-      "Axios"
+      "Guardian",
+      "NPR",
+      "New York Times"
      ],
-     "boosted": true,
-     "score": 5
+     "boosted": false,
+     "score": 4
     },
     {
      "title": "Trump\u2019s War on Mail-In Ballots Has Voters Baffled. That May Be the Point.",
@@ -157,27 +159,27 @@
      "is_new": true
     },
     {
-     "title": "Using device trees to configure Linux hardare interfaces",
-     "url": "https://www.hackster.io/MichalsTC/using-device-trees-to-configure-linux-hardare-interfaces-4b0569",
+     "title": "4-Color E-Paper Driver Custom PCB",
+     "url": "https://www.hackster.io/madebyanirudha/4-color-e-paper-driver-custom-pcb-d3c3bb",
      "source": "Hackster",
-     "summary": "How to use device trees at boot up. How uboot is able to merge teh trees",
-     "published": "2026-09-05T14:16:29+00:00",
-     "image": "https://hackster.imgix.net/uploads/attachments/1995132/_2HeqcEF55f.blob",
+     "summary": "I wanted a wristwatch with a colour E-paper so I built a 4-Color E-Paper Driver Board for any MCU",
+     "published": "2026-09-06T06:33:36+00:00",
+     "image": "https://hackster.imgix.net/uploads/attachments/1995244/_7dEkVvLU4Q.blob",
      "kind": "article",
-     "id": "5c7709ef19e3d41b",
-     "first_seen": "2026-09-05T19:44:23.637249+00:00",
+     "id": "5960f76c4e1f4048",
+     "first_seen": "2026-09-06T15:44:59.885042+00:00",
      "is_new": true
     },
     {
-     "title": "Introduction to the Cubie A5E",
-     "url": "https://www.hackster.io/MichalsTC/introduction-to-the-cubie-a5e-2287ec",
+     "title": "This Tiny satellite actually smaller than your earbuds",
+     "url": "https://www.hackster.io/makersciofficial/this-tiny-satellite-actually-smaller-than-your-earbuds-ab83c9",
      "source": "Hackster",
-     "summary": "Tiny SBC with 8\u00d7 A55 cores, RISC-V E907, PCIe, Wi-Fi, camera, & 40-pin GPIO. Full Linux power plus real-time control in your pocket.",
-     "published": "2026-09-05T12:59:39+00:00",
-     "image": "https://hackster.imgix.net/uploads/attachments/1995101/_BG2fdo1P1F.blob",
+     "summary": "Just 21 grams, this tiny suborbital satellite packs an ESP32-C3 and sensors to monitor environmental conditions and motion.",
+     "published": "2026-09-05T17:14:08+00:00",
+     "image": "https://hackster.imgix.net/uploads/attachments/1995035/_9rQ32PUHKt.blob",
      "kind": "article",
-     "id": "5da642b552208d7b",
-     "first_seen": "2026-09-05T19:44:23.637249+00:00",
+     "id": "2303d06f350f0095",
+     "first_seen": "2026-09-06T15:44:59.885042+00:00",
      "is_new": true
     },
     {
@@ -272,16 +274,16 @@
      "score": 1
     },
     {
-     "title": "Even More Dress Shirts.",
-     "url": "https://www.putthison.com/even-more-dress-shirts/",
-     "source": "Put This On",
-     "summary": "Hi everyone, it\u2019s your Put This On Shopkeeper Brynna. It\u2019s summer, which means we\u2019re all trying to look our best... The post Even More Dress Shirts. appeared first on Put This On.",
-     "published": "2026-08-28T18:29:15+00:00",
-     "image": null,
+     "title": "What JM Weston 180s tell us about shoe fit",
+     "url": "https://www.permanentstyle.com/2026/09/what-jm-weston-180s-tell-us-about-shoe-fit.html",
+     "source": "Permanent Style",
+     "summary": "I\u2019ve never owned a 180 loafer , and so I didn\u2019t realise until recently how tricky a shoe it is to fit. A recent visit to the Weston store opened my eyes, however. It really is a t\u2026",
+     "published": "2026-09-04T08:00:25+00:00",
+     "image": "https://www.permanentstyle.com/wp-content/uploads/2026/08/B000490-R1-08-9-4000x5000-copy.jpg",
      "kind": "article",
-     "id": "60d858bcbfe06438",
-     "first_seen": "2026-08-28T21:57:36.363761+00:00",
-     "is_new": false,
+     "id": "fb03541a6afb78e3",
+     "first_seen": "2026-09-04T10:09:03.571930+00:00",
+     "is_new": true,
      "corroboration": 1,
      "also_in": [],
      "boosted": false,
@@ -290,7 +292,5 @@
    ]
   }
  ],
- "errors": [
-  "Permanent Style: RuntimeError \u2014 https://www.permanentstyle.com/feed \u2192 HTTP 415"
- ]
+ "errors": []
 }
