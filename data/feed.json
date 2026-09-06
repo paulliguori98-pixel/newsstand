@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-06T19:26:18.340275+00:00",
+ "generated_at": "2026-09-06T19:44:37.512707+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -69,21 +69,21 @@
    "more": 0,
    "items": [
     {
-     "title": "US envoys Kushner and Witkoff visit Kyiv for first time after Putin talks",
-     "url": "https://www.theguardian.com/world/2026/sep/06/us-envoys-jared-kushner-steve-witkoff-arrive-kyiv-talks-on-ending-war",
-     "source": "Guardian",
-     "summary": "Witkoff says he hopes trilateral talks involving the US, Ukraine and Europe will be announced \u2018in short order\u2019The US negotiators Jared Kushner and Steve Witkoff travelled to Ukrai\u2026",
-     "published": "2026-09-06T18:47:59+00:00",
-     "image": "https://i.guim.co.uk/img/media/894e23975128a19a89301a4a3b5ecf0390ebfe14/533_0_3692_2955/master/3692.jpg?width=140&quality=85&auto=format&fit=max&s=39b06eb97c51ef57507b8d817bebba63",
+     "title": "U.S. Envoys Witkoff and Kushner Arrive in Kyiv After Talks With Putin",
+     "url": "https://www.nytimes.com/2026/09/06/world/europe/ukraine-zelensky-witkoff-kushner-russia-putin.html",
+     "source": "New York Times",
+     "summary": "Steve Witkoff and Jared Kushner met on Sunday with Volodymyr Zelensky in Kyiv, a day after talks with Vladimir V. Putin in Moscow.",
+     "published": "2026-09-06T19:30:37+00:00",
+     "image": "https://static01.nyt.com/images/2026/09/06/multimedia/06int-ukraine-meeting-sub-pbtq/06int-ukraine-meeting-sub-pbtq-mediumSquareAt3X.jpg",
      "kind": "article",
-     "id": "8f2a6544ec60cd67",
-     "first_seen": "2026-09-06T13:07:33.371115+00:00",
+     "id": "0212c9ab61903b63",
+     "first_seen": "2026-09-06T10:08:13.670139+00:00",
      "is_new": true,
      "corroboration": 4,
      "also_in": [
       "Axios",
-      "NPR",
-      "New York Times"
+      "Guardian",
+      "NPR"
      ],
      "boosted": false,
      "score": 4
@@ -159,6 +159,18 @@
      "is_new": true
     },
     {
+     "title": "Basic GPIO Expander - MCP23017",
+     "url": "https://www.hackster.io/diyguyChris/basic-gpio-expander-mcp23017-9807b5",
+     "source": "Hackster",
+     "summary": "Budget-friendly 16-channel GPIO expander. MCP23017, I\u00b2C, chainable to 128 GPIOs, fits $2 PCB deal.",
+     "published": "2026-09-06T15:07:56+00:00",
+     "image": "https://hackster.imgix.net/uploads/attachments/1995306/_FaPpe3rhW8.blob",
+     "kind": "article",
+     "id": "f38d39d6d6ff57cb",
+     "first_seen": "2026-09-06T19:44:37.512707+00:00",
+     "is_new": true
+    },
+    {
      "title": "4-Color E-Paper Driver Custom PCB",
      "url": "https://www.hackster.io/madebyanirudha/4-color-e-paper-driver-custom-pcb-d3c3bb",
      "source": "Hackster",
@@ -167,18 +179,6 @@
      "image": "https://hackster.imgix.net/uploads/attachments/1995244/_7dEkVvLU4Q.blob",
      "kind": "article",
      "id": "5960f76c4e1f4048",
-     "first_seen": "2026-09-06T15:44:59.885042+00:00",
-     "is_new": true
-    },
-    {
-     "title": "This Tiny satellite actually smaller than your earbuds",
-     "url": "https://www.hackster.io/makersciofficial/this-tiny-satellite-actually-smaller-than-your-earbuds-ab83c9",
-     "source": "Hackster",
-     "summary": "Just 21 grams, this tiny suborbital satellite packs an ESP32-C3 and sensors to monitor environmental conditions and motion.",
-     "published": "2026-09-05T17:14:08+00:00",
-     "image": "https://hackster.imgix.net/uploads/attachments/1995035/_9rQ32PUHKt.blob",
-     "kind": "article",
-     "id": "2303d06f350f0095",
      "first_seen": "2026-09-06T15:44:59.885042+00:00",
      "is_new": true
     },
