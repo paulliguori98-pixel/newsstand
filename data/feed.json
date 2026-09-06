@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-06T14:45:53.502850+00:00",
+ "generated_at": "2026-09-06T15:07:54.000984+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -15,7 +15,7 @@
      "detail": "It reaches 72\u00b0 today and falls to 50\u00b0 overnight. The sun is up from 6:25 until 7:22.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 63,
+     "temp": 65,
      "high": 72,
      "low": 50,
      "sunrise": "6:25",
@@ -87,14 +87,14 @@
      "score": 5
     },
     {
-     "title": "Iran\u2019s Attacks Keep the Strait of Hormuz in a Lethal Stalemate",
-     "url": "https://www.nytimes.com/2026/09/06/business/iran-us-strait-of-hormuz-shipping.html",
+     "title": "Trump\u2019s War on Mail-In Ballots Has Voters Baffled. That May Be the Point.",
+     "url": "https://www.nytimes.com/2026/09/06/us/elections/trump-mail-in-voting-confusion.html",
      "source": "New York Times",
-     "summary": "The U.S. military is helping oil get out of the Persian Gulf on tankers, but Iran is still attacking the ships and scaring operators away.",
-     "published": "2026-09-06T13:28:53+00:00",
-     "image": "https://static01.nyt.com/images/2026/09/06/multimedia/06biz-hormuz-shipping-jgcw/06biz-hormuz-shipping-jgcw-mediumSquareAt3X.jpg",
+     "summary": "From Oregon to Florida, officials are at once reassuring voters that their ballots are safe and encouraging them to use drop boxes or vote in person.",
+     "published": "2026-09-06T14:58:02+00:00",
+     "image": "https://static01.nyt.com/images/2026/09/06/multimedia/06nat-mail-voting-1-gkpj/06nat-mail-voting-1-gkpj-mediumSquareAt3X.jpg",
      "kind": "article",
-     "id": "72f554346723d533",
+     "id": "89d9334429ee577c",
      "first_seen": "2026-09-06T10:08:13.670139+00:00",
      "is_new": true,
      "corroboration": 1,
@@ -103,14 +103,14 @@
      "score": 4
     },
     {
-     "title": "Trump\u2019s War on Mail-In Ballots Has Voters Baffled. That May Be the Point.",
-     "url": "https://www.nytimes.com/2026/09/06/us/elections/trump-mail-in-voting-confusion.html",
+     "title": "Iran\u2019s Attacks Keep the Strait of Hormuz in a Lethal Stalemate",
+     "url": "https://www.nytimes.com/2026/09/06/business/iran-us-strait-of-hormuz-shipping.html",
      "source": "New York Times",
-     "summary": "From Oregon to Florida, officials are at once reassuring voters that their ballots are safe and encouraging them to use drop boxes or vote in person.",
-     "published": "2026-09-06T09:01:56+00:00",
-     "image": "https://static01.nyt.com/images/2026/09/06/multimedia/06nat-mail-voting-1-gkpj/06nat-mail-voting-1-gkpj-mediumSquareAt3X.jpg",
+     "summary": "The U.S. military is helping oil get out of the Persian Gulf on tankers, but Iran is still attacking the ships and scaring operators away.",
+     "published": "2026-09-06T13:28:53+00:00",
+     "image": "https://static01.nyt.com/images/2026/09/06/multimedia/06biz-hormuz-shipping-jgcw/06biz-hormuz-shipping-jgcw-mediumSquareAt3X.jpg",
      "kind": "article",
-     "id": "89d9334429ee577c",
+     "id": "72f554346723d533",
      "first_seen": "2026-09-06T10:08:13.670139+00:00",
      "is_new": true,
      "corroboration": 1,
