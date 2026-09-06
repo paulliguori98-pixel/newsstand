@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-06T12:49:17.240797+00:00",
+ "generated_at": "2026-09-06T13:07:33.371115+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -15,7 +15,7 @@
      "detail": "It reaches 72\u00b0 today and falls to 50\u00b0 overnight. The sun is up from 6:25 until 7:22.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 59,
+     "temp": 60,
      "high": 72,
      "low": 50,
      "sunrise": "6:25",
@@ -69,20 +69,23 @@
    "more": 0,
    "items": [
     {
-     "title": "Witkoff and Kushner discussed \u2018next steps\u2019 with Putin to end Ukraine war, says US",
-     "url": "https://www.theguardian.com/world/2026/sep/05/steve-witkoff-jared-kushner-russia-revive-ukraine-talks",
+     "title": "US envoys Kushner and Witkoff arrive in Kyiv to hold talks on ending war",
+     "url": "https://www.theguardian.com/world/2026/sep/06/us-envoys-jared-kushner-steve-witkoff-arrive-kyiv-talks-on-ending-war",
      "source": "Guardian",
-     "summary": "Donald Trump\u2019s business ally and son-in-law now heading from Moscow to Kyiv to meet ZelenskyySteve Witkoff and Jared Kushner are heading to Kyiv for the first time in their roles \u2026",
-     "published": "2026-09-06T09:23:22+00:00",
-     "image": "https://i.guim.co.uk/img/media/6c169677a60bc6a610e0f252fbbe628a152fa07e/2_0_4440_3553/master/4440.jpg?width=140&quality=85&auto=format&fit=max&s=0654b6dd46204528f1b130253d178fc2",
+     "summary": "Arrival marks the pair\u2019s first visit to Ukraine and comes day after \u2018substantive plans\u2019 were discussed in MoscowThe US negotiators Jared Kushner and Steve Witkoff have arrived in \u2026",
+     "published": "2026-09-06T11:37:36+00:00",
+     "image": "https://i.guim.co.uk/img/media/894e23975128a19a89301a4a3b5ecf0390ebfe14/533_0_3692_2955/master/3692.jpg?width=140&quality=85&auto=format&fit=max&s=39b06eb97c51ef57507b8d817bebba63",
      "kind": "article",
-     "id": "37d665c20f72abe6",
-     "first_seen": "2026-09-05T14:27:23.118869+00:00",
+     "id": "8f2a6544ec60cd67",
+     "first_seen": "2026-09-06T13:07:33.371115+00:00",
      "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
+     "corroboration": 3,
+     "also_in": [
+      "Axios",
+      "NPR"
+     ],
      "boosted": true,
-     "score": 4
+     "score": 6
     },
     {
      "title": "Iran\u2019s Attacks Keep the Strait of Hormuz in a Lethal Stalemate",
