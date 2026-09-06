@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-06T17:44:16.095879+00:00",
+ "generated_at": "2026-09-06T18:09:13.349294+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,12 +10,12 @@
    "more": 0,
    "items": [
     {
-     "title": "Mostly Sunny",
-     "phrase": "Mostly Sunny all day.",
+     "title": "Sunny",
+     "phrase": "Sunny all day.",
      "detail": "It reaches 72\u00b0 today and falls to 50\u00b0 overnight. The sun is up from 6:25 until 7:22.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 67,
+     "temp": 70,
      "high": 72,
      "low": 50,
      "sunrise": "6:25",
@@ -125,7 +125,7 @@
      "url": "https://www.nytimes.com/2026/09/06/us/elections/trump-mail-in-voting-confusion.html",
      "source": "New York Times",
      "summary": "From Oregon to Florida, officials are at once reassuring voters that their ballots are safe and encouraging them to use drop boxes or vote in person.",
-     "published": "2026-09-06T14:58:02+00:00",
+     "published": "2026-09-06T14:58:03+00:00",
      "image": "https://static01.nyt.com/images/2026/09/06/multimedia/06nat-mail-voting-1-gkpj/06nat-mail-voting-1-gkpj-mediumSquareAt3X.jpg",
      "kind": "article",
      "id": "89d9334429ee577c",
