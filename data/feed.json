@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-06T11:44:45.150017+00:00",
+ "generated_at": "2026-09-06T12:10:02.054028+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,12 +10,12 @@
    "more": 0,
    "items": [
     {
-     "title": "Partly Sunny",
-     "phrase": "Partly Sunny all day.",
+     "title": "Mostly Sunny",
+     "phrase": "Mostly Sunny all day.",
      "detail": "It reaches 72\u00b0 today and falls to 50\u00b0 overnight. The sun is up from 6:25 until 7:22.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 58,
+     "temp": 59,
      "high": 72,
      "low": 50,
      "sunrise": "6:25",
@@ -167,15 +167,15 @@
      "is_new": true
     },
     {
-     "title": "DFRobot Motion Cam: mmWave-Triggered AI Security Camera",
-     "url": "https://www.hackster.io/pradeeplogu0/dfrobot-motion-cam-mmwave-triggered-ai-security-camera-a152d7",
+     "title": "Introduction to the Cubie A5E",
+     "url": "https://www.hackster.io/MichalsTC/introduction-to-the-cubie-a5e-2287ec",
      "source": "Hackster",
-     "summary": "A privacy-aware mmWave security camera that photographs anyone who walks up to it and sends the shot straight to your phone.",
-     "published": "2026-09-05T04:42:17+00:00",
-     "image": "https://hackster.imgix.net/uploads/attachments/1995093/_bJczj0pbuh.blob",
+     "summary": "Tiny SBC with 8\u00d7 A55 cores, RISC-V E907, PCIe, Wi-Fi, camera, & 40-pin GPIO. Full Linux power plus real-time control in your pocket.",
+     "published": "2026-09-05T12:59:39+00:00",
+     "image": "https://hackster.imgix.net/uploads/attachments/1995101/_BG2fdo1P1F.blob",
      "kind": "article",
-     "id": "daeebea109eef13b",
-     "first_seen": "2026-09-05T15:44:54.294973+00:00",
+     "id": "5da642b552208d7b",
+     "first_seen": "2026-09-05T19:44:23.637249+00:00",
      "is_new": true
     },
     {
