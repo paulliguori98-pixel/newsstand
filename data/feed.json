@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-06T13:44:58.137281+00:00",
+ "generated_at": "2026-09-06T14:08:03.960222+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -15,7 +15,7 @@
      "detail": "It reaches 72\u00b0 today and falls to 50\u00b0 overnight. The sun is up from 6:25 until 7:22.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 60,
+     "temp": 63,
      "high": 72,
      "low": 50,
      "sunrise": "6:25",
@@ -145,15 +145,15 @@
    "more": 0,
    "items": [
     {
-     "title": "Printing Micron-Scale Benchies With Resin and Turmeric",
-     "url": "https://hackaday.com/2026/09/06/printing-micron-scale-benchies-with-resin-and-turmeric/",
+     "title": "This Clavichord is a Well-Tempered Project",
+     "url": "https://hackaday.com/2026/09/06/this-clavichord-is-a-well-tempered-project/",
      "source": "Hackaday",
-     "summary": "Resin 3D printing has opened up a whole new scale of resolution for hackers, but the technology can go still finer; commercial micro-SLA and two-photon polymerization printers can\u2026",
-     "published": "2026-09-06T11:00:42+00:00",
-     "image": "https://hackaday.com/wp-content/uploads/2026/09/micron_benchies.png",
+     "summary": "The Clavichord needs no introduction to fans of Early Music, and a lengthy one to literally everyone else. Even classical music buffs who have heard of Bach\u2019s works for the \u2026read \u2026",
+     "published": "2026-09-06T14:00:05+00:00",
+     "image": "https://hackaday.com/wp-content/uploads/2026/09/Screenshot-2026-09-05-at-15-17-23-Making-a-Clavichord-YouTube.png",
      "kind": "article",
-     "id": "b9dbea044bfc701d",
-     "first_seen": "2026-09-06T11:07:23.914182+00:00",
+     "id": "db227bbe5da5b23a",
+     "first_seen": "2026-09-06T14:08:03.960222+00:00",
      "is_new": true
     },
     {
