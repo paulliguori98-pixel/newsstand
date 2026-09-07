@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-07T20:46:50.790691+00:00",
+ "generated_at": "2026-09-07T21:08:16.223425+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,12 +10,12 @@
    "more": 0,
    "items": [
     {
-     "title": "Sunny",
-     "phrase": "Sunny all day.",
+     "title": "Mostly Sunny",
+     "phrase": "Mostly Sunny all day.",
      "detail": "It reaches 80\u00b0 today and falls to 52\u00b0 overnight. The sun is up from 6:26 until 7:20.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 79,
+     "temp": 80,
      "high": 80,
      "low": 52,
      "sunrise": "6:26",
@@ -69,6 +69,22 @@
    "more": 0,
    "items": [
     {
+     "title": "Australia politics live: John Howard warns about limiting immigration; Barnaby Joyce says super plan to have \u2018minute\u2019 inflationary effect",
+     "url": "https://www.theguardian.com/australia-news/live/2026/sep/08/barnaby-joyce-one-nation-superannuation-plan-john-howard-immigration-anthony-albanese-labor-angus-taylor-coalition-pauline-hanson-ntwnfb",
+     "source": "Guardian",
+     "summary": "Follow the day\u2019s news liveThe former prime minister John Howard has warned political parties against banning migration from certain countries as the debate over Australia\u2019s immigr\u2026",
+     "published": "2026-09-07T20:46:41+00:00",
+     "image": "https://i.guim.co.uk/img/media/d44a56ec1026bfea0b1586793607d16bf01fdbec/455_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=9e8da5e76931d443ed75aed0154508c1",
+     "kind": "article",
+     "id": "dd048c311224a370",
+     "first_seen": "2026-09-07T21:08:16.223425+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
      "title": "Canada\u2019s Retaliatory Tariffs Set to Take Effect as Trump Threatens to Escalate",
      "url": "https://www.nytimes.com/2026/09/07/world/canada/tariffs-trade-war-carney-trump.html",
      "source": "New York Times",
@@ -88,7 +104,7 @@
      "title": "Record strength El Ni\u00f1o could mean bigger supermarket bills for Australians, experts warn",
      "url": "https://www.theguardian.com/business/2026/sep/08/record-strength-el-nino-could-mean-bigger-supermarket-bills-for-australians-experts-warn",
      "source": "Guardian",
-     "summary": "Predicted hot and dry weather in growing areas in eastern Australia identified as \u2018one of the key issues\u2019 that will affect food prices over next 12 monthsGet our breaking news ema\u2026",
+     "summary": "Predicted hot and dry weather in growing areas in eastern Australia identified as \u2018one of the key issues\u2019 that will affect food prices over next 12 monthsFollow our Australia news\u2026",
      "published": "2026-09-07T15:00:24+00:00",
      "image": "https://i.guim.co.uk/img/media/a8ea95d9d663d7a2bb4886e76b068a9afd859e13/464_0_4640_3712/master/4640.jpg?width=140&quality=85&auto=format&fit=max&s=15a4fba6a8bccc2511f641b1addb7baf",
      "kind": "article",
@@ -110,22 +126,6 @@
      "kind": "article",
      "id": "d59dd8b7e5bffae6",
      "first_seen": "2026-09-07T15:08:24.635062+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "Trump\u2019s Trade War Is Shaping the Fight for Congress",
-     "url": "https://www.nytimes.com/2026/09/07/us/trump-tariffs-iran-congress-colorado.html",
-     "source": "New York Times",
-     "summary": "In Colorado and across the country, higher costs, tariffs and cheap beef imports are affecting voters who will help determine which party controls the House next year.",
-     "published": "2026-09-07T14:33:18+00:00",
-     "image": "https://static01.nyt.com/images/2026/09/02/multimedia/00dc-trade-politics-cvgm/00dc-trade-politics-cvgm-mediumSquareAt3X.jpg",
-     "kind": "article",
-     "id": "3106b80fe12b26c5",
-     "first_seen": "2026-09-07T15:30:29.044453+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
