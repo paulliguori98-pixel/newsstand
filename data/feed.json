@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-07T21:29:32.938997+00:00",
+ "generated_at": "2026-09-07T21:46:44.248295+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,12 +10,12 @@
    "more": 0,
    "items": [
     {
-     "title": "Sunny",
-     "phrase": "Sunny all day.",
+     "title": "Mostly Sunny",
+     "phrase": "Mostly Sunny all day.",
      "detail": "It reaches 80\u00b0 today and falls to 52\u00b0 overnight. The sun is up from 6:26 until 7:20.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 79,
+     "temp": 80,
      "high": 80,
      "low": 52,
      "sunrise": "6:26",
@@ -72,8 +72,8 @@
      "title": "Australia politics live: John Howard warns about limiting immigration; Barnaby Joyce says super plan to have \u2018minute\u2019 inflationary effect",
      "url": "https://www.theguardian.com/australia-news/live/2026/sep/08/barnaby-joyce-one-nation-superannuation-plan-john-howard-immigration-anthony-albanese-labor-angus-taylor-coalition-pauline-hanson-ntwnfb",
      "source": "Guardian",
-     "summary": "Follow the day\u2019s news live\u2018This is pork barrelling\u2019 Chaney furious over \u2018invite-only\u2019 grants programIndependent MP Kate Chaney says reporting of an \u201cinvite-only\u201d community infrast\u2026",
-     "published": "2026-09-07T21:14:16+00:00",
+     "summary": "Former PM says \u2018law of averages\u2019 means some people with nefarious intentions can enter Australia but he does not believe the \u2018evidence is overwhelming\u2019. Follow the day\u2019s news live\u2026",
+     "published": "2026-09-07T21:29:39+00:00",
      "image": "https://i.guim.co.uk/img/media/d44a56ec1026bfea0b1586793607d16bf01fdbec/455_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=9e8da5e76931d443ed75aed0154508c1",
      "kind": "article",
      "id": "dd048c311224a370",
