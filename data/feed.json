@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-07T21:46:44.248295+00:00",
+ "generated_at": "2026-09-07T22:08:50.693156+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,12 +10,12 @@
    "more": 0,
    "items": [
     {
-     "title": "Mostly Sunny",
-     "phrase": "Mostly Sunny all day.",
+     "title": "Partly Cloudy",
+     "phrase": "Partly Cloudy all day.",
      "detail": "It reaches 80\u00b0 today and falls to 52\u00b0 overnight. The sun is up from 6:26 until 7:20.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 80,
+     "temp": 76,
      "high": 80,
      "low": 52,
      "sunrise": "6:26",
@@ -69,15 +69,15 @@
    "more": 0,
    "items": [
     {
-     "title": "Australia politics live: John Howard warns about limiting immigration; Barnaby Joyce says super plan to have \u2018minute\u2019 inflationary effect",
-     "url": "https://www.theguardian.com/australia-news/live/2026/sep/08/barnaby-joyce-one-nation-superannuation-plan-john-howard-immigration-anthony-albanese-labor-angus-taylor-coalition-pauline-hanson-ntwnfb",
-     "source": "Guardian",
-     "summary": "Former PM says \u2018law of averages\u2019 means some people with nefarious intentions can enter Australia but he does not believe the \u2018evidence is overwhelming\u2019. Follow the day\u2019s news live\u2026",
-     "published": "2026-09-07T21:29:39+00:00",
-     "image": "https://i.guim.co.uk/img/media/d44a56ec1026bfea0b1586793607d16bf01fdbec/455_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=9e8da5e76931d443ed75aed0154508c1",
+     "title": "Canada\u2019s Retaliatory Tariffs Set to Take Effect as Trump Threatens to Escalate",
+     "url": "https://www.nytimes.com/2026/09/07/world/canada/tariffs-trade-war-carney-trump.html",
+     "source": "New York Times",
+     "summary": "New Canadian levies of up to 50 percent are expected to begin Tuesday, even as Washington warns of a new round of American tariffs.",
+     "published": "2026-09-07T22:04:15+00:00",
+     "image": "https://static01.nyt.com/images/2026/09/07/multimedia/07int-canada-trade-tariffs-lvbk/07int-canada-trade-tariffs-lvbk-mediumSquareAt3X.jpg",
      "kind": "article",
-     "id": "dd048c311224a370",
-     "first_seen": "2026-09-07T21:08:16.223425+00:00",
+     "id": "df8c21f1d51e2eb2",
+     "first_seen": "2026-09-07T12:10:56.371142+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
@@ -85,15 +85,15 @@
      "score": 4
     },
     {
-     "title": "Canada\u2019s Retaliatory Tariffs Set to Take Effect as Trump Threatens to Escalate",
-     "url": "https://www.nytimes.com/2026/09/07/world/canada/tariffs-trade-war-carney-trump.html",
-     "source": "New York Times",
-     "summary": "New Canadian levies of up to 50 percent are expected to begin Tuesday, even as Washington warns of a new round of American tariffs.",
-     "published": "2026-09-07T20:36:13+00:00",
-     "image": "https://static01.nyt.com/images/2026/09/07/multimedia/07int-canada-trade-tariffs-lvbk/07int-canada-trade-tariffs-lvbk-mediumSquareAt3X.jpg",
+     "title": "Australia politics live: Australia politics live: Howard warns about limiting immigration; Chaney condemns Labor \u2018park barrelling\u2019 allegations",
+     "url": "https://www.theguardian.com/australia-news/live/2026/sep/08/barnaby-joyce-one-nation-superannuation-plan-john-howard-immigration-anthony-albanese-labor-angus-taylor-coalition-pauline-hanson-ntwnfb",
+     "source": "Guardian",
+     "summary": "Follow the day\u2019s news liveOne Nation policy will leave people $25k worse off at retirement, Mulino saysSuperannuation is kicking off again today with One Nation pushing to allow p\u2026",
+     "published": "2026-09-07T21:57:31+00:00",
+     "image": "https://i.guim.co.uk/img/media/d44a56ec1026bfea0b1586793607d16bf01fdbec/455_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=9e8da5e76931d443ed75aed0154508c1",
      "kind": "article",
-     "id": "df8c21f1d51e2eb2",
-     "first_seen": "2026-09-07T12:10:56.371142+00:00",
+     "id": "dd048c311224a370",
+     "first_seen": "2026-09-07T21:08:16.223425+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
@@ -297,15 +297,15 @@
      "score": 1
     },
     {
-     "title": "Labor Day Sale Picks, First Fall Interest Piques, and Some More Freebies for Paid Subscribers",
-     "url": "https://www.menswearmusings.com/labor-day-sale-picks-first-fall-interest-piques-and-some-more-freebies-for-paid-subscribers/",
-     "source": "Menswear Musings",
-     "summary": "Here\u2019s the stuff that\u2019s caught my eye\u2014out of the sales, the new stuff, and the staples I\u2019m always on about. The post Labor Day Sale Picks, First Fall Interest Piques, and Some Mor\u2026",
-     "published": "2026-09-06T03:39:20+00:00",
-     "image": "https://i0.wp.com/www.menswearmusings.com/wp-content/uploads/2026/09/Labor-Day-20261-Large.jpeg?fit=768%2C960&amp;ssl=1",
+     "title": "The Good List",
+     "url": "https://www.acl.news/p/the-good-list",
+     "source": "A Continuous Lean",
+     "summary": "Buyer\u2019s Guide to Things Worth the Money.",
+     "published": "2026-09-05T11:39:34+00:00",
+     "image": "https://substackcdn.com/image/fetch/$s_!Cewu!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa22ecffe-7d63-419f-95ed-8065faf82391_1536x2048.jpeg",
      "kind": "article",
-     "id": "40be02122e296be9",
-     "first_seen": "2026-09-06T10:08:13.670139+00:00",
+     "id": "3f21c71e57e03f19",
+     "first_seen": "2026-09-05T11:44:20.329907+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
@@ -315,5 +315,7 @@
    ]
   }
  ],
- "errors": []
+ "errors": [
+  "Menswear Musings: RuntimeError \u2014 https://www.menswearmusings.com/feed \u2192 ConnectionError"
+ ]
 }
