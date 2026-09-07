@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-07T14:08:30.841270+00:00",
+ "generated_at": "2026-09-07T14:31:20.663525+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -15,7 +15,7 @@
      "detail": "It reaches 80\u00b0 today and falls to 53\u00b0 overnight. The sun is up from 6:26 until 7:20.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 60,
+     "temp": 67,
      "high": 80,
      "low": 53,
      "sunrise": "6:26",
@@ -211,7 +211,21 @@
    "lead_image": false,
    "row_detail": false,
    "more": 0,
-   "items": []
+   "items": [
+    {
+     "title": "Yuketen Brown Suede Ranchero Boots",
+     "url": "https://us.drakes.com/products/yuketen-brown-suede-ranchero-boots",
+     "source": "Drake's",
+     "summary": "Boots",
+     "published": "2026-09-07T10:10:41-04:00",
+     "image": "https://cdn.shopify.com/s/files/1/0649/6603/3653/files/DR1AF425953-01300-1_4ecc0b3f-1cfc-4b26-90bc-1b236f2ee2e7.jpg?v=1788345206",
+     "price": "$1,135",
+     "kind": "product",
+     "id": "0105c4daa9631ff8",
+     "first_seen": "2026-09-07T14:31:20.663525+00:00",
+     "is_new": true
+    }
+   ]
   },
   {
    "id": "dispatches",
