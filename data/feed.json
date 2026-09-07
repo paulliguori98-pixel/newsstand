@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-07T19:28:22.914434+00:00",
+ "generated_at": "2026-09-07T19:46:00.625637+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -155,6 +155,18 @@
      "is_new": true
     },
     {
+     "title": "How IGBTs Work and Building a Simple Test Circuit\uff1f",
+     "url": "https://www.hackster.io/electroniclovers/how-igbts-work-and-building-a-simple-test-circuit-d2f743",
+     "source": "Hackster",
+     "summary": "Understanding IGBTs: How They Work and Building a Simple Test Circuit",
+     "published": "2026-09-07T07:15:23+00:00",
+     "image": "https://hackster.imgix.net/uploads/attachments/1995609/_KFnaTh13zT.blob",
+     "kind": "article",
+     "id": "5a6f254a95d75c9b",
+     "first_seen": "2026-09-07T19:46:00.625637+00:00",
+     "is_new": true
+    },
+    {
      "title": "Monitor Your Breath in Real Time",
      "url": "https://www.hackster.io/upsidedownlabs/monitor-your-breath-in-real-time-c1c9b4",
      "source": "Hackster",
@@ -164,18 +176,6 @@
      "kind": "article",
      "id": "7069696654c40429",
      "first_seen": "2026-09-07T12:10:56.371142+00:00",
-     "is_new": true
-    },
-    {
-     "title": "Basic GPIO Expander - MCP23017",
-     "url": "https://www.hackster.io/diyguyChris/basic-gpio-expander-mcp23017-9807b5",
-     "source": "Hackster",
-     "summary": "Budget-friendly 16-channel GPIO expander. MCP23017, I\u00b2C, chainable to 128 GPIOs, fits $2 PCB deal.",
-     "published": "2026-09-06T15:07:56+00:00",
-     "image": "https://hackster.imgix.net/uploads/attachments/1995306/_FaPpe3rhW8.blob",
-     "kind": "article",
-     "id": "f38d39d6d6ff57cb",
-     "first_seen": "2026-09-06T19:44:37.512707+00:00",
      "is_new": true
     },
     {
