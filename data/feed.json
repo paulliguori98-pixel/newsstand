@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-07T16:47:52.167521+00:00",
+ "generated_at": "2026-09-07T17:07:34.934221+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -15,7 +15,7 @@
      "detail": "It reaches 80\u00b0 today and falls to 53\u00b0 overnight. The sun is up from 6:26 until 7:20.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 75,
+     "temp": 78,
      "high": 80,
      "low": 53,
      "sunrise": "6:26",
@@ -69,6 +69,22 @@
    "more": 0,
    "items": [
     {
+     "title": "Canada\u2019s Retaliatory Tariffs Set to Take Effect as Trump Threatens to Escalate",
+     "url": "https://www.nytimes.com/2026/09/07/world/canada/tariffs-trade-war-carney-trump.html",
+     "source": "New York Times",
+     "summary": "New Canadian levies of up to 50 percent are expected to begin Tuesday, even as Washington warns of a new round of American tariffs.",
+     "published": "2026-09-07T16:59:20+00:00",
+     "image": "https://static01.nyt.com/images/2026/09/07/multimedia/07int-canada-trade-tariffs-lvbk/07int-canada-trade-tariffs-lvbk-mediumSquareAt3X.jpg",
+     "kind": "article",
+     "id": "df8c21f1d51e2eb2",
+     "first_seen": "2026-09-07T12:10:56.371142+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
      "title": "Record strength El Ni\u00f1o could mean bigger supermarket bills for Australians, experts warn",
      "url": "https://www.theguardian.com/business/2026/sep/08/record-strength-el-nino-could-mean-bigger-supermarket-bills-for-australians-experts-warn",
      "source": "Guardian",
@@ -115,22 +131,6 @@
      "also_in": [],
      "boosted": true,
      "score": 4
-    },
-    {
-     "title": "Oil Higher on Hormuz Escalation, Weighing on Sentiment",
-     "url": "https://www.wsj.com/finance/stocks/oil-higher-on-hormuz-escalation-amid-quiet-markets-due-to-labor-day-6b5cc530?mod=rss_markets_main",
-     "source": "WSJ",
-     "summary": "Rising oil prices weighed on market sentiment in afternoon European trade after the U.S. and Iran increased efforts to control the Strait of Hormuz.",
-     "published": "2026-09-07T13:06:00+00:00",
-     "image": "https://images.wsj.net/im-93941545",
-     "kind": "article",
-     "id": "18f27869cf90de9e",
-     "first_seen": "2026-09-07T10:08:38.347168+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
     }
    ]
   },
@@ -143,15 +143,15 @@
    "more": 0,
    "items": [
     {
-     "title": "Comparing PETG and PCTG Filaments",
-     "url": "https://hackaday.com/2026/09/07/comparing-petg-and-pctg-filaments/",
+     "title": "The Helicopter with Radioactive Blades",
+     "url": "https://hackaday.com/2026/09/07/the-helicopter-with-radioactive-blades/",
      "source": "Hackaday",
-     "summary": "The average 3D printer owner knows a few types of filaments \u2013 PLA, ABS, somewhere in the middle, PETG. PCTG is another option that can be confusingly similar to PETG. \u2026read more",
-     "published": "2026-09-07T08:00:56+00:00",
-     "image": "https://hackaday.com/wp-content/uploads/2026/09/petg_vs_pctg_my_tech_fun_youtube.jpg",
+     "summary": "Sometimes you find gold in unexpected places. In this case, it\u2019s from a video about the CH-53 helicopter. The CH-53 Sea Stallion first entered service in 1966. It\u2019s a huge \u2026read m\u2026",
+     "published": "2026-09-07T17:00:21+00:00",
+     "image": "https://hackaday.com/wp-content/uploads/2026/09/CH-53D_Sea_Stallion_of_HMH-362_in_Afghanistan_on_26_May_2012.jpg",
      "kind": "article",
-     "id": "2f0a2d7d72caf50e",
-     "first_seen": "2026-09-07T10:08:38.347168+00:00",
+     "id": "70474e0c8f58da64",
+     "first_seen": "2026-09-07T17:07:34.934221+00:00",
      "is_new": true
     },
     {
