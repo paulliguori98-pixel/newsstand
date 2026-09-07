@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-07T10:47:58.594248+00:00",
+ "generated_at": "2026-09-07T11:08:25.934975+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -69,14 +69,14 @@
    "more": 0,
    "items": [
     {
-     "title": "As War Grinds On, Trump Relishes Renovation Projects",
-     "url": "https://www.nytimes.com/2026/09/07/us/politics/trump-dc-makeover-projects.html",
-     "source": "New York Times",
-     "summary": "President Trump is basking in the momentum of the various projects he has spurred around downtown Washington.",
-     "published": "2026-09-07T09:04:10+00:00",
-     "image": "https://static01.nyt.com/images/2026/09/06/multimedia/06dc-trump-construction2-zvfh/06dc-trump-construction2-zvfh-mediumSquareAt3X.jpg",
+     "title": "Far-right AfD win in Germany is \u2018grave moment\u2019 for Europe, politicians warn",
+     "url": "https://www.theguardian.com/world/2026/sep/07/afd-thanks-elon-musk-german-state-elections-2026-win",
+     "source": "Guardian",
+     "summary": "Mainstream politicians express alarm while lead candidate in Saxony-Anhalt welcomes congratulations from Elon MuskAfD wins key German state election but falls just short of majori\u2026",
+     "published": "2026-09-07T10:49:51+00:00",
+     "image": "https://i.guim.co.uk/img/media/97e7224f337d874ad9630e362f09160ebd1cdef0/509_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=5c48dc31d210e22721599c4a53cdeaa8",
      "kind": "article",
-     "id": "95104c8b8cc824d8",
+     "id": "af28608005f2da39",
      "first_seen": "2026-09-07T10:08:38.347168+00:00",
      "is_new": true,
      "corroboration": 1,
@@ -85,14 +85,30 @@
      "score": 4
     },
     {
-     "title": "Oil Higher on Hormuz Escalation Amid Quiet Markets Due to Labor Day",
-     "url": "https://www.wsj.com/finance/stocks/oil-higher-on-hormuz-escalation-amid-quiet-markets-due-to-labor-day-6b5cc530?mod=rss_markets_main",
-     "source": "WSJ",
-     "summary": "U.S. stock futures were mixed and Treasurys didn\u2019t trade, as U.S. investors break for Labor Day.",
-     "published": "2026-09-07T08:38:00+00:00",
-     "image": "https://images.wsj.net/im-93941545",
+     "title": "Kenya minister warns foreigners against 'misusing' visas to trade",
+     "url": "https://www.bbc.co.uk/news/articles/c158wwl22xko?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "summary": "Kenya is due to start enforcing measures to restrict foreign nationals from operating small-scale businesses.",
+     "published": "2026-09-07T10:45:28+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/595e/live/2d170d80-aaa4-11f1-9eba-7de947fa7cd1.jpg",
      "kind": "article",
-     "id": "18f27869cf90de9e",
+     "id": "6c855c2b87c25875",
+     "first_seen": "2026-09-07T11:08:25.934975+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
+     "title": "As War Grinds On, Trump Relishes Renovation Projects",
+     "url": "https://www.nytimes.com/2026/09/07/us/politics/trump-dc-makeover-projects.html",
+     "source": "New York Times",
+     "summary": "President Trump is basking in the momentum of the various projects he has spurred around downtown Washington.",
+     "published": "2026-09-07T09:04:10+00:00",
+     "image": "https://static01.nyt.com/images/2026/09/06/multimedia/06dc-trump-construction2-zvfh/06dc-trump-construction2-zvfh-mediumSquareAt3X.jpg",
+     "kind": "article",
+     "id": "95104c8b8cc824d8",
      "first_seen": "2026-09-07T10:08:38.347168+00:00",
      "is_new": true,
      "corroboration": 1,
@@ -118,22 +134,6 @@
       "NPR"
      ],
      "boosted": false,
-     "score": 4
-    },
-    {
-     "title": "Zelensky says he expects war to continue into winter after talks with US envoys",
-     "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "summary": "There was no announcement of a major breakthrough, after Steve Witkoff and Jared Kushner travelled to Kyiv.",
-     "published": "2026-09-06T20:41:58+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c253/live/37e3dbb0-aa88-11f1-aed2-8d6da8d75094.jpg",
-     "kind": "article",
-     "id": "5ea7c78ca31e6d44",
-     "first_seen": "2026-09-06T10:08:13.670139+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
      "score": 4
     }
    ]
