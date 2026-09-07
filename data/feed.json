@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-07T11:31:12.371248+00:00",
+ "generated_at": "2026-09-07T11:48:02.890577+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -69,6 +69,22 @@
    "more": 0,
    "items": [
     {
+     "title": "Iran war drives $100 billion in extra energy costs for U.S. consumers",
+     "url": "https://www.axios.com/2026/09/07/iran-gas-prices-diesel-100-billion",
+     "source": "Axios",
+     "summary": "The war in Iran has now cost U.S. consumers $100 billion in higher energy prices, and the bill is rising another $1 million about every two minutes, per a real-time estimate from \u2026",
+     "published": "2026-09-07T11:39:22+00:00",
+     "image": "https://images.axios.com/5k3VDoDHTJ3GinYFb7KLbuviHjI=/0x0:1920x1080/1366x768/2026/07/21/1784657069733.jpeg",
+     "kind": "article",
+     "id": "a4132659d0d23456",
+     "first_seen": "2026-09-07T11:48:02.890577+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
      "title": "Far-right AfD win in Germany is \u2018grave moment\u2019 for Europe, politicians warn",
      "url": "https://www.theguardian.com/world/2026/sep/07/afd-thanks-elon-musk-german-state-elections-2026-win",
      "source": "Guardian",
@@ -114,26 +130,6 @@
      "corroboration": 1,
      "also_in": [],
      "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "Witkoff and Kushner, in a first, visit Ukraine for peace talks",
-     "url": "https://www.axios.com/2026/09/06/witkoff-kushner-kyiv-ukraine-peace-talks",
-     "source": "Axios",
-     "summary": "President Trump's envoys Steve Witkoff and Jared Kushner arrived in Kyiv on Sunday for diplomatic talks aimed at resuming negotiations between Russia and Ukraine. Why it matters: \u2026",
-     "published": "2026-09-06T21:06:29+00:00",
-     "image": "https://images.axios.com/kQXPGwPqpA5dNV_Pj6GjJ0vSPNI=/0x0:5456x3069/1366x768/2026/09/06/1788706708131.jpeg",
-     "kind": "article",
-     "id": "f54f92e6165c1ef7",
-     "first_seen": "2026-09-06T15:44:59.885042+00:00",
-     "is_new": true,
-     "corroboration": 4,
-     "also_in": [
-      "BBC",
-      "Guardian",
-      "NPR"
-     ],
-     "boosted": false,
      "score": 4
     }
    ]
