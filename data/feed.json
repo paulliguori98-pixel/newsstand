@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-07T17:46:57.465741+00:00",
+ "generated_at": "2026-09-07T18:09:42.450217+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -265,6 +265,22 @@
      "score": 1
     },
     {
+     "title": "The pre-owned sale is expanding, plus other events this Autumn",
+     "url": "https://www.permanentstyle.com/2026/09/the-pre-owned-sale-is-expanding-plus-other-events-this-autumn.html",
+     "source": "Permanent Style",
+     "summary": "Autumn is always the busiest time in the PS calendar, and this year is no exception. We have familiar trunk shows returning, new brands joining the showroom and one significant ev\u2026",
+     "published": "2026-09-07T08:00:46+00:00",
+     "image": "https://www.permanentstyle.com/wp-content/uploads/2026/09/Presents-5-1000x1250-1.png",
+     "kind": "article",
+     "id": "edacae96c1cb8168",
+     "first_seen": "2026-09-07T10:08:38.347168+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": false,
+     "score": 1
+    },
+    {
      "title": "Inside Track: August 30th \u2013 September 5th Edition",
      "url": "https://www.putthison.com/inside-track-august-30th-september-5th-edition-2/",
      "source": "Put This On",
@@ -295,27 +311,9 @@
      "also_in": [],
      "boosted": false,
      "score": 1
-    },
-    {
-     "title": "The Good List",
-     "url": "https://www.acl.news/p/the-good-list",
-     "source": "A Continuous Lean",
-     "summary": "Buyer\u2019s Guide to Things Worth the Money.",
-     "published": "2026-09-05T11:39:34+00:00",
-     "image": "https://substackcdn.com/image/fetch/$s_!Cewu!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa22ecffe-7d63-419f-95ed-8065faf82391_1536x2048.jpeg",
-     "kind": "article",
-     "id": "3f21c71e57e03f19",
-     "first_seen": "2026-09-05T11:44:20.329907+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": false,
-     "score": 1
     }
    ]
   }
  ],
- "errors": [
-  "Permanent Style: RuntimeError \u2014 https://www.permanentstyle.com/feed \u2192 HTTP 415"
- ]
+ "errors": []
 }
