@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-07T15:30:29.044453+00:00",
+ "generated_at": "2026-09-07T15:47:50.354647+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -15,7 +15,7 @@
      "detail": "It reaches 80\u00b0 today and falls to 53\u00b0 overnight. The sun is up from 6:26 until 7:20.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 67,
+     "temp": 72,
      "high": 80,
      "low": 53,
      "sunrise": "6:26",
@@ -212,6 +212,19 @@
    "row_detail": false,
    "more": 0,
    "items": [
+    {
+     "title": "Red and Brown Madras Check Cotton Button-Down Shirt",
+     "url": "https://us.drakes.com/products/red-and-brown-madras-check-cotton-button-down-shirt",
+     "source": "Drake's",
+     "summary": "Casual Shirts",
+     "published": "2026-09-07T11:41:32-04:00",
+     "image": "https://cdn.shopify.com/s/files/1/0649/6603/3653/files/DR2A4A26642-02-303-1.jpg?v=1788529266",
+     "price": "$425",
+     "kind": "product",
+     "id": "c75f643582a388e9",
+     "first_seen": "2026-09-07T15:47:50.354647+00:00",
+     "is_new": true
+    },
     {
      "title": "Yuketen Brown Suede Ranchero Boots",
      "url": "https://us.drakes.com/products/yuketen-brown-suede-ranchero-boots",
