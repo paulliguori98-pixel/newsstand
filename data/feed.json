@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-08T11:08:03.278419+00:00",
+ "generated_at": "2026-09-08T11:30:14.814343+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -69,6 +69,24 @@
    "more": 0,
    "items": [
     {
+     "title": "GOP to host unusual midterm convention. And, Canada's retaliatory tariffs take effect",
+     "url": "https://www.npr.org/2026/09/08/g-s1-142302/up-first-newsletter-trumpapalooza-amazon-cargo-plane-crash-canada-tariffs",
+     "source": "NPR",
+     "summary": "Republicans are aiming to get voters to turn out for the midterms with an unconventional convention. And, Canada's retaliatory tariffs on the U.S. went into effect at midnight.",
+     "published": "2026-09-08T11:20:05+00:00",
+     "image": null,
+     "kind": "article",
+     "id": "586b79dc4ce2b26a",
+     "first_seen": "2026-09-08T11:30:14.814343+00:00",
+     "is_new": true,
+     "corroboration": 2,
+     "also_in": [
+      "Guardian"
+     ],
+     "boosted": true,
+     "score": 5
+    },
+    {
      "title": "A Trade War",
      "url": "https://www.nytimes.com/2026/09/08/briefing/us-canada-trade-war.html",
      "source": "New York Times",
@@ -79,13 +97,12 @@
      "id": "cc230bc4606fc0d9",
      "first_seen": "2026-09-08T11:08:03.278419+00:00",
      "is_new": true,
-     "corroboration": 3,
+     "corroboration": 2,
      "also_in": [
-      "BBC",
-      "Guardian"
+      "BBC"
      ],
      "boosted": true,
-     "score": 6
+     "score": 5
     },
     {
      "title": "UK Set to Impose Sanctions on Israeli Settlements in West Bank",
@@ -112,22 +129,6 @@
      "image": "https://images.axios.com/YOIyiZIV3VNZdaHdEgUbp24Ti8g=/1366x768/smart/2023/01/30/190318-1675105398130.jpg",
      "kind": "article",
      "id": "3e4447dbf90fae53",
-     "first_seen": "2026-09-08T10:09:22.870368+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "AI Is Disrupting Software Companies\u2014but Not as Fast as Many Feared",
-     "url": "https://www.wsj.com/tech/ai/ai-is-disrupting-software-companiesbut-not-as-fast-as-many-feared-a380443a?mod=rss_markets_main",
-     "source": "WSJ",
-     "summary": "Even as their shares got pummeled, companies like Salesforce and Workday have been showing financial strength.",
-     "published": "2026-09-08T09:30:00+00:00",
-     "image": "https://images.wsj.net/im-45697522",
-     "kind": "article",
-     "id": "d2a1753f6da5701f",
      "first_seen": "2026-09-08T10:09:22.870368+00:00",
      "is_new": true,
      "corroboration": 1,
