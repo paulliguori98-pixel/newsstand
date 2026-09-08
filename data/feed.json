@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-08T22:46:07.782059+00:00",
+ "generated_at": "2026-09-08T23:07:59.765847+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -15,7 +15,7 @@
      "detail": "It reaches 79\u00b0 today and falls to 57\u00b0 overnight. The sun is up from 6:27 until 7:18.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 75,
+     "temp": 73,
      "high": 79,
      "low": 57,
      "sunrise": "6:27",
@@ -146,15 +146,15 @@
    "more": 0,
    "items": [
     {
-     "title": "Are Desktop PC-ABS Prints Outperformed by Industrial FDM? Not Really",
-     "url": "https://hackaday.com/2026/09/08/are-desktop-pc-abs-prints-outperformed-by-industrial-fdm-not-really/",
+     "title": "Anti-Doomscroll Tamagotchi Only Lives if You Do",
+     "url": "https://hackaday.com/2026/09/08/anti-doomscroll-tamagotchi-only-lives-if-you-do/",
      "source": "Hackaday",
-     "summary": "[Igor] of [My Tech Fun] set out to discover what differences, if any, can be found between parts printed in PC-ABS filament on an industrial 3D printer, and those from \u2026read more",
-     "published": "2026-09-08T20:00:26+00:00",
-     "image": "https://hackaday.com/wp-content/uploads/2026/09/Stratasys-vs-Polymaker-PC-ABS_-Industrial-vs-Desktop-3D-Printing-1-36-screenshot-banner.png",
+     "summary": "The odds are, you have a device deliberately designed to be addictive in your pocket or on the table next to you if you aren\u2019t staring at it right now\u2013 \u2026read more",
+     "published": "2026-09-08T23:00:35+00:00",
+     "image": "https://hackaday.com/wp-content/uploads/2026/09/ESP32virtual-pet-phone-feat.jpg",
      "kind": "article",
-     "id": "a3266b3de3e19462",
-     "first_seen": "2026-09-08T20:08:33.982687+00:00",
+     "id": "d56a15384d6fe35b",
+     "first_seen": "2026-09-08T23:07:59.765847+00:00",
      "is_new": true
     },
     {
