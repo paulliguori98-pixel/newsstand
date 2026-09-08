@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-08T19:46:04.913641+00:00",
+ "generated_at": "2026-09-08T20:08:33.982687+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -145,15 +145,15 @@
    "more": 0,
    "items": [
     {
-     "title": "Fixing a 1990s LEGO Electric Train Speed Regulator",
-     "url": "https://hackaday.com/2026/09/08/fixing-a-1990s-lego-electric-train-speed-regulator/",
+     "title": "Are Desktop PC-ABS Prints Outperformed by Industrial FDM? Not Really",
+     "url": "https://hackaday.com/2026/09/08/are-desktop-pc-abs-prints-outperformed-by-industrial-fdm-not-really/",
      "source": "Hackaday",
-     "summary": "Before LEGO train sets moved to battery-powered locomotives with plastic rails, all of them worked pretty much like any other train set of the era. This meant metal rails that \u2026re\u2026",
-     "published": "2026-09-08T18:30:37+00:00",
-     "image": "https://hackaday.com/wp-content/uploads/2026/09/lego_2868b_train_controller_nonsense_wars_youtube.jpg",
+     "summary": "[Igor] of [My Tech Fun] set out to discover what differences, if any, can be found between parts printed in PC-ABS filament on an industrial 3D printer, and those from \u2026read more",
+     "published": "2026-09-08T20:00:26+00:00",
+     "image": "https://hackaday.com/wp-content/uploads/2026/09/Stratasys-vs-Polymaker-PC-ABS_-Industrial-vs-Desktop-3D-Printing-1-36-screenshot-banner.png",
      "kind": "article",
-     "id": "2533b9139fcbc972",
-     "first_seen": "2026-09-08T18:34:29.516922+00:00",
+     "id": "a3266b3de3e19462",
+     "first_seen": "2026-09-08T20:08:33.982687+00:00",
      "is_new": true
     },
     {
