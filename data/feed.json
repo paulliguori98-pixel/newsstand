@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-08T21:27:55.601470+00:00",
+ "generated_at": "2026-09-08T21:46:20.466999+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,12 +10,12 @@
    "more": 0,
    "items": [
     {
-     "title": "Mostly Cloudy",
-     "phrase": "Mostly Cloudy all day.",
+     "title": "Partly Sunny",
+     "phrase": "Partly Sunny all day.",
      "detail": "It reaches 80\u00b0 today and falls to 57\u00b0 overnight. The sun is up from 6:27 until 7:18.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 78,
+     "temp": 79,
      "high": 80,
      "low": 57,
      "sunrise": "6:27",
@@ -104,6 +104,22 @@
      "score": 4
     },
     {
+     "title": "Trump Awards Medal of Freedom to Welles Crowther, the \u2018Man in the Red Bandanna\u2019",
+     "url": "https://www.nytimes.com/2026/09/08/us/politics/trump-welles-crowther-sept-11-red-bandanna.html",
+     "source": "New York Times",
+     "summary": "Welles Remy Crowther, an equity trader and volunteer firefighter, is credited with saving 18 people at the World Trade Center on Sept. 11 before being killed.",
+     "published": "2026-09-08T17:54:26+00:00",
+     "image": "https://static01.nyt.com/images/2026/09/08/multimedia/08dc-trump-medal-topart-mvkp/08dc-trump-medal-topart-mvkp-mediumSquareAt3X.jpg",
+     "kind": "article",
+     "id": "10cb1d1c5800bae7",
+     "first_seen": "2026-09-08T21:46:20.466999+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
      "title": "Saudi Arabia and Yemen\u2019s Houthis Edge Back to the Brink of War",
      "url": "https://www.nytimes.com/2026/09/08/world/middleeast/saudi-arabia-yemen-houthis-energy-attack.html",
      "source": "New York Times",
@@ -113,22 +129,6 @@
      "kind": "article",
      "id": "9dc68de6e26ba7af",
      "first_seen": "2026-09-08T10:31:31.263019+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "In West Bank, date farmers weigh impact of UK sanctions on Israeli settlers",
-     "url": "https://www.bbc.co.uk/news/articles/cvgy6gd228vo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "summary": "Palestinians strongly back a ban on settlement goods, but Israel's government says it is a \"big mistake\".",
-     "published": "2026-09-08T15:36:34+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/800e/live/1e4c26b0-ab70-11f1-b109-879e35c24276.jpg",
-     "kind": "article",
-     "id": "af2c3bcc90b15659",
-     "first_seen": "2026-09-08T15:09:28.596421+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
@@ -229,15 +229,15 @@
      "is_new": true
     },
     {
-     "title": "Deep Oive Draped Twill One Pocket Shirt",
-     "url": "https://www.buckmason.com/products/deep-oive-draped-twill-one-pocket-shirt",
+     "title": "Deep Olive Draped Twill One Pocket Shirt",
+     "url": "https://www.buckmason.com/products/deep-olive-draped-twill-one-pocket-shirt",
      "source": "Buck Mason",
      "image": "https://cdn.shopify.com/s/files/1/0123/5065/2473/files/BM13366.137_DRAPEDTWILLONEPOCKETSHIRTDEEPOLIVE_1.jpg?v=1788893168",
      "price": "$138",
      "published": "2026-07-10T20:21:49+00:00",
      "kind": "product",
-     "id": "f2060959b0593e31",
-     "first_seen": "2026-09-08T18:51:14.628649+00:00",
+     "id": "a2f527887fcdcd1d",
+     "first_seen": "2026-09-08T21:46:20.466999+00:00",
      "is_new": true
     },
     {
