@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-08T18:34:29.516922+00:00",
+ "generated_at": "2026-09-08T18:51:14.628649+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,12 +10,12 @@
    "more": 0,
    "items": [
     {
-     "title": "Mostly Sunny",
-     "phrase": "Mostly Sunny all day.",
+     "title": "Partly Sunny",
+     "phrase": "Partly Sunny all day.",
      "detail": "It reaches 80\u00b0 today and falls to 57\u00b0 overnight. The sun is up from 6:27 until 7:18.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 77,
+     "temp": 78,
      "high": 80,
      "low": 57,
      "sunrise": "6:27",
@@ -109,7 +109,7 @@
      "url": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
      "summary": "Britain's foreign secretary accuses settlers of carrying out the \"ethnic cleansing\" of Palestinians, as Israel responds by shutting the UK consulate in East Jerusalem.",
-     "published": "2026-09-08T18:25:40+00:00",
+     "published": "2026-09-08T18:40:49+00:00",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6cd1/live/8d1d81e0-aba9-11f1-b109-879e35c24276.jpg",
      "kind": "article",
      "id": "832c384b67689ee2",
@@ -215,7 +215,20 @@
    "lead_image": false,
    "row_detail": false,
    "more": 0,
-   "items": []
+   "items": [
+    {
+     "title": "Deep Oive Draped Twill One Pocket Shirt",
+     "url": "https://www.buckmason.com/products/deep-oive-draped-twill-one-pocket-shirt",
+     "source": "Buck Mason",
+     "image": "https://cdn.shopify.com/s/files/1/0123/5065/2473/files/BM13366.137_DRAPED-TWILL-ONE-POCKET-SHIRT_DEEP-OIVE_56908_1.jpg?v=1788893164",
+     "price": "$138",
+     "published": "2026-07-10T20:21:49+00:00",
+     "kind": "product",
+     "id": "f2060959b0593e31",
+     "first_seen": "2026-09-08T18:51:14.628649+00:00",
+     "is_new": true
+    }
+   ]
   },
   {
    "id": "dispatches",
