@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-08T21:46:20.466999+00:00",
+ "generated_at": "2026-09-08T22:08:58.440596+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,13 +10,13 @@
    "more": 0,
    "items": [
     {
-     "title": "Partly Sunny",
-     "phrase": "Partly Sunny all day.",
-     "detail": "It reaches 80\u00b0 today and falls to 57\u00b0 overnight. The sun is up from 6:27 until 7:18.",
+     "title": "Mostly Cloudy",
+     "phrase": "Mostly Cloudy all day.",
+     "detail": "It reaches 79\u00b0 today and falls to 57\u00b0 overnight. The sun is up from 6:27 until 7:18.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 79,
-     "high": 80,
+     "temp": 75,
+     "high": 79,
      "low": 57,
      "sunrise": "6:27",
      "sunset": "7:18",
