@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-08T20:30:02.649027+00:00",
+ "generated_at": "2026-09-08T20:47:21.917579+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -69,22 +69,23 @@
    "more": 0,
    "items": [
     {
-     "title": "GOP to host unusual midterm convention. And, Canada's retaliatory tariffs take effect",
-     "url": "https://www.npr.org/2026/09/08/g-s1-142302/up-first-newsletter-trumpapalooza-amazon-cargo-plane-crash-canada-tariffs",
-     "source": "NPR",
-     "summary": "Republicans are aiming to get voters to turn out for the midterms with an unconventional convention. And, Canada's retaliatory tariffs on the U.S. went into effect at midnight.",
-     "published": "2026-09-08T11:20:05+00:00",
-     "image": null,
+     "title": "Canada\u2019s Tariffs Take Effect",
+     "url": "https://www.wsj.com/finance/stocks/canadas-tariffs-take-effect-c3d61304?mod=rss_markets_main",
+     "source": "WSJ",
+     "summary": "Plus, oil rises after Houthis strike energy infrastructure, and stocks fall.",
+     "published": "2026-09-08T20:31:00+00:00",
+     "image": "https://images.wsj.net/im-73612510",
      "kind": "article",
-     "id": "586b79dc4ce2b26a",
-     "first_seen": "2026-09-08T11:30:14.814343+00:00",
+     "id": "7e989c91920ff38c",
+     "first_seen": "2026-09-08T20:47:21.917579+00:00",
      "is_new": true,
-     "corroboration": 2,
+     "corroboration": 3,
      "also_in": [
+      "BBC",
       "Guardian"
      ],
      "boosted": true,
-     "score": 5
+     "score": 6
     },
     {
      "title": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
