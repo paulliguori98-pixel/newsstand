@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-08T10:31:31.263019+00:00",
+ "generated_at": "2026-09-08T10:48:53.948119+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -191,7 +191,7 @@
      "kind": "article",
      "id": "1dbc74482c65b5d7",
      "first_seen": "2026-09-04T10:47:25.073613+00:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "title": "CircuitPython Watchdog Module",
