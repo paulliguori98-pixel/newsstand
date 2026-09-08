@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-08T19:07:35.817223+00:00",
+ "generated_at": "2026-09-08T19:28:54.212289+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -69,24 +69,6 @@
    "more": 0,
    "items": [
     {
-     "title": "Carney says US trade war 'will come at a cost' as Canada strikes back on tariffs",
-     "url": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "summary": "Canada's levies - as high as 50% - will apply to nearly $20bn of US products, from steel to T-shirts.",
-     "published": "2026-09-08T14:46:16+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ebe/live/daf11f50-ab98-11f1-aa04-efbf6a882854.jpg",
-     "kind": "article",
-     "id": "ee0a37d2e333bdaa",
-     "first_seen": "2026-09-08T10:09:22.870368+00:00",
-     "is_new": true,
-     "corroboration": 2,
-     "also_in": [
-      "New York Times"
-     ],
-     "boosted": true,
-     "score": 5
-    },
-    {
      "title": "GOP to host unusual midterm convention. And, Canada's retaliatory tariffs take effect",
      "url": "https://www.npr.org/2026/09/08/g-s1-142302/up-first-newsletter-trumpapalooza-amazon-cargo-plane-crash-canada-tariffs",
      "source": "NPR",
@@ -109,7 +91,7 @@
      "url": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
      "summary": "Britain's foreign secretary accuses settlers of carrying out the \"ethnic cleansing\" of Palestinians, as Israel responds by shutting the UK consulate in East Jerusalem.",
-     "published": "2026-09-08T18:40:49+00:00",
+     "published": "2026-09-08T19:11:39+00:00",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6cd1/live/8d1d81e0-aba9-11f1-b109-879e35c24276.jpg",
      "kind": "article",
      "id": "832c384b67689ee2",
@@ -130,6 +112,22 @@
      "kind": "article",
      "id": "9dc68de6e26ba7af",
      "first_seen": "2026-09-08T10:31:31.263019+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
+     "title": "In West Bank, date farmers weigh impact of UK sanctions on Israeli settlers",
+     "url": "https://www.bbc.co.uk/news/articles/cvgy6gd228vo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "summary": "Palestinians strongly back a ban on settlement goods, but Israel's government says it is a \"big mistake\".",
+     "published": "2026-09-08T15:36:34+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/800e/live/1e4c26b0-ab70-11f1-b109-879e35c24276.jpg",
+     "kind": "article",
+     "id": "af2c3bcc90b15659",
+     "first_seen": "2026-09-08T15:09:28.596421+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
@@ -255,6 +253,22 @@
      "score": 1
     },
     {
+     "title": "Get Your Kicks (and Loafers)!",
+     "url": "https://www.putthison.com/get-your-kicks-and-loafers/",
+     "source": "Put This On",
+     "summary": "Hi everyone \u2013 it\u2019s Brynna, your Put This On Shopkeeper \u2013 here again with even more new stuff! Have you... The post Get Your Kicks (and Loafers)! appeared first on Put This On.",
+     "published": "2026-09-08T19:21:26+00:00",
+     "image": null,
+     "kind": "article",
+     "id": "904de041e033c926",
+     "first_seen": "2026-09-08T19:28:54.212289+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": false,
+     "score": 1
+    },
+    {
      "title": "The NFL Preview",
      "url": "https://www.acl.news/p/the-nfl-preview",
      "source": "A Continuous Lean",
@@ -280,22 +294,6 @@
      "kind": "article",
      "id": "edacae96c1cb8168",
      "first_seen": "2026-09-07T10:08:38.347168+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": false,
-     "score": 1
-    },
-    {
-     "title": "Inside Track: August 30th \u2013 September 5th Edition",
-     "url": "https://www.putthison.com/inside-track-august-30th-september-5th-edition-2/",
-     "source": "Put This On",
-     "summary": "Here are our hand-selected favorites from eBay for this week, plus a heads-up on recommended sales. If you\u2019re a member... The post Inside Track: August 30th \u2013 September 5th Editio\u2026",
-     "published": "2026-09-06T04:52:04+00:00",
-     "image": null,
-     "kind": "article",
-     "id": "0140a3599c213924",
-     "first_seen": "2026-09-06T10:08:13.670139+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
