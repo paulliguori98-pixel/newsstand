@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-08T10:48:53.948119+00:00",
+ "generated_at": "2026-09-08T11:08:03.278419+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -15,7 +15,7 @@
      "detail": "It reaches 80\u00b0 today and falls to 57\u00b0 overnight. The sun is up from 6:27 until 7:18.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 55,
+     "temp": 54,
      "high": 80,
      "low": 57,
      "sunrise": "6:27",
@@ -69,15 +69,15 @@
    "more": 0,
    "items": [
     {
-     "title": "Canada Imposes New Tariffs on U.S. Goods, as Trade War Intensifies",
-     "url": "https://www.nytimes.com/2026/09/08/business/canada-tariffs-trump.html",
+     "title": "A Trade War",
+     "url": "https://www.nytimes.com/2026/09/08/briefing/us-canada-trade-war.html",
      "source": "New York Times",
-     "summary": "The duties are a retaliation against President Trump\u2019s recent tariffs, raising concerns about further escalation.",
-     "published": "2026-09-08T06:56:41+00:00",
-     "image": "https://static01.nyt.com/images/2026/09/08/multimedia/08DC-Canada-Tariffs-01-htmb/08DC-Canada-Tariffs-01-htmb-mediumSquareAt3X.jpg",
+     "summary": "We look at escalating tensions between the United States and Canada.",
+     "published": "2026-09-08T10:41:41+00:00",
+     "image": "https://static01.nyt.com/images/2026/09/08/multimedia/08themorning-carney-ztlg/08themorning-carney-ztlg-mediumSquareAt3X-v2.jpg",
      "kind": "article",
-     "id": "8181005c727613ba",
-     "first_seen": "2026-09-08T10:09:22.870368+00:00",
+     "id": "cc230bc4606fc0d9",
+     "first_seen": "2026-09-08T11:08:03.278419+00:00",
      "is_new": true,
      "corroboration": 3,
      "also_in": [
@@ -86,6 +86,22 @@
      ],
      "boosted": true,
      "score": 6
+    },
+    {
+     "title": "UK Set to Impose Sanctions on Israeli Settlements in West Bank",
+     "url": "https://www.nytimes.com/2026/09/08/world/europe/uk-sanctions-israel-west-bank-settlements.html",
+     "source": "New York Times",
+     "summary": "A longtime ally of Israel, the U.K. has condemned plans to expand the settlements, which are widely considered illegal under international law.",
+     "published": "2026-09-08T10:48:28+00:00",
+     "image": "https://static01.nyt.com/images/2026/09/08/multimedia/08int-UK-ISRAEL-SETTLEMENTS-hqtv/08int-UK-ISRAEL-SETTLEMENTS-hqtv-mediumSquareAt3X.jpg",
+     "kind": "article",
+     "id": "cd2357684ab1738e",
+     "first_seen": "2026-09-08T11:08:03.278419+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
     },
     {
      "title": "Sports' grip on America sparks summer of political warfare",
@@ -112,22 +128,6 @@
      "image": "https://images.wsj.net/im-45697522",
      "kind": "article",
      "id": "d2a1753f6da5701f",
-     "first_seen": "2026-09-08T10:09:22.870368+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "One Nation\u2019s Warren Pickering admits to illegal drug use and says he is \u2018no angel\u2019 in extraordinary press conference",
-     "url": "https://www.theguardian.com/australia-news/2026/sep/08/one-nations-warren-pickering-admits-to-drug-use-and-says-he-is-no-angel-in-extraordinary-press-conference-ntwnfb",
-     "source": "Guardian",
-     "summary": "Victorian One Nation leader says his actions \u2018hurt people I loved, and I will live with that forever\u2019Follow our Australia news live blog for latest updatesGet our breaking news em\u2026",
-     "published": "2026-09-08T08:04:04+00:00",
-     "image": "https://i.guim.co.uk/img/media/a36e1e2cfa0e2aa3dcde0768ca476a0ca544246f/1765_178_4468_3575/master/4468.jpg?width=140&quality=85&auto=format&fit=max&s=1d5020f5a7616e8ea1da2888fc02551b",
-     "kind": "article",
-     "id": "c807006c79209719",
      "first_seen": "2026-09-08T10:09:22.870368+00:00",
      "is_new": true,
      "corroboration": 1,
