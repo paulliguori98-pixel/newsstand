@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-08T18:10:22.594515+00:00",
+ "generated_at": "2026-09-08T18:34:29.516922+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,12 +10,12 @@
    "more": 0,
    "items": [
     {
-     "title": "Partly Sunny",
-     "phrase": "Partly Sunny all day.",
+     "title": "Mostly Sunny",
+     "phrase": "Mostly Sunny all day.",
      "detail": "It reaches 80\u00b0 today and falls to 57\u00b0 overnight. The sun is up from 6:27 until 7:18.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 78,
+     "temp": 77,
      "high": 80,
      "low": 57,
      "sunrise": "6:27",
@@ -109,7 +109,7 @@
      "url": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
      "summary": "Britain's foreign secretary accuses settlers of carrying out the \"ethnic cleansing\" of Palestinians, as Israel responds by shutting the UK consulate in East Jerusalem.",
-     "published": "2026-09-08T17:59:07+00:00",
+     "published": "2026-09-08T18:25:40+00:00",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6cd1/live/8d1d81e0-aba9-11f1-b109-879e35c24276.jpg",
      "kind": "article",
      "id": "832c384b67689ee2",
@@ -147,15 +147,15 @@
    "more": 0,
    "items": [
     {
-     "title": "Disassembling a Mini Air Blower to Make RC Airplanes",
-     "url": "https://hackaday.com/2026/09/08/disassembling-a-mini-air-blower-to-make-rc-airplanes/",
+     "title": "Fixing a 1990s LEGO Electric Train Speed Regulator",
+     "url": "https://hackaday.com/2026/09/08/fixing-a-1990s-lego-electric-train-speed-regulator/",
      "source": "Hackaday",
-     "summary": "As a certified RC airplane fan, the [RCMakerLab] on YouTube found themselves looking at one of those nifty mini air blowers that provide an alternative to a compressor and canned \u2026",
-     "published": "2026-09-08T15:30:18+00:00",
-     "image": "https://hackaday.com/wp-content/uploads/2026/09/air_blower_disassembled_rcmarkerslab_youtube.jpg",
+     "summary": "Before LEGO train sets moved to battery-powered locomotives with plastic rails, all of them worked pretty much like any other train set of the era. This meant metal rails that \u2026re\u2026",
+     "published": "2026-09-08T18:30:37+00:00",
+     "image": "https://hackaday.com/wp-content/uploads/2026/09/lego_2868b_train_controller_nonsense_wars_youtube.jpg",
      "kind": "article",
-     "id": "622c3328bcc51a70",
-     "first_seen": "2026-09-08T15:33:19.616204+00:00",
+     "id": "2533b9139fcbc972",
+     "first_seen": "2026-09-08T18:34:29.516922+00:00",
      "is_new": true
     },
     {
