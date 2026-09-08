@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-08T15:33:19.616204+00:00",
+ "generated_at": "2026-09-08T15:51:12.307280+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -69,20 +69,20 @@
    "more": 0,
    "items": [
     {
-     "title": "UK Imposes Sanctions on Israeli Settlements in West Bank, Accuses Settlers of Ethnic Cleansing",
-     "url": "https://www.nytimes.com/2026/09/08/world/europe/uk-sanctions-israel-west-bank-settlements.html",
-     "source": "New York Times",
-     "summary": "Britain said Israel had \u201cturned a blind eye\u201d to violence against Palestinians by extremist settlers, as it joined allies in announcing a ban on trade with illegal settlements.",
-     "published": "2026-09-08T15:14:14+00:00",
-     "image": "https://static01.nyt.com/images/2026/09/08/multimedia/08int-UK-ISRAEL-SETTLEMENTS-hqtv/08int-UK-ISRAEL-SETTLEMENTS-hqtv-mediumSquareAt3X.jpg",
+     "title": "In West Bank, date farmers weigh impact of UK sanctions on Israeli settlers",
+     "url": "https://www.bbc.co.uk/news/articles/cvgy6gd228vo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "summary": "Palestinians strongly back a ban on settlement goods, but Israel's government says it is a \"big mistake\".",
+     "published": "2026-09-08T15:36:34+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/800e/live/1e4c26b0-ab70-11f1-b109-879e35c24276.jpg",
      "kind": "article",
-     "id": "cd2357684ab1738e",
-     "first_seen": "2026-09-08T11:08:03.278419+00:00",
+     "id": "af2c3bcc90b15659",
+     "first_seen": "2026-09-08T15:09:28.596421+00:00",
      "is_new": true,
      "corroboration": 3,
      "also_in": [
-      "BBC",
-      "NPR"
+      "NPR",
+      "New York Times"
      ],
      "boosted": true,
      "score": 6
@@ -93,7 +93,7 @@
      "source": "BBC",
      "summary": "Canada's levies - as high as 50% - will apply to nearly $20bn of US products, from steel to T-shirts.",
      "published": "2026-09-08T14:46:16+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4970/live/57d86dc0-ab49-11f1-9191-cd98112fd46c.jpg",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ebe/live/daf11f50-ab98-11f1-aa04-efbf6a882854.jpg",
      "kind": "article",
      "id": "ee0a37d2e333bdaa",
      "first_seen": "2026-09-08T10:09:22.870368+00:00",
