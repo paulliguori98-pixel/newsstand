@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-08T12:54:21.684232+00:00",
+ "generated_at": "2026-09-08T13:10:22.397769+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -88,6 +88,22 @@
      "score": 6
     },
     {
+     "title": "U.K. bans goods from occupied West Bank as Israel and U.S. warn of repercussions",
+     "url": "https://www.npr.org/2026/09/08/nx-s1-5961044/uk-occcupied-west-bank-goods-israel",
+     "source": "NPR",
+     "summary": "Britain announces a ban on goods from Israeli settlements in the occupied West Bank, prompting warnings of US repercussions and an angry response from Israel.",
+     "published": "2026-09-08T13:05:20+00:00",
+     "image": null,
+     "kind": "article",
+     "id": "abc98f80dcf8df3a",
+     "first_seen": "2026-09-08T13:10:22.397769+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
      "title": "UK Imposes Sanctions on Israeli Settlements in West Bank, Accuses Settlers of Ethnic Cleansing",
      "url": "https://www.nytimes.com/2026/09/08/world/europe/uk-sanctions-israel-west-bank-settlements.html",
      "source": "New York Times",
@@ -113,22 +129,6 @@
      "kind": "article",
      "id": "bc35ad6ec3dff4f2",
      "first_seen": "2026-09-08T12:11:32.858211+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "Canadian Jet Maker Is Target in Trump\u2019s Trade War",
-     "url": "https://www.nytimes.com/2026/09/08/business/bombardier-trump-canada-us-sales-planes.html",
-     "source": "New York Times",
-     "summary": "Bombardier has been embroiled in U.S. trade disputes before. President Trump threatened to bar the company from selling in the United States.",
-     "published": "2026-09-08T12:14:04+00:00",
-     "image": "https://static01.nyt.com/images/2026/09/08/multimedia/08xp-bombardier1-qcwh/08xp-bombardier1-qcwh-mediumSquareAt3X.jpg",
-     "kind": "article",
-     "id": "4b43a870d6ef4c26",
-     "first_seen": "2026-09-08T12:54:21.684232+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
