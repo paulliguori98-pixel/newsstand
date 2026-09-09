@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-09T17:07:55.166770+00:00",
+ "generated_at": "2026-09-09T17:29:42.896574+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -213,6 +213,19 @@
    "more": 0,
    "items": [
     {
+     "title": "Tracksmith Eliot Ryder",
+     "url": "https://www.tracksmith.com/products/m-tracksmith-eliot-ryder?sku=FT1005070NAW",
+     "source": "Tracksmith",
+     "summary": "",
+     "published": null,
+     "image": "https://cdn.shopify.com/s/files/1/1594/4353/files/Summer26-Eliot-Ryder-Navy-01.png?v=1781801542?auto=format,compress&crop=faces&dpr=2&fit=crop&h=400&w=400",
+     "price": "$220",
+     "kind": "product",
+     "id": "dc3bf89b212ba747",
+     "first_seen": "2026-09-09T17:29:42.896574+00:00",
+     "is_new": true
+    },
+    {
      "title": "Sayanata Hatchet",
      "url": "https://www.bestmadeco.com/products/sayanata-hatchet",
      "source": "Best Made",
@@ -248,22 +261,6 @@
    "row_detail": false,
    "more": 0,
    "items": [
-    {
-     "title": "The guide to shirt style: Pockets, plackets, buttons",
-     "url": "https://www.permanentstyle.com/2026/09/the-guide-to-shirt-style-pockets-plackets-buttons.html",
-     "source": "Permanent Style",
-     "summary": "One of the best things about PS is you always know when an article is required, because readers keep asking about it. In the past few months several have asked shirt-commissioning\u2026",
-     "published": "2026-09-09T07:00:18+00:00",
-     "image": "https://www.permanentstyle.com/wp-content/uploads/2026/09/Casual-2.jpg",
-     "kind": "article",
-     "id": "c796a7d645e541df",
-     "first_seen": "2026-09-09T10:09:26.647429+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": false,
-     "score": 1
-    },
     {
      "title": "Enter to Win: Handmade Cordovan GATs From Crown Northampton",
      "url": "https://www.menswearmusings.com/enter-to-win-handmade-cordovan-gats-from-crown-northampton/",
@@ -311,9 +308,27 @@
      "also_in": [],
      "boosted": false,
      "score": 1
+    },
+    {
+     "title": "The NFL Preview",
+     "url": "https://www.acl.news/p/the-nfl-preview",
+     "source": "A Continuous Lean",
+     "summary": "The Gridiron Game: Central Division #218",
+     "published": "2026-09-07T12:04:19+00:00",
+     "image": "https://substack-video.s3.amazonaws.com/video_upload/post/214341985/781e700c-a010-47d8-b8a9-77ed8080a28f/transcoded-1788751689.png",
+     "kind": "article",
+     "id": "4cd7643b082c8d92",
+     "first_seen": "2026-09-07T12:10:56.371142+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": false,
+     "score": 1
     }
    ]
   }
  ],
- "errors": []
+ "errors": [
+  "Permanent Style: RuntimeError \u2014 https://www.permanentstyle.com/feed \u2192 HTTP 415"
+ ]
 }
