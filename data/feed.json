@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-09T14:50:10.305613+00:00",
+ "generated_at": "2026-09-09T15:07:58.395860+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -87,6 +87,22 @@
      "score": 5
     },
     {
+     "title": "Trump\u2019s Super PAC Starts to Unload Its War Chest, With New Group Booking $47 Million",
+     "url": "https://www.nytimes.com/2026/09/09/us/politics/trump-midterms-maga-inc-spending.html",
+     "source": "New York Times",
+     "summary": "A recently created Republican group tied to the president\u2019s super PAC is pumping cash into half a dozen key midterm races, with the largest amounts going toward Senate contests in\u2026",
+     "published": "2026-09-09T14:52:10+00:00",
+     "image": "https://static01.nyt.com/images/2026/09/08/multimedia/08pol-trump-gop-money-lhkm/08pol-trump-gop-money-lhkm-mediumSquareAt3X-v2.jpg",
+     "kind": "article",
+     "id": "682e4a878315d348",
+     "first_seen": "2026-09-09T11:30:52.012875+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
      "title": "Iran Signals Readiness to Escalate War With U.S. Amid Rising Economic Pressure",
      "url": "https://www.nytimes.com/2026/09/09/world/middleeast/iran-war-us-aggression-hormuz.html",
      "source": "New York Times",
@@ -112,22 +128,6 @@
      "kind": "article",
      "id": "c48ed8fe85e0b09b",
      "first_seen": "2026-09-09T11:30:52.012875+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "Anthropic insiders warn AI could kill all humans",
-     "url": "https://www.axios.com/2026/09/09/anthropic-insiders-warn-ai-could-kill-all-humans",
-     "source": "Axios",
-     "summary": "Three Anthropic researchers went public last night with chilling concerns about out-of-control AI, warning it could destroy humans this decade.Anthropic AI researcher Jacob Coxon \u2026",
-     "published": "2026-09-09T10:04:58+00:00",
-     "image": "https://images.axios.com/zdp1M6qVFo87sjBfKAQ9U65M8Rw=/0x0:1920x1080/1366x768/2026/09/09/1788946974516.jpg",
-     "kind": "article",
-     "id": "fdd25b5e306ada06",
-     "first_seen": "2026-09-09T10:09:26.647429+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
@@ -224,22 +224,6 @@
    "more": 0,
    "items": [
     {
-     "title": "The guide to shirt style: Pockets, plackets, buttons",
-     "url": "https://www.permanentstyle.com/2026/09/the-guide-to-shirt-style-pockets-plackets-buttons.html",
-     "source": "Permanent Style",
-     "summary": "One of the best things about PS is you always know when an article is required, because readers keep asking about it. In the past few months several have asked shirt-commissioning\u2026",
-     "published": "2026-09-09T07:00:18+00:00",
-     "image": "https://www.permanentstyle.com/wp-content/uploads/2026/09/Casual-2.jpg",
-     "kind": "article",
-     "id": "c796a7d645e541df",
-     "first_seen": "2026-09-09T10:09:26.647429+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": false,
-     "score": 1
-    },
-    {
      "title": "Enter to Win: Handmade Cordovan GATs From Crown Northampton",
      "url": "https://www.menswearmusings.com/enter-to-win-handmade-cordovan-gats-from-crown-northampton/",
      "source": "Menswear Musings",
@@ -286,9 +270,27 @@
      "also_in": [],
      "boosted": false,
      "score": 1
+    },
+    {
+     "title": "The NFL Preview",
+     "url": "https://www.acl.news/p/the-nfl-preview",
+     "source": "A Continuous Lean",
+     "summary": "The Gridiron Game: Central Division #218",
+     "published": "2026-09-07T12:04:19+00:00",
+     "image": "https://substack-video.s3.amazonaws.com/video_upload/post/214341985/781e700c-a010-47d8-b8a9-77ed8080a28f/transcoded-1788751689.png",
+     "kind": "article",
+     "id": "4cd7643b082c8d92",
+     "first_seen": "2026-09-07T12:10:56.371142+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": false,
+     "score": 1
     }
    ]
   }
  ],
- "errors": []
+ "errors": [
+  "Permanent Style: RuntimeError \u2014 https://www.permanentstyle.com/feed \u2192 HTTP 415"
+ ]
 }
