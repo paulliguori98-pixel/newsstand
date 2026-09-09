@@ -2572,5 +2572,23 @@
   "price": "$138",
   "published": "2026-07-10T20:21:49+00:00",
   "first_seen": "2026-09-08T21:46:20.466999+00:00"
+ },
+ "230580a6800c3299": {
+  "title": "Sayanata Hatchet",
+  "url": "https://www.bestmadeco.com/products/sayanata-hatchet",
+  "source": "Best Made",
+  "image": "https://cdn.shopify.com/s/files/1/0674/2985/9558/files/JPN-HATCHETS-5626.jpg?v=1788963088",
+  "price": "$138",
+  "published": "2026-09-09T11:53:36-04:00",
+  "first_seen": "2026-09-09T16:09:00.467243+00:00"
+ },
+ "a4f9d8b5ebdea928": {
+  "title": "Azuma Hatchet",
+  "url": "https://www.bestmadeco.com/products/azuma-hatchet",
+  "source": "Best Made",
+  "image": "https://cdn.shopify.com/s/files/1/0674/2985/9558/files/JPN-HATCHETS-5627_copy.jpg?v=1788963015",
+  "price": "$138",
+  "published": "2026-09-09T11:53:25-04:00",
+  "first_seen": "2026-09-09T16:09:00.467243+00:00"
  }
 }

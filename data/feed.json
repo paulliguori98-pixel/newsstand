@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-09T15:49:37.552354+00:00",
+ "generated_at": "2026-09-09T16:09:00.467243+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -11,11 +11,11 @@
    "items": [
     {
      "title": "Mostly Cloudy",
-     "phrase": "Rain is near certain between 2pm and 3am.",
+     "phrase": "Rain is near certain between 2pm and 4am.",
      "detail": "It reaches 78\u00b0 today and falls to 67\u00b0 overnight. The sun is up from 6:29 until 7:16.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 67,
+     "temp": 69,
      "high": 78,
      "low": 67,
      "sunrise": "6:29",
@@ -69,22 +69,36 @@
    "more": 0,
    "items": [
     {
-     "title": "Canada\u2019s Tariffs Take Effect",
-     "url": "https://www.wsj.com/finance/stocks/canadas-tariffs-take-effect-c3d61304?mod=rss_markets_main",
-     "source": "WSJ",
-     "summary": "Plus, oil rises after Houthis strike energy infrastructure, and stocks fall.",
-     "published": "2026-09-08T20:31:00+00:00",
-     "image": "https://images.wsj.net/im-73612510",
+     "title": "Two die at Moldovan border as Russia-Ukraine drone war rages",
+     "url": "https://www.bbc.co.uk/news/articles/cvgyvpxe3yjo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "summary": "Three deaths are reported in Ukraine and four in Russia as both sides launch new drone strikes.",
+     "published": "2026-09-09T16:01:54+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd22/live/97c3c920-ac39-11f1-b483-f5be285e6b7e.jpg",
      "kind": "article",
-     "id": "7e989c91920ff38c",
-     "first_seen": "2026-09-08T20:47:21.917579+00:00",
+     "id": "54e80567fdca5b25",
+     "first_seen": "2026-09-09T11:47:45.505537+00:00",
      "is_new": true,
-     "corroboration": 2,
-     "also_in": [
-      "Guardian"
-     ],
+     "corroboration": 1,
+     "also_in": [],
      "boosted": true,
-     "score": 5
+     "score": 4
+    },
+    {
+     "title": "California, an Environmental Bastion, Warms to Nuclear Energy",
+     "url": "https://www.nytimes.com/2026/09/09/business/energy-environment/california-diablo-canyon-nuclear-energy.html",
+     "source": "New York Times",
+     "summary": "The state is considering extending the life of its last nuclear power plant, Diablo Canyon, and allowing construction of new reactors to help meet its clean energy goals.",
+     "published": "2026-09-09T16:01:47+00:00",
+     "image": "https://static01.nyt.com/images/2026/08/31/multimedia/00biz-diablo-canyon-blgq/00biz-diablo-canyon-blgq-mediumSquareAt3X.jpg",
+     "kind": "article",
+     "id": "7045efe5daac6698",
+     "first_seen": "2026-09-09T14:50:10.305613+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
     },
     {
      "title": "Saudi Arabia Runs Out of Easy Routes for Oil to Bypass Iran War",
@@ -112,22 +126,6 @@
      "kind": "article",
      "id": "682e4a878315d348",
      "first_seen": "2026-09-09T11:30:52.012875+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "Iran Signals Readiness to Escalate War With U.S. Amid Rising Economic Pressure",
-     "url": "https://www.nytimes.com/2026/09/09/world/middleeast/iran-war-us-aggression-hormuz.html",
-     "source": "New York Times",
-     "summary": "The Iranian government is taking an increasingly aggressive approach as it confronts a growing economic threat and worries that its grip on the Strait of Hormuz is slipping, analy\u2026",
-     "published": "2026-09-09T12:04:46+00:00",
-     "image": "https://static01.nyt.com/images/2026/09/08/multimedia/08int-iran-assess-wmjt/08int-iran-assess-wmjt-mediumSquareAt3X.jpg",
-     "kind": "article",
-     "id": "20dfdce420c4008b",
-     "first_seen": "2026-09-09T10:09:26.647429+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
@@ -213,7 +211,34 @@
    "lead_image": false,
    "row_detail": false,
    "more": 0,
-   "items": []
+   "items": [
+    {
+     "title": "Sayanata Hatchet",
+     "url": "https://www.bestmadeco.com/products/sayanata-hatchet",
+     "source": "Best Made",
+     "summary": "Axes / Knives",
+     "published": "2026-09-09T11:53:36-04:00",
+     "image": "https://cdn.shopify.com/s/files/1/0674/2985/9558/files/JPN-HATCHETS-5626.jpg?v=1788963088",
+     "price": "$138",
+     "kind": "product",
+     "id": "230580a6800c3299",
+     "first_seen": "2026-09-09T16:09:00.467243+00:00",
+     "is_new": true
+    },
+    {
+     "title": "Azuma Hatchet",
+     "url": "https://www.bestmadeco.com/products/azuma-hatchet",
+     "source": "Best Made",
+     "summary": "Axes / Knives",
+     "published": "2026-09-09T11:53:25-04:00",
+     "image": "https://cdn.shopify.com/s/files/1/0674/2985/9558/files/JPN-HATCHETS-5627_copy.jpg?v=1788963015",
+     "price": "$138",
+     "kind": "product",
+     "id": "a4f9d8b5ebdea928",
+     "first_seen": "2026-09-09T16:09:00.467243+00:00",
+     "is_new": true
+    }
+   ]
   },
   {
    "id": "dispatches",
