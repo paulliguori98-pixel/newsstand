@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-09T20:30:28.973997+00:00",
+ "generated_at": "2026-09-09T20:47:00.847981+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -87,6 +87,22 @@
      "score": 5
     },
     {
+     "title": "Trump\u2019s Midterm Pitch Clouded by Iran War and Canada Tariffs",
+     "url": "https://www.nytimes.com/2026/09/09/business/canada-iran-war-trump-midterms.html",
+     "source": "New York Times",
+     "summary": "A worsening trade war and a spike in oil prices could create new economic risks as the president prepares to rally Republicans for the midterms.",
+     "published": "2026-09-09T20:29:49+00:00",
+     "image": "https://static01.nyt.com/images/2026/09/09/multimedia/09DC-TARIFF-DEVELS-2-lwkb/09DC-TARIFF-DEVELS-2-lwkb-mediumSquareAt3X.jpg",
+     "kind": "article",
+     "id": "ecfa1d6e089acbc5",
+     "first_seen": "2026-09-09T17:46:23.000175+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
      "title": "Two die at Moldovan border as Russia-Ukraine drone war rages",
      "url": "https://www.bbc.co.uk/news/articles/cvgyvpxe3yjo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
@@ -96,22 +112,6 @@
      "kind": "article",
      "id": "54e80567fdca5b25",
      "first_seen": "2026-09-09T11:47:45.505537+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "Trump\u2019s Midterm Pitch Clouded by Iran War and Canada Tariffs",
-     "url": "https://www.nytimes.com/2026/09/09/business/canada-iran-war-trump-midterms.html",
-     "source": "New York Times",
-     "summary": "A worsening trade war and a spike in oil prices could create new economic risks as the president prepares to rally Republicans for the midterms.",
-     "published": "2026-09-09T20:27:46+00:00",
-     "image": "https://static01.nyt.com/images/2026/09/09/multimedia/09DC-TARIFF-DEVELS-2-lwkb/09DC-TARIFF-DEVELS-2-lwkb-mediumSquareAt3X.jpg",
-     "kind": "article",
-     "id": "ecfa1d6e089acbc5",
-     "first_seen": "2026-09-09T17:46:23.000175+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
