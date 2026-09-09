@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-09T15:07:58.395860+00:00",
+ "generated_at": "2026-09-09T15:31:46.633746+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -11,11 +11,11 @@
    "items": [
     {
      "title": "Mostly Cloudy",
-     "phrase": "Rain is near certain between 2pm and 3am.",
+     "phrase": "Rain is near certain between 2pm and 4am.",
      "detail": "It reaches 78\u00b0 today and falls to 67\u00b0 overnight. The sun is up from 6:29 until 7:16.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 67,
+     "temp": 69,
      "high": 78,
      "low": 67,
      "sunrise": "6:29",
@@ -145,15 +145,15 @@
    "more": 0,
    "items": [
     {
-     "title": "Sick of Wayland vs. Xorg? How about GEM?",
-     "url": "https://hackaday.com/2026/09/09/sick-of-wayland-vs-xorg-how-about-gem/",
+     "title": "It\u2019s GNU Radio Companion, But in the Browser",
+     "url": "https://hackaday.com/2026/09/09/its-gnu-radio-companion-but-in-the-browser/",
      "source": "Hackaday",
-     "summary": "Between lawsuits from Apple, and Microsoft being Microsoft, Digital Research\u2019s GEM desktop for DOS never really had a chance. It did have another life on Atari home computers, but\u2026",
-     "published": "2026-09-09T08:00:51+00:00",
-     "image": "https://hackaday.com/wp-content/uploads/2026/09/gem_desktop_linux_169.png",
+     "summary": "The progression of the web browser from a tool for simple static information browsing into a do-everything computing environment has been inexorable, with package after package ma\u2026",
+     "published": "2026-09-09T15:30:09+00:00",
+     "image": "https://hackaday.com/wp-content/uploads/2026/09/gnu-radio-web-featured.jpg",
      "kind": "article",
-     "id": "49b839e5aa5091fb",
-     "first_seen": "2026-09-09T10:09:26.647429+00:00",
+     "id": "087bab3b78fad2c4",
+     "first_seen": "2026-09-09T15:31:46.633746+00:00",
      "is_new": true
     },
     {
@@ -224,6 +224,22 @@
    "more": 0,
    "items": [
     {
+     "title": "The guide to shirt style: Pockets, plackets, buttons",
+     "url": "https://www.permanentstyle.com/2026/09/the-guide-to-shirt-style-pockets-plackets-buttons.html",
+     "source": "Permanent Style",
+     "summary": "One of the best things about PS is you always know when an article is required, because readers keep asking about it. In the past few months several have asked shirt-commissioning\u2026",
+     "published": "2026-09-09T07:00:18+00:00",
+     "image": "https://www.permanentstyle.com/wp-content/uploads/2026/09/Casual-2.jpg",
+     "kind": "article",
+     "id": "c796a7d645e541df",
+     "first_seen": "2026-09-09T10:09:26.647429+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": false,
+     "score": 1
+    },
+    {
      "title": "Enter to Win: Handmade Cordovan GATs From Crown Northampton",
      "url": "https://www.menswearmusings.com/enter-to-win-handmade-cordovan-gats-from-crown-northampton/",
      "source": "Menswear Musings",
@@ -270,27 +286,9 @@
      "also_in": [],
      "boosted": false,
      "score": 1
-    },
-    {
-     "title": "The NFL Preview",
-     "url": "https://www.acl.news/p/the-nfl-preview",
-     "source": "A Continuous Lean",
-     "summary": "The Gridiron Game: Central Division #218",
-     "published": "2026-09-07T12:04:19+00:00",
-     "image": "https://substack-video.s3.amazonaws.com/video_upload/post/214341985/781e700c-a010-47d8-b8a9-77ed8080a28f/transcoded-1788751689.png",
-     "kind": "article",
-     "id": "4cd7643b082c8d92",
-     "first_seen": "2026-09-07T12:10:56.371142+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": false,
-     "score": 1
     }
    ]
   }
  ],
- "errors": [
-  "Permanent Style: RuntimeError \u2014 https://www.permanentstyle.com/feed \u2192 HTTP 415"
- ]
+ "errors": []
 }
