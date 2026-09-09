@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-09T22:08:14.647623+00:00",
+ "generated_at": "2026-09-09T22:29:03.089625+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -87,22 +87,6 @@
      "score": 5
     },
     {
-     "title": "Australia politics live: Malinauskas warns Albanese not to follow One Nation down rabbit hole of migration cuts",
-     "url": "https://www.theguardian.com/australia-news/live/2026/sep/10/anthony-albanese-labor-uk-west-bank-trade-ban-kevin-rudd-diplomacy-one-nation-pauline-hanson-liberal-party-angus-taylor-ntwnfb",
-     "source": "Guardian",
-     "summary": "Follow the day\u2019s news live\u2018We need to explain Australia doesn\u2019t have a migration crisis\u2019: MalinauskasPeter Malinaukas says he understands the concerns of Australians worried about\u2026",
-     "published": "2026-09-09T21:34:29+00:00",
-     "image": "https://i.guim.co.uk/img/media/001348114b5eb8a41a03477a83cc0e6bfcc2f615/583_567_5397_4320/master/5397.jpg?width=140&quality=85&auto=format&fit=max&s=988b29c12eff101dd39935c266ed8390",
-     "kind": "article",
-     "id": "794d151161e56338",
-     "first_seen": "2026-09-09T21:07:24.636046+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
      "title": "Spanish intelligence warned of Ceuta mass crossing plans before surge",
      "url": "https://www.bbc.co.uk/news/articles/ced7vj2gv82o?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
@@ -128,6 +112,22 @@
      "kind": "article",
      "id": "ff7a72aa8238ef0b",
      "first_seen": "2026-09-09T20:30:28.973997+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
+     "title": "Yemen Tilts Toward Full-Scale War as Saudi-Houthi Clashes Escalate",
+     "url": "https://www.nytimes.com/2026/09/09/world/middleeast/saudi-yemen-strilkes.html",
+     "source": "New York Times",
+     "summary": "With its oil-export routes once again under threat, Saudi Arabia is stepping up its military campaign against an old antagonist.",
+     "published": "2026-09-09T21:09:08+00:00",
+     "image": "https://static01.nyt.com/images/2026/09/09/multimedia/09int-yemen-1-zpjm/09int-yemen-1-zpjm-mediumSquareAt3X.jpg",
+     "kind": "article",
+     "id": "75b55c5004488fec",
+     "first_seen": "2026-09-09T19:28:31.091138+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
@@ -193,16 +193,16 @@
      "is_new": false
     },
     {
-     "title": "CircuitPython Watchdog Module",
-     "url": "https://learn.adafruit.com/circuitpython-watchdog-module",
+     "title": "Adafruit TMF8801 Time of Flight Distance Sensor",
+     "url": "https://learn.adafruit.com/adafruit-tmf8801-time-of-flight-distance-sensor",
      "source": "Adafruit",
-     "summary": "The watchdog's got your back. It will reset your microcontroller if it gets locked up.The CircuitPython watchdog module provides access to the low level watchdog timer peripheral \u2026",
-     "published": "2026-09-01T15:16:21+00:00",
-     "image": "https://cdn-learn.adafruit.com/guides/images/000/004/602/medium500/guide_thumb.jpg?1788461759",
+     "summary": "Up to 2.5 meters of distance sensingThe Adafruit TMF8801 Time of Flight Sensor is a great Time of Flight distance sensor from ams Osram in the TMF series of chips. The TMF8801 in \u2026",
+     "published": "2026-09-03T13:08:28+00:00",
+     "image": "https://cdn-learn.adafruit.com/guides/images/000/004/610/medium500/6522-05.jpg?1788441095",
      "kind": "article",
-     "id": "07e077582da6e434",
-     "first_seen": "2026-09-04T16:08:40.100622+00:00",
-     "is_new": false
+     "id": "346386148a052437",
+     "first_seen": "2026-09-09T22:29:03.089625+00:00",
+     "is_new": true
     }
    ]
   },
@@ -212,8 +212,21 @@
    "kind": "goods",
    "lead_image": false,
    "row_detail": false,
-   "more": 0,
+   "more": 1,
    "items": [
+    {
+     "title": "Tracksmith Eliot Ryder",
+     "url": "https://www.tracksmith.com/products/m-tracksmith-eliot-ryder?sku=FT1005070NAW",
+     "source": "Tracksmith",
+     "summary": "",
+     "published": null,
+     "image": "https://cdn.shopify.com/s/files/1/1594/4353/files/Summer26-Eliot-Ryder-Navy-01.png?v=1781801542?auto=format,compress&crop=faces&dpr=2&fit=crop&h=400&w=400",
+     "price": "$220",
+     "kind": "product",
+     "id": "dc3bf89b212ba747",
+     "first_seen": "2026-09-09T17:29:42.896574+00:00",
+     "is_new": true
+    },
     {
      "title": "Sayanata Hatchet",
      "url": "https://www.bestmadeco.com/products/sayanata-hatchet",
@@ -251,18 +264,6 @@
      "id": "a4f9d8b5ebdea928",
      "first_seen": "2026-09-09T16:09:00.467243+00:00",
      "is_new": true
-    },
-    {
-     "title": "Cedar Houndstooth Pacific Twill Flannel One Pocket Shirt",
-     "url": "https://www.buckmason.com/products/cedar-houndstooth-pacific-twill-flannel-one-pocket-shirt",
-     "source": "Buck Mason",
-     "image": "https://cdn.shopify.com/s/files/1/0123/5065/2473/files/BM13366.1769_PACIFICTWILLFLANNELBDSHIRTCEDARHOUNDSTOOTH_1.jpg?v=1788975669",
-     "price": "$158",
-     "published": "2026-07-10T20:21:51+00:00",
-     "kind": "product",
-     "id": "68de5a88dcfb0a76",
-     "first_seen": "2026-09-09T18:10:41.055023+00:00",
-     "is_new": true
     }
    ]
   },
@@ -274,22 +275,6 @@
    "row_detail": false,
    "more": 0,
    "items": [
-    {
-     "title": "The guide to shirt style: Pockets, plackets, buttons",
-     "url": "https://www.permanentstyle.com/2026/09/the-guide-to-shirt-style-pockets-plackets-buttons.html",
-     "source": "Permanent Style",
-     "summary": "One of the best things about PS is you always know when an article is required, because readers keep asking about it. In the past few months several have asked shirt-commissioning\u2026",
-     "published": "2026-09-09T07:00:18+00:00",
-     "image": "https://www.permanentstyle.com/wp-content/uploads/2026/09/Casual-2.jpg",
-     "kind": "article",
-     "id": "c796a7d645e541df",
-     "first_seen": "2026-09-09T10:09:26.647429+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": false,
-     "score": 1
-    },
     {
      "title": "Enter to Win: Handmade Cordovan GATs From Crown Northampton",
      "url": "https://www.menswearmusings.com/enter-to-win-handmade-cordovan-gats-from-crown-northampton/",
@@ -337,9 +322,27 @@
      "also_in": [],
      "boosted": false,
      "score": 1
+    },
+    {
+     "title": "The NFL Preview",
+     "url": "https://www.acl.news/p/the-nfl-preview",
+     "source": "A Continuous Lean",
+     "summary": "The Gridiron Game: Central Division #218",
+     "published": "2026-09-07T12:04:19+00:00",
+     "image": "https://substack-video.s3.amazonaws.com/video_upload/post/214341985/781e700c-a010-47d8-b8a9-77ed8080a28f/transcoded-1788751689.png",
+     "kind": "article",
+     "id": "4cd7643b082c8d92",
+     "first_seen": "2026-09-07T12:10:56.371142+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": false,
+     "score": 1
     }
    ]
   }
  ],
- "errors": []
+ "errors": [
+  "Permanent Style: RuntimeError \u2014 https://www.permanentstyle.com/feed \u2192 HTTP 415"
+ ]
 }
