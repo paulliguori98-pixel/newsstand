@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-09T19:07:44.090068+00:00",
+ "generated_at": "2026-09-09T19:28:31.091138+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -105,6 +105,22 @@
      "score": 5
     },
     {
+     "title": "Yemen Tilts Toward Full-Scale War as Saudi-Houthi Clashes Escalate",
+     "url": "https://www.nytimes.com/2026/09/09/world/middleeast/saudi-yemen-strilkes.html",
+     "source": "New York Times",
+     "summary": "With its oil-export routes once again under threat, Saudi Arabia is stepping up its military campaign against an old antagonist.",
+     "published": "2026-09-09T19:18:54+00:00",
+     "image": "https://static01.nyt.com/images/2026/09/09/multimedia/09int-yemen-1-zpjm/09int-yemen-1-zpjm-mediumSquareAt3X.jpg",
+     "kind": "article",
+     "id": "75b55c5004488fec",
+     "first_seen": "2026-09-09T19:28:31.091138+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
      "title": "Two die at Moldovan border as Russia-Ukraine drone war rages",
      "url": "https://www.bbc.co.uk/news/articles/cvgyvpxe3yjo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
@@ -114,22 +130,6 @@
      "kind": "article",
      "id": "54e80567fdca5b25",
      "first_seen": "2026-09-09T11:47:45.505537+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "Anthropic Researchers Raise Alarm Over A.I. Acceleration, Warning of Threat to Humanity",
-     "url": "https://www.nytimes.com/2026/09/09/technology/anthropic-researchers-raise-alarm.html",
-     "source": "New York Times",
-     "summary": "Their warnings echo concerns that other artificial intelligence experts have voiced in recent months, as calls increase for a slowdown in the pace of development.",
-     "published": "2026-09-09T18:10:42+00:00",
-     "image": "https://static01.nyt.com/images/2026/09/09/multimedia/09biz-anthropic-1-qcft/09biz-anthropic-1-qcft-mediumSquareAt3X.jpg",
-     "kind": "article",
-     "id": "97ac9a9ef264adb1",
-     "first_seen": "2026-09-09T18:10:41.055023+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
@@ -265,22 +265,6 @@
    "more": 0,
    "items": [
     {
-     "title": "The guide to shirt style: Pockets, plackets, buttons",
-     "url": "https://www.permanentstyle.com/2026/09/the-guide-to-shirt-style-pockets-plackets-buttons.html",
-     "source": "Permanent Style",
-     "summary": "One of the best things about PS is you always know when an article is required, because readers keep asking about it. In the past few months several have asked shirt-commissioning\u2026",
-     "published": "2026-09-09T07:00:18+00:00",
-     "image": "https://www.permanentstyle.com/wp-content/uploads/2026/09/Casual-2.jpg",
-     "kind": "article",
-     "id": "c796a7d645e541df",
-     "first_seen": "2026-09-09T10:09:26.647429+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": false,
-     "score": 1
-    },
-    {
      "title": "Enter to Win: Handmade Cordovan GATs From Crown Northampton",
      "url": "https://www.menswearmusings.com/enter-to-win-handmade-cordovan-gats-from-crown-northampton/",
      "source": "Menswear Musings",
@@ -327,9 +311,27 @@
      "also_in": [],
      "boosted": false,
      "score": 1
+    },
+    {
+     "title": "The NFL Preview",
+     "url": "https://www.acl.news/p/the-nfl-preview",
+     "source": "A Continuous Lean",
+     "summary": "The Gridiron Game: Central Division #218",
+     "published": "2026-09-07T12:04:19+00:00",
+     "image": "https://substack-video.s3.amazonaws.com/video_upload/post/214341985/781e700c-a010-47d8-b8a9-77ed8080a28f/transcoded-1788751689.png",
+     "kind": "article",
+     "id": "4cd7643b082c8d92",
+     "first_seen": "2026-09-07T12:10:56.371142+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": false,
+     "score": 1
     }
    ]
   }
  ],
- "errors": []
+ "errors": [
+  "Permanent Style: RuntimeError \u2014 https://www.permanentstyle.com/feed \u2192 HTTP 415"
+ ]
 }
