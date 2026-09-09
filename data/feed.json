@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-09T18:10:41.055023+00:00",
+ "generated_at": "2026-09-09T18:34:23.990392+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,12 +10,12 @@
    "more": 0,
    "items": [
     {
-     "title": "Chance Rain Showers",
+     "title": "Slight Chance Rain Showers",
      "phrase": "Rain is near certain between 2pm and 4am.",
      "detail": "It reaches 78\u00b0 today and falls to 67\u00b0 overnight. The sun is up from 6:29 until 7:16.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 75,
+     "temp": 74,
      "high": 78,
      "low": 67,
      "sunrise": "6:29",
@@ -73,7 +73,7 @@
      "url": "https://www.nytimes.com/2026/09/09/business/canada-iran-war-trump-midterms.html",
      "source": "New York Times",
      "summary": "A worsening trade war and a spike in oil prices could create new economic risks as the president prepares to rally Republicans for the midterms.",
-     "published": "2026-09-09T17:59:12+00:00",
+     "published": "2026-09-09T18:26:28+00:00",
      "image": "https://static01.nyt.com/images/2026/09/09/multimedia/09DC-TARIFF-DEVELS-2-lwkb/09DC-TARIFF-DEVELS-2-lwkb-mediumSquareAt3X.jpg",
      "kind": "article",
      "id": "ecfa1d6e089acbc5",
@@ -87,6 +87,40 @@
      "score": 5
     },
     {
+     "title": "US bans Canadian dairy, alcohol and motorcycles as trade war escalates",
+     "url": "https://www.theguardian.com/us-news/2026/sep/08/trump-canada-trade-war-dairy-alcohol",
+     "source": "Guardian",
+     "summary": "Trump responds after Canada imposes $20bn in retaliatory tariffs and Canadian PM vows to diversify trade abroadThe US is banning dairy products, most alcoholic beverages and motor\u2026",
+     "published": "2026-09-08T23:59:37+00:00",
+     "image": "https://i.guim.co.uk/img/media/b47b4b64332e5886d782ebf3ea9f5cb14544c5a4/87_0_2999_2400/master/2999.jpg?width=140&quality=85&auto=format&fit=max&s=e27dcfd105ed3ebabcbb9581e1593eb3",
+     "kind": "article",
+     "id": "8833bab144dae574",
+     "first_seen": "2026-09-09T18:34:23.990392+00:00",
+     "is_new": true,
+     "corroboration": 2,
+     "also_in": [
+      "Axios"
+     ],
+     "boosted": true,
+     "score": 5
+    },
+    {
+     "title": "Anthropic Researchers Raise Alarm Over A.I. Acceleration, Warning of Threat to Humanity",
+     "url": "https://www.nytimes.com/2026/09/09/technology/anthropic-researchers-raise-alarm.html",
+     "source": "New York Times",
+     "summary": "Their warnings echo concerns that other artificial intelligence experts have voiced in recent months, as calls increase for a slowdown in the pace of development.",
+     "published": "2026-09-09T18:10:42+00:00",
+     "image": "https://static01.nyt.com/images/2026/09/09/multimedia/09biz-anthropic-1-qcft/09biz-anthropic-1-qcft-mediumSquareAt3X.jpg",
+     "kind": "article",
+     "id": "97ac9a9ef264adb1",
+     "first_seen": "2026-09-09T18:10:41.055023+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
      "title": "Saudi Oil Exports Plunge as Spread of War Shuts Off Shipping Routes",
      "url": "https://www.nytimes.com/2026/09/09/business/saudi-arabia-houthis-red-sea-oil-shipping.html",
      "source": "New York Times",
@@ -96,38 +130,6 @@
      "kind": "article",
      "id": "e1ba157f94f87df9",
      "first_seen": "2026-09-09T15:49:37.552354+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "Trump\u2019s PAC Unloads War Chest, With $47 Million Headed to Key Midterm Races",
-     "url": "https://www.nytimes.com/2026/09/09/us/politics/trump-midterms-maga-inc-spending.html",
-     "source": "New York Times",
-     "summary": "A recently created Republican group tied to the president\u2019s super PAC is pumping cash into half a dozen key midterm races, with the largest amounts going toward Senate contests in\u2026",
-     "published": "2026-09-09T17:50:43+00:00",
-     "image": "https://static01.nyt.com/images/2026/09/08/multimedia/08pol-trump-gop-money-lhkm/08pol-trump-gop-money-lhkm-mediumSquareAt3X-v2.jpg",
-     "kind": "article",
-     "id": "682e4a878315d348",
-     "first_seen": "2026-09-09T11:30:52.012875+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "Special education head at Education Department abruptly resigns",
-     "url": "https://www.npr.org/2026/09/09/nx-s1-5962899/special-education-kelly-rogers-resigns",
-     "source": "NPR",
-     "summary": "The leader of the Education Department's special education office told employees she is resigning less than four months in the role and as the agency overall is morphing and shrin\u2026",
-     "published": "2026-09-09T17:48:56+00:00",
-     "image": null,
-     "kind": "article",
-     "id": "581a6fffc5c49a47",
-     "first_seen": "2026-09-09T18:10:41.055023+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
