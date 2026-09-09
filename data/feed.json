@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-09T22:45:50.661000+00:00",
+ "generated_at": "2026-09-09T23:07:29.273150+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -11,11 +11,11 @@
    "items": [
     {
      "title": "Showers And Thunderstorms Likely",
-     "phrase": "Rain is near certain between 6pm and 4am.",
+     "phrase": "Rain is near certain between 7pm and 4am.",
      "detail": "It reaches 80\u00b0 today and falls to 68\u00b0 overnight. The sun is up from 6:29 until 7:16.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 74,
+     "temp": 73,
      "high": 80,
      "low": 68,
      "sunrise": "6:29",
@@ -87,6 +87,22 @@
      "score": 5
     },
     {
+     "title": "Australia politics live: furious Lambie warns Hastie cartoon shows Hanson\u2019s \u2018true colours\u2019; \u2018no graver accusation\u2019 than traitor, Paterson says",
+     "url": "https://www.theguardian.com/australia-news/live/2026/sep/10/anthony-albanese-labor-uk-west-bank-trade-ban-kevin-rudd-diplomacy-one-nation-pauline-hanson-liberal-party-angus-taylor-ntwnfb",
+     "source": "Guardian",
+     "summary": "Follow the day\u2019s news liveLabor introducing new laws to crack down on illegal tobaccoLabor will introduce new laws to make it easier to prosecute criminals involved in the illicit\u2026",
+     "published": "2026-09-09T23:03:14+00:00",
+     "image": "https://i.guim.co.uk/img/media/860035954a0b9c0b36cc1940847a636d22b7ddc6/909_269_1870_1496/master/1870.jpg?width=140&quality=85&auto=format&fit=max&s=b31b2bad10ddcd557bd6a17c3628eced",
+     "kind": "article",
+     "id": "794d151161e56338",
+     "first_seen": "2026-09-09T21:07:24.636046+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
      "title": "Spanish intelligence warned of Ceuta mass crossing plans before surge",
      "url": "https://www.bbc.co.uk/news/articles/ced7vj2gv82o?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
@@ -112,22 +128,6 @@
      "kind": "article",
      "id": "ff7a72aa8238ef0b",
      "first_seen": "2026-09-09T20:30:28.973997+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "Yemen Tilts Toward Full-Scale War as Saudi-Houthi Clashes Escalate",
-     "url": "https://www.nytimes.com/2026/09/09/world/middleeast/saudi-yemen-strilkes.html",
-     "source": "New York Times",
-     "summary": "With its oil-export routes once again under threat, Saudi Arabia is stepping up its military campaign against an old antagonist.",
-     "published": "2026-09-09T21:09:08+00:00",
-     "image": "https://static01.nyt.com/images/2026/09/09/multimedia/09int-yemen-1-zpjm/09int-yemen-1-zpjm-mediumSquareAt3X.jpg",
-     "kind": "article",
-     "id": "75b55c5004488fec",
-     "first_seen": "2026-09-09T19:28:31.091138+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
