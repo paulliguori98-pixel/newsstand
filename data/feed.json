@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-09T16:32:13.367698+00:00",
+ "generated_at": "2026-09-09T16:49:17.460554+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,12 +10,12 @@
    "more": 0,
    "items": [
     {
-     "title": "Cloudy",
+     "title": "Mostly Cloudy",
      "phrase": "Rain is near certain between 2pm and 4am.",
      "detail": "It reaches 78\u00b0 today and falls to 67\u00b0 overnight. The sun is up from 6:29 until 7:16.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 71,
+     "temp": 69,
      "high": 78,
      "low": 67,
      "sunrise": "6:29",
@@ -73,7 +73,7 @@
      "url": "https://www.nytimes.com/2026/09/09/business/saudi-arabia-houthis-red-sea-oil-shipping.html",
      "source": "New York Times",
      "summary": "With few good options for safely shipping oil, Saudi Arabia\u2019s exports have plunged to a 13-year low.",
-     "published": "2026-09-09T16:16:03+00:00",
+     "published": "2026-09-09T16:42:10+00:00",
      "image": "https://static01.nyt.com/images/2026/09/09/multimedia/09biz-redsea-shipping-01-plgk/09biz-redsea-shipping-01-plgk-mediumSquareAt3X.jpg",
      "kind": "article",
      "id": "e1ba157f94f87df9",
@@ -101,22 +101,6 @@
      "score": 4
     },
     {
-     "title": "California, an Environmental Bastion, Warms to Nuclear Energy",
-     "url": "https://www.nytimes.com/2026/09/09/business/energy-environment/california-diablo-canyon-nuclear-energy.html",
-     "source": "New York Times",
-     "summary": "The state is considering extending the life of its last nuclear power plant, Diablo Canyon, and allowing construction of new reactors to help meet its clean energy goals.",
-     "published": "2026-09-09T16:01:47+00:00",
-     "image": "https://static01.nyt.com/images/2026/08/31/multimedia/00biz-diablo-canyon-blgq/00biz-diablo-canyon-blgq-mediumSquareAt3X.jpg",
-     "kind": "article",
-     "id": "7045efe5daac6698",
-     "first_seen": "2026-09-09T14:50:10.305613+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
      "title": "Trump\u2019s Super PAC Starts to Unload Its War Chest, With New Group Booking $47 Million",
      "url": "https://www.nytimes.com/2026/09/09/us/politics/trump-midterms-maga-inc-spending.html",
      "source": "New York Times",
@@ -126,6 +110,22 @@
      "kind": "article",
      "id": "682e4a878315d348",
      "first_seen": "2026-09-09T11:30:52.012875+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
+     "title": "Iran Signals Readiness to Escalate War With U.S. Amid Rising Economic Pressure",
+     "url": "https://www.nytimes.com/2026/09/09/world/middleeast/iran-war-us-aggression-hormuz.html",
+     "source": "New York Times",
+     "summary": "The Iranian government is taking an increasingly aggressive approach as it confronts a growing economic threat and worries that its grip on the Strait of Hormuz is slipping, analy\u2026",
+     "published": "2026-09-09T12:04:46+00:00",
+     "image": "https://static01.nyt.com/images/2026/09/08/multimedia/08int-iran-assess-wmjt/08int-iran-assess-wmjt-mediumSquareAt3X.jpg",
+     "kind": "article",
+     "id": "20dfdce420c4008b",
+     "first_seen": "2026-09-09T10:09:26.647429+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
