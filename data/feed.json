@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-09T17:29:42.896574+00:00",
+ "generated_at": "2026-09-09T17:46:23.000175+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -69,6 +69,24 @@
    "more": 0,
    "items": [
     {
+     "title": "Trump\u2019s Midterm Pitch Clouded by Iran War and Canada Tariffs",
+     "url": "https://www.nytimes.com/2026/09/09/business/canada-iran-war-trump-midterms.html",
+     "source": "New York Times",
+     "summary": "A worsening trade war and a spike in oil prices could create new economic risks as the president prepares to rally Republicans for the midterms.",
+     "published": "2026-09-09T17:23:21+00:00",
+     "image": "https://static01.nyt.com/images/2026/09/09/multimedia/09DC-TARIFF-DEVELS-2-lwkb/09DC-TARIFF-DEVELS-2-lwkb-mediumSquareAt3X.jpg",
+     "kind": "article",
+     "id": "ecfa1d6e089acbc5",
+     "first_seen": "2026-09-09T17:46:23.000175+00:00",
+     "is_new": true,
+     "corroboration": 2,
+     "also_in": [
+      "WSJ"
+     ],
+     "boosted": true,
+     "score": 5
+    },
+    {
      "title": "Saudi Oil Exports Plunge as Spread of War Shuts Off Shipping Routes",
      "url": "https://www.nytimes.com/2026/09/09/business/saudi-arabia-houthis-red-sea-oil-shipping.html",
      "source": "New York Times",
@@ -110,22 +128,6 @@
      "kind": "article",
      "id": "682e4a878315d348",
      "first_seen": "2026-09-09T11:30:52.012875+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "Iran Signals Readiness to Escalate War With U.S. Amid Rising Economic Pressure",
-     "url": "https://www.nytimes.com/2026/09/09/world/middleeast/iran-war-us-aggression-hormuz.html",
-     "source": "New York Times",
-     "summary": "The Iranian government is taking an increasingly aggressive approach as it confronts a growing economic threat and worries that its grip on the Strait of Hormuz is slipping, analy\u2026",
-     "published": "2026-09-09T12:04:46+00:00",
-     "image": "https://static01.nyt.com/images/2026/09/08/multimedia/08int-iran-assess-wmjt/08int-iran-assess-wmjt-mediumSquareAt3X.jpg",
-     "kind": "article",
-     "id": "20dfdce420c4008b",
-     "first_seen": "2026-09-09T10:09:26.647429+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
@@ -262,6 +264,22 @@
    "more": 0,
    "items": [
     {
+     "title": "The guide to shirt style: Pockets, plackets, buttons",
+     "url": "https://www.permanentstyle.com/2026/09/the-guide-to-shirt-style-pockets-plackets-buttons.html",
+     "source": "Permanent Style",
+     "summary": "One of the best things about PS is you always know when an article is required, because readers keep asking about it. In the past few months several have asked shirt-commissioning\u2026",
+     "published": "2026-09-09T07:00:18+00:00",
+     "image": "https://www.permanentstyle.com/wp-content/uploads/2026/09/Casual-2.jpg",
+     "kind": "article",
+     "id": "c796a7d645e541df",
+     "first_seen": "2026-09-09T10:09:26.647429+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": false,
+     "score": 1
+    },
+    {
      "title": "Enter to Win: Handmade Cordovan GATs From Crown Northampton",
      "url": "https://www.menswearmusings.com/enter-to-win-handmade-cordovan-gats-from-crown-northampton/",
      "source": "Menswear Musings",
@@ -308,27 +326,9 @@
      "also_in": [],
      "boosted": false,
      "score": 1
-    },
-    {
-     "title": "The NFL Preview",
-     "url": "https://www.acl.news/p/the-nfl-preview",
-     "source": "A Continuous Lean",
-     "summary": "The Gridiron Game: Central Division #218",
-     "published": "2026-09-07T12:04:19+00:00",
-     "image": "https://substack-video.s3.amazonaws.com/video_upload/post/214341985/781e700c-a010-47d8-b8a9-77ed8080a28f/transcoded-1788751689.png",
-     "kind": "article",
-     "id": "4cd7643b082c8d92",
-     "first_seen": "2026-09-07T12:10:56.371142+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": false,
-     "score": 1
     }
    ]
   }
  ],
- "errors": [
-  "Permanent Style: RuntimeError \u2014 https://www.permanentstyle.com/feed \u2192 HTTP 415"
- ]
+ "errors": []
 }
