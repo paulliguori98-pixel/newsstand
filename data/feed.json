@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-09T13:50:21.039936+00:00",
+ "generated_at": "2026-09-09T14:08:44.597418+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -11,11 +11,11 @@
    "items": [
     {
      "title": "Mostly Cloudy",
-     "phrase": "Rain is near certain between 2pm and 2am.",
+     "phrase": "Rain is near certain between 2pm and 3am.",
      "detail": "It reaches 78\u00b0 today and falls to 67\u00b0 overnight. The sun is up from 6:29 until 7:16.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 65,
+     "temp": 67,
      "high": 78,
      "low": 67,
      "sunrise": "6:29",
@@ -240,6 +240,22 @@
      "score": 1
     },
     {
+     "title": "Enter to Win: Handmade Cordovan GATs From Crown Northampton",
+     "url": "https://www.menswearmusings.com/enter-to-win-handmade-cordovan-gats-from-crown-northampton/",
+     "source": "Menswear Musings",
+     "summary": "Enter to win cordovan GATs from Crown Northampton + more. The post Enter to Win: Handmade Cordovan GATs From Crown Northampton first appeared on Menswear Musings.",
+     "published": "2026-09-09T02:17:02+00:00",
+     "image": "https://i0.wp.com/www.menswearmusings.com/wp-content/uploads/2026/09/SC-50-scaled.jpg?fit=768%2C512&amp;ssl=1",
+     "kind": "article",
+     "id": "b9b23cb42ecb734f",
+     "first_seen": "2026-09-09T10:09:26.647429+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": false,
+     "score": 1
+    },
+    {
      "title": "Get Your Kicks (and Loafers)!",
      "url": "https://www.putthison.com/get-your-kicks-and-loafers/",
      "source": "Put This On",
@@ -256,31 +272,15 @@
      "score": 1
     },
     {
-     "title": "The NFL Preview",
-     "url": "https://www.acl.news/p/the-nfl-preview",
-     "source": "A Continuous Lean",
-     "summary": "The Gridiron Game: Central Division #218",
-     "published": "2026-09-07T12:04:19+00:00",
-     "image": "https://substack-video.s3.amazonaws.com/video_upload/post/214341985/781e700c-a010-47d8-b8a9-77ed8080a28f/transcoded-1788751689.png",
+     "title": "What to Pack on a 3-Week Trip to Scotland and England in Early Autumn",
+     "url": "https://www.menswearmusings.com/what-to-pack-on-a-3-week-trip-to-scotland-and-england-in-early-autumn/",
+     "source": "Menswear Musings",
+     "summary": "A compact capsule wardrobe for the classic menswear dresser. The post What to Pack on a 3-Week Trip to Scotland and England in Early Autumn first appeared on Menswear Musings.",
+     "published": "2026-09-08T11:00:30+00:00",
+     "image": "https://i0.wp.com/www.menswearmusings.com/wp-content/uploads/2018/02/menswear-musings-what-to-pack-in-england-scotland.jpg?fit=768%2C512&amp;ssl=1",
      "kind": "article",
-     "id": "4cd7643b082c8d92",
-     "first_seen": "2026-09-07T12:10:56.371142+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": false,
-     "score": 1
-    },
-    {
-     "title": "Inside Track: August 30th \u2013 September 5th Edition",
-     "url": "https://www.putthison.com/inside-track-august-30th-september-5th-edition-2/",
-     "source": "Put This On",
-     "summary": "Here are our hand-selected favorites from eBay for this week, plus a heads-up on recommended sales. If you\u2019re a member... The post Inside Track: August 30th \u2013 September 5th Editio\u2026",
-     "published": "2026-09-06T04:52:04+00:00",
-     "image": null,
-     "kind": "article",
-     "id": "0140a3599c213924",
-     "first_seen": "2026-09-06T10:08:13.670139+00:00",
+     "id": "13a58306fd173f0d",
+     "first_seen": "2026-09-08T11:47:44.447744+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
@@ -290,7 +290,5 @@
    ]
   }
  ],
- "errors": [
-  "Menswear Musings: RuntimeError \u2014 https://www.menswearmusings.com/feed \u2192 ConnectionError"
- ]
+ "errors": []
 }
