@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-09T19:44:33.390993+00:00",
+ "generated_at": "2026-09-09T20:08:49.110379+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,8 +10,8 @@
    "more": 0,
    "items": [
     {
-     "title": "Chance Rain Showers",
-     "phrase": "Rain is near certain between 3pm and 4am.",
+     "title": "Rain Showers Likely",
+     "phrase": "Rain is near certain between 4pm and 4am.",
      "detail": "It reaches 78\u00b0 today and falls to 68\u00b0 overnight. The sun is up from 6:29 until 7:16.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
@@ -105,6 +105,22 @@
      "score": 5
     },
     {
+     "title": "Energy Department raises 2027 diesel price outlook by 33 cents amid Iran war",
+     "url": "https://www.axios.com/2026/09/09/energy-department-hikes-2027-diesel-price-outlook",
+     "source": "Axios",
+     "summary": "The Energy Department's statistics arm on Wednesday sharply raised its forecast for U.S. diesel prices next year as tight global supplies keep domestic inventories unusually low.W\u2026",
+     "published": "2026-09-09T19:36:37+00:00",
+     "image": "https://images.axios.com/Ryg0B_hPtKffdMin4dCstebYyyc=/0x146:8118x4712/1366x768/2026/09/09/1788974710186.jpeg",
+     "kind": "article",
+     "id": "4f8aa287ab177aa1",
+     "first_seen": "2026-09-09T20:08:49.110379+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
      "title": "Yemen Tilts Toward Full-Scale War as Saudi-Houthi Clashes Escalate",
      "url": "https://www.nytimes.com/2026/09/09/world/middleeast/saudi-yemen-strilkes.html",
      "source": "New York Times",
@@ -114,22 +130,6 @@
      "kind": "article",
      "id": "75b55c5004488fec",
      "first_seen": "2026-09-09T19:28:31.091138+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "Two die at Moldovan border as Russia-Ukraine drone war rages",
-     "url": "https://www.bbc.co.uk/news/articles/cvgyvpxe3yjo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "summary": "Five deaths are reported in Ukraine and four in Russia as both sides launch new drone strikes.",
-     "published": "2026-09-09T18:53:15+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd22/live/97c3c920-ac39-11f1-b483-f5be285e6b7e.jpg",
-     "kind": "article",
-     "id": "54e80567fdca5b25",
-     "first_seen": "2026-09-09T11:47:45.505537+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
