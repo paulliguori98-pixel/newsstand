@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-09T12:10:55.372617+00:00",
+ "generated_at": "2026-09-09T12:37:35.523966+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -11,11 +11,11 @@
    "items": [
     {
      "title": "Mostly Cloudy",
-     "phrase": "Rain is near certain between 2pm and 1am.",
+     "phrase": "Rain is near certain between 2pm and 12am.",
      "detail": "It reaches 78\u00b0 today and falls to 67\u00b0 overnight. The sun is up from 6:29 until 7:16.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 61,
+     "temp": 59,
      "high": 78,
      "low": 67,
      "sunrise": "6:29",
@@ -103,22 +103,6 @@
      "score": 4
     },
     {
-     "title": "\u2018Russia\u2019s frontline moving west,\u2019 Moldova\u2019s president warns after border checkpoint attack \u2013 Europe live",
-     "url": "https://www.theguardian.com/world/live/2026/sep/09/europe-ukraine-russia-zelenskyy-germany-merz-afd-norway-king-harald-v-latest-news-updates",
-     "source": "Guardian",
-     "summary": "Maia Sandu speaks out after two people are killed during a strike on the Starokozache crossing with UkraineBack to Oslo, the funeral procession for King Harald is about the begin,\u2026",
-     "published": "2026-09-09T11:50:22+00:00",
-     "image": "https://i.guim.co.uk/img/media/9b1d232236d435e26c29fba5b32820e9beeb2ba6/0_0_1350_1080/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=f71c285c137fc8a41591173d605b136b",
-     "kind": "article",
-     "id": "df768f00f7035a2b",
-     "first_seen": "2026-09-09T10:09:26.647429+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
      "title": "U.S. military destroys 5 Iranian oil tankers. And, the Smithsonian head resigns",
      "url": "https://www.npr.org/2026/09/09/g-s1-142496/up-first-newsletter-iran-us-uk-israel-palestine-lonnie-bunch-smithsonian",
      "source": "NPR",
@@ -128,6 +112,22 @@
      "kind": "article",
      "id": "c48ed8fe85e0b09b",
      "first_seen": "2026-09-09T11:30:52.012875+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
+     "title": "Anthropic insiders warn AI could kill all humans",
+     "url": "https://www.axios.com/2026/09/09/anthropic-insiders-warn-ai-could-kill-all-humans",
+     "source": "Axios",
+     "summary": "Three Anthropic researchers went public last night with chilling concerns about out-of-control AI, warning it could destroy humans this decade.Anthropic AI researcher Jacob Coxon \u2026",
+     "published": "2026-09-09T10:04:58+00:00",
+     "image": "https://images.axios.com/zdp1M6qVFo87sjBfKAQ9U65M8Rw=/0x0:1920x1080/1366x768/2026/09/09/1788946974516.jpg",
+     "kind": "article",
+     "id": "fdd25b5e306ada06",
+     "first_seen": "2026-09-09T10:09:26.647429+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
