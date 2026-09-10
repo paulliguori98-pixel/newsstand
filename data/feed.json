@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-10T10:48:18.992604+00:00",
+ "generated_at": "2026-09-10T11:08:31.679568+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -145,15 +145,15 @@
    "more": 0,
    "items": [
     {
-     "title": "If It\u2019s Electronic Paper, Why Not Print To It?",
-     "url": "https://hackaday.com/2026/09/10/if-its-electronic-paper-why-not-print-to-it/",
+     "title": "Open Source Acoustic Drone Detection",
+     "url": "https://hackaday.com/2026/09/10/open-source-acoustic-drone-detection/",
      "source": "Hackaday",
-     "summary": "E-ink is supposed to be the electronic version of dead-tree paper, but there\u2019s one enormous difference: how you get your images and text onto it. For paper, you print on \u2026read more",
-     "published": "2026-09-10T08:00:49+00:00",
-     "image": "https://hackaday.com/wp-content/uploads/2026/09/penguin-printer.CsBOkScT_2bj2ld.webp",
+     "summary": "Drones have become a potent military threat, particularly on the small scale. Nimble multi-rotor drones are fast, difficult to spot, and can cause plenty of harm if allowed to go \u2026",
+     "published": "2026-09-10T11:00:38+00:00",
+     "image": "https://hackaday.com/wp-content/uploads/2026/09/8874001788869712843-e1788947193344.jpg",
      "kind": "article",
-     "id": "418ae130778bff12",
-     "first_seen": "2026-09-10T10:08:43.278552+00:00",
+     "id": "5e28087385508843",
+     "first_seen": "2026-09-10T11:08:31.679568+00:00",
      "is_new": true
     },
     {
