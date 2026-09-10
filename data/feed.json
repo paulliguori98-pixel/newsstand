@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-10T22:45:26.241741+00:00",
+ "generated_at": "2026-09-10T23:07:00.090712+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,12 +10,12 @@
    "more": 0,
    "items": [
     {
-     "title": "Partly Cloudy",
-     "phrase": "Partly Cloudy all day.",
+     "title": "Mostly Cloudy",
+     "phrase": "Mostly Cloudy all day.",
      "detail": "It reaches 76\u00b0 today and falls to 53\u00b0 overnight. The sun is up from 6:30 until 7:15.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 75,
+     "temp": 70,
      "high": 76,
      "low": 53,
      "sunrise": "6:30",
@@ -73,7 +73,7 @@
      "url": "https://www.theguardian.com/australia-news/live/2026/sep/11/anthony-albanese-september-11-aged-care-labor-coalition-angus-taylor-one-nation-pauline-hanson-andrew-hastie-ntwnfb",
      "source": "Guardian",
      "summary": "Follow the day\u2019s news liveHastie says he accepts Joyce\u2019s explanation over One Nation video, Hanson now \u2018the only lying coward\u2019Andrew Hastie says Barnaby Joyce had reached out abou\u2026",
-     "published": "2026-09-10T22:37:09+00:00",
+     "published": "2026-09-10T22:42:28+00:00",
      "image": "https://i.guim.co.uk/img/media/439f8ad1222b10261acc7de4f1854a1afa142a8d/2363_640_3305_2646/master/3305.jpg?width=140&quality=85&auto=format&fit=max&s=169480cd08245e76082e8b0e0c58dd2f",
      "kind": "article",
      "id": "738befe9ec030f72",
@@ -143,15 +143,15 @@
    "more": 0,
    "items": [
     {
-     "title": "Little Droid Has Party Mode",
-     "url": "https://hackaday.com/2026/09/10/little-droid-has-party-mode/",
+     "title": "Creating a Custom Hinge for a Motorbike\u2019s Fuel Access Panel",
+     "url": "https://hackaday.com/2026/09/10/creating-a-custom-hinge-for-a-motorbikes-fuel-access-panel/",
      "source": "Hackaday",
-     "summary": "Remember those tiny little droids skittering around the pristine corridors of the Death Star in Star Wars? [heychaostheory] has put together something vaguely along the lines of t\u2026",
-     "published": "2026-09-10T20:00:11+00:00",
-     "image": "https://hackaday.com/wp-content/uploads/2026/09/I-built-a-mouse-droid-to-party-with-7-19-screenshot-1-1.png",
+     "summary": "A fun part of modifying something like a motorbike is that you sometimes have to come up with creative solutions to basic questions, like how you can still access the \u2026read more",
+     "published": "2026-09-10T23:00:05+00:00",
+     "image": "https://hackaday.com/wp-content/uploads/2026/09/KTM_hinge_open_krtframework_youtube.jpg",
      "kind": "article",
-     "id": "5b9d86855ccf369f",
-     "first_seen": "2026-09-10T20:07:55.628225+00:00",
+     "id": "58fe683d6094d12e",
+     "first_seen": "2026-09-10T23:07:00.090712+00:00",
      "is_new": true
     },
     {
