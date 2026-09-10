@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-10T12:53:16.110170+00:00",
+ "generated_at": "2026-09-10T13:08:36.606182+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -251,6 +251,22 @@
      "score": 1
     },
     {
+     "title": "The guide to shirt style: Pockets, plackets, buttons",
+     "url": "https://www.permanentstyle.com/2026/09/the-guide-to-shirt-style-pockets-plackets-buttons.html",
+     "source": "Permanent Style",
+     "summary": "One of the best things about PS is you always know when an article is required, because readers keep asking about it. In the past few months several have asked shirt-commissioning\u2026",
+     "published": "2026-09-09T07:00:18+00:00",
+     "image": "https://www.permanentstyle.com/wp-content/uploads/2026/09/Casual-2.jpg",
+     "kind": "article",
+     "id": "c796a7d645e541df",
+     "first_seen": "2026-09-09T10:09:26.647429+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": false,
+     "score": 1
+    },
+    {
      "title": "Enter to Win: Handmade Cordovan GATs From Crown Northampton",
      "url": "https://www.menswearmusings.com/enter-to-win-handmade-cordovan-gats-from-crown-northampton/",
      "source": "Menswear Musings",
@@ -281,27 +297,9 @@
      "also_in": [],
      "boosted": false,
      "score": 1
-    },
-    {
-     "title": "The NFL Preview",
-     "url": "https://www.acl.news/p/the-nfl-preview",
-     "source": "A Continuous Lean",
-     "summary": "The Gridiron Game: Central Division #218",
-     "published": "2026-09-07T12:04:19+00:00",
-     "image": "https://substack-video.s3.amazonaws.com/video_upload/post/214341985/781e700c-a010-47d8-b8a9-77ed8080a28f/transcoded-1788751689.png",
-     "kind": "article",
-     "id": "4cd7643b082c8d92",
-     "first_seen": "2026-09-07T12:10:56.371142+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": false,
-     "score": 1
     }
    ]
   }
  ],
- "errors": [
-  "Permanent Style: RuntimeError \u2014 https://www.permanentstyle.com/feed \u2192 HTTP 415"
- ]
+ "errors": []
 }
