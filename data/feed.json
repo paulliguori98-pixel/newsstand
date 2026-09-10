@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-10T11:30:02.485100+00:00",
+ "generated_at": "2026-09-10T11:47:30.080215+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -69,24 +69,6 @@
    "more": 0,
    "items": [
     {
-     "title": "US bans Canadian dairy, alcohol and motorcycles as trade war escalates",
-     "url": "https://www.theguardian.com/us-news/2026/sep/08/trump-canada-trade-war-dairy-alcohol",
-     "source": "Guardian",
-     "summary": "Trump responds after Canada imposes $20bn in retaliatory tariffs and Canadian PM vows to diversify trade abroadThe US is banning dairy products, most alcoholic beverages and motor\u2026",
-     "published": "2026-09-08T23:59:37+00:00",
-     "image": "https://i.guim.co.uk/img/media/b47b4b64332e5886d782ebf3ea9f5cb14544c5a4/87_0_2999_2400/master/2999.jpg?width=140&quality=85&auto=format&fit=max&s=e27dcfd105ed3ebabcbb9581e1593eb3",
-     "kind": "article",
-     "id": "8833bab144dae574",
-     "first_seen": "2026-09-09T18:34:23.990392+00:00",
-     "is_new": true,
-     "corroboration": 2,
-     "also_in": [
-      "Axios"
-     ],
-     "boosted": true,
-     "score": 5
-    },
-    {
      "title": "Iran war won't end until after crucial November elections, says Trump",
      "url": "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
@@ -127,6 +109,22 @@
      "image": "https://images.wsj.net/im-76817287",
      "kind": "article",
      "id": "024d4f9b1383b188",
+     "first_seen": "2026-09-10T10:08:43.278552+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
+     "title": "A pilot of the Amazon cargo plane in Miami crash warned it was coming in too fast",
+     "url": "https://www.npr.org/2026/09/10/g-s1-142664/cargo-plane-miami-crash",
+     "source": "NPR",
+     "summary": "For nearly two minutes, one of the pilots of the Amazon cargo plane that careened off a Miami runway repeatedly warned his counterpart they were going too fast, according to fligh\u2026",
+     "published": "2026-09-10T05:45:00+00:00",
+     "image": null,
+     "kind": "article",
+     "id": "1a2d548d2e5e801b",
      "first_seen": "2026-09-10T10:08:43.278552+00:00",
      "is_new": true,
      "corroboration": 1,
