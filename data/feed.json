@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-10T13:08:36.606182+00:00",
+ "generated_at": "2026-09-10T13:29:49.620499+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,12 +10,12 @@
    "more": 0,
    "items": [
     {
-     "title": "Partly Sunny",
-     "phrase": "Partly Sunny all day.",
+     "title": "Mostly Sunny",
+     "phrase": "Mostly Sunny all day.",
      "detail": "It reaches 79\u00b0 today and falls to 52\u00b0 overnight. The sun is up from 6:30 until 7:15.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 69,
+     "temp": 70,
      "high": 79,
      "low": 52,
      "sunrise": "6:30",
@@ -69,7 +69,7 @@
    "more": 0,
    "items": [
     {
-     "title": "Malta warned of corruption crisis after Daphne Caruana Galizia verdict sends \u2018chill down the spine\u2019",
+     "title": "Malta warned of corruption crisis after \u2018utter disbelief\u2019 over Daphne Caruana Galizia verdict",
      "url": "https://www.theguardian.com/world/2026/sep/10/malta-corruption-crisis-daphne-caruana-galizia-verdict",
      "source": "Guardian",
      "summary": "Labour peer tells Council of Europe inquiry failure to implement legal protections still putting journalists at riskEurope live \u2013 latest updatesMalta is vulnerable to \u201crepeated in\u2026",
