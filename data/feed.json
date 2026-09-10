@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-10T18:10:08.385268+00:00",
+ "generated_at": "2026-09-10T18:32:18.693815+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -145,15 +145,15 @@
    "more": 0,
    "items": [
     {
-     "title": "Custom AMOLED Wearable Makes Great Icebreaker",
-     "url": "https://hackaday.com/2026/09/10/custom-amoled-wearable-makes-great-icebreaker/",
+     "title": "3D Imaging Without a Lens",
+     "url": "https://hackaday.com/2026/09/10/3d-imaging-without-a-lens/",
      "source": "Hackaday",
-     "summary": "Nifty little AMOLED screens are easy to get nowadays, and [Sophie D] demonstrates they are both thin and light enough to be worn with OpenChoker, a design for a choker \u2026read more",
-     "published": "2026-09-10T15:30:16+00:00",
-     "image": "https://hackaday.com/wp-content/uploads/2026/09/OLED-choker.png",
+     "summary": "There are plenty of ways to capture 3D images or simulations of such if you know what you\u2019re doing with camera hardware and fancy mathematics. However, a little more unusual \u2026read\u2026",
+     "published": "2026-09-10T18:30:48+00:00",
+     "image": "https://hackaday.com/wp-content/uploads/2026/09/A-3D-camera-with-no-lens-lensless-imaging-part-2-8-23-screenshot.png",
      "kind": "article",
-     "id": "0ccd3cad23a30377",
-     "first_seen": "2026-09-10T15:31:14.197964+00:00",
+     "id": "85e0ceb980f61408",
+     "first_seen": "2026-09-10T18:32:18.693815+00:00",
      "is_new": true
     },
     {
