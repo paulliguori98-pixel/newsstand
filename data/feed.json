@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-10T16:08:23.133164+00:00",
+ "generated_at": "2026-09-10T16:29:36.195034+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -235,6 +235,22 @@
    "more": 0,
    "items": [
     {
+     "title": "Viberg x ACL",
+     "url": "https://www.acl.news/p/viberg-x-acl",
+     "source": "A Continuous Lean",
+     "summary": "The Field Chukka",
+     "published": "2026-09-10T16:06:23+00:00",
+     "image": "https://substackcdn.com/image/fetch/$s_!J5p-!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc5f8c31b-2746-4860-8936-231185f8d731_1365x2048.jpeg",
+     "kind": "article",
+     "id": "e2bc10bed30f3fa6",
+     "first_seen": "2026-09-10T16:29:36.195034+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": false,
+     "score": 1
+    },
+    {
      "title": "Recommends: Alex Crane Chunky Sweaters",
      "url": "https://www.menswearmusings.com/recommends-alex-crane-chunky-sweaters/",
      "source": "Menswear Musings",
@@ -244,22 +260,6 @@
      "kind": "article",
      "id": "5381e0a0b2865ea0",
      "first_seen": "2026-09-10T10:08:43.278552+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": false,
-     "score": 1
-    },
-    {
-     "title": "The guide to shirt style: Pockets, plackets, buttons",
-     "url": "https://www.permanentstyle.com/2026/09/the-guide-to-shirt-style-pockets-plackets-buttons.html",
-     "source": "Permanent Style",
-     "summary": "One of the best things about PS is you always know when an article is required, because readers keep asking about it. In the past few months several have asked shirt-commissioning\u2026",
-     "published": "2026-09-09T07:00:18+00:00",
-     "image": "https://www.permanentstyle.com/wp-content/uploads/2026/09/Casual-2.jpg",
-     "kind": "article",
-     "id": "c796a7d645e541df",
-     "first_seen": "2026-09-09T10:09:26.647429+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
@@ -301,5 +301,7 @@
    ]
   }
  ],
- "errors": []
+ "errors": [
+  "Permanent Style: RuntimeError \u2014 https://www.permanentstyle.com/feed \u2192 HTTP 415"
+ ]
 }
