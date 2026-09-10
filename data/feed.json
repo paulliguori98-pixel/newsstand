@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-10T13:48:15.415684+00:00",
+ "generated_at": "2026-09-10T14:08:09.677947+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,12 +10,12 @@
    "more": 0,
    "items": [
     {
-     "title": "Partly Sunny",
-     "phrase": "Partly Sunny all day.",
+     "title": "Mostly Sunny",
+     "phrase": "Mostly Sunny all day.",
      "detail": "It reaches 79\u00b0 today and falls to 52\u00b0 overnight. The sun is up from 6:30 until 7:15.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 69,
+     "temp": 73,
      "high": 79,
      "low": 52,
      "sunrise": "6:30",
@@ -143,15 +143,15 @@
    "more": 0,
    "items": [
     {
-     "title": "Open Source Acoustic Drone Detection",
-     "url": "https://hackaday.com/2026/09/10/open-source-acoustic-drone-detection/",
+     "title": "Tech In Plain Sight: Meet The Robot That Does CPR",
+     "url": "https://hackaday.com/2026/09/10/tech-in-plain-sight-meet-the-robot-that-does-cpr/",
      "source": "Hackaday",
-     "summary": "Drones have become a potent military threat, particularly on the small scale. Nimble multi-rotor drones are fast, difficult to spot, and can cause plenty of harm if allowed to go \u2026",
-     "published": "2026-09-10T11:00:38+00:00",
-     "image": "https://hackaday.com/wp-content/uploads/2026/09/8874001788869712843-e1788947193344.jpg",
+     "summary": "Usually in Tech In Plain Sight, we talk about technology you probably see every day, even if you don\u2019t notice it. But we hope you don\u2019t get to see one \u2026read more",
+     "published": "2026-09-10T14:00:02+00:00",
+     "image": "https://hackaday.com/wp-content/uploads/2026/09/physio-control-lucas-3-chest-compression-system-hospital-use-flpdcmu1ge-webm-shot0001_featured.png",
      "kind": "article",
-     "id": "5e28087385508843",
-     "first_seen": "2026-09-10T11:08:31.679568+00:00",
+     "id": "6aeaa0e043953cdf",
+     "first_seen": "2026-09-10T14:08:09.677947+00:00",
      "is_new": true
     },
     {
