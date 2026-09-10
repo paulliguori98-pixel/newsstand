@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-10T22:07:52.665728+00:00",
+ "generated_at": "2026-09-10T22:28:25.203023+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -306,22 +306,6 @@
      "score": 1
     },
     {
-     "title": "The guide to shirt style: Pockets, plackets, buttons",
-     "url": "https://www.permanentstyle.com/2026/09/the-guide-to-shirt-style-pockets-plackets-buttons.html",
-     "source": "Permanent Style",
-     "summary": "One of the best things about PS is you always know when an article is required, because readers keep asking about it. In the past few months several have asked shirt-commissioning\u2026",
-     "published": "2026-09-09T07:00:18+00:00",
-     "image": "https://www.permanentstyle.com/wp-content/uploads/2026/09/Casual-2.jpg",
-     "kind": "article",
-     "id": "c796a7d645e541df",
-     "first_seen": "2026-09-09T10:09:26.647429+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": false,
-     "score": 1
-    },
-    {
      "title": "Enter to Win: Handmade Cordovan GATs From Crown Northampton",
      "url": "https://www.menswearmusings.com/enter-to-win-handmade-cordovan-gats-from-crown-northampton/",
      "source": "Menswear Musings",
@@ -336,9 +320,27 @@
      "also_in": [],
      "boosted": false,
      "score": 1
+    },
+    {
+     "title": "Get Your Kicks (and Loafers)!",
+     "url": "https://www.putthison.com/get-your-kicks-and-loafers/",
+     "source": "Put This On",
+     "summary": "Hi everyone \u2013 it\u2019s Brynna, your Put This On Shopkeeper \u2013 here again with even more new stuff! Have you... The post Get Your Kicks (and Loafers)! appeared first on Put This On.",
+     "published": "2026-09-08T19:21:26+00:00",
+     "image": null,
+     "kind": "article",
+     "id": "904de041e033c926",
+     "first_seen": "2026-09-08T19:28:54.212289+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": false,
+     "score": 1
     }
    ]
   }
  ],
- "errors": []
+ "errors": [
+  "Permanent Style: RuntimeError \u2014 https://www.permanentstyle.com/feed \u2192 HTTP 415"
+ ]
 }
