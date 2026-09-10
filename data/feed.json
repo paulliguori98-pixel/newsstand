@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-10T15:08:11.698782+00:00",
+ "generated_at": "2026-09-10T15:31:14.197964+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -69,6 +69,22 @@
    "more": 0,
    "items": [
     {
+     "title": "\u2018I don\u2019t want to be here\u2019: Andrew Hastie was a reluctant but \u2018straightforward\u2019 witness in the Ben Roberts-Smith defamation case",
+     "url": "https://www.theguardian.com/australia-news/2026/sep/11/andrew-hastie-reluctant-witness-ben-roberts-smith-case-one-nation-traitor-attack-ntwnfb",
+     "source": "Guardian",
+     "summary": "The Liberal MP and former SAS soldier is under attack from One Nation after complying with a subpoena to give evidence in the failed 2022 civil caseGet our new political email, fr\u2026",
+     "published": "2026-09-10T15:00:41+00:00",
+     "image": "https://i.guim.co.uk/img/media/a9005dbeba20253db76226fd71323325957e278d/469_0_4680_3744/master/4680.jpg?width=140&quality=85&auto=format&fit=max&s=b629d49ec1648eb0ba1792ebd0183c46",
+     "kind": "article",
+     "id": "d96db3fc6154928e",
+     "first_seen": "2026-09-10T15:31:14.197964+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
      "title": "Malta warned of corruption crisis after \u2018utter disbelief\u2019 over Daphne Caruana Galizia verdict",
      "url": "https://www.theguardian.com/world/2026/sep/10/malta-corruption-crisis-daphne-caruana-galizia-verdict",
      "source": "Guardian",
@@ -115,22 +131,6 @@
      "also_in": [],
      "boosted": true,
      "score": 4
-    },
-    {
-     "title": "Bank of Korea Warns of Destabilizing Impact of High-Risk AI Trades",
-     "url": "https://www.wsj.com/finance/stocks/bank-of-korea-warns-of-destabilizing-impact-of-high-risk-ai-trades-42291984?mod=rss_markets_main",
-     "source": "WSJ",
-     "summary": "A surge of investment in leveraged exchange-traded funds generated significant volatility in the domestic stock market, the Bank of Korea said.",
-     "published": "2026-09-10T05:57:00+00:00",
-     "image": "https://images.wsj.net/im-76817287",
-     "kind": "article",
-     "id": "024d4f9b1383b188",
-     "first_seen": "2026-09-10T10:08:43.278552+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
     }
    ]
   },
@@ -143,15 +143,27 @@
    "more": 0,
    "items": [
     {
-     "title": "Tech In Plain Sight: Meet The Robot That Does CPR",
-     "url": "https://hackaday.com/2026/09/10/tech-in-plain-sight-meet-the-robot-that-does-cpr/",
+     "title": "Custom AMOLED Wearable Makes Great Icebreaker",
+     "url": "https://hackaday.com/2026/09/10/custom-amoled-wearable-makes-great-icebreaker/",
      "source": "Hackaday",
-     "summary": "Usually in Tech In Plain Sight, we talk about technology you probably see every day, even if you don\u2019t notice it. But we hope you don\u2019t get to see one \u2026read more",
-     "published": "2026-09-10T14:00:02+00:00",
-     "image": "https://hackaday.com/wp-content/uploads/2026/09/physio-control-lucas-3-chest-compression-system-hospital-use-flpdcmu1ge-webm-shot0001_featured.png",
+     "summary": "Nifty little AMOLED screens are easy to get nowadays, and [Sophie D] demonstrates they are both thin and light enough to be worn with OpenChoker, a design for a choker \u2026read more",
+     "published": "2026-09-10T15:30:16+00:00",
+     "image": "https://hackaday.com/wp-content/uploads/2026/09/OLED-choker.png",
      "kind": "article",
-     "id": "6aeaa0e043953cdf",
-     "first_seen": "2026-09-10T14:08:09.677947+00:00",
+     "id": "0ccd3cad23a30377",
+     "first_seen": "2026-09-10T15:31:14.197964+00:00",
+     "is_new": true
+    },
+    {
+     "title": "Hestia32 - Open Source Smart Thermostat & HVAC Controller",
+     "url": "https://www.hackster.io/gulliverrr/hestia32-open-source-smart-thermostat-hvac-controller-18fdb7",
+     "source": "Hackster",
+     "summary": "A fully open-source, standalone smart thermostat for HVAC and European heating systems.",
+     "published": "2026-09-10T10:26:04+00:00",
+     "image": "https://hackster.imgix.net/uploads/attachments/1997141/_zaBNVUA5QM.blob",
+     "kind": "article",
+     "id": "45f77c6ba6f1683c",
+     "first_seen": "2026-09-10T15:31:14.197964+00:00",
      "is_new": true
     },
     {
@@ -164,18 +176,6 @@
      "kind": "article",
      "id": "d875404cde873418",
      "first_seen": "2026-09-10T12:11:17.419588+00:00",
-     "is_new": true
-    },
-    {
-     "title": "AC !DC \u2014 Air Conditioning, not Domotically Controlled",
-     "url": "https://www.hackster.io/emvilza/ac-dc-air-conditioning-not-domotically-controlled-288747",
-     "source": "Hackster",
-     "summary": "ESP8266 Mitsubishi AC controller via CN105. Web UI, MQTT over TLS, custom scheduler, iOS Shortcut. No home automation needed.",
-     "published": "2026-09-09T17:52:52+00:00",
-     "image": "https://hackster.imgix.net/uploads/attachments/1996868/_XWR4Mn1u1V.blob",
-     "kind": "article",
-     "id": "49ccb3f15f49c215",
-     "first_seen": "2026-09-10T10:08:43.278552+00:00",
      "is_new": true
     },
     {
