@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-10T23:27:12.382252+00:00",
+ "generated_at": "2026-09-10T23:44:41.293789+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,12 +10,12 @@
    "more": 0,
    "items": [
     {
-     "title": "Partly Cloudy",
-     "phrase": "Partly Cloudy all day.",
+     "title": "Mostly Cloudy",
+     "phrase": "Mostly Cloudy all day.",
      "detail": "It reaches 76\u00b0 today and falls to 53\u00b0 overnight. The sun is up from 6:30 until 7:15.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 75,
+     "temp": 70,
      "high": 76,
      "low": 53,
      "sunrise": "6:30",
@@ -69,6 +69,22 @@
    "more": 0,
    "items": [
     {
+     "title": "Australia news live: Andrew Hastie says he accepts Barnaby Joyce\u2019s explanation over \u2018traitor\u2019 video and Pauline Hanson now \u2018the only lying coward\u2019",
+     "url": "https://www.theguardian.com/australia-news/live/2026/sep/11/anthony-albanese-september-11-aged-care-labor-coalition-angus-taylor-one-nation-pauline-hanson-andrew-hastie-ntwnfb",
+     "source": "Guardian",
+     "summary": "Follow the day\u2019s news live\u2018Profound\u2019 increase in death rate for welfare recipients, report findsA study on the death rate among welfare recipients highlights \u201cprofound\u201d inequality\u2026",
+     "published": "2026-09-10T23:24:50+00:00",
+     "image": "https://i.guim.co.uk/img/media/71f8ced18a9329c07d650acb2b498e9a6be1be27/245_0_2952_2363/master/2952.jpg?width=140&quality=85&auto=format&fit=max&s=722666881cb131861f1d7cd2830ee769",
+     "kind": "article",
+     "id": "738befe9ec030f72",
+     "first_seen": "2026-09-10T21:07:47.693956+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
      "title": "Trump Loyalist Steps Down From \u2018Grand Conspiracy\u2019 Case",
      "url": "https://www.nytimes.com/2026/09/10/us/digenova-steps-down-grand-conspiracy-case.html",
      "source": "New York Times",
@@ -78,22 +94,6 @@
      "kind": "article",
      "id": "86a5ebcfcac82f8a",
      "first_seen": "2026-09-10T23:27:12.382252+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "Australia news live: Andrew Hastie says he accepts Barnaby Joyce\u2019s explanation over \u2018traitor\u2019 video and Pauline Hanson now \u2018the only lying coward\u2019",
-     "url": "https://www.theguardian.com/australia-news/live/2026/sep/11/anthony-albanese-september-11-aged-care-labor-coalition-angus-taylor-one-nation-pauline-hanson-andrew-hastie-ntwnfb",
-     "source": "Guardian",
-     "summary": "Follow the day\u2019s news liveBowen says yesterday a \u2018good day\u2019 amid contentious deal that will see koala park plan move aheadThe climate change and energy minister, Chris Bowen, said\u2026",
-     "published": "2026-09-10T23:08:02+00:00",
-     "image": "https://i.guim.co.uk/img/media/71f8ced18a9329c07d650acb2b498e9a6be1be27/245_0_2952_2363/master/2952.jpg?width=140&quality=85&auto=format&fit=max&s=722666881cb131861f1d7cd2830ee769",
-     "kind": "article",
-     "id": "738befe9ec030f72",
-     "first_seen": "2026-09-10T21:07:47.693956+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
