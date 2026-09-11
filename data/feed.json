@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-11T18:09:06.856967+00:00",
+ "generated_at": "2026-09-11T18:33:22.916458+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -15,7 +15,7 @@
      "detail": "It reaches 75\u00b0 today and falls to 46\u00b0 overnight. The sun is up from 6:31 until 7:13.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 71,
+     "temp": 73,
      "high": 75,
      "low": 46,
      "sunrise": "6:31",
@@ -143,15 +143,15 @@
    "more": 0,
    "items": [
     {
-     "title": "This Machine Makes 35mm (Almost) Film",
-     "url": "https://hackaday.com/2026/09/11/this-machine-makes-35mm-almost-film/",
+     "title": "Hand-Coded ASM Powers Homebrew SNES Game",
+     "url": "https://hackaday.com/2026/09/11/hand-coded-asm-powers-homebrew-snes-game/",
      "source": "Hackaday",
-     "summary": "The revival in film photography has brought a range of specialist films to tempt the experimenter, as well as increased the popularity of loading your own cartridges. But perforat\u2026",
-     "published": "2026-09-11T15:30:51+00:00",
-     "image": "https://hackaday.com/wp-content/uploads/2026/09/filmperf_feat.jpg",
+     "summary": "Nintendo has made many game consoles in its long history \u2014 one that famously overlaps that of the Ottoman Empire \u2014 but only one of them was ever Super. It\u2019s \u2026read more",
+     "published": "2026-09-11T18:30:34+00:00",
+     "image": "https://hackaday.com/wp-content/uploads/2026/09/SNES-asm-2.jpg",
      "kind": "article",
-     "id": "72bc7546b2c54d0b",
-     "first_seen": "2026-09-11T15:47:32.389152+00:00",
+     "id": "bd83aed439a5f59e",
+     "first_seen": "2026-09-11T18:33:22.916458+00:00",
      "is_new": true
     },
     {
@@ -164,6 +164,18 @@
      "kind": "article",
      "id": "509338f7a768a7b9",
      "first_seen": "2026-09-11T15:30:18.210918+00:00",
+     "is_new": true
+    },
+    {
+     "title": "CircuitPython Turbo: Go Blinka!",
+     "url": "https://learn.adafruit.com/circuitpython-turbo",
+     "source": "Adafruit",
+     "summary": "Compile the busy parts. Keep building in Python.Explore CircuitPython Turbo, a host-side toolchain for compiling selected Python functions to native code. See real device demos, e\u2026",
+     "published": "2026-09-11T04:14:58+00:00",
+     "image": "https://cdn-learn.adafruit.com/guides/images/000/004/615/medium500/turbo-learn-thumbnail-seated.png?1789131831",
+     "kind": "article",
+     "id": "7ab5940789eaaf85",
+     "first_seen": "2026-09-11T18:33:22.916458+00:00",
      "is_new": true
     },
     {
@@ -189,18 +201,6 @@
      "id": "1dbc74482c65b5d7",
      "first_seen": "2026-09-04T10:47:25.073613+00:00",
      "is_new": false
-    },
-    {
-     "title": "Adafruit TMF8801 Time of Flight Distance Sensor",
-     "url": "https://learn.adafruit.com/adafruit-tmf8801-time-of-flight-distance-sensor",
-     "source": "Adafruit",
-     "summary": "Up to 2.5 meters of distance sensingThe Adafruit TMF8801 Time of Flight Sensor is a great Time of Flight distance sensor from ams Osram in the TMF series of chips. The TMF8801 in \u2026",
-     "published": "2026-09-03T13:08:28+00:00",
-     "image": "https://cdn-learn.adafruit.com/guides/images/000/004/610/medium500/6522-05.jpg?1788441095",
-     "kind": "article",
-     "id": "346386148a052437",
-     "first_seen": "2026-09-09T22:29:03.089625+00:00",
-     "is_new": true
     }
    ]
   },
