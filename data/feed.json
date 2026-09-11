@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-11T10:48:02.825539+00:00",
+ "generated_at": "2026-09-11T11:08:26.235926+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -143,15 +143,15 @@
    "more": 0,
    "items": [
     {
-     "title": "This Circuit Sculpture is an ESP32-Powered Console",
-     "url": "https://hackaday.com/2026/09/11/this-circuit-sculpture-is-an-esp32-powered-console/",
+     "title": "Purely Random TV In Your Browser",
+     "url": "https://hackaday.com/2026/09/11/purely-random-tv-in-your-browser/",
      "source": "Hackaday",
-     "summary": "Expressif might not have intended the ESP32-S3 to become an emulation powerhouse, but that\u2019s certainly what has happened. The little microcontroller seems perfect for recreating t\u2026",
-     "published": "2026-09-11T08:00:47+00:00",
-     "image": "https://hackaday.com/wp-content/uploads/2026/09/esp32-gameboy-sculpt.jpg",
+     "summary": "One of the things we used to appreciate about broadcast television is that\u2026 you kinda just got what you got. You didn\u2019t have to choose beyond picking a channel, and \u2026read more",
+     "published": "2026-09-11T11:00:19+00:00",
+     "image": "https://hackaday.com/wp-content/uploads/2026/09/Screenshot-2026-09-09-210241-1-e1788951803194.png",
      "kind": "article",
-     "id": "747938ad2101d2e3",
-     "first_seen": "2026-09-11T10:08:40.206273+00:00",
+     "id": "e7ac964746bf6ebe",
+     "first_seen": "2026-09-11T11:08:26.235926+00:00",
      "is_new": true
     },
     {
