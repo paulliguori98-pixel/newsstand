@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-11T15:08:14.453785+00:00",
+ "generated_at": "2026-09-11T15:30:18.210918+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -155,27 +155,27 @@
      "is_new": true
     },
     {
-     "title": "Hestia32 - Open Source Smart Thermostat & HVAC Controller",
-     "url": "https://www.hackster.io/gulliverrr/hestia32-open-source-smart-thermostat-hvac-controller-18fdb7",
+     "title": "Space Drums 2.0 - Open source Air Drums",
+     "url": "https://www.hackster.io/makestreme/space-drums-2-0-open-source-air-drums-21aaae",
      "source": "Hackster",
-     "summary": "A fully open-source, standalone smart thermostat for HVAC and European heating systems.",
-     "published": "2026-09-10T10:26:04+00:00",
-     "image": "https://hackster.imgix.net/uploads/attachments/1997649/_CV6gSxtnMw.blob",
+     "summary": "DIY air drum kit to play drums in thin air using open-source, velocity-sensitive smart sticks with built-in haptics.",
+     "published": "2026-09-11T06:20:11+00:00",
+     "image": "https://hackster.imgix.net/uploads/attachments/1997497/_UlLeO99uGy.blob",
      "kind": "article",
-     "id": "45f77c6ba6f1683c",
-     "first_seen": "2026-09-10T15:31:14.197964+00:00",
+     "id": "509338f7a768a7b9",
+     "first_seen": "2026-09-11T15:30:18.210918+00:00",
      "is_new": true
     },
     {
-     "title": "Demystifying the 100nF Bypass Capacitor",
-     "url": "https://www.hackster.io/electroniclovers/demystifying-the-100nf-bypass-capacitor-751c4b",
+     "title": "EcoFence Q: An AI-Powered Virtual Boundary for Human-Wildlif",
+     "url": "https://www.hackster.io/Ingeimaks/ecofence-q-an-ai-powered-virtual-boundary-for-human-wildlif-bdd281",
      "source": "Hackster",
-     "summary": "Demystifying the 100nF Bypass Capacitor: Why It Belongs on Every IC Power Pin",
-     "published": "2026-09-10T06:09:01+00:00",
-     "image": "https://hackster.imgix.net/uploads/attachments/1997027/_oxxmQkcP4q.blob",
+     "summary": "EcoFence Q: An AI-powered solar virtual fence on Arduino UNO Q & App Lab using Edge Vision & LoRa to prevent human-wildlife conflict.",
+     "published": "2026-09-10T18:17:32+00:00",
+     "image": "https://hackster.imgix.net/uploads/attachments/1997278/_8hGejTOZ2q.blob",
      "kind": "article",
-     "id": "d875404cde873418",
-     "first_seen": "2026-09-10T12:11:17.419588+00:00",
+     "id": "7ab38be7d78cc7d2",
+     "first_seen": "2026-09-11T10:08:40.206273+00:00",
      "is_new": true
     },
     {
