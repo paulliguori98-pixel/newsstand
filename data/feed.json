@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-11T19:28:04.442801+00:00",
+ "generated_at": "2026-09-11T19:45:05.712927+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -73,7 +73,7 @@
      "url": "https://www.axios.com/2026/09/11/mike-johnson-house-recess-ai-doom-warnings",
      "source": "Axios",
      "summary": "A letter is circulating among House members urging Speaker Mike Johnson (R-La.) to bring back the House \"immediately\" and keep it in session until Congress passes AI safeguards, A\u2026",
-     "published": "2026-09-11T18:02:45+00:00",
+     "published": "2026-09-11T19:33:58+00:00",
      "image": "https://images.axios.com/O8A2Jn9zOXoDKSc5b---XIylhUM=/0x313:8256x4957/1366x768/2026/09/11/1789146168999.jpeg",
      "kind": "article",
      "id": "5215c2fd370a05c2",
@@ -155,6 +155,18 @@
      "is_new": true
     },
     {
+     "title": "Inkora: A DIY Google & Apple Family E-Ink Calendar",
+     "url": "https://www.hackster.io/vsejkora/inkora-a-diy-google-apple-family-e-ink-calendar-4bf2f3",
+     "source": "Hackster",
+     "summary": "Inkora combines selected Google and Apple/iCloud calendars on a calm 7.5-inch e-paper display, together with weather, regional information,",
+     "published": "2026-09-11T09:10:44+00:00",
+     "image": "https://hackster.imgix.net/uploads/attachments/1997632/_qGqnJZkwMZ.blob",
+     "kind": "article",
+     "id": "f5ff3de45f0988d4",
+     "first_seen": "2026-09-11T19:45:05.712927+00:00",
+     "is_new": true
+    },
+    {
      "title": "Space Drums 2.0 - Open source Air Drums",
      "url": "https://www.hackster.io/makestreme/space-drums-2-0-open-source-air-drums-21aaae",
      "source": "Hackster",
@@ -176,18 +188,6 @@
      "kind": "article",
      "id": "7ab5940789eaaf85",
      "first_seen": "2026-09-11T18:33:22.916458+00:00",
-     "is_new": true
-    },
-    {
-     "title": "EcoFence Q: An AI-Powered Virtual Boundary for Human-Wildlif",
-     "url": "https://www.hackster.io/Ingeimaks/ecofence-q-an-ai-powered-virtual-boundary-for-human-wildlif-bdd281",
-     "source": "Hackster",
-     "summary": "EcoFence Q: An AI-powered solar virtual fence on Arduino UNO Q & App Lab using Edge Vision & LoRa to prevent human-wildlife conflict.",
-     "published": "2026-09-10T18:17:32+00:00",
-     "image": "https://hackster.imgix.net/uploads/attachments/1997278/_8hGejTOZ2q.blob",
-     "kind": "article",
-     "id": "7ab38be7d78cc7d2",
-     "first_seen": "2026-09-11T10:08:40.206273+00:00",
      "is_new": true
     },
     {
