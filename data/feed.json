@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-11T11:46:19.827128+00:00",
+ "generated_at": "2026-09-11T12:11:26.932229+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -15,7 +15,7 @@
      "detail": "It reaches 75\u00b0 today and falls to 46\u00b0 overnight. The sun is up from 6:31 until 7:13.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 53,
+     "temp": 55,
      "high": 75,
      "low": 46,
      "sunrise": "6:31",
@@ -155,18 +155,6 @@
      "is_new": true
     },
     {
-     "title": "EcoFence Q: An AI-Powered Virtual Boundary for Human-Wildlif",
-     "url": "https://www.hackster.io/Ingeimaks/ecofence-q-an-ai-powered-virtual-boundary-for-human-wildlif-bdd281",
-     "source": "Hackster",
-     "summary": "EcoFence Q: An AI-powered solar virtual fence on Arduino UNO Q & App Lab using Edge Vision & LoRa to prevent human-wildlife conflict.",
-     "published": "2026-09-10T18:17:32+00:00",
-     "image": "https://hackster.imgix.net/uploads/attachments/1997278/_8hGejTOZ2q.blob",
-     "kind": "article",
-     "id": "7ab38be7d78cc7d2",
-     "first_seen": "2026-09-11T10:08:40.206273+00:00",
-     "is_new": true
-    },
-    {
      "title": "Hestia32 - Open Source Smart Thermostat & HVAC Controller",
      "url": "https://www.hackster.io/gulliverrr/hestia32-open-source-smart-thermostat-hvac-controller-18fdb7",
      "source": "Hackster",
@@ -176,6 +164,18 @@
      "kind": "article",
      "id": "45f77c6ba6f1683c",
      "first_seen": "2026-09-10T15:31:14.197964+00:00",
+     "is_new": true
+    },
+    {
+     "title": "Demystifying the 100nF Bypass Capacitor",
+     "url": "https://www.hackster.io/electroniclovers/demystifying-the-100nf-bypass-capacitor-751c4b",
+     "source": "Hackster",
+     "summary": "Demystifying the 100nF Bypass Capacitor: Why It Belongs on Every IC Power Pin",
+     "published": "2026-09-10T06:09:01+00:00",
+     "image": "https://hackster.imgix.net/uploads/attachments/1997027/_oxxmQkcP4q.blob",
+     "kind": "article",
+     "id": "d875404cde873418",
+     "first_seen": "2026-09-10T12:11:17.419588+00:00",
      "is_new": true
     },
     {
