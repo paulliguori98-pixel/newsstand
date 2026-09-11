@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-11T14:49:32.627425+00:00",
+ "generated_at": "2026-09-11T15:08:14.453785+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -69,6 +69,22 @@
    "more": 0,
    "items": [
     {
+     "title": "Dementia patients warned off seeking home care in case Australia\u2019s aged care algorithm cuts funding",
+     "url": "https://www.theguardian.com/australia-news/2026/sep/12/dementia-patients-warned-applying-algorithm-aged-care-funding",
+     "source": "Guardian",
+     "summary": "Exclusive: FoI documents show senior health officials were warned of concerns about assessment tool weeks after it launchedGet our breaking news email, free app or daily news podc\u2026",
+     "published": "2026-09-11T15:00:11+00:00",
+     "image": "https://i.guim.co.uk/img/media/a037fae23523613a1ad45d1ce9cd82300a822bac/878_0_4388_3511/master/4388.jpg?width=140&quality=85&auto=format&fit=max&s=3b1a8f675fe235b211dd5760067a4aea",
+     "kind": "article",
+     "id": "0079b85617e5df85",
+     "first_seen": "2026-09-11T15:08:14.453785+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
      "title": "Is Patagonia the new data center hub? + Harley-Davidson's role in the trade war",
      "url": "https://www.npr.org/2026/09/11/nx-s1-5966498/is-patagonia-the-new-data-center-hub-harley-davidsons-role-in-the-trade-war",
      "source": "NPR",
@@ -109,22 +125,6 @@
      "image": null,
      "kind": "article",
      "id": "3f5230b53b883b95",
-     "first_seen": "2026-09-11T10:08:40.206273+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "These Michigan swing voters are bracing for higher prices from trade war with Canada",
-     "url": "https://www.npr.org/2026/09/11/nx-s1-5963884/michigan-focus-groups-canada-trump-tariffs",
-     "source": "NPR",
-     "summary": "President Trump's tariff standoff with Canada is rankling some key voters ahead of this year's midterm elections.",
-     "published": "2026-09-11T09:00:00+00:00",
-     "image": null,
-     "kind": "article",
-     "id": "4b65e59abc3c6112",
      "first_seen": "2026-09-11T10:08:40.206273+00:00",
      "is_new": true,
      "corroboration": 1,
