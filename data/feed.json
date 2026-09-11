@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-11T15:30:18.210918+00:00",
+ "generated_at": "2026-09-11T15:47:32.389152+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -15,7 +15,7 @@
      "detail": "It reaches 75\u00b0 today and falls to 46\u00b0 overnight. The sun is up from 6:31 until 7:13.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 64,
+     "temp": 67,
      "high": 75,
      "low": 46,
      "sunrise": "6:31",
@@ -143,15 +143,15 @@
    "more": 0,
    "items": [
     {
-     "title": "Purely Random TV In Your Browser",
-     "url": "https://hackaday.com/2026/09/11/purely-random-tv-in-your-browser/",
+     "title": "This Machine Makes 35mm (Almost) Film",
+     "url": "https://hackaday.com/2026/09/11/this-machine-makes-35mm-almost-film/",
      "source": "Hackaday",
-     "summary": "One of the things we used to appreciate about broadcast television is that\u2026 you kinda just got what you got. You didn\u2019t have to choose beyond picking a channel, and \u2026read more",
-     "published": "2026-09-11T11:00:19+00:00",
-     "image": "https://hackaday.com/wp-content/uploads/2026/09/Screenshot-2026-09-09-210241-1-e1788951803194.png",
+     "summary": "The revival in film photography has brought a range of specialist films to tempt the experimenter, as well as increased the popularity of loading your own cartridges. But perforat\u2026",
+     "published": "2026-09-11T15:30:51+00:00",
+     "image": "https://hackaday.com/wp-content/uploads/2026/09/filmperf_feat.jpg",
      "kind": "article",
-     "id": "e7ac964746bf6ebe",
-     "first_seen": "2026-09-11T11:08:26.235926+00:00",
+     "id": "72bc7546b2c54d0b",
+     "first_seen": "2026-09-11T15:47:32.389152+00:00",
      "is_new": true
     },
     {
