@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-11T23:27:03.670986+00:00",
+ "generated_at": "2026-09-11T23:44:29.214372+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -155,15 +155,15 @@
      "is_new": true
     },
     {
-     "title": "Inkora: A DIY Google & Apple Family E-Ink Calendar",
-     "url": "https://www.hackster.io/vsejkora/inkora-a-diy-google-apple-family-e-ink-calendar-4bf2f3",
+     "title": "Automatic Water Dispenser Using MakerBuddy IoT Kit",
+     "url": "https://www.hackster.io/mafzal/automatic-water-dispenser-using-makerbuddy-iot-kit-78f9c7",
      "source": "Hackster",
-     "summary": "Inkora combines selected Google and Apple/iCloud calendars on a calm 7.5-inch e-paper display, together with weather, regional information,",
-     "published": "2026-09-11T09:10:44+00:00",
-     "image": "https://hackster.imgix.net/uploads/attachments/1997632/_qGqnJZkwMZ.blob",
+     "summary": "Touchless systems are becoming increasingly common in water dispensers, sanitizers, faucets, doors, and other everyday devices.",
+     "published": "2026-09-11T13:06:32+00:00",
+     "image": "https://hackster.imgix.net/uploads/attachments/1997761/_5vsZHYK4Pc.blob",
      "kind": "article",
-     "id": "f5ff3de45f0988d4",
-     "first_seen": "2026-09-11T19:45:05.712927+00:00",
+     "id": "63b4e036f7908b2d",
+     "first_seen": "2026-09-11T23:44:29.214372+00:00",
      "is_new": true
     },
     {
