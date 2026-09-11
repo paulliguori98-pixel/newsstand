@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-11T17:45:18.565690+00:00",
+ "generated_at": "2026-09-11T18:09:06.856967+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -69,6 +69,22 @@
    "more": 0,
    "items": [
     {
+     "title": "Scoop: Mike Johnson urged to cancel House recess over AI warnings",
+     "url": "https://www.axios.com/2026/09/11/mike-johnson-house-recess-ai-doom-warnings",
+     "source": "Axios",
+     "summary": "A letter is circulating among House members urging Speaker Mike Johnson (R-La.) to bring back the House \"immediately\" and keep it in session until Congress passes AI safeguards, A\u2026",
+     "published": "2026-09-11T18:02:45+00:00",
+     "image": "https://images.axios.com/O8A2Jn9zOXoDKSc5b---XIylhUM=/0x313:8256x4957/1366x768/2026/09/11/1789146168999.jpeg",
+     "kind": "article",
+     "id": "5215c2fd370a05c2",
+     "first_seen": "2026-09-11T18:09:06.856967+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
      "title": "Dementia patients warned off seeking home care in case Australia\u2019s aged care algorithm cuts funding",
      "url": "https://www.theguardian.com/australia-news/2026/sep/12/dementia-patients-warned-applying-algorithm-aged-care-funding",
      "source": "Guardian",
@@ -109,22 +125,6 @@
      "image": "https://images.axios.com/9hOXDcEA06d9K7E2Ik5nzGK-pD8=/smart/2023/03/30/183236-1680201156676.gif",
      "kind": "article",
      "id": "3fcb61a9983efffb",
-     "first_seen": "2026-09-11T10:08:40.206273+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "The U.S.-Canada trade war is creating a headache for auto-parts makers",
-     "url": "https://www.npr.org/2026/09/11/nx-s1-5961530/canada-trade-war-auto-parts-supply-chain",
-     "source": "NPR",
-     "summary": "For decades, the U.S. and Canadian auto supply chains have been tightly woven together. The trade war is threatening to unravel a complex system.",
-     "published": "2026-09-11T09:00:00+00:00",
-     "image": null,
-     "kind": "article",
-     "id": "3f5230b53b883b95",
      "first_seen": "2026-09-11T10:08:40.206273+00:00",
      "is_new": true,
      "corroboration": 1,
