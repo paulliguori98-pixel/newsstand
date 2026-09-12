@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-12T11:44:44.262749+00:00",
+ "generated_at": "2026-09-12T12:13:25.190188+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -11,11 +11,11 @@
    "items": [
     {
      "title": "Patchy Fog",
-     "phrase": "Rain is likely between 10pm and 12am.",
+     "phrase": "Rain is likely between 10pm and 1am.",
      "detail": "It reaches 77\u00b0 today and falls to 59\u00b0 overnight. The sun is up from 6:32 until 7:11.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 48,
+     "temp": 51,
      "high": 77,
      "low": 59,
      "sunrise": "6:32",
@@ -145,6 +145,18 @@
    "more": 0,
    "items": [
     {
+     "title": "IoT Noise Monitoring with ESP8266 & KiwisIoT",
+     "url": "https://www.hackster.io/varunprasadeng/iot-noise-monitoring-with-esp8266-kiwisiot-b1aba7",
+     "source": "Hackster",
+     "summary": "Monitor surrounding noise levels in real time with an ESP8266, KY-038 sound sensor, and KiwisIoT. The system detects sound intensity, classi",
+     "published": "2026-09-12T05:38:57+00:00",
+     "image": "https://hackster.imgix.net/uploads/attachments/1998123/_VUmcNRXBbF.blob",
+     "kind": "article",
+     "id": "a1d49bc7d2b2e7c6",
+     "first_seen": "2026-09-12T12:13:25.190188+00:00",
+     "is_new": true
+    },
+    {
      "title": "All The Best Computers Boot To\u2026 Python?",
      "url": "https://hackaday.com/2026/09/11/all-the-best-computers-boot-to-python/",
      "source": "Hackaday",
@@ -154,18 +166,6 @@
      "kind": "article",
      "id": "13e739f39b4566c6",
      "first_seen": "2026-09-12T10:08:01.110729+00:00",
-     "is_new": true
-    },
-    {
-     "title": "Inkora: A DIY Google & Apple Family E-Ink Calendar",
-     "url": "https://www.hackster.io/vsejkora/inkora-a-diy-google-apple-family-e-ink-calendar-4bf2f3",
-     "source": "Hackster",
-     "summary": "Inkora combines selected Google and Apple/iCloud calendars on a calm 7.5-inch e-paper display, together with weather, regional information,",
-     "published": "2026-09-11T09:10:44+00:00",
-     "image": "https://hackster.imgix.net/uploads/attachments/1997632/_qGqnJZkwMZ.blob",
-     "kind": "article",
-     "id": "f5ff3de45f0988d4",
-     "first_seen": "2026-09-11T19:45:05.712927+00:00",
      "is_new": true
     },
     {
@@ -224,22 +224,6 @@
    "more": 0,
    "items": [
     {
-     "title": "Allevol: Easy Americana and other passions",
-     "url": "https://www.permanentstyle.com/2026/09/allevol-easy-americana-and-other-passions.html",
-     "source": "Permanent Style",
-     "summary": "I always assumed Allevol , the brand run by Taka Okabe, was a recent start-up and sort of a house brand at Clutch . Probably because Clutch is where I first saw it, and Taka is th\u2026",
-     "published": "2026-09-11T08:00:58+00:00",
-     "image": "https://www.permanentstyle.com/wp-content/uploads/2026/09/0828_taka_for_ps_lowres_167A2807-1.jpg",
-     "kind": "article",
-     "id": "74788a4ab56065dd",
-     "first_seen": "2026-09-11T10:08:40.206273+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": false,
-     "score": 1
-    },
-    {
      "title": "Viberg x ACL",
      "url": "https://www.acl.news/p/viberg-x-acl",
      "source": "A Continuous Lean",
@@ -286,9 +270,27 @@
      "also_in": [],
      "boosted": false,
      "score": 1
+    },
+    {
+     "title": "Get Your Kicks (and Loafers)!",
+     "url": "https://www.putthison.com/get-your-kicks-and-loafers/",
+     "source": "Put This On",
+     "summary": "Hi everyone \u2013 it\u2019s Brynna, your Put This On Shopkeeper \u2013 here again with even more new stuff! Have you... The post Get Your Kicks (and Loafers)! appeared first on Put This On.",
+     "published": "2026-09-08T19:21:26+00:00",
+     "image": null,
+     "kind": "article",
+     "id": "904de041e033c926",
+     "first_seen": "2026-09-08T19:28:54.212289+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": false,
+     "score": 1
     }
    ]
   }
  ],
- "errors": []
+ "errors": [
+  "Permanent Style: RuntimeError \u2014 https://www.permanentstyle.com/feed \u2192 HTTP 415"
+ ]
 }
