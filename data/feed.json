@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-12T18:43:12.153236+00:00",
+ "generated_at": "2026-09-12T21:10:21.153489+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -11,11 +11,11 @@
    "items": [
     {
      "title": "Partly Sunny",
-     "phrase": "Rain is near certain between 12am and 7am.",
+     "phrase": "Rain is near certain between 12am and 10am.",
      "detail": "It reaches 77\u00b0 today and falls to 60\u00b0 overnight. The sun is up from 6:32 until 7:11.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 74,
+     "temp": 76,
      "high": 77,
      "low": 60,
      "sunrise": "6:32",
@@ -73,7 +73,7 @@
      "url": "https://www.nytimes.com/2026/09/12/technology/anthropic-dario-amodei-ai-slowdown.html",
      "source": "New York Times",
      "summary": "In an essay, the head of Anthropic laid out the rapidly advancing capabilities of artificial intelligence and said there needed to be greater safety controls across the industry.",
-     "published": "2026-09-12T18:30:24+00:00",
+     "published": "2026-09-12T20:00:22+00:00",
      "image": "https://static01.nyt.com/images/2026/09/12/multimedia/12biz-anthropic-01-hwpt/12biz-anthropic-01-hwpt-mediumSquareAt3X.jpg",
      "kind": "article",
      "id": "4ee70cea304a66bb",
@@ -105,6 +105,22 @@
      "score": 4
     },
     {
+     "title": "A.I. Slopware Is Everywhere Now. Nobody Is Using It.",
+     "url": "https://www.nytimes.com/2026/09/12/opinion/ai-software-coding-apps.html",
+     "source": "New York Times",
+     "summary": "Just because A.I. is revolutionizing coding, doesn\u2019t mean it will automatically revolutionize our apps.",
+     "published": "2026-09-12T18:05:21+00:00",
+     "image": null,
+     "kind": "article",
+     "id": "e011681255b3c82c",
+     "first_seen": "2026-09-12T21:10:21.153489+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
      "title": "Anthropic report: 5 ways Claude was exploited for war, spying and repression",
      "url": "https://www.axios.com/2026/09/12/anthropic-ai-threat-report-russia-iran-china",
      "source": "Axios",
@@ -114,22 +130,6 @@
      "kind": "article",
      "id": "cbaabe5f98238302",
      "first_seen": "2026-09-12T12:48:55.426135+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "BRICS leaders meet in India as wars and US tensions test the bloc",
-     "url": "https://www.npr.org/2026/09/12/g-s1-143054/brics-leaders-meet-in-india",
-     "source": "NPR",
-     "summary": "Indian Prime Minister Narendra Modi hosts Russian President Vladimir Putin, Chinese President Xi Jinping and other leaders of the BRICS nations for a summit on trade, investment, \u2026",
-     "published": "2026-09-12T07:18:55+00:00",
-     "image": null,
-     "kind": "article",
-     "id": "df9f8f527c03853b",
-     "first_seen": "2026-09-12T10:08:01.110729+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
@@ -147,15 +147,27 @@
    "more": 0,
    "items": [
     {
-     "title": "This Mac Is Open Source Hardware",
-     "url": "https://hackaday.com/2026/09/12/this-mac-is-open-source-hardware/",
+     "title": "Big Infinity Mirror Clock Invites You To Gaze Deeply",
+     "url": "https://hackaday.com/2026/09/12/big-infinity-mirror-clock-invites-you-to-gaze-deeply/",
      "source": "Hackaday",
-     "summary": "Apple hardware has always been proprietary, sometimes to an extreme. But that\u2019s not to say that it\u2019s impossible to make something that does the same job, which is what [DosFox1] \u2026\u2026",
-     "published": "2026-09-12T17:00:52+00:00",
-     "image": "https://hackaday.com/wp-content/uploads/2026/09/oshintosh-featured.jpg",
+     "summary": "[Andy Huot] has a fantastic-looking infinity mirror digital clock that really raises the bar. It uses high quality components, smart use of RGB LED animations, and a clever \u201cstack\u2026",
+     "published": "2026-09-12T20:00:27+00:00",
+     "image": "https://hackaday.com/wp-content/uploads/2026/09/infinity-mirror-clock-1.webp",
      "kind": "article",
-     "id": "b72e36f23c207be5",
-     "first_seen": "2026-09-12T18:43:12.153236+00:00",
+     "id": "b22b98a0922b0a49",
+     "first_seen": "2026-09-12T21:10:21.153489+00:00",
+     "is_new": true
+    },
+    {
+     "title": "Arduino RDA5807M FM Stereo Radio with Nokia 5110 Display",
+     "url": "https://www.hackster.io/chethanavishmika/arduino-rda5807m-fm-stereo-radio-with-nokia-5110-display-48f430",
+     "source": "Hackster",
+     "summary": "DIY digital FM stereo radio receiver built around the Arduino Nano / Uno, RDA5807M FM radio chip, and a classic Nokia 5110 LCD.",
+     "published": "2026-09-12T06:46:29+00:00",
+     "image": "https://hackster.imgix.net/uploads/attachments/1998160/_AOQP9iOPv2.blob",
+     "kind": "article",
+     "id": "dfdaada709a61696",
+     "first_seen": "2026-09-12T21:10:21.153489+00:00",
      "is_new": true
     },
     {
@@ -168,18 +180,6 @@
      "kind": "article",
      "id": "a1d49bc7d2b2e7c6",
      "first_seen": "2026-09-12T12:13:25.190188+00:00",
-     "is_new": true
-    },
-    {
-     "title": "PolarSeal Access : Zero-Touch Arctic Airlock",
-     "url": "https://www.hackster.io/appydo/polarseal-access-zero-touch-arctic-airlock-bd1071",
-     "source": "Hackster",
-     "summary": "Autonomous polar airlock driven by edge AI gesture recognition, engineered for survival at -50\u00b0C without cloud dependency",
-     "published": "2026-09-11T16:55:34+00:00",
-     "image": "https://hackster.imgix.net/uploads/attachments/1997884/_MXhsNw0U74.blob",
-     "kind": "article",
-     "id": "9de77110fe5ccc09",
-     "first_seen": "2026-09-12T16:28:15.891286+00:00",
      "is_new": true
     },
     {
@@ -216,6 +216,19 @@
    "row_detail": false,
    "more": 0,
    "items": [
+    {
+     "title": "Casa Pantufa Moccasin in Acorn Suede",
+     "url": "https://shopmashburn.com/products/sid-mashburn-casa-pantufa-moccasin-acorn-suede-s78877",
+     "source": "Sid Mashburn",
+     "summary": "Sid Casual Shoes",
+     "published": "2026-09-10T15:29:49-04:00",
+     "image": "https://cdn.shopify.com/s/files/1/0414/4532/6999/files/S78877_0247.jpg?v=1753710854",
+     "price": "$295",
+     "kind": "product",
+     "id": "4061f0bec525b8fd",
+     "first_seen": "2026-09-12T21:10:21.153489+00:00",
+     "is_new": true
+    },
     {
      "title": "Chestnut Herringbone Cloudloom Cotton Wool Carry-On Jacket",
      "url": "https://www.buckmason.com/products/chestnut-herringbone-cloudloom-cotton-wool-carry-on-jacket",
