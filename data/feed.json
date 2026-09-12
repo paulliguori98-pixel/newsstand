@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-12T16:28:15.891286+00:00",
+ "generated_at": "2026-09-12T18:43:12.153236+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,14 +10,14 @@
    "more": 0,
    "items": [
     {
-     "title": "Sunny",
-     "phrase": "Rain is near certain between 10pm and 5am.",
-     "detail": "It reaches 77\u00b0 today and falls to 59\u00b0 overnight. The sun is up from 6:32 until 7:11.",
+     "title": "Partly Sunny",
+     "phrase": "Rain is near certain between 12am and 7am.",
+     "detail": "It reaches 77\u00b0 today and falls to 60\u00b0 overnight. The sun is up from 6:32 until 7:11.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 69,
+     "temp": 74,
      "high": 77,
-     "low": 59,
+     "low": 60,
      "sunrise": "6:32",
      "sunset": "7:11",
      "id": "bb806d72c86dcec1",
@@ -69,11 +69,31 @@
    "more": 0,
    "items": [
     {
-     "title": "Iran Finds Escalation Is a Fruitful Path to Leverage in War With U.S.",
+     "title": "Anthropic C.E.O. Dario Amodei Calls for A.I. Slowdown",
+     "url": "https://www.nytimes.com/2026/09/12/technology/anthropic-dario-amodei-ai-slowdown.html",
+     "source": "New York Times",
+     "summary": "In an essay, the head of Anthropic laid out the rapidly advancing capabilities of artificial intelligence and said there needed to be greater safety controls across the industry.",
+     "published": "2026-09-12T18:30:24+00:00",
+     "image": "https://static01.nyt.com/images/2026/09/12/multimedia/12biz-anthropic-01-hwpt/12biz-anthropic-01-hwpt-mediumSquareAt3X.jpg",
+     "kind": "article",
+     "id": "4ee70cea304a66bb",
+     "first_seen": "2026-09-12T16:28:15.891286+00:00",
+     "is_new": true,
+     "corroboration": 4,
+     "also_in": [
+      "Axios",
+      "BBC",
+      "NPR"
+     ],
+     "boosted": false,
+     "score": 4
+    },
+    {
+     "title": "Iran Finds Escalation Is Fruitful Path to Leverage in War With U.S.",
      "url": "https://www.nytimes.com/2026/09/12/world/middleeast/iran-escalation-leverage-houthis-strait.html",
      "source": "New York Times",
      "summary": "Iran and its allies now hold sway over two key oil shipping routes, and Tehran is setting the stage for a diplomatic win that could enhance its stature.",
-     "published": "2026-09-12T15:23:03+00:00",
+     "published": "2026-09-12T18:07:10+00:00",
      "image": "https://static01.nyt.com/images/2026/09/13/multimedia/13int-iran-assess-02-kztm/13int-iran-assess-02-kztm-mediumSquareAt3X.jpg",
      "kind": "article",
      "id": "29a6bb4ae135fe22",
@@ -115,22 +135,6 @@
      "also_in": [],
      "boosted": true,
      "score": 4
-    },
-    {
-     "title": "Ukraine faces 'toughest winter' since Russia's full-scale invasion, UN official tells BBC",
-     "url": "https://www.bbc.co.uk/news/articles/cwyz59yyqk4o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "summary": "A senior UN official tells the BBC there is a race against the clock to ensure access to power and water through winter.",
-     "published": "2026-09-12T05:55:15+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/658c/live/322ba800-ae4e-11f1-b1d1-571ed4d7ff2c.jpg",
-     "kind": "article",
-     "id": "c3000382249f4e20",
-     "first_seen": "2026-09-12T10:08:01.110729+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
     }
    ]
   },
@@ -143,6 +147,18 @@
    "more": 0,
    "items": [
     {
+     "title": "This Mac Is Open Source Hardware",
+     "url": "https://hackaday.com/2026/09/12/this-mac-is-open-source-hardware/",
+     "source": "Hackaday",
+     "summary": "Apple hardware has always been proprietary, sometimes to an extreme. But that\u2019s not to say that it\u2019s impossible to make something that does the same job, which is what [DosFox1] \u2026\u2026",
+     "published": "2026-09-12T17:00:52+00:00",
+     "image": "https://hackaday.com/wp-content/uploads/2026/09/oshintosh-featured.jpg",
+     "kind": "article",
+     "id": "b72e36f23c207be5",
+     "first_seen": "2026-09-12T18:43:12.153236+00:00",
+     "is_new": true
+    },
+    {
      "title": "IoT Noise Monitoring with ESP8266 & KiwisIoT",
      "url": "https://www.hackster.io/varunprasadeng/iot-noise-monitoring-with-esp8266-kiwisiot-b1aba7",
      "source": "Hackster",
@@ -152,18 +168,6 @@
      "kind": "article",
      "id": "a1d49bc7d2b2e7c6",
      "first_seen": "2026-09-12T12:13:25.190188+00:00",
-     "is_new": true
-    },
-    {
-     "title": "How To Fold Curved Lines in Metal Without Fancy Tools",
-     "url": "https://hackaday.com/2026/09/11/how-to-fold-curved-lines-in-metal-without-fancy-tools/",
-     "source": "Hackaday",
-     "summary": "Folding a sheet of metal in a straight line is one thing, but how does one fold multiple curved lines into a sheet of aluminum without fancy machines? [John] demonstrates \u2026read mo\u2026",
-     "published": "2026-09-12T02:00:49+00:00",
-     "image": "https://hackaday.com/wp-content/uploads/2026/09/Belly-Tank-Lakester-_-Cosmetic-Exhaust-Splitter-Fabricated-_-Ep-101-8-36-screenshot-banner.png",
-     "kind": "article",
-     "id": "46057f5e0d9cf1a0",
-     "first_seen": "2026-09-12T10:08:01.110729+00:00",
      "is_new": true
     },
     {
