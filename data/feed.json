@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-12T21:10:21.153489+00:00",
+ "generated_at": "2026-09-12T23:04:47.829095+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,13 +10,13 @@
    "more": 0,
    "items": [
     {
-     "title": "Partly Sunny",
+     "title": "Mostly Cloudy",
      "phrase": "Rain is near certain between 12am and 10am.",
-     "detail": "It reaches 77\u00b0 today and falls to 60\u00b0 overnight. The sun is up from 6:32 until 7:11.",
+     "detail": "It reaches 78\u00b0 today and falls to 60\u00b0 overnight. The sun is up from 6:32 until 7:11.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 76,
-     "high": 77,
+     "temp": 73,
+     "high": 78,
      "low": 60,
      "sunrise": "6:32",
      "sunset": "7:11",
@@ -69,21 +69,21 @@
    "more": 0,
    "items": [
     {
-     "title": "Anthropic C.E.O. Dario Amodei Calls for A.I. Slowdown",
-     "url": "https://www.nytimes.com/2026/09/12/technology/anthropic-dario-amodei-ai-slowdown.html",
-     "source": "New York Times",
-     "summary": "In an essay, the head of Anthropic laid out the rapidly advancing capabilities of artificial intelligence and said there needed to be greater safety controls across the industry.",
-     "published": "2026-09-12T20:00:22+00:00",
-     "image": "https://static01.nyt.com/images/2026/09/12/multimedia/12biz-anthropic-01-hwpt/12biz-anthropic-01-hwpt-mediumSquareAt3X.jpg",
+     "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
+     "url": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "summary": "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
+     "published": "2026-09-12T21:16:47+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9256/live/a1802a30-aeb9-11f1-b1d1-571ed4d7ff2c.jpg",
      "kind": "article",
-     "id": "4ee70cea304a66bb",
+     "id": "4a1f65fbb7980462",
      "first_seen": "2026-09-12T16:28:15.891286+00:00",
      "is_new": true,
      "corroboration": 4,
      "also_in": [
       "Axios",
-      "BBC",
-      "NPR"
+      "NPR",
+      "New York Times"
      ],
      "boosted": false,
      "score": 4
@@ -147,15 +147,15 @@
    "more": 0,
    "items": [
     {
-     "title": "Big Infinity Mirror Clock Invites You To Gaze Deeply",
-     "url": "https://hackaday.com/2026/09/12/big-infinity-mirror-clock-invites-you-to-gaze-deeply/",
+     "title": "Making an Air-Powered Circular Saw with LEGO",
+     "url": "https://hackaday.com/2026/09/12/making-an-air-powered-circular-saw-with-lego/",
      "source": "Hackaday",
-     "summary": "[Andy Huot] has a fantastic-looking infinity mirror digital clock that really raises the bar. It uses high quality components, smart use of RGB LED animations, and a clever \u201cstack\u2026",
-     "published": "2026-09-12T20:00:27+00:00",
-     "image": "https://hackaday.com/wp-content/uploads/2026/09/infinity-mirror-clock-1.webp",
+     "summary": "Although building a table saw out of LEGO is probably not the first thing that comes to mind when you look at those colorful bits of plastic, [Jamie] has been \u2026read more",
+     "published": "2026-09-12T23:00:13+00:00",
+     "image": "https://hackaday.com/wp-content/uploads/2026/09/lego_table_saw_jamies_brick_jams_youtube.jpg",
      "kind": "article",
-     "id": "b22b98a0922b0a49",
-     "first_seen": "2026-09-12T21:10:21.153489+00:00",
+     "id": "871a4902377b8648",
+     "first_seen": "2026-09-12T23:04:47.829095+00:00",
      "is_new": true
     },
     {
