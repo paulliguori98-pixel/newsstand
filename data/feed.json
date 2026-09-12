@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-12T12:13:25.190188+00:00",
+ "generated_at": "2026-09-12T12:33:13.856504+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -224,6 +224,22 @@
    "more": 0,
    "items": [
     {
+     "title": "Allevol: Easy Americana and other passions",
+     "url": "https://www.permanentstyle.com/2026/09/allevol-easy-americana-and-other-passions.html",
+     "source": "Permanent Style",
+     "summary": "I always assumed Allevol , the brand run by Taka Okabe, was a recent start-up and sort of a house brand at Clutch . Probably because Clutch is where I first saw it, and Taka is th\u2026",
+     "published": "2026-09-11T08:00:58+00:00",
+     "image": "https://www.permanentstyle.com/wp-content/uploads/2026/09/0828_taka_for_ps_lowres_167A2807-1.jpg",
+     "kind": "article",
+     "id": "74788a4ab56065dd",
+     "first_seen": "2026-09-11T10:08:40.206273+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": false,
+     "score": 1
+    },
+    {
      "title": "Viberg x ACL",
      "url": "https://www.acl.news/p/viberg-x-acl",
      "source": "A Continuous Lean",
@@ -270,27 +286,9 @@
      "also_in": [],
      "boosted": false,
      "score": 1
-    },
-    {
-     "title": "Get Your Kicks (and Loafers)!",
-     "url": "https://www.putthison.com/get-your-kicks-and-loafers/",
-     "source": "Put This On",
-     "summary": "Hi everyone \u2013 it\u2019s Brynna, your Put This On Shopkeeper \u2013 here again with even more new stuff! Have you... The post Get Your Kicks (and Loafers)! appeared first on Put This On.",
-     "published": "2026-09-08T19:21:26+00:00",
-     "image": null,
-     "kind": "article",
-     "id": "904de041e033c926",
-     "first_seen": "2026-09-08T19:28:54.212289+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": false,
-     "score": 1
     }
    ]
   }
  ],
- "errors": [
-  "Permanent Style: RuntimeError \u2014 https://www.permanentstyle.com/feed \u2192 HTTP 415"
- ]
+ "errors": []
 }
