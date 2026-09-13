@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-13T19:44:27.800674+00:00",
+ "generated_at": "2026-09-13T22:03:45.103529+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,13 +10,13 @@
    "more": 0,
    "items": [
     {
-     "title": "Partly Sunny",
+     "title": "Partly Cloudy",
      "phrase": "An even chance of rain between 8pm and 3am.",
-     "detail": "It reaches 78\u00b0 today and falls to 55\u00b0 overnight. The sun is up from 6:33 until 7:09.",
+     "detail": "It reaches 69\u00b0 today and falls to 55\u00b0 overnight. The sun is up from 6:33 until 7:09.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 76,
-     "high": 78,
+     "temp": 75,
+     "high": 69,
      "low": 55,
      "sunrise": "6:33",
      "sunset": "7:09",
@@ -143,15 +143,15 @@
    "more": 0,
    "items": [
     {
-     "title": "Keeping Time on Tumbling Icosahedra",
-     "url": "https://hackaday.com/2026/09/13/keeping-time-on-tumbling-icosahedra/",
+     "title": "Rusting an E-scooter (In a Good Way)",
+     "url": "https://hackaday.com/2026/09/13/rusting-an-e-scooter-in-a-good-way/",
      "source": "Hackaday",
-     "summary": "Clocks are almost the ideal devices to inspire creativity in hackers \u2014 they have a simple, well-defined task, but there\u2019s an almost unlimited number of ways to carry it out. \u2026read\u2026",
-     "published": "2026-09-13T11:00:46+00:00",
-     "image": "https://hackaday.com/wp-content/uploads/2026/09/icosahedra_clock.png",
+     "summary": "It is a classic Hackaday situation. You have an Egret GT E-scooter. It has a screen that shows the usual dash stats, but that led to an annoyance. You could \u2026read more",
+     "published": "2026-09-13T20:00:03+00:00",
+     "image": "https://hackaday.com/wp-content/uploads/2026/09/can.png",
      "kind": "article",
-     "id": "8dec0c73ddb59179",
-     "first_seen": "2026-09-13T14:02:24.614721+00:00",
+     "id": "b129260dc79a2266",
+     "first_seen": "2026-09-13T22:03:45.103529+00:00",
      "is_new": true
     },
     {
@@ -222,15 +222,15 @@
    "more": 0,
    "items": [
     {
-     "title": "Why is Daddy Sad on Sunday?",
-     "url": "https://www.acl.news/p/why-is-daddy-sad-on-sunday",
-     "source": "A Continuous Lean",
-     "summary": "God, Please Don\u2019t Let My Son Be a Browns Fan",
-     "published": "2026-09-13T09:03:58+00:00",
-     "image": "https://substackcdn.com/image/fetch/$s_!gBLM!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F829188a8-1815-4a14-9486-129b126c0622_2560x1440.webp",
+     "title": "Reviewing My Own Travel Packing Advice",
+     "url": "https://www.menswearmusings.com/reviewing-my-own-travel-packing-advice/",
+     "source": "Menswear Musings",
+     "summary": "Is my 2017 packing advice for the UK still any good? The post Reviewing My Own Travel Packing Advice first appeared on Menswear Musings.",
+     "published": "2026-09-13T21:20:57+00:00",
+     "image": "https://i0.wp.com/www.menswearmusings.com/wp-content/uploads/2026/09/IMG_3490-2.jpg?fit=768%2C512&amp;ssl=1",
      "kind": "article",
-     "id": "a8052ff175d3623a",
-     "first_seen": "2026-09-13T14:02:24.614721+00:00",
+     "id": "1b53a16e81e069a0",
+     "first_seen": "2026-09-13T22:03:45.103529+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
@@ -254,6 +254,22 @@
      "score": 1
     },
     {
+     "title": "Why is Daddy Sad on Sunday?",
+     "url": "https://www.acl.news/p/why-is-daddy-sad-on-sunday",
+     "source": "A Continuous Lean",
+     "summary": "God, Please Don\u2019t Let My Son Be a Browns Fan",
+     "published": "2026-09-13T09:03:58+00:00",
+     "image": "https://substackcdn.com/image/fetch/$s_!gBLM!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F829188a8-1815-4a14-9486-129b126c0622_2560x1440.webp",
+     "kind": "article",
+     "id": "a8052ff175d3623a",
+     "first_seen": "2026-09-13T14:02:24.614721+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": false,
+     "score": 1
+    },
+    {
      "title": "Allevol: Easy Americana and other passions",
      "url": "https://www.permanentstyle.com/2026/09/allevol-easy-americana-and-other-passions.html",
      "source": "Permanent Style",
@@ -263,22 +279,6 @@
      "kind": "article",
      "id": "74788a4ab56065dd",
      "first_seen": "2026-09-11T10:08:40.206273+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": false,
-     "score": 1
-    },
-    {
-     "title": "Viberg x ACL",
-     "url": "https://www.acl.news/p/viberg-x-acl",
-     "source": "A Continuous Lean",
-     "summary": "The Field Chukka",
-     "published": "2026-09-10T16:06:23+00:00",
-     "image": "https://substackcdn.com/image/fetch/$s_!J5p-!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc5f8c31b-2746-4860-8936-231185f8d731_1365x2048.jpeg",
-     "kind": "article",
-     "id": "e2bc10bed30f3fa6",
-     "first_seen": "2026-09-10T16:29:36.195034+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
