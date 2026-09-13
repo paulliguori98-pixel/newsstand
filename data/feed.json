@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-13T17:26:08.803567+00:00",
+ "generated_at": "2026-09-13T19:44:27.800674+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -11,13 +11,13 @@
    "items": [
     {
      "title": "Partly Sunny",
-     "phrase": "A one-in-three chance of rain between 7pm and 3am.",
-     "detail": "It reaches 79\u00b0 today and falls to 56\u00b0 overnight. The sun is up from 6:33 until 7:09.",
+     "phrase": "An even chance of rain between 8pm and 3am.",
+     "detail": "It reaches 78\u00b0 today and falls to 55\u00b0 overnight. The sun is up from 6:33 until 7:09.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 72,
-     "high": 79,
-     "low": 56,
+     "temp": 76,
+     "high": 78,
+     "low": 55,
      "sunrise": "6:33",
      "sunset": "7:09",
      "id": "bb806d72c86dcec1",
@@ -69,14 +69,14 @@
    "more": 0,
    "items": [
     {
-     "title": "Russian drone hits Kyiv-Warsaw passenger train near Polish border",
-     "url": "https://www.theguardian.com/world/2026/sep/13/russian-drone-hits-kyiv-warsaw-passenger-train-polish-border",
-     "source": "Guardian",
-     "summary": "No casualties reported as Ukraine\u2019s foreign minister says \u2018Putin\u2019s terror knocking directly on doors of EU and Nato\u2019A passenger train travelling from Kyiv to Warsaw was hit by a R\u2026",
-     "published": "2026-09-13T16:57:43+00:00",
-     "image": "https://i.guim.co.uk/img/media/adbd895a4b9bc1f72e9a36c988ae2c2a18f9518c/171_0_1707_1366/master/1707.jpg?width=140&quality=85&auto=format&fit=max&s=58ac70d430ddf5f072a51e98ccd2ae8d",
+     "title": "Trump says he will remove all Irish whiskey tariffs as he ends two-day visit",
+     "url": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "summary": "Whiskey distilled in the Republic of Ireland faces the standard 15% tariff which applies to EU goods entering the US.",
+     "published": "2026-09-13T19:34:36+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31a6/live/33fb3fc0-af7e-11f1-913a-7151f234deb3.jpg",
      "kind": "article",
-     "id": "60c143ff7934adeb",
+     "id": "162a032f2fe57bf9",
      "first_seen": "2026-09-13T17:26:08.803567+00:00",
      "is_new": true,
      "corroboration": 1,
@@ -85,11 +85,11 @@
      "score": 4
     },
     {
-     "title": "Trump downplays AI risks after dire expert warnings and calls to slow development down",
+     "title": "Trump downplays warnings of AI risks, citing rivalry with China",
      "url": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
      "summary": "The US President said \"negative forces\" were airing concerns about \"things that won't happen\".",
-     "published": "2026-09-13T16:29:27+00:00",
+     "published": "2026-09-13T18:49:37+00:00",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05d0/live/2a71c0a0-af92-11f1-bc1f-3f186ca4140c.jpg",
      "kind": "article",
      "id": "685eb5ef4b7791fb",
@@ -254,6 +254,22 @@
      "score": 1
     },
     {
+     "title": "Allevol: Easy Americana and other passions",
+     "url": "https://www.permanentstyle.com/2026/09/allevol-easy-americana-and-other-passions.html",
+     "source": "Permanent Style",
+     "summary": "I always assumed Allevol , the brand run by Taka Okabe, was a recent start-up and sort of a house brand at Clutch . Probably because Clutch is where I first saw it, and Taka is th\u2026",
+     "published": "2026-09-11T08:00:58+00:00",
+     "image": "https://www.permanentstyle.com/wp-content/uploads/2026/09/0828_taka_for_ps_lowres_167A2807-1.jpg",
+     "kind": "article",
+     "id": "74788a4ab56065dd",
+     "first_seen": "2026-09-11T10:08:40.206273+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": false,
+     "score": 1
+    },
+    {
      "title": "Viberg x ACL",
      "url": "https://www.acl.news/p/viberg-x-acl",
      "source": "A Continuous Lean",
@@ -268,27 +284,9 @@
      "also_in": [],
      "boosted": false,
      "score": 1
-    },
-    {
-     "title": "Recommends: Alex Crane Chunky Sweaters",
-     "url": "https://www.menswearmusings.com/recommends-alex-crane-chunky-sweaters/",
-     "source": "Menswear Musings",
-     "summary": "A couple nice sweaters for colder temps on the way. The post Recommends: Alex Crane Chunky Sweaters first appeared on Menswear Musings.",
-     "published": "2026-09-10T02:21:33+00:00",
-     "image": "https://i0.wp.com/www.menswearmusings.com/wp-content/uploads/2026/09/Ecom_ValeSweater_Indigo_5.jpg-scaled.webp?fit=768%2C960&amp;ssl=1",
-     "kind": "article",
-     "id": "5381e0a0b2865ea0",
-     "first_seen": "2026-09-10T10:08:43.278552+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": false,
-     "score": 1
     }
    ]
   }
  ],
- "errors": [
-  "Permanent Style: RuntimeError \u2014 https://www.permanentstyle.com/feed \u2192 HTTP 415"
- ]
+ "errors": []
 }
