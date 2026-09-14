@@ -1593,10 +1593,10 @@
   "first_seen": "2026-08-25T17:51:02.752039+00:00"
  },
  "1b180e6220539d11": {
-  "title": "Tracksmith Eliot Runner",
+  "title": "Men's Tracksmith Eliot Runner",
   "url": "https://www.tracksmith.com/products/m-tracksmith-eliot-runner?sku=FT1001070WTAWAW",
   "source": "Tracksmith",
-  "image": "https://cdn.shopify.com/s/files/1/1594/4353/files/Fall26-Tracksmith-Eliot-Runner-Wine-Ivory-2.png?v=1787668273&width=800&height=800&crop=center",
+  "image": "https://cdn-image.tracksmith.com/1730210543-tracksmith-eliot-runner-u.jpg?auto=format,compress&crop=faces&dpr=2&fit=crop&h=560&w=420",
   "price": "$198",
   "published": null,
   "first_seen": "2026-08-28T01:31:34.864033+00:00"
@@ -1614,7 +1614,7 @@
   "title": "Van Cortlandt Tee",
   "url": "https://www.tracksmith.com/products/m-van-cortlandt-tee?sku=MT21301NARAW",
   "source": "Tracksmith",
-  "image": "https://cdn.shopify.com/s/files/1/1594/4353/files/Fall26-Mens-Harrier-Long-Sleeve-Golden-Brown-Narcissus_69e19ba6-00c1-4b0f-a7d0-b6c843b8b276.png?v=1787580921&width=800&height=800&crop=center",
+  "image": "https://cdn-image.tracksmith.com/1787249868-plp-rollover-image-5.jpg?auto=format,compress&crop=faces&dpr=2&fit=crop&h=560&w=420",
   "price": "$80",
   "published": null,
   "first_seen": "2026-08-28T01:31:34.864033+00:00"
@@ -1623,7 +1623,7 @@
   "title": "Van Cortlandt Singlet",
   "url": "https://www.tracksmith.com/products/m-van-cortlandt-singlet?sku=MT21401RAZAW",
   "source": "Tracksmith",
-  "image": "https://cdn.shopify.com/s/files/1/1594/4353/files/Fall26-Mens-Van-Cortlandt-Singlet-Rasberry-Ivory.png?v=1787233275&width=800&height=800&crop=center",
+  "image": "https://cdn-image.tracksmith.com/1787231382-plp-rollover-image-1.jpg?auto=format,compress&crop=faces&dpr=2&fit=crop&h=560&w=420",
   "price": "$75",
   "published": null,
   "first_seen": "2026-08-28T01:31:34.864033+00:00"
@@ -1632,7 +1632,7 @@
   "title": "Van Cortlandt Shorts",
   "url": "https://www.tracksmith.com/products/m-van-cortlandt-shorts?sku=MB311001RR",
   "source": "Tracksmith",
-  "image": "https://cdn.shopify.com/s/files/1/1594/4353/files/Fall26-Mens-Van-Cortlandt-Shorts-Racing-Red.png?v=1787245702&width=800&height=800&crop=center",
+  "image": "https://cdn-image.tracksmith.com/1772497242-plp-rollover-image.png?auto=format,compress&crop=faces&dpr=2&fit=crop&h=560&w=420",
   "price": "$75",
   "published": null,
   "first_seen": "2026-08-28T01:31:34.864033+00:00"
@@ -1650,7 +1650,7 @@
   "title": "Twilight Shorts",
   "url": "https://www.tracksmith.com/products/m-twilight-shorts?sku=MB326301TEM",
   "source": "Tracksmith",
-  "image": "https://cdn.shopify.com/s/files/1/1594/4353/files/Fall26-Mens-Twilight-Woven-Short-Wild-Wind.png?v=1787587078&width=800&height=800&crop=center",
+  "image": "https://cdn-image.tracksmith.com/1787320729-plp-rollover-image-10.jpg?auto=format,compress&crop=faces&dpr=2&fit=crop&h=560&w=420",
   "price": "$75",
   "published": null,
   "first_seen": "2026-08-28T01:31:34.864033+00:00"
@@ -1659,7 +1659,7 @@
   "title": "Twilight Tank",
   "url": "https://www.tracksmith.com/products/m-twilight-tank?sku=MT223601CAB",
   "source": "Tracksmith",
-  "image": "https://cdn.shopify.com/s/files/1/1594/4353/files/Fall26-Mens-Twilight-Tank-Cabernet.png?v=1787249031&width=800&height=800&crop=center",
+  "image": "https://cdn-image.tracksmith.com/1742825576-tracksmith_twilight_feb2025_4117-cropped.jpg?auto=format,compress&crop=faces&dpr=2&fit=crop&h=560&w=420",
   "price": "$65",
   "published": null,
   "first_seen": "2026-08-28T01:31:34.864033+00:00"
@@ -1677,7 +1677,7 @@
   "title": "Twilight Half Tights",
   "url": "https://www.tracksmith.com/products/m-twilight-half-tights?sku=MB324701NCAB",
   "source": "Tracksmith",
-  "image": "https://cdn.shopify.com/s/files/1/1594/4353/files/Fall26-Mens-Twilight-Half-Tights-Navy-Cabernet-On-Model_4f939498-809d-4a80-bc66-6914e0596d80.png?v=1787587244&width=800&height=800&crop=center",
+  "image": "https://cdn-image.tracksmith.com/1787321166-plp-rollover-image-11.jpg?auto=format,compress&crop=faces&dpr=2&fit=crop&h=560&w=420",
   "price": "$90",
   "published": null,
   "first_seen": "2026-08-28T01:31:34.864033+00:00"
@@ -1695,7 +1695,7 @@
   "title": "Twilight Long Sleeve",
   "url": "https://www.tracksmith.com/products/m-twilight-long-sleeve?sku=MT223901CAB",
   "source": "Tracksmith",
-  "image": "https://cdn.shopify.com/s/files/1/1594/4353/files/Fall26-Mens-Twilight-Long-Sleeve-Cabernet.png?v=1787249003&width=800&height=800&crop=center",
+  "image": "https://cdn-image.tracksmith.com/1742828256-tracksmith_twilight_feb2025_3544-cropped.jpg?auto=format,compress&crop=faces&dpr=2&fit=crop&h=560&w=420",
   "price": "$80",
   "published": null,
   "first_seen": "2026-08-28T01:31:34.864033+00:00"
@@ -1704,7 +1704,7 @@
   "title": "Twilight Split Shorts",
   "url": "https://www.tracksmith.com/products/m-twilight-split-shorts?sku=MB325701CAB",
   "source": "Tracksmith",
-  "image": "https://cdn.shopify.com/s/files/1/1594/4353/files/Fall26-Mens-Twilight-Split-Shorts-Cabernet.png?v=1787249021&width=800&height=800&crop=center",
+  "image": "https://cdn-image.tracksmith.com/1730212114-twilight-split-shorts-m.jpg?auto=format,compress&crop=faces&dpr=2&fit=crop&h=560&w=420",
   "price": "$70",
   "published": null,
   "first_seen": "2026-08-28T01:31:34.864033+00:00"
@@ -1731,7 +1731,7 @@
   "title": "Brighton Base Layer",
   "url": "https://www.tracksmith.com/products/m-brighton-base-layer-ls?sku=MT21702NRRS",
   "source": "Tracksmith",
-  "image": "https://cdn.shopify.com/s/files/1/1594/4353/files/Fall26-Mens-Brighton-Base-Layer-Navy-Red-On-Model.png?v=1787248983&width=800&height=800&crop=center",
+  "image": "https://cdn-image.tracksmith.com/1787599960-plp-rollover-image.jpg?auto=format,compress&crop=faces&dpr=2&fit=crop&h=560&w=420",
   "price": "$100",
   "published": null,
   "first_seen": "2026-08-28T01:31:34.864033+00:00"
@@ -1758,7 +1758,7 @@
   "title": "Session Long Sleeve",
   "url": "https://www.tracksmith.com/products/m-session-long-sleeve?sku=MT210001NAR",
   "source": "Tracksmith",
-  "image": "https://cdn.shopify.com/s/files/1/1594/4353/files/Fall26-Mens-Session-Long-Sleeve-Narcissus_2b5a5c9f-9d8e-456e-a22d-d3ecb570d75a.png?v=1787596317&width=800&height=800&crop=center",
+  "image": "https://cdn-image.tracksmith.com/1739470855-m-session-long-sleeve-hover.jpg?auto=format,compress&crop=faces&dpr=2&fit=crop&h=560&w=420",
   "price": "$90",
   "published": null,
   "first_seen": "2026-08-28T01:31:34.864033+00:00"
@@ -2923,5 +2923,167 @@
   "price": "$295",
   "published": "2026-09-10T15:29:49-04:00",
   "first_seen": "2026-09-12T21:10:21.153489+00:00"
+ },
+ "c58b3ad90221be5b": {
+  "title": "Harrier Long Sleeve",
+  "url": "https://www.tracksmith.com/products/m-harrier-long-sleeve?sku=MT222201RR",
+  "source": "Tracksmith",
+  "image": "https://cdn-image.tracksmith.com/1787604520-screenshot-2026-02-10-at-1-00-45-pm-1.jpg?auto=format,compress&crop=faces&dpr=2&fit=crop&h=560&w=420",
+  "price": "$110",
+  "published": null,
+  "first_seen": "2026-09-14T20:19:58.564730+00:00"
+ },
+ "b72806162645f961": {
+  "title": "Men's Tracksmith Eliot Ryder",
+  "url": "https://www.tracksmith.com/products/m-tracksmith-eliot-ryder?sku=FT1005070WT",
+  "source": "Tracksmith",
+  "image": "https://cdn-image.tracksmith.com/1782945054-plp-rollover-image-1.jpg?auto=format,compress&crop=faces&dpr=2&fit=crop&h=560&w=420",
+  "price": "$220",
+  "published": null,
+  "first_seen": "2026-09-14T20:19:58.564730+00:00"
+ },
+ "8a0ed3142c2fb69a": {
+  "title": "Twilight Tee",
+  "url": "https://www.tracksmith.com/products/m-twilight-tee?sku=MT223701CAB",
+  "source": "Tracksmith",
+  "image": "https://cdn-image.tracksmith.com/1742824643-tracksmith_twilight_feb2025_6277-cropped.jpg?auto=format,compress&crop=faces&dpr=2&fit=crop&h=560&w=420",
+  "price": "$70",
+  "published": null,
+  "first_seen": "2026-09-14T20:19:58.564730+00:00"
+ },
+ "f645a130b51686bc": {
+  "title": "Van Cortlandt Long Sleeve",
+  "url": "https://www.tracksmith.com/products/m-van-cortlandt-long-sleeve?sku=MT201201RAZAW",
+  "source": "Tracksmith",
+  "image": "https://cdn-image.tracksmith.com/1787247029-plp-rollover-image-4.jpg?auto=format,compress&crop=faces&dpr=2&fit=crop&h=560&w=420",
+  "price": "$90",
+  "published": null,
+  "first_seen": "2026-09-14T20:19:58.564730+00:00"
+ },
+ "b2a05076d22bdb70": {
+  "title": "Harrier Tee",
+  "url": "https://www.tracksmith.com/products/m-harrier-tee?sku=MT220701N",
+  "source": "Tracksmith",
+  "image": "https://cdn-image.tracksmith.com/1787601883-plp-rollover-image.jpg?auto=format,compress&crop=faces&dpr=2&fit=crop&h=560&w=420",
+  "price": "$100",
+  "published": null,
+  "first_seen": "2026-09-14T20:19:58.564730+00:00"
+ },
+ "c761b548cc9688fb": {
+  "title": "Sydney Tee",
+  "url": "https://www.tracksmith.com/products/m-sydney-tee?sku=MT213SYD2601PONSP",
+  "source": "Tracksmith",
+  "image": "https://cdn-image.tracksmith.com/1785521892-sydney26-mens-van-cortlandt-tee-detail-01-0317.jpg?auto=format,compress&crop=faces&dpr=2&fit=crop&h=560&w=420",
+  "price": "$80",
+  "published": null,
+  "first_seen": "2026-09-14T20:19:58.564730+00:00"
+ },
+ "893303e1e9a69cfa": {
+  "title": "Berlin Tee",
+  "url": "https://www.tracksmith.com/products/m-berlin-tee?sku=MT213BER2602PRTCRM",
+  "source": "Tracksmith",
+  "image": "https://cdn-image.tracksmith.com/1785774961-berlin26-mens-van-cortlandt-tee-detail-01-0316.jpg?auto=format,compress&crop=faces&dpr=2&fit=crop&h=560&w=420",
+  "price": "$80",
+  "published": null,
+  "first_seen": "2026-09-14T20:19:58.564730+00:00"
+ },
+ "3dd48c3acc313ec1": {
+  "title": "Brighton Base Layer - Sydney",
+  "url": "https://www.tracksmith.com/products/m-sydney-brighton-base-layer?sku=MT217SYD2602DEGPON",
+  "source": "Tracksmith",
+  "image": "https://cdn-image.tracksmith.com/1785785830-description-panel-1-1.png?auto=format,compress&crop=faces&dpr=2&fit=crop&h=560&w=420",
+  "price": "$110",
+  "published": null,
+  "first_seen": "2026-09-14T20:19:58.564730+00:00"
+ },
+ "e496cac7215c8774": {
+  "title": "Berlin Reversible Singlet",
+  "url": "https://www.tracksmith.com/products/m-berlin-reversible-singlet?sku=MT2253BER2601CRMPRTYY",
+  "source": "Tracksmith",
+  "image": "https://cdn-image.tracksmith.com/1785520839-berlin26-mens-kit-hero-0241.jpg?auto=format,compress&crop=faces&dpr=2&fit=crop&h=560&w=420",
+  "price": "$90",
+  "published": null,
+  "first_seen": "2026-09-14T20:19:58.564730+00:00"
+ },
+ "62861c9228305610": {
+  "title": "Sydney Reversible Singlet",
+  "url": "https://www.tracksmith.com/products/m-sydney-reversible-singlet?sku=MT2253SYD2601SPPONDEG",
+  "source": "Tracksmith",
+  "image": "https://cdn-image.tracksmith.com/1785520847-sydney26-mens-kit-hero-0258.jpg?auto=format,compress&crop=faces&dpr=2&fit=crop&h=560&w=420",
+  "price": "$90",
+  "published": null,
+  "first_seen": "2026-09-14T20:19:58.564730+00:00"
+ },
+ "e4dcf40e97063849": {
+  "title": "Heirloom Sweatshirt - Sydney",
+  "url": "https://www.tracksmith.com/products/m-heirloom-sweatshirt-sydney?sku=MT238MJRSYD01NEM",
+  "source": "Tracksmith",
+  "image": "https://cdn-image.tracksmith.com/1756223545-summer25-mens-heirloom-hoodie-sydney-detail-03-0167.jpg?auto=format,compress&crop=faces&dpr=2&fit=crop&h=560&w=420",
+  "price": "$255",
+  "published": null,
+  "first_seen": "2026-09-14T20:19:58.564730+00:00"
+ },
+ "52614074ca5ecfab": {
+  "title": "Heirloom Sweatshirt - Berlin",
+  "url": "https://www.tracksmith.com/products/m-heirloom-sweatshirt-berlin?sku=MT238MJRBER01NMP",
+  "source": "Tracksmith",
+  "image": "https://cdn-image.tracksmith.com/1758042671-summer25-mens-heirloom-hoodie-berlin-detail-03-0433.jpg?auto=format,compress&crop=faces&dpr=2&fit=crop&h=560&w=420",
+  "price": "$255",
+  "published": null,
+  "first_seen": "2026-09-14T20:19:58.564730+00:00"
+ },
+ "dd0733f3c2fa99a3": {
+  "title": "Sydney Long Sleeve",
+  "url": "https://www.tracksmith.com/products/m-sydney-long-sleeve?sku=MT2277SYD2601SPPONDEG",
+  "source": "Tracksmith",
+  "image": "https://cdn-image.tracksmith.com/1785521890-sydney26-womens-van-cortlandt-tee-detail-01-0323.jpg?auto=format,compress&crop=faces&dpr=2&fit=crop&h=560&w=420",
+  "price": "$90",
+  "published": null,
+  "first_seen": "2026-09-14T20:19:58.564730+00:00"
+ },
+ "7a81f2ba7025cae2": {
+  "title": "Off-White Featherweight Terry Crewneck",
+  "url": "https://www.buckmason.com/products/off-white-featherweight-terry-crewneck",
+  "source": "Buck Mason",
+  "image": "https://cdn.shopify.com/s/files/1/0123/5065/2473/files/BM15129.1298_FEATHERWEIGHTTERRYCREWNECKOFF-WHITE_1.jpg?v=1789408155",
+  "price": "$128",
+  "published": "2026-07-10T20:22:26+00:00",
+  "first_seen": "2026-09-14T20:19:58.564730+00:00"
+ },
+ "e2f9356b1a5f58a4": {
+  "title": "Olive Brown Featherweight Terry Crewneck",
+  "url": "https://www.buckmason.com/products/olive-brown-featherweight-terry-crewneck",
+  "source": "Buck Mason",
+  "image": "https://cdn.shopify.com/s/files/1/0123/5065/2473/files/BM15129.1298_FEATHERWEIGHTTERRYCREWNECKOLIVEBROWN_1.jpg?v=1789412181",
+  "price": "$128",
+  "published": "2026-07-10T20:22:26+00:00",
+  "first_seen": "2026-09-14T20:19:58.564730+00:00"
+ },
+ "2c3a8ca85b4926e4": {
+  "title": "Dry Burgundy Featherweight Terry Crewneck",
+  "url": "https://www.buckmason.com/products/dry-burgundy-featherweight-terry-crewneck",
+  "source": "Buck Mason",
+  "image": "https://cdn.shopify.com/s/files/1/0123/5065/2473/files/BM15129.1298_FEATHERWEIGHTTERRYCREWNECKDRYBURGUNDY_1.jpg?v=1789406088",
+  "price": "$128",
+  "published": "2026-07-10T20:22:25+00:00",
+  "first_seen": "2026-09-14T20:19:58.564730+00:00"
+ },
+ "4f25a627814c7c23": {
+  "title": "Black Featherweight Terry Crewneck",
+  "url": "https://www.buckmason.com/products/black-featherweight-terry-crewneck",
+  "source": "Buck Mason",
+  "image": "https://cdn.shopify.com/s/files/1/0123/5065/2473/files/BM15129.1298_FEATHERWEIGHTTERRYCREWNECKBLACK_1.jpg?v=1789412053",
+  "price": "$128",
+  "published": "2026-07-10T20:22:24+00:00",
+  "first_seen": "2026-09-14T20:19:58.564730+00:00"
+ },
+ "b55cbb48ab3fbff5": {
+  "title": "Bark Paperback Twill Ford Standard Chino",
+  "url": "https://www.buckmason.com/products/bark-paperback-twill-ford-standard-chino",
+  "source": "Buck Mason",
+  "image": "https://cdn.shopify.com/s/files/1/0123/5065/2473/files/BM14184.1575_PAPERBACKTWILLFORDSTANDARDCHINOBARK_1_1.jpg?v=1789405749",
+  "price": "$168",
+  "published": "2026-07-10T20:22:09+00:00",
+  "first_seen": "2026-09-14T20:19:58.564730+00:00"
  }
 }

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-14T16:08:13.611508+00:00",
+ "generated_at": "2026-09-14T20:19:58.564730+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -12,12 +12,12 @@
     {
      "title": "Sunny",
      "phrase": "Sunny all day.",
-     "detail": "It reaches 71\u00b0 today and falls to 41\u00b0 overnight. The sun is up from 6:34 until 7:07.",
+     "detail": "It reaches 71\u00b0 today and falls to 44\u00b0 overnight. The sun is up from 6:34 until 7:07.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 66,
+     "temp": 70,
      "high": 71,
-     "low": 41,
+     "low": 44,
      "sunrise": "6:34",
      "sunset": "7:07",
      "id": "bb806d72c86dcec1",
@@ -69,15 +69,15 @@
    "more": 0,
    "items": [
     {
-     "title": "The Escalating Warnings About A.I., and the Rise of a Deadly New Street Drug",
-     "url": "https://www.nytimes.com/2026/09/14/podcasts/the-headlines/warnings-ai-deadly-street-drug.html",
-     "source": "New York Times",
-     "summary": "Plus, the man who went to space \u2014 and never wanted to go back.",
-     "published": "2026-09-14T15:04:52+00:00",
-     "image": "https://static01.nyt.com/images/2026/09/14/multimedia/14headlines-ai-gbzk/14headlines-ai-gbzk-mediumSquareAt3X.jpg",
+     "title": "U.S. Sanctions Russian Bank in Latest Target for Campaign Against Iran",
+     "url": "https://www.wsj.com/finance/regulation/u-s-sanctions-russian-bank-in-latest-target-for-campaign-against-iran-080a1422?mod=rss_markets_main",
+     "source": "WSJ",
+     "summary": "The Treasury put additional sanctions on Russia\u2019s VTB Bank, in a bid to pressure foreign banks to cut ties with the institution.",
+     "published": "2026-09-14T19:12:00+00:00",
+     "image": "https://images.wsj.net/im-48631852",
      "kind": "article",
-     "id": "78f50f7a1a138137",
-     "first_seen": "2026-09-14T16:08:13.611508+00:00",
+     "id": "4373c6ef4639a94f",
+     "first_seen": "2026-09-14T20:19:58.564730+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
@@ -85,30 +85,14 @@
      "score": 4
     },
     {
-     "title": "Global Warming Will Breach the 1.5 Degree Celsius Limit. Now What?",
-     "url": "https://www.nytimes.com/2026/09/14/climate/global-warming-limit-paris-climate-agreement.html",
+     "title": "China\u2019s Top Spy Chief Warns A.I. Is a Threat to Party Rule",
+     "url": "https://www.nytimes.com/2026/09/14/world/asia/china-ai-security-risks-anthropic.html",
      "source": "New York Times",
-     "summary": "As global temperature increase shoots past 1.5 degrees Celsius, the vulnerable countries that fought for that Paris Agreement target face a brutal new reality.",
-     "published": "2026-09-14T14:36:31+00:00",
-     "image": "https://static01.nyt.com/images/2026/09/12/multimedia/12CLI-warming-breach-01-qmjg/12CLI-warming-breach-01-qmjg-mediumSquareAt3X.jpg",
+     "summary": "Even as Beijing urges the United States not to hype the dangers of A.I., its own spy chief is framing the technology as a threat to the Communist Party\u2019s security.",
+     "published": "2026-09-14T17:38:15+00:00",
+     "image": "https://static01.nyt.com/images/2026/09/14/multimedia/14int-china-ai-security-clqg/14int-china-ai-security-clqg-mediumSquareAt3X.jpg",
      "kind": "article",
-     "id": "4396bfb14ccafaae",
-     "first_seen": "2026-09-14T16:08:13.611508+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "Alaska Sen. Dan Sullivan Walks a Tricky Line on Tariffs as He Seeks Re-Election",
-     "url": "https://www.nytimes.com/2026/09/14/us/politics/sullivan-trump-republican-tariffs-alaska.html",
-     "source": "New York Times",
-     "summary": "Senator Dan Sullivan of Alaska has shown quiet support for President Trump\u2019s tariffs. His brother, the head of their family business, has described the economic volatility as an e\u2026",
-     "published": "2026-09-14T13:31:47+00:00",
-     "image": "https://static01.nyt.com/images/2026/09/14/multimedia/14pol-sullivan-tariffs-tqbv/14pol-sullivan-tariffs-tqbv-mediumSquareAt3X.jpg",
-     "kind": "article",
-     "id": "b2a72dc90ec8bc3b",
+     "id": "df4b8c701ca3eca7",
      "first_seen": "2026-09-14T16:08:13.611508+00:00",
      "is_new": true,
      "corroboration": 1,
@@ -126,6 +110,22 @@
      "kind": "article",
      "id": "c7fd767f02b33caf",
      "first_seen": "2026-09-14T16:08:13.611508+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
+     "title": "Trump says he will remove all Irish whiskey tariffs as he ends two-day visit",
+     "url": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "summary": "Whiskey distilled in the Republic of Ireland faces the standard 15% tariff which applies to EU goods entering the US.",
+     "published": "2026-09-13T19:34:36+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49cc/live/4052f240-afe7-11f1-bdba-250c0ca3cf02.jpg",
+     "kind": "article",
+     "id": "162a032f2fe57bf9",
+     "first_seen": "2026-09-13T17:26:08.803567+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
@@ -210,8 +210,59 @@
    "kind": "goods",
    "lead_image": false,
    "row_detail": false,
-   "more": 0,
-   "items": []
+   "more": 14,
+   "items": [
+    {
+     "title": "Harrier Long Sleeve",
+     "url": "https://www.tracksmith.com/products/m-harrier-long-sleeve?sku=MT222201RR",
+     "source": "Tracksmith",
+     "summary": "",
+     "published": null,
+     "image": "https://cdn-image.tracksmith.com/1787604520-screenshot-2026-02-10-at-1-00-45-pm-1.jpg?auto=format,compress&crop=faces&dpr=2&fit=crop&h=560&w=420",
+     "price": "$110",
+     "kind": "product",
+     "id": "c58b3ad90221be5b",
+     "first_seen": "2026-09-14T20:19:58.564730+00:00",
+     "is_new": true
+    },
+    {
+     "title": "Off-White Featherweight Terry Crewneck",
+     "url": "https://www.buckmason.com/products/off-white-featherweight-terry-crewneck",
+     "source": "Buck Mason",
+     "image": "https://cdn.shopify.com/s/files/1/0123/5065/2473/files/BM15129.1298_FEATHERWEIGHTTERRYCREWNECKOFF-WHITE_1.jpg?v=1789408155",
+     "price": "$128",
+     "published": "2026-07-10T20:22:26+00:00",
+     "kind": "product",
+     "id": "7a81f2ba7025cae2",
+     "first_seen": "2026-09-14T20:19:58.564730+00:00",
+     "is_new": true
+    },
+    {
+     "title": "Men's Tracksmith Eliot Ryder",
+     "url": "https://www.tracksmith.com/products/m-tracksmith-eliot-ryder?sku=FT1005070WT",
+     "source": "Tracksmith",
+     "summary": "",
+     "published": null,
+     "image": "https://cdn-image.tracksmith.com/1782945054-plp-rollover-image-1.jpg?auto=format,compress&crop=faces&dpr=2&fit=crop&h=560&w=420",
+     "price": "$220",
+     "kind": "product",
+     "id": "b72806162645f961",
+     "first_seen": "2026-09-14T20:19:58.564730+00:00",
+     "is_new": true
+    },
+    {
+     "title": "Olive Brown Featherweight Terry Crewneck",
+     "url": "https://www.buckmason.com/products/olive-brown-featherweight-terry-crewneck",
+     "source": "Buck Mason",
+     "image": "https://cdn.shopify.com/s/files/1/0123/5065/2473/files/BM15129.1298_FEATHERWEIGHTTERRYCREWNECKOLIVEBROWN_1.jpg?v=1789412181",
+     "price": "$128",
+     "published": "2026-07-10T20:22:26+00:00",
+     "kind": "product",
+     "id": "e2f9356b1a5f58a4",
+     "first_seen": "2026-09-14T20:19:58.564730+00:00",
+     "is_new": true
+    }
+   ]
   },
   {
    "id": "dispatches",
@@ -221,22 +272,6 @@
    "row_detail": false,
    "more": 0,
    "items": [
-    {
-     "title": "Sneak peeks of the new Donegal",
-     "url": "https://www.permanentstyle.com/2026/09/sneak-peeks-of-the-new-donegal.html",
-     "source": "Permanent Style",
-     "summary": "Last week we did our regular shoot for the new overcoat this winter \u2013 of the new colour of the Donegal coat. The shots were so good that I shared one on Instagram, but have subseq\u2026",
-     "published": "2026-09-14T08:00:12+00:00",
-     "image": "https://www.permanentstyle.com/wp-content/uploads/2026/09/unnamed-6.jpg",
-     "kind": "article",
-     "id": "78ee332285bb245a",
-     "first_seen": "2026-09-14T16:08:13.611508+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": false,
-     "score": 1
-    },
     {
      "title": "Reviewing My Own Travel Packing Advice",
      "url": "https://www.menswearmusings.com/reviewing-my-own-travel-packing-advice/",
@@ -284,9 +319,27 @@
      "also_in": [],
      "boosted": false,
      "score": 1
+    },
+    {
+     "title": "Viberg x ACL",
+     "url": "https://www.acl.news/p/viberg-x-acl",
+     "source": "A Continuous Lean",
+     "summary": "The Field Chukka",
+     "published": "2026-09-10T16:06:23+00:00",
+     "image": "https://substackcdn.com/image/fetch/$s_!J5p-!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc5f8c31b-2746-4860-8936-231185f8d731_1365x2048.jpeg",
+     "kind": "article",
+     "id": "e2bc10bed30f3fa6",
+     "first_seen": "2026-09-10T16:29:36.195034+00:00",
+     "is_new": false,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": false,
+     "score": 1
     }
    ]
   }
  ],
- "errors": []
+ "errors": [
+  "Permanent Style: RuntimeError \u2014 https://www.permanentstyle.com/feed \u2192 HTTP 415"
+ ]
 }
