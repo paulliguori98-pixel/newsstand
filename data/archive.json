@@ -3085,5 +3085,14 @@
   "price": "$168",
   "published": "2026-07-10T20:22:09+00:00",
   "first_seen": "2026-09-14T20:19:58.564730+00:00"
+ },
+ "5887075020591e21": {
+  "title": "Heirloom Sweatshirt - Sydney",
+  "url": "https://www.tracksmith.com/products/m-heirloom-sweatshirt-sydney?sku=MT238MJRSYD02NEM",
+  "source": "Tracksmith",
+  "image": "https://cdn-image.tracksmith.com/1756223545-summer25-mens-heirloom-hoodie-sydney-detail-03-0167.jpg?auto=format,compress&crop=faces&dpr=2&fit=crop&h=560&w=420",
+  "price": "$255",
+  "published": null,
+  "first_seen": "2026-09-14T23:13:23.854076+00:00"
  }
 }

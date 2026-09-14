@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-14T20:19:58.564730+00:00",
+ "generated_at": "2026-09-14T23:13:23.854076+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,12 +10,12 @@
    "more": 0,
    "items": [
     {
-     "title": "Sunny",
-     "phrase": "Sunny all day.",
+     "title": "Mostly Clear",
+     "phrase": "Mostly Clear all day.",
      "detail": "It reaches 71\u00b0 today and falls to 44\u00b0 overnight. The sun is up from 6:34 until 7:07.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 70,
+     "temp": 63,
      "high": 71,
      "low": 44,
      "sunrise": "6:34",
@@ -73,27 +73,11 @@
      "url": "https://www.wsj.com/finance/regulation/u-s-sanctions-russian-bank-in-latest-target-for-campaign-against-iran-080a1422?mod=rss_markets_main",
      "source": "WSJ",
      "summary": "The Treasury put additional sanctions on Russia\u2019s VTB Bank, in a bid to pressure foreign banks to cut ties with the institution.",
-     "published": "2026-09-14T19:12:00+00:00",
+     "published": "2026-09-14T21:44:00+00:00",
      "image": "https://images.wsj.net/im-48631852",
      "kind": "article",
      "id": "4373c6ef4639a94f",
      "first_seen": "2026-09-14T20:19:58.564730+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "China\u2019s Top Spy Chief Warns A.I. Is a Threat to Party Rule",
-     "url": "https://www.nytimes.com/2026/09/14/world/asia/china-ai-security-risks-anthropic.html",
-     "source": "New York Times",
-     "summary": "Even as Beijing urges the United States not to hype the dangers of A.I., its own spy chief is framing the technology as a threat to the Communist Party\u2019s security.",
-     "published": "2026-09-14T17:38:15+00:00",
-     "image": "https://static01.nyt.com/images/2026/09/14/multimedia/14int-china-ai-security-clqg/14int-china-ai-security-clqg-mediumSquareAt3X.jpg",
-     "kind": "article",
-     "id": "df4b8c701ca3eca7",
-     "first_seen": "2026-09-14T16:08:13.611508+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
@@ -131,6 +115,22 @@
      "also_in": [],
      "boosted": true,
      "score": 4
+    },
+    {
+     "title": "Iran war reshapes Brics ties but also exposes divisions",
+     "url": "https://www.bbc.co.uk/news/articles/ce8767g4jdpo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "summary": "Brics members agree they need a new global order but it's harder to answer what should replace it and how to get there.",
+     "published": "2026-09-13T11:23:42+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60f4/live/46af4990-af60-11f1-8b54-ef4b26bcf610.jpg",
+     "kind": "article",
+     "id": "2da8da4404563cde",
+     "first_seen": "2026-09-13T14:02:24.614721+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
     }
    ]
   },
@@ -143,6 +143,18 @@
    "more": 0,
    "items": [
     {
+     "title": "How High-Voltage Current Transformers Monitor the Grid",
+     "url": "https://hackaday.com/2026/09/14/how-high-voltage-current-transformers-monitor-the-grid/",
+     "source": "Hackaday",
+     "summary": "Being able to monitor voltages and currents is essential for many applications, with the national electrical grid being no exception. The obvious complication here is that the vol\u2026",
+     "published": "2026-09-14T23:00:03+00:00",
+     "image": "https://hackaday.com/wp-content/uploads/2026/09/hight-voltage_ac_current_transformers_the_electric_brit_youtube.jpg",
+     "kind": "article",
+     "id": "145b72a15516ad4d",
+     "first_seen": "2026-09-14T23:13:23.854076+00:00",
+     "is_new": true
+    },
+    {
      "title": "Project \"God\"ish",
      "url": "https://www.hackster.io/teensydev/project-god-ish-a17142",
      "source": "Hackster",
@@ -151,18 +163,6 @@
      "image": "https://hackster.imgix.net/uploads/attachments/2001469/_eTjUhZhkW6.blob",
      "kind": "article",
      "id": "f8ca5ae0c03792b8",
-     "first_seen": "2026-09-14T16:08:13.611508+00:00",
-     "is_new": true
-    },
-    {
-     "title": "CircuitPython Goes Turbo With Precompiled Functions",
-     "url": "https://hackaday.com/2026/09/14/circuitpython-goes-turbo-with-precompiled-functions/",
-     "source": "Hackaday",
-     "summary": "It would not be at all original to declare that Python is the new BASIC. Like BASIC, it has been the first programming language for a whole generation of coders, \u2026read more",
-     "published": "2026-09-14T08:00:18+00:00",
-     "image": "https://hackaday.com/wp-content/uploads/2026/09/circuitpython_mandelbrot-feather-rp2040-dvi-source-10.100s.png",
-     "kind": "article",
-     "id": "3a367eae402726e4",
      "first_seen": "2026-09-14T16:08:13.611508+00:00",
      "is_new": true
     },
@@ -179,6 +179,18 @@
      "is_new": true
     },
     {
+     "title": "CircuitPython Turbo: Go Blinka!",
+     "url": "https://learn.adafruit.com/circuitpython-turbo",
+     "source": "Adafruit",
+     "summary": "Compile the busy parts. Keep building in Python.Explore CircuitPython Turbo, a host-side toolchain for compiling selected Python functions to native code. See real device demos, e\u2026",
+     "published": "2026-09-11T04:14:58+00:00",
+     "image": "https://cdn-learn.adafruit.com/guides/images/000/004/615/medium500/turbo-learn-thumbnail-seated.png?1789131831",
+     "kind": "article",
+     "id": "7ab5940789eaaf85",
+     "first_seen": "2026-09-11T18:33:22.916458+00:00",
+     "is_new": true
+    },
+    {
      "title": "Robot arm lamp",
      "url": "https://magazine.raspberrypi.com/articles/robot-arm-lamp",
      "source": "MagPi",
@@ -188,18 +200,6 @@
      "kind": "article",
      "id": "1dbc74482c65b5d7",
      "first_seen": "2026-09-04T10:47:25.073613+00:00",
-     "is_new": false
-    },
-    {
-     "title": "Adafruit TMF8801 Time of Flight Distance Sensor",
-     "url": "https://learn.adafruit.com/adafruit-tmf8801-time-of-flight-distance-sensor",
-     "source": "Adafruit",
-     "summary": "Up to 2.5 meters of distance sensingThe Adafruit TMF8801 Time of Flight Sensor is a great Time of Flight distance sensor from ams Osram in the TMF series of chips. The TMF8801 in \u2026",
-     "published": "2026-09-03T13:08:28+00:00",
-     "image": "https://cdn-learn.adafruit.com/guides/images/000/004/610/medium500/6522-05.jpg?1788441095",
-     "kind": "article",
-     "id": "346386148a052437",
-     "first_seen": "2026-09-09T22:29:03.089625+00:00",
      "is_new": false
     }
    ]
@@ -213,16 +213,16 @@
    "more": 14,
    "items": [
     {
-     "title": "Harrier Long Sleeve",
-     "url": "https://www.tracksmith.com/products/m-harrier-long-sleeve?sku=MT222201RR",
+     "title": "Heirloom Sweatshirt - Sydney",
+     "url": "https://www.tracksmith.com/products/m-heirloom-sweatshirt-sydney?sku=MT238MJRSYD02NEM",
      "source": "Tracksmith",
      "summary": "",
      "published": null,
-     "image": "https://cdn-image.tracksmith.com/1787604520-screenshot-2026-02-10-at-1-00-45-pm-1.jpg?auto=format,compress&crop=faces&dpr=2&fit=crop&h=560&w=420",
-     "price": "$110",
+     "image": "https://cdn-image.tracksmith.com/1756223545-summer25-mens-heirloom-hoodie-sydney-detail-03-0167.jpg?auto=format,compress&crop=faces&dpr=2&fit=crop&h=560&w=420",
+     "price": "$255",
      "kind": "product",
-     "id": "c58b3ad90221be5b",
-     "first_seen": "2026-09-14T20:19:58.564730+00:00",
+     "id": "5887075020591e21",
+     "first_seen": "2026-09-14T23:13:23.854076+00:00",
      "is_new": true
     },
     {
@@ -238,15 +238,15 @@
      "is_new": true
     },
     {
-     "title": "Men's Tracksmith Eliot Ryder",
-     "url": "https://www.tracksmith.com/products/m-tracksmith-eliot-ryder?sku=FT1005070WT",
+     "title": "Harrier Long Sleeve",
+     "url": "https://www.tracksmith.com/products/m-harrier-long-sleeve?sku=MT222201RR",
      "source": "Tracksmith",
      "summary": "",
      "published": null,
-     "image": "https://cdn-image.tracksmith.com/1782945054-plp-rollover-image-1.jpg?auto=format,compress&crop=faces&dpr=2&fit=crop&h=560&w=420",
-     "price": "$220",
+     "image": "https://cdn-image.tracksmith.com/1787604520-screenshot-2026-02-10-at-1-00-45-pm-1.jpg?auto=format,compress&crop=faces&dpr=2&fit=crop&h=560&w=420",
+     "price": "$110",
      "kind": "product",
-     "id": "b72806162645f961",
+     "id": "c58b3ad90221be5b",
      "first_seen": "2026-09-14T20:19:58.564730+00:00",
      "is_new": true
     },
@@ -272,6 +272,22 @@
    "row_detail": false,
    "more": 0,
    "items": [
+    {
+     "title": "Sneak peeks of the new Donegal",
+     "url": "https://www.permanentstyle.com/2026/09/sneak-peeks-of-the-new-donegal.html",
+     "source": "Permanent Style",
+     "summary": "Last week we did our regular shoot for the new overcoat this winter \u2013 of the new colour of the Donegal coat. The shots were so good that I shared one on Instagram, but have subseq\u2026",
+     "published": "2026-09-14T08:00:12+00:00",
+     "image": "https://www.permanentstyle.com/wp-content/uploads/2026/09/unnamed-6.jpg",
+     "kind": "article",
+     "id": "78ee332285bb245a",
+     "first_seen": "2026-09-14T16:08:13.611508+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": false,
+     "score": 1
+    },
     {
      "title": "Reviewing My Own Travel Packing Advice",
      "url": "https://www.menswearmusings.com/reviewing-my-own-travel-packing-advice/",
@@ -319,27 +335,9 @@
      "also_in": [],
      "boosted": false,
      "score": 1
-    },
-    {
-     "title": "Viberg x ACL",
-     "url": "https://www.acl.news/p/viberg-x-acl",
-     "source": "A Continuous Lean",
-     "summary": "The Field Chukka",
-     "published": "2026-09-10T16:06:23+00:00",
-     "image": "https://substackcdn.com/image/fetch/$s_!J5p-!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc5f8c31b-2746-4860-8936-231185f8d731_1365x2048.jpeg",
-     "kind": "article",
-     "id": "e2bc10bed30f3fa6",
-     "first_seen": "2026-09-10T16:29:36.195034+00:00",
-     "is_new": false,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": false,
-     "score": 1
     }
    ]
   }
  ],
- "errors": [
-  "Permanent Style: RuntimeError \u2014 https://www.permanentstyle.com/feed \u2192 HTTP 415"
- ]
+ "errors": []
 }
