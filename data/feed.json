@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-13T22:03:45.103529+00:00",
+ "generated_at": "2026-09-14T00:15:29.671780+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,12 +10,12 @@
    "more": 0,
    "items": [
     {
-     "title": "Partly Cloudy",
+     "title": "Chance Showers And Thunderstorms",
      "phrase": "An even chance of rain between 8pm and 3am.",
      "detail": "It reaches 69\u00b0 today and falls to 55\u00b0 overnight. The sun is up from 6:33 until 7:09.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 75,
+     "temp": 73,
      "high": 69,
      "low": 55,
      "sunrise": "6:33",
@@ -37,7 +37,7 @@
     {
      "title": "Cover crops as beds empty.",
      "summary": "Oats and field peas winter-kill cleanly, so there's nothing to dig in come spring. Rye survives, but you'll be dealing with it in April.",
-     "kicker": "Zone 5b \u00b7 1\u201315 September \u00b7 3 days to first frost",
+     "kicker": "Zone 5b \u00b7 1\u201315 September \u00b7 2 days to first frost",
      "plantings": [
       {
        "method": "direct",
@@ -69,31 +69,33 @@
    "more": 0,
    "items": [
     {
-     "title": "Trump says he will remove all Irish whiskey tariffs as he ends two-day visit",
-     "url": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "summary": "Whiskey distilled in the Republic of Ireland faces the standard 15% tariff which applies to EU goods entering the US.",
-     "published": "2026-09-13T19:34:36+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31a6/live/33fb3fc0-af7e-11f1-913a-7151f234deb3.jpg",
+     "title": "Trump Promises to Lift Tariffs on Irish Whiskey After Appeals",
+     "url": "https://www.nytimes.com/2026/09/13/world/europe/trump-tariffs-irish-whiskey.html",
+     "source": "New York Times",
+     "summary": "President Trump\u2019s decision, announced while visiting his golf course in Ireland, was the latest shift in his trade policies.",
+     "published": "2026-09-13T23:02:26+00:00",
+     "image": "https://static01.nyt.com/images/2026/09/13/multimedia/13int-ireland-trump-whiskey-tczl/13int-ireland-trump-whiskey-tczl-mediumSquareAt3X.jpg",
      "kind": "article",
-     "id": "162a032f2fe57bf9",
-     "first_seen": "2026-09-13T17:26:08.803567+00:00",
+     "id": "6791b963c0d08438",
+     "first_seen": "2026-09-14T00:15:29.671780+00:00",
      "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
+     "corroboration": 2,
+     "also_in": [
+      "BBC"
+     ],
      "boosted": true,
-     "score": 4
+     "score": 5
     },
     {
-     "title": "Trump downplays warnings of AI risks, citing rivalry with China",
-     "url": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "summary": "The US President said \"negative forces\" were airing concerns about \"things that won't happen\".",
-     "published": "2026-09-13T18:49:37+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05d0/live/2a71c0a0-af92-11f1-bc1f-3f186ca4140c.jpg",
+     "title": "Can Gulf states and Iran negotiate the Strait of Hormuz without the U.S.?",
+     "url": "https://www.npr.org/2026/09/13/nx-s1-5966920/what-to-expect-from-talks-between-iran-and-gulf-states-in-oman",
+     "source": "NPR",
+     "summary": "Dania Thafer of the Gulf International Forum weighs in on previously scheduled talks between Iran and Gulf states. Shortly before this interview aired, Oman announced that the tal\u2026",
+     "published": "2026-09-13T21:03:12+00:00",
+     "image": null,
      "kind": "article",
-     "id": "685eb5ef4b7791fb",
-     "first_seen": "2026-09-13T17:26:08.803567+00:00",
+     "id": "185e764f521e41fe",
+     "first_seen": "2026-09-14T00:15:29.671780+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
