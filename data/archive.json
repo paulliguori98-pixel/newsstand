@@ -3175,5 +3175,59 @@
   "price": "$368",
   "published": "2026-07-16T18:32:31+00:00",
   "first_seen": "2026-09-15T18:27:47.267351+00:00"
+ },
+ "4ca148d6d0dbd80e": {
+  "title": "Brighton Base Layer - Chicago",
+  "url": "https://www.tracksmith.com/products/m-chicago-brighton-base-layer?sku=MT217CHI2602NCRN",
+  "source": "Tracksmith",
+  "image": "https://cdn.shopify.com/s/files/1/1594/4353/files/Chicago26-Mens-Brighton-Base-Layer-On-Model.png?v=1787853162&width=800&height=800&crop=center",
+  "price": "$110",
+  "published": null,
+  "first_seen": "2026-09-15T21:43:44.838116+00:00"
+ },
+ "ad6f760e2a19adaf": {
+  "title": "Chicago Tee",
+  "url": "https://www.tracksmith.com/products/m-chicago-tee?sku=MT213CHI2602NDB",
+  "source": "Tracksmith",
+  "image": "https://cdn-image.tracksmith.com/1788975219-description-panel-1-2.png?auto=format,compress&crop=faces&dpr=2&fit=crop&h=560&w=420",
+  "price": "$80",
+  "published": null,
+  "first_seen": "2026-09-15T21:43:44.838116+00:00"
+ },
+ "edcad15ef3cbe944": {
+  "title": "Chicago Reversible Singlet",
+  "url": "https://www.tracksmith.com/products/m-chicago-reversible-singlet?sku=MT2253CHI2601DBNCRN",
+  "source": "Tracksmith",
+  "image": "https://cdn-image.tracksmith.com/1788975219-description-panel-1.png?auto=format,compress&crop=faces&dpr=2&fit=crop&h=560&w=420",
+  "price": "$90",
+  "published": null,
+  "first_seen": "2026-09-15T21:43:44.838116+00:00"
+ },
+ "188a2a2b375384d6": {
+  "title": "Chicago Long Sleeve",
+  "url": "https://www.tracksmith.com/products/m-chicago-long-sleeve?sku=MT2277CHI2601DBNCRN",
+  "source": "Tracksmith",
+  "image": "https://cdn-image.tracksmith.com/1788975219-description-panel-1-2.png?auto=format,compress&crop=faces&dpr=2&fit=crop&h=560&w=420",
+  "price": "$90",
+  "published": null,
+  "first_seen": "2026-09-15T21:43:44.838116+00:00"
+ },
+ "ecdfc7e34d543b6b": {
+  "title": "Indigo Chambray Popover",
+  "url": "https://www.bestmadeco.com/products/indigo-chambray-popover",
+  "source": "Best Made",
+  "image": "https://cdn.shopify.com/s/files/1/0674/2985/9558/files/BMC-PDP-LS-JAPANESE-PULL-INDIGO_a02c8499-8b79-4d21-b4b4-e3b1bd12710f.jpg?v=1789402215",
+  "price": "$198",
+  "published": "2026-09-15T16:00:59-04:00",
+  "first_seen": "2026-09-15T21:43:44.838116+00:00"
+ },
+ "0871fcd9833c2bf8": {
+  "title": "Indigo Stripe Popover",
+  "url": "https://www.bestmadeco.com/products/indigo-stripe-popover",
+  "source": "Best Made",
+  "image": "https://cdn.shopify.com/s/files/1/0674/2985/9558/files/BMC-PDP-LS-JAPANESE-PULL-STRIPED_9d58bbc4-6898-4e59-9b30-f688c51923cd.jpg?v=1789402243",
+  "price": "$198",
+  "published": "2026-09-15T16:00:36-04:00",
+  "first_seen": "2026-09-15T21:43:44.838116+00:00"
  }
 }

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-15T18:27:47.267351+00:00",
+ "generated_at": "2026-09-15T21:43:44.838116+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,14 +10,14 @@
    "more": 0,
    "items": [
     {
-     "title": "Partly Sunny",
-     "phrase": "Partly Sunny all day.",
-     "detail": "It reaches 71\u00b0 today and falls to 51\u00b0 overnight. The sun is up from 6:35 until 7:06.",
+     "title": "Mostly Sunny",
+     "phrase": "Mostly Sunny all day.",
+     "detail": "It reaches 71\u00b0 today and falls to 54\u00b0 overnight. The sun is up from 6:35 until 7:06.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 69,
+     "temp": 71,
      "high": 71,
-     "low": 51,
+     "low": 54,
      "sunrise": "6:35",
      "sunset": "7:06",
      "id": "bb806d72c86dcec1",
@@ -73,20 +73,19 @@
      "url": "https://www.theguardian.com/world/2026/sep/15/nato-jets-shoot-down-drone-violating-lithuania-airspace-kaunas",
      "source": "Guardian",
      "summary": "Ursula von der Leyen says incidents \u2018part of broader pattern of Russian aggression and provocation against Europe\u2019A Russian warship fired two emergency flares at a Danish helicopt\u2026",
-     "published": "2026-09-15T15:18:20+00:00",
+     "published": "2026-09-15T15:18:19+00:00",
      "image": "https://i.guim.co.uk/img/media/1dd6cbd1af236b5615a41ecdabc642499b19d602/394_466_2766_2213/master/2766.jpg?width=140&quality=85&auto=format&fit=max&s=4ddfe2c6fb4f6c1278ce3b2fc4cdb22e",
      "kind": "article",
      "id": "16c614175ff1ffdb",
      "first_seen": "2026-09-15T14:37:02.891572+00:00",
      "is_new": true,
-     "corroboration": 4,
+     "corroboration": 3,
      "also_in": [
       "BBC",
-      "NPR",
-      "New York Times"
+      "NPR"
      ],
      "boosted": true,
-     "score": 7
+     "score": 6
     },
     {
      "title": "Republican Rep. Massie moves to impeach Defense Secretary Hegseth over Iran war",
@@ -125,14 +124,14 @@
      "score": 5
     },
     {
-     "title": "Warning of space arms race as US confirms weapons in Earth's orbit",
-     "url": "https://www.bbc.co.uk/news/videos/cmn07yjqg5rwo?at_medium=RSS&at_campaign=rss",
+     "title": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
+     "url": "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "summary": "The US has confirmed it deployed a space weapon in Earth's orbit, the first time it has acknowledged such offensive capabilities.",
-     "published": "2026-09-15T17:35:02+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b61c/live/90826970-b128-11f1-b1d1-571ed4d7ff2c.jpg",
+     "summary": "The inspector also found a bottleneck in resupply, despite President Donald Trump's claims that US supplies are \"virtually limitless\".",
+     "published": "2026-09-15T20:34:12+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ff7/live/4d4e0d70-b110-11f1-8907-39a652c5e20e.jpg",
      "kind": "article",
-     "id": "1581102dd4e02fa3",
+     "id": "83c9ff637cd4e718",
      "first_seen": "2026-09-15T18:27:47.267351+00:00",
      "is_new": true,
      "corroboration": 1,
@@ -151,15 +150,39 @@
    "more": 0,
    "items": [
     {
-     "title": "Hackaday Europe 2026: Bare Metal Made Easy",
-     "url": "https://hackaday.com/2026/09/15/hackaday-europe-2026-bare-metal-made-easy/",
+     "title": "After 6 Years as Road Ornament a Widescreen Sony Trinitron Lives Again",
+     "url": "https://hackaday.com/2026/09/15/after-6-years-as-road-ornament-a-widescreen-sony-trinitron-lives-again/",
      "source": "Hackaday",
-     "summary": "When we talk about programming in \u201cbare metal,\u201d it basically means writing software that runs right on the hardware with no operating system or abstraction layers in between. This\u2026",
-     "published": "2026-09-15T17:05:35+00:00",
-     "image": "https://hackaday.com/wp-content/uploads/2026/09/DSCF6812_featured.png",
+     "summary": "After previously adopting a big Sony Trinitron CRT TV that had been trying to hitch a ride along the side of a road in Italy for at least six years, \u2026read more",
+     "published": "2026-09-15T20:00:48+00:00",
+     "image": "https://hackaday.com/wp-content/uploads/2026/09/road_side_crt_tv_fixed_happychoice_youtube.jpg",
      "kind": "article",
-     "id": "df62ffdf89545d79",
-     "first_seen": "2026-09-15T18:27:47.267351+00:00",
+     "id": "696e84a515a655b2",
+     "first_seen": "2026-09-15T21:43:44.838116+00:00",
+     "is_new": true
+    },
+    {
+     "title": "Wireless Communication system using Two Arduino boards",
+     "url": "https://www.hackster.io/rachnajain/wireless-communication-system-using-two-arduino-boards-1d2cfb",
+     "source": "Hackster",
+     "summary": "A simple wireless communication system that connects two Arduino boards using paired HC-05 Bluetooth modules, with one acting as the Master",
+     "published": "2026-09-15T08:51:46+00:00",
+     "image": "https://hackster.imgix.net/uploads/attachments/2001749/_WGc3eIQfyX.blob",
+     "kind": "article",
+     "id": "c0f7d43a35214a4f",
+     "first_seen": "2026-09-15T21:43:44.838116+00:00",
+     "is_new": true
+    },
+    {
+     "title": "Standalone ATmega328P-AUR Environmental Data Logger",
+     "url": "https://www.hackster.io/robertfletcher1582/standalone-atmega328p-aur-environmental-data-logger-afdfae",
+     "source": "Hackster",
+     "summary": "Build a compact environmental data logger using the ATmega328P-AUR microcontroller. The project measures temperature, humidity, and ambient",
+     "published": "2026-09-15T08:24:54+00:00",
+     "image": "https://hackster.imgix.net/uploads/attachments/2001751/_mA52uCW39W.blob",
+     "kind": "article",
+     "id": "2258ed95c08d619c",
+     "first_seen": "2026-09-15T21:43:44.838116+00:00",
      "is_new": true
     },
     {
@@ -175,30 +198,6 @@
      "is_new": true
     },
     {
-     "title": "A gadget that pays my kids for maths & spelling",
-     "url": "https://www.hackster.io/platisd/a-gadget-that-pays-my-kids-for-maths-spelling-abf824",
-     "source": "Hackster",
-     "summary": "Kids solve math and spelling problems and earn \"coins\" for each correct answer. No phone or computer screens involved, just drachmath.",
-     "published": "2026-09-14T09:29:23+00:00",
-     "image": "https://hackster.imgix.net/uploads/attachments/2001491/_m8XUtHGd3j.blob",
-     "kind": "article",
-     "id": "5fbe446389abb9c8",
-     "first_seen": "2026-09-15T01:32:06.781890+00:00",
-     "is_new": true
-    },
-    {
-     "title": "Project \"God\"ish",
-     "url": "https://www.hackster.io/teensydev/project-god-ish-a17142",
-     "source": "Hackster",
-     "summary": "\"I Built God\" \u2014 a physical device that holds you accountable to your own principles.",
-     "published": "2026-09-14T09:01:44+00:00",
-     "image": "https://hackster.imgix.net/uploads/attachments/2001469/_eTjUhZhkW6.blob",
-     "kind": "article",
-     "id": "f8ca5ae0c03792b8",
-     "first_seen": "2026-09-14T16:08:13.611508+00:00",
-     "is_new": true
-    },
-    {
      "title": "CircuitPython Turbo: Go Blinka!",
      "url": "https://learn.adafruit.com/circuitpython-turbo",
      "source": "Adafruit",
@@ -208,7 +207,7 @@
      "kind": "article",
      "id": "7ab5940789eaaf85",
      "first_seen": "2026-09-11T18:33:22.916458+00:00",
-     "is_new": true
+     "is_new": false
     }
    ]
   },
@@ -218,32 +217,32 @@
    "kind": "goods",
    "lead_image": false,
    "row_detail": false,
-   "more": 4,
+   "more": 10,
    "items": [
     {
-     "title": "Harrier Long Sleeve",
-     "url": "https://www.tracksmith.com/products/m-harrier-long-sleeve?sku=7361794375767:golden-brown-narcissus-stripe__XS",
+     "title": "Brighton Base Layer - Chicago",
+     "url": "https://www.tracksmith.com/products/m-chicago-brighton-base-layer?sku=MT217CHI2602NCRN",
      "source": "Tracksmith",
      "summary": "",
      "published": null,
-     "image": "https://cdn-image.tracksmith.com/1787604520-screenshot-2026-02-10-at-1-00-45-pm-1.jpg?auto=format,compress&crop=faces&dpr=2&fit=crop&h=560&w=420",
+     "image": "https://cdn.shopify.com/s/files/1/1594/4353/files/Chicago26-Mens-Brighton-Base-Layer-On-Model.png?v=1787853162&width=800&height=800&crop=center",
      "price": "$110",
      "kind": "product",
-     "id": "65dfa7d5c2401417",
-     "first_seen": "2026-09-15T18:27:47.267351+00:00",
+     "id": "4ca148d6d0dbd80e",
+     "first_seen": "2026-09-15T21:43:44.838116+00:00",
      "is_new": true
     },
     {
-     "title": "Kevlar Shears",
-     "url": "https://www.bestmadeco.com/products/kevlar-shears",
+     "title": "Indigo Chambray Popover",
+     "url": "https://www.bestmadeco.com/products/indigo-chambray-popover",
      "source": "Best Made",
-     "summary": "Tools",
-     "published": "2026-09-15T11:34:06-04:00",
-     "image": "https://cdn.shopify.com/s/files/1/0674/2985/9558/files/E60A5837_copy.jpg?v=1763576970",
-     "price": "$168",
+     "summary": "Apparel",
+     "published": "2026-09-15T16:00:59-04:00",
+     "image": "https://cdn.shopify.com/s/files/1/0674/2985/9558/files/BMC-PDP-LS-JAPANESE-PULL-INDIGO_a02c8499-8b79-4d21-b4b4-e3b1bd12710f.jpg?v=1789402215",
+     "price": "$198",
      "kind": "product",
-     "id": "2b1f4b5a3ba3a36a",
-     "first_seen": "2026-09-15T18:27:47.267351+00:00",
+     "id": "ecdfc7e34d543b6b",
+     "first_seen": "2026-09-15T21:43:44.838116+00:00",
      "is_new": true
     },
     {
@@ -259,16 +258,16 @@
      "is_new": true
     },
     {
-     "title": "Men's Tracksmith Eliot Ryder",
-     "url": "https://www.tracksmith.com/products/m-tracksmith-eliot-ryder?sku=7673226330199:ivory-grass__7",
+     "title": "Chicago Tee",
+     "url": "https://www.tracksmith.com/products/m-chicago-tee?sku=MT213CHI2602NDB",
      "source": "Tracksmith",
      "summary": "",
      "published": null,
-     "image": "https://cdn-image.tracksmith.com/1782945054-plp-rollover-image-1.jpg?auto=format,compress&crop=faces&dpr=2&fit=crop&h=560&w=420",
-     "price": "$220",
+     "image": "https://cdn-image.tracksmith.com/1788975219-description-panel-1-2.png?auto=format,compress&crop=faces&dpr=2&fit=crop&h=560&w=420",
+     "price": "$80",
      "kind": "product",
-     "id": "6a5215709f3a2e08",
-     "first_seen": "2026-09-15T18:27:47.267351+00:00",
+     "id": "ad6f760e2a19adaf",
+     "first_seen": "2026-09-15T21:43:44.838116+00:00",
      "is_new": true
     }
    ]
