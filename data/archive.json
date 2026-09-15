@@ -3103,5 +3103,77 @@
   "price": "$228",
   "published": "2026-07-10T20:22:08+00:00",
   "first_seen": "2026-09-15T14:37:02.891572+00:00"
+ },
+ "65dfa7d5c2401417": {
+  "title": "Harrier Long Sleeve",
+  "url": "https://www.tracksmith.com/products/m-harrier-long-sleeve?sku=7361794375767:golden-brown-narcissus-stripe__XS",
+  "source": "Tracksmith",
+  "image": "https://cdn-image.tracksmith.com/1787604520-screenshot-2026-02-10-at-1-00-45-pm-1.jpg?auto=format,compress&crop=faces&dpr=2&fit=crop&h=560&w=420",
+  "price": "$110",
+  "published": null,
+  "first_seen": "2026-09-15T18:27:47.267351+00:00"
+ },
+ "6a5215709f3a2e08": {
+  "title": "Men's Tracksmith Eliot Ryder",
+  "url": "https://www.tracksmith.com/products/m-tracksmith-eliot-ryder?sku=7673226330199:ivory-grass__7",
+  "source": "Tracksmith",
+  "image": "https://cdn-image.tracksmith.com/1782945054-plp-rollover-image-1.jpg?auto=format,compress&crop=faces&dpr=2&fit=crop&h=560&w=420",
+  "price": "$220",
+  "published": null,
+  "first_seen": "2026-09-15T18:27:47.267351+00:00"
+ },
+ "6d75de4181a6aca1": {
+  "title": "Twilight Tee",
+  "url": "https://www.tracksmith.com/products/m-twilight-tee?sku=7361930068055:alfalfa__XS",
+  "source": "Tracksmith",
+  "image": "https://cdn-image.tracksmith.com/1742824643-tracksmith_twilight_feb2025_6277-cropped.jpg?auto=format,compress&crop=faces&dpr=2&fit=crop&h=560&w=420",
+  "price": "$70",
+  "published": null,
+  "first_seen": "2026-09-15T18:27:47.267351+00:00"
+ },
+ "616ee69fde4c37e4": {
+  "title": "Van Cortlandt Long Sleeve",
+  "url": "https://www.tracksmith.com/products/m-van-cortlandt-long-sleeve?sku=4426699046999:ivory-narcissus__XS",
+  "source": "Tracksmith",
+  "image": "https://cdn-image.tracksmith.com/1787247029-plp-rollover-image-4.jpg?auto=format,compress&crop=faces&dpr=2&fit=crop&h=560&w=420",
+  "price": "$90",
+  "published": null,
+  "first_seen": "2026-09-15T18:27:47.267351+00:00"
+ },
+ "a03164bb60aed71f": {
+  "title": "Harrier Tee",
+  "url": "https://www.tracksmith.com/products/m-harrier-tee?sku=7261544611927:cabernet__XS",
+  "source": "Tracksmith",
+  "image": "https://cdn-image.tracksmith.com/1787601883-plp-rollover-image.jpg?auto=format,compress&crop=faces&dpr=2&fit=crop&h=560&w=420",
+  "price": "$100",
+  "published": null,
+  "first_seen": "2026-09-15T18:27:47.267351+00:00"
+ },
+ "2b1f4b5a3ba3a36a": {
+  "title": "Kevlar Shears",
+  "url": "https://www.bestmadeco.com/products/kevlar-shears",
+  "source": "Best Made",
+  "image": "https://cdn.shopify.com/s/files/1/0674/2985/9558/files/E60A5837_copy.jpg?v=1763576970",
+  "price": "$168",
+  "published": "2026-09-15T11:34:06-04:00",
+  "first_seen": "2026-09-15T18:27:47.267351+00:00"
+ },
+ "d951f98e7d5847fe": {
+  "title": "Chaparral Panhandler Suede Western Shirt",
+  "url": "https://www.buckmason.com/products/chaparral-panhandler-suede-western-shirt",
+  "source": "Buck Mason",
+  "image": "https://cdn.shopify.com/s/files/1/0123/5065/2473/files/BM18025.772_PANHANDLERSUEDEWESTERNSHIRTCHAPARRAL_1.jpg?v=1789495970",
+  "price": "$698",
+  "published": "2026-07-16T18:32:49+00:00",
+  "first_seen": "2026-09-15T18:27:47.267351+00:00"
+ },
+ "baeb1cdc3564ba38": {
+  "title": "Navy Charcoal Herringbone Cloudloom Cotton Wool Carry-On Jacket",
+  "url": "https://www.buckmason.com/products/navy-charcoal-herringbone-cloudloom-cotton-wool-carry-on-jacket",
+  "source": "Buck Mason",
+  "image": "https://cdn.shopify.com/s/files/1/0123/5065/2473/files/BM17184.1431_CLOUDLOOMCOTTONWOOLCARRY-ONJACKETNAVYCHARCOALHERRINGBONE_1.jpg?v=1789429436",
+  "price": "$368",
+  "published": "2026-07-16T18:32:31+00:00",
+  "first_seen": "2026-09-15T18:27:47.267351+00:00"
  }
 }
