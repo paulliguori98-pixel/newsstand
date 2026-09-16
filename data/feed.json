@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-15T23:56:23.265014+00:00",
+ "generated_at": "2026-09-16T14:33:28.772629+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,16 +10,16 @@
    "more": 0,
    "items": [
     {
-     "title": "Partly Cloudy",
-     "phrase": "Partly Cloudy all day.",
-     "detail": "It reaches 79\u00b0 today and falls to 54\u00b0 overnight. The sun is up from 6:35 until 7:06.",
+     "title": "Mostly Sunny",
+     "phrase": "Mostly Sunny all day.",
+     "detail": "It reaches 78\u00b0 today and falls to 59\u00b0 overnight. The sun is up from 6:36 until 7:04.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 67,
-     "high": 79,
-     "low": 54,
-     "sunrise": "6:35",
-     "sunset": "7:06",
+     "temp": 63,
+     "high": 78,
+     "low": 59,
+     "sunrise": "6:36",
+     "sunset": "7:04",
      "id": "bb806d72c86dcec1",
      "first_seen": "2026-08-19T17:11:19.569450+00:00",
      "is_new": false
@@ -35,28 +35,28 @@
    "more": 0,
    "items": [
     {
-     "title": "Cover crops as beds empty.",
-     "summary": "Oats and field peas winter-kill cleanly, so there's nothing to dig in come spring. Rye survives, but you'll be dealing with it in April.",
-     "kicker": "Zone 5b \u00b7 1\u201315 September \u00b7 1 days to first frost",
+     "title": "Frost risk opens \u2014 bring things in.",
+     "summary": "Cut winter squash before the first frost, leave a few inches of stem, cure it warm for ten days. Lift sweet potato. Rosemary comes indoors.",
+     "kicker": "Zone 5b \u00b7 16\u201330 September",
      "plantings": [
       {
        "method": "direct",
-       "crops": "oats \u00b7 field peas \u00b7 spinach under cover"
+       "crops": "winter rye \u00b7 overwintering spinach under cover"
       }
      ],
      "reading": [
       {
        "source": "Margaret Roach",
-       "title": "Cover crops: feeding the soil that feeds me",
-       "url": "https://awaytogarden.com/cover-crops-feeding-the-soil-that-feeds-me/"
+       "title": "Winter squash, from garden to table, with Kevin West",
+       "url": "https://awaytogarden.com/winter-squash-from-garden-to-table-with-kevin-west/"
       }
      ],
-     "url": "https://awaytogarden.com/cover-crops-feeding-the-soil-that-feeds-me/",
+     "url": "https://awaytogarden.com/winter-squash-from-garden-to-table-with-kevin-west/",
      "source": "Zone 5b",
      "kind": "garden",
-     "id": "2cdff5df7de68adb",
-     "first_seen": "2026-09-01T10:08:31.131288+00:00",
-     "is_new": false
+     "id": "a117749942dbb379",
+     "first_seen": "2026-09-16T14:33:28.772629+00:00",
+     "is_new": true
     }
    ]
   },
@@ -69,33 +69,15 @@
    "more": 0,
    "items": [
     {
-     "title": "Republican Rep. Massie moves to impeach Defense Secretary Hegseth over Iran war",
-     "url": "https://www.npr.org/2026/09/15/g-s1-143407/massie-impeach-hegseth-iran",
-     "source": "NPR",
-     "summary": "Kentucky Republican Thomas Massie introduced articles of impeachment against Secretary of Defense Pete Hegseth on Tuesday over the war in Iran.",
-     "published": "2026-09-15T17:35:14+00:00",
+     "title": "Is Iran Shaping Up to Be a \u2018Forever War\u2019?",
+     "url": "https://www.nytimes.com/video/us/100000011145234/is-iran-shaping-up-to-be-a-forever-war.html",
+     "source": "New York Times",
+     "summary": "Our White House and national security correspondent, David Sanger, compares past \u201cforever wars\u201d that President Trump campaigned against with an Iran War that has no clear endgame.",
+     "published": "2026-09-16T10:51:13+00:00",
      "image": null,
      "kind": "article",
-     "id": "1a58c450df852519",
-     "first_seen": "2026-09-15T18:27:47.267351+00:00",
-     "is_new": true,
-     "corroboration": 2,
-     "also_in": [
-      "Axios"
-     ],
-     "boosted": true,
-     "score": 5
-    },
-    {
-     "title": "Russian warship fires flares at Danish helicopter as Nato jets shoot down drone over Lithuania",
-     "url": "https://www.theguardian.com/world/2026/sep/15/nato-jets-shoot-down-drone-violating-lithuania-airspace-kaunas",
-     "source": "Guardian",
-     "summary": "Ursula von der Leyen says incidents \u2018part of broader pattern of Russian aggression and provocation against Europe\u2019A Russian warship fired two emergency flares at a Danish helicopt\u2026",
-     "published": "2026-09-15T15:18:19+00:00",
-     "image": "https://i.guim.co.uk/img/media/1dd6cbd1af236b5615a41ecdabc642499b19d602/394_466_2766_2213/master/2766.jpg?width=140&quality=85&auto=format&fit=max&s=4ddfe2c6fb4f6c1278ce3b2fc4cdb22e",
-     "kind": "article",
-     "id": "16c614175ff1ffdb",
-     "first_seen": "2026-09-15T14:37:02.891572+00:00",
+     "id": "36b6b4a32dcb9bf5",
+     "first_seen": "2026-09-16T14:33:28.772629+00:00",
      "is_new": true,
      "corroboration": 2,
      "also_in": [
@@ -105,15 +87,15 @@
      "score": 5
     },
     {
-     "title": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
-     "url": "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "summary": "The inspector also found a bottleneck in resupply, despite President Donald Trump's claims that US supplies are \"virtually limitless\".",
-     "published": "2026-09-15T20:34:12+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ff7/live/4d4e0d70-b110-11f1-8907-39a652c5e20e.jpg",
+     "title": "The World Economy Is Becoming Wary of the U.S.",
+     "url": "https://www.nytimes.com/2026/09/16/business/trump-debt-sanctions-global-economy.html",
+     "source": "New York Times",
+     "summary": "America\u2019s position of global economic stability is starting to look shakier as the Trump administration piles on debt and doubles down on sanctions.",
+     "published": "2026-09-16T13:41:06+00:00",
+     "image": "https://static01.nyt.com/images/2026/09/11/business/00dc-usinvest/00dc-usinvest-mediumSquareAt3X.jpg",
      "kind": "article",
-     "id": "83c9ff637cd4e718",
-     "first_seen": "2026-09-15T18:27:47.267351+00:00",
+     "id": "7d70974f9801d345",
+     "first_seen": "2026-09-16T14:33:28.772629+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
@@ -121,15 +103,31 @@
      "score": 4
     },
     {
-     "title": "Independent Budget Office Estimates Iran War Has Cost $38 Billion",
-     "url": "https://www.nytimes.com/2026/09/15/us/politics/iran-war-cost.html",
-     "source": "New York Times",
-     "summary": "The Congressional Budget Office said its analysis had been limited by the fact that the Defense Department did not respond to requests for information on the costs of the conflict.",
-     "published": "2026-09-15T20:26:41+00:00",
-     "image": "https://static01.nyt.com/images/2026/09/15/multimedia/15dc-iran-cost-vbmt/15dc-iran-cost-vbmt-mediumSquareAt3X.jpg",
+     "title": "Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say",
+     "url": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "summary": "Dozens of people are missing beneath the rubble of a building hit by an Israeli strike last year, where some 10 families had been living.",
+     "published": "2026-09-16T13:28:46+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e43/live/ff225e50-b1b7-11f1-b1d1-571ed4d7ff2c.jpg",
      "kind": "article",
-     "id": "ca9da32992845aae",
-     "first_seen": "2026-09-15T21:43:44.838116+00:00",
+     "id": "765ce480adcdb812",
+     "first_seen": "2026-09-16T14:33:28.772629+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
+     "title": "Trump escalates war on federal data",
+     "url": "https://www.axios.com/2026/09/16/trump-data-census-eeoc-cdc-interference",
+     "source": "Axios",
+     "summary": "The nerdy, traditionally apolitical world of federal data is increasingly getting swept up in the Trump administration's push to control every level of government.Across the feder\u2026",
+     "published": "2026-09-16T09:20:09+00:00",
+     "image": "https://images.axios.com/FzYtiS7pzYI181lPxWwSffDpM44=/0x0:1920x1080/1366x768/2025/08/14/1755183565453.jpeg",
+     "kind": "article",
+     "id": "8bd0ff1b1777fc6e",
+     "first_seen": "2026-09-16T14:33:28.772629+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
@@ -147,15 +145,39 @@
    "more": 0,
    "items": [
     {
-     "title": "Coffee Maker Steam Wand Gets a Safe Outlet",
-     "url": "https://hackaday.com/2026/09/15/coffee-maker-steam-wand-gets-a-safe-outlet/",
+     "title": "Full-Color Looks Great on 3D Printed Sliding Puzzles",
+     "url": "https://hackaday.com/2026/09/16/full-color-looks-great-on-3d-printed-sliding-puzzles/",
      "source": "Hackaday",
-     "summary": "Sometimes a hacker has a specific sort of problem, and uses the tools they have to solve it in a way that just might be helpful to someone else. That\u2019s \u2026read more",
-     "published": "2026-09-15T23:00:23+00:00",
-     "image": "https://hackaday.com/wp-content/uploads/2026/09/steam-wand-purge-capture-tool-2.png",
+     "summary": "[Angus] of [Maker\u2019s Muse] shows off both a parametric, print-in-place sliding puzzle design he created, and the results of UV printing full-color designs on the same. The results \u2026",
+     "published": "2026-09-16T11:00:15+00:00",
+     "image": "https://hackaday.com/wp-content/uploads/2026/09/Print-in-place-puzzles-UV-flatbed-printing-awesome-15-35-screenshot.png",
      "kind": "article",
-     "id": "ce8851eecf795006",
-     "first_seen": "2026-09-15T23:56:23.265014+00:00",
+     "id": "407e58b56d48306d",
+     "first_seen": "2026-09-16T14:33:28.772629+00:00",
+     "is_new": true
+    },
+    {
+     "title": "Smart Plant Monitor with ESP8266 & KiwisIoT",
+     "url": "https://www.hackster.io/varunprasadeng/smart-plant-monitor-with-esp8266-kiwisiot-c481d3",
+     "source": "Hackster",
+     "summary": "Monitor plant temperature, humidity, and soil moisture in real time using ESP8266 and KiwisIoT, with an LED alert when soil becomes dry.",
+     "published": "2026-09-16T06:10:22+00:00",
+     "image": "https://hackster.imgix.net/uploads/attachments/2001986/_NPVhQYzfbi.blob",
+     "kind": "article",
+     "id": "69110be5938a6166",
+     "first_seen": "2026-09-16T14:33:28.772629+00:00",
+     "is_new": true
+    },
+    {
+     "title": "DIY Wireless Mouse using MPU6050 & ESP32-C3",
+     "url": "https://www.hackster.io/quartz-components/diy-wireless-mouse-using-mpu6050-esp32-c3-e1dad3",
+     "source": "Hackster",
+     "summary": "Build a DIY wireless air mouse using MPU6050 & ESP32-C3 to control your cursor with hand gestures via Bluetooth LE.",
+     "published": "2026-09-16T05:51:11+00:00",
+     "image": "https://hackster.imgix.net/uploads/attachments/2001970/_raTmck2x24.blob",
+     "kind": "article",
+     "id": "dbfc0aa39a3be076",
+     "first_seen": "2026-09-16T14:33:28.772629+00:00",
      "is_new": true
     },
     {
@@ -168,30 +190,6 @@
      "kind": "article",
      "id": "9d97fccd913a9d1c",
      "first_seen": "2026-09-15T14:37:02.891572+00:00",
-     "is_new": true
-    },
-    {
-     "title": "A gadget that pays my kids for maths & spelling",
-     "url": "https://www.hackster.io/platisd/a-gadget-that-pays-my-kids-for-maths-spelling-abf824",
-     "source": "Hackster",
-     "summary": "Kids solve math and spelling problems and earn \"coins\" for each correct answer. No phone or computer screens involved, just drachmath.",
-     "published": "2026-09-14T09:29:23+00:00",
-     "image": "https://hackster.imgix.net/uploads/attachments/2001491/_m8XUtHGd3j.blob",
-     "kind": "article",
-     "id": "5fbe446389abb9c8",
-     "first_seen": "2026-09-15T01:32:06.781890+00:00",
-     "is_new": true
-    },
-    {
-     "title": "Project \"God\"ish",
-     "url": "https://www.hackster.io/teensydev/project-god-ish-a17142",
-     "source": "Hackster",
-     "summary": "\"I Built God\" \u2014 a physical device that holds you accountable to your own principles.",
-     "published": "2026-09-14T09:01:44+00:00",
-     "image": "https://hackster.imgix.net/uploads/attachments/2001469/_eTjUhZhkW6.blob",
-     "kind": "article",
-     "id": "f8ca5ae0c03792b8",
-     "first_seen": "2026-09-14T16:08:13.611508+00:00",
      "is_new": true
     },
     {
@@ -214,60 +212,8 @@
    "kind": "goods",
    "lead_image": false,
    "row_detail": false,
-   "more": 10,
-   "items": [
-    {
-     "title": "Brighton Base Layer - Chicago",
-     "url": "https://www.tracksmith.com/products/m-chicago-brighton-base-layer?sku=MT217CHI2602NCRN",
-     "source": "Tracksmith",
-     "summary": "",
-     "published": null,
-     "image": "https://cdn.shopify.com/s/files/1/1594/4353/files/Chicago26-Mens-Brighton-Base-Layer-On-Model.png?v=1787853162&width=800&height=800&crop=center",
-     "price": "$110",
-     "kind": "product",
-     "id": "4ca148d6d0dbd80e",
-     "first_seen": "2026-09-15T21:43:44.838116+00:00",
-     "is_new": true
-    },
-    {
-     "title": "Indigo Chambray Popover",
-     "url": "https://www.bestmadeco.com/products/indigo-chambray-popover",
-     "source": "Best Made",
-     "summary": "Apparel",
-     "published": "2026-09-15T16:00:59-04:00",
-     "image": "https://cdn.shopify.com/s/files/1/0674/2985/9558/files/BMC-PDP-LS-JAPANESE-PULL-INDIGO_a02c8499-8b79-4d21-b4b4-e3b1bd12710f.jpg?v=1789402215",
-     "price": "$198",
-     "kind": "product",
-     "id": "ecdfc7e34d543b6b",
-     "first_seen": "2026-09-15T21:43:44.838116+00:00",
-     "is_new": true
-    },
-    {
-     "title": "Chaparral Panhandler Suede Western Shirt",
-     "url": "https://www.buckmason.com/products/chaparral-panhandler-suede-western-shirt",
-     "source": "Buck Mason",
-     "image": "https://cdn.shopify.com/s/files/1/0123/5065/2473/files/BM18025.772_PANHANDLERSUEDEWESTERNSHIRTCHAPARRAL_1.jpg?v=1789495970",
-     "price": "$698",
-     "published": "2026-07-16T18:32:49+00:00",
-     "kind": "product",
-     "id": "d951f98e7d5847fe",
-     "first_seen": "2026-09-15T18:27:47.267351+00:00",
-     "is_new": true
-    },
-    {
-     "title": "Chicago Tee",
-     "url": "https://www.tracksmith.com/products/m-chicago-tee?sku=MT213CHI2602NDB",
-     "source": "Tracksmith",
-     "summary": "",
-     "published": null,
-     "image": "https://cdn-image.tracksmith.com/1788975219-description-panel-1-2.png?auto=format,compress&crop=faces&dpr=2&fit=crop&h=560&w=420",
-     "price": "$80",
-     "kind": "product",
-     "id": "ad6f760e2a19adaf",
-     "first_seen": "2026-09-15T21:43:44.838116+00:00",
-     "is_new": true
-    }
-   ]
+   "more": 0,
+   "items": []
   },
   {
    "id": "dispatches",
@@ -277,22 +223,6 @@
    "row_detail": false,
    "more": 0,
    "items": [
-    {
-     "title": "Sneak peeks of the new Donegal",
-     "url": "https://www.permanentstyle.com/2026/09/sneak-peeks-of-the-new-donegal.html",
-     "source": "Permanent Style",
-     "summary": "Last week we did our regular shoot for the new overcoat this winter \u2013 of the new colour of the Donegal coat. The shots were so good that I shared one on Instagram, but have subseq\u2026",
-     "published": "2026-09-14T08:00:12+00:00",
-     "image": "https://www.permanentstyle.com/wp-content/uploads/2026/09/unnamed-6.jpg",
-     "kind": "article",
-     "id": "78ee332285bb245a",
-     "first_seen": "2026-09-14T16:08:13.611508+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": false,
-     "score": 1
-    },
     {
      "title": "Reviewing My Own Travel Packing Advice",
      "url": "https://www.menswearmusings.com/reviewing-my-own-travel-packing-advice/",
@@ -340,9 +270,27 @@
      "also_in": [],
      "boosted": false,
      "score": 1
+    },
+    {
+     "title": "Viberg x ACL",
+     "url": "https://www.acl.news/p/viberg-x-acl",
+     "source": "A Continuous Lean",
+     "summary": "The Field Chukka",
+     "published": "2026-09-10T16:06:23+00:00",
+     "image": "https://substackcdn.com/image/fetch/$s_!J5p-!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc5f8c31b-2746-4860-8936-231185f8d731_1365x2048.jpeg",
+     "kind": "article",
+     "id": "e2bc10bed30f3fa6",
+     "first_seen": "2026-09-10T16:29:36.195034+00:00",
+     "is_new": false,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": false,
+     "score": 1
     }
    ]
   }
  ],
- "errors": []
+ "errors": [
+  "Permanent Style: RuntimeError \u2014 https://www.permanentstyle.com/feed \u2192 HTTP 415"
+ ]
 }
