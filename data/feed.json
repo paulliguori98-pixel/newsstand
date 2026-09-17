@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-17T00:02:32.633605+00:00",
+ "generated_at": "2026-09-17T14:38:11.150305+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -11,15 +11,15 @@
    "items": [
     {
      "title": "Mostly Cloudy",
-     "phrase": "An even chance of rain between 11am and 1pm.",
-     "detail": "It reaches 76\u00b0 today and falls to 61\u00b0 overnight. The sun is up from 6:36 until 7:04.",
+     "phrase": "Rain is near certain between 12pm and 10pm.",
+     "detail": "It reaches 71\u00b0 today and falls to 59\u00b0 overnight. The sun is up from 6:37 until 7:02.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 71,
-     "high": 76,
-     "low": 61,
-     "sunrise": "6:36",
-     "sunset": "7:04",
+     "temp": 66,
+     "high": 71,
+     "low": 59,
+     "sunrise": "6:37",
+     "sunset": "7:02",
      "id": "bb806d72c86dcec1",
      "first_seen": "2026-08-19T17:11:19.569450+00:00",
      "is_new": false
@@ -69,65 +69,65 @@
    "more": 0,
    "items": [
     {
-     "title": "Fed Raises Rates in First Major Step by Warsh to Contain Inflation",
-     "url": "https://www.nytimes.com/2026/09/16/business/economy/federal-reserve-interest-rates-warsh.html",
-     "source": "New York Times",
-     "summary": "The Federal Reserve\u2019s first increase to interest rates since July 2023 comes less than two months before the midterm elections.",
-     "published": "2026-09-16T23:11:44+00:00",
-     "image": "https://static01.nyt.com/images/2026/09/16/multimedia/2026-09-15-fed-dot-plot-index/2026-09-15-fed-dot-plot-index-mediumSquareAt3X.png",
+     "title": "Swedish PM Kristersson resigns after election defeat \u2013 Europe live",
+     "url": "https://www.theguardian.com/world/live/2026/sep/17/donald-trump-eu-european-union-mark-carney-canada-associate-membership-tariffs-threats-germany-merz-latest-news-updates",
+     "source": "Guardian",
+     "summary": "Official results confirmed that his right-leaning bloc lost last Sunday\u2019s parliamentary electionMeanwhile, we are getting some interesting lines from Paris that the French preside\u2026",
+     "published": "2026-09-17T14:12:59+00:00",
+     "image": "https://i.guim.co.uk/img/media/9f2661b34427c01edaf8291a0589125ad652a1fb/445_278_2851_2281/master/2851.jpg?width=140&quality=85&auto=format&fit=max&s=c5d00336afca4744eb9967c3b7c0b832",
      "kind": "article",
-     "id": "40b24e2383c24d1d",
-     "first_seen": "2026-09-16T14:33:28.772629+00:00",
+     "id": "869ca936dee5ac7f",
+     "first_seen": "2026-09-17T14:38:11.150305+00:00",
      "is_new": true,
      "corroboration": 2,
      "also_in": [
-      "WSJ"
+      "BBC"
      ],
      "boosted": true,
      "score": 5
     },
     {
-     "title": "U.S. Intelligence Warns of China Theft Over Sale of F-35 Jets to Saudis",
-     "url": "https://www.nytimes.com/2026/09/16/us/politics/us-intelligence-china-f35-jets-saudis.html",
-     "source": "New York Times",
-     "summary": "Internal reports, including one from the Pentagon\u2019s Defense Intelligence Agency, say China could acquire U.S. jet technology through spying or cooperation with Saudi Arabia.",
-     "published": "2026-09-16T23:14:29+00:00",
-     "image": "https://static01.nyt.com/images/2026/09/16/multimedia/16dc-saudi-planes-wzfg/16dc-saudi-planes-wzfg-mediumSquareAt3X.jpg",
-     "kind": "article",
-     "id": "e7b5f413cffb79ef",
-     "first_seen": "2026-09-17T00:02:32.633605+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "Human-Caused Warming Played \u2018Very Strong\u2019 Role in Himalayan Floods, Report Finds",
-     "url": "https://www.nytimes.com/2026/09/16/climate/nepal-tibet-flood-climate-change.html",
-     "source": "New York Times",
-     "summary": "Rising temperatures contributed to the disaster by destabilizing the permafrost and ice around the collapsed rock, scientists concluded.",
-     "published": "2026-09-16T23:00:06+00:00",
-     "image": "https://static01.nyt.com/images/2026/08/28/multimedia/16cli-nepal-attribution/16cli-nepal-attribution-mediumSquareAt3X.jpg",
-     "kind": "article",
-     "id": "2ec0566d5b717c6d",
-     "first_seen": "2026-09-17T00:02:32.633605+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "House passes Russia sanctions, sending bill named for Lindsey Graham to Trump's desk",
-     "url": "https://www.npr.org/2026/09/16/nx-s1-5971289/russia-sanctions-house-vote-lindsey-graham",
+     "title": "U.N.-backed experts cite possible U.S. war crimes in Iran, including a school attack",
+     "url": "https://www.npr.org/2026/09/17/nx-s1-5972934/us-iran-war-un-report-alleged-war-crimes",
      "source": "NPR",
-     "summary": "The legislation was named for the late South Carolina Republican. It gives the president authority to impose tariffs on top importers of oil and natural gas from Russia, such as C\u2026",
-     "published": "2026-09-16T22:30:46+00:00",
+     "summary": "Human rights experts commissioned by the U.N. say they have found \"reasonable grounds\" to believe the U.S. committed war crimes in Iran, including a strike on a school in the sout\u2026",
+     "published": "2026-09-17T12:33:36+00:00",
      "image": null,
      "kind": "article",
-     "id": "65fe20ba2c7a36a3",
-     "first_seen": "2026-09-17T00:02:32.633605+00:00",
+     "id": "414cf51e64d6f1de",
+     "first_seen": "2026-09-17T14:38:11.150305+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
+     "title": "The Nuclear Stock Boom Could Keep Decaying",
+     "url": "https://www.wsj.com/finance/stocks/the-nuclear-stock-boom-could-keep-decaying-67d78958?mod=rss_markets_main",
+     "source": "WSJ",
+     "summary": "Plus, markets digest Fed\u2019s \u201chawkish hike\u201d",
+     "published": "2026-09-17T10:34:00+00:00",
+     "image": "https://images.wsj.net/im-896744",
+     "kind": "article",
+     "id": "a4d1be965db9cc26",
+     "first_seen": "2026-09-17T14:38:11.150305+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
+     "title": "Trump Sanctions on Cuba Strands Thousands Of Shipping Containers",
+     "url": "https://www.nytimes.com/2026/09/17/world/americas/trump-sanctions-cuba-shipping-containers.html",
+     "source": "New York Times",
+     "summary": "The U.S. says its sanctions are not aimed at depriving Cuba of essential goods. Thousands of stranded shipping containers tell a different story.",
+     "published": "2026-09-17T09:03:51+00:00",
+     "image": "https://static01.nyt.com/images/2026/09/15/multimedia/00int-cuba-aid-01-kcwq/00int-cuba-aid-01-kcwq-mediumSquareAt3X.jpg",
+     "kind": "article",
+     "id": "39a80bf6c10fd265",
+     "first_seen": "2026-09-17T14:38:11.150305+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
@@ -145,15 +145,27 @@
    "more": 0,
    "items": [
     {
-     "title": "Ride the Rails on a OneWheel",
-     "url": "https://hackaday.com/2026/09/16/ride-the-rails-on-a-onewheel/",
+     "title": "FCC ISM Rules May Shatter Lora Mesh Communities",
+     "url": "https://hackaday.com/2026/09/17/fcc-ism-rules-may-shatter-lora-mesh-communities/",
      "source": "Hackaday",
-     "summary": "The US has tons of abandoned rail, especially in urban environments, so it seems a shame to let it go to waste. [OneWheel] decided to modify one of their boards \u2026read more",
-     "published": "2026-09-16T23:00:46+00:00",
-     "image": "https://hackaday.com/wp-content/uploads/2026/09/Onewheel-on-abandoned-train-tracks-0-9-16.jpeg",
+     "summary": "Although everyone has their own reasons for exploring a new hobby, one of the driving factors behind the popularity of Meshtastic and MeshCore has been the incredible accessibilit\u2026",
+     "published": "2026-09-17T14:00:55+00:00",
+     "image": "https://hackaday.com/wp-content/uploads/2026/09/Meshtastic_T-Beam.jpg",
      "kind": "article",
-     "id": "f697f95fe58caa68",
-     "first_seen": "2026-09-17T00:02:32.633605+00:00",
+     "id": "3e72d5e1c26b73f6",
+     "first_seen": "2026-09-17T14:38:11.150305+00:00",
+     "is_new": true
+    },
+    {
+     "title": "Real-World Range Test: 44.7 km with a 15Ah External Battery",
+     "url": "https://www.hackster.io/afscooters/real-world-range-test-44-7-km-with-a-15ah-external-battery-dc979e",
+     "source": "Hackster",
+     "summary": "AF SCOOTERS tested a 48V 15Ah external battery on a Ninebot MAX G3 E and achieved 44.7 km in real-world conditions.",
+     "published": "2026-09-16T14:23:46+00:00",
+     "image": "https://hackster.imgix.net/uploads/attachments/2002213/_KoQKsZblA3.blob",
+     "kind": "article",
+     "id": "c73269dcebd4923d",
+     "first_seen": "2026-09-17T14:38:11.150305+00:00",
      "is_new": true
     },
     {
@@ -166,18 +178,6 @@
      "kind": "article",
      "id": "7b20f62acfeb36e8",
      "first_seen": "2026-09-16T18:24:17.924175+00:00",
-     "is_new": true
-    },
-    {
-     "title": "Smart Plant Monitor with ESP8266 & KiwisIoT",
-     "url": "https://www.hackster.io/varunprasadeng/smart-plant-monitor-with-esp8266-kiwisiot-c481d3",
-     "source": "Hackster",
-     "summary": "Monitor plant temperature, humidity, and soil moisture in real time using ESP8266 and KiwisIoT, with an LED alert when soil becomes dry.",
-     "published": "2026-09-16T06:10:22+00:00",
-     "image": "https://hackster.imgix.net/uploads/attachments/2001986/_NPVhQYzfbi.blob",
-     "kind": "article",
-     "id": "69110be5938a6166",
-     "first_seen": "2026-09-16T14:33:28.772629+00:00",
      "is_new": true
     },
     {
@@ -212,8 +212,61 @@
    "kind": "goods",
    "lead_image": false,
    "row_detail": false,
-   "more": 0,
-   "items": []
+   "more": 41,
+   "items": [
+    {
+     "title": "Over-The-Calf Dress Socks in Heather Grey Extra Fine Merino",
+     "url": "https://shopmashburn.com/products/sid-mashburn-over-the-calf-dress-socks-heather-grey-extra-fine-merino-s81514",
+     "source": "Sid Mashburn",
+     "summary": "Sid Dress Socks",
+     "published": "2026-09-17T10:20:38-04:00",
+     "image": "https://cdn.shopify.com/s/files/1/0414/4532/6999/files/S72200_27.jpg?v=1700490674",
+     "price": "$32",
+     "kind": "product",
+     "id": "86a45256e193bff9",
+     "first_seen": "2026-09-17T14:38:11.150305+00:00",
+     "is_new": true
+    },
+    {
+     "title": "Navy Cotton Mid-Calf Socks",
+     "url": "https://us.drakes.com/products/navy-cotton-mid-calf-socks-1",
+     "source": "Drake's",
+     "summary": "SHOPIFY",
+     "published": "2026-09-17T07:06:38-04:00",
+     "image": "https://cdn.shopify.com/s/files/1/0649/6603/3653/files/DR1AJ226912-13250-1.jpg?v=1789642950",
+     "price": "$40",
+     "kind": "product",
+     "id": "3dce1814bc8eb16b",
+     "first_seen": "2026-09-17T14:38:11.150305+00:00",
+     "is_new": true
+    },
+    {
+     "title": "Birdseye Trouser Dress Socks in Chocolate Extra Fine Merino",
+     "url": "https://shopmashburn.com/products/sid-mashburn-birdseye-trouser-dress-socks-chocolate-extra-fine-merino-s81522",
+     "source": "Sid Mashburn",
+     "summary": "Sid Dress Socks",
+     "published": "2026-09-17T10:20:37-04:00",
+     "image": "https://cdn.shopify.com/s/files/1/0414/4532/6999/files/S73428_0067.jpg?v=1706744240",
+     "price": "$32",
+     "kind": "product",
+     "id": "55294f5120168e5a",
+     "first_seen": "2026-09-17T14:38:11.150305+00:00",
+     "is_new": true
+    },
+    {
+     "title": "Black Cotton Mid-Calf Socks",
+     "url": "https://us.drakes.com/products/black-cotton-mid-calf-socks-1",
+     "source": "Drake's",
+     "summary": "SHOPIFY",
+     "published": "2026-09-17T07:06:37-04:00",
+     "image": "https://cdn.shopify.com/s/files/1/0649/6603/3653/files/DR1AJ226912-12100-1.jpg?v=1789642881",
+     "price": "$40",
+     "kind": "product",
+     "id": "5da1c02230c7daa7",
+     "first_seen": "2026-09-17T14:38:11.150305+00:00",
+     "is_new": true
+    }
+   ]
   },
   {
    "id": "dispatches",
@@ -224,15 +277,15 @@
    "more": 0,
    "items": [
     {
-     "title": "Reviewing My Own Travel Packing Advice",
-     "url": "https://www.menswearmusings.com/reviewing-my-own-travel-packing-advice/",
-     "source": "Menswear Musings",
-     "summary": "Is my 2017 packing advice for the UK still any good? The post Reviewing My Own Travel Packing Advice first appeared on Menswear Musings.",
-     "published": "2026-09-13T21:20:57+00:00",
-     "image": "https://i0.wp.com/www.menswearmusings.com/wp-content/uploads/2026/09/IMG_3490-2.jpg?fit=768%2C512&amp;ssl=1",
+     "title": "Cesare Attolini bespoke jacket: Review",
+     "url": "https://www.permanentstyle.com/2026/09/cesare-attolini-bespoke-jacket-review.html",
+     "source": "Permanent Style",
+     "summary": "This bespoke jacket from Attolini has quickly become one of my favourites, because of the cut and because of the exceptional material. The jacket was bespoke, in that it had a han\u2026",
+     "published": "2026-09-16T08:00:59+00:00",
+     "image": "https://www.permanentstyle.com/wp-content/uploads/2026/09/how-to-wear-a-checked-jacket.jpg",
      "kind": "article",
-     "id": "1b53a16e81e069a0",
-     "first_seen": "2026-09-13T22:03:45.103529+00:00",
+     "id": "3a8dd92d6f930a0d",
+     "first_seen": "2026-09-16T18:24:17.924175+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
@@ -256,6 +309,22 @@
      "score": 1
     },
     {
+     "title": "Reviewing My Own Travel Packing Advice",
+     "url": "https://www.menswearmusings.com/reviewing-my-own-travel-packing-advice/",
+     "source": "Menswear Musings",
+     "summary": "Is my 2017 packing advice for the UK still any good? The post Reviewing My Own Travel Packing Advice first appeared on Menswear Musings.",
+     "published": "2026-09-13T21:20:57+00:00",
+     "image": "https://i0.wp.com/www.menswearmusings.com/wp-content/uploads/2026/09/IMG_3490-2.jpg?fit=768%2C512&amp;ssl=1",
+     "kind": "article",
+     "id": "1b53a16e81e069a0",
+     "first_seen": "2026-09-13T22:03:45.103529+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": false,
+     "score": 1
+    },
+    {
      "title": "Inside Track: September 6th \u2013 September 12th Edition",
      "url": "https://www.putthison.com/inside-track-september-6th-september-12th-edition-2/",
      "source": "Put This On",
@@ -265,23 +334,7 @@
      "kind": "article",
      "id": "3e945e72e84f6a9d",
      "first_seen": "2026-09-13T14:02:24.614721+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": false,
-     "score": 1
-    },
-    {
-     "title": "Why is Daddy Sad on Sunday?",
-     "url": "https://www.acl.news/p/why-is-daddy-sad-on-sunday",
-     "source": "A Continuous Lean",
-     "summary": "God, Please Don\u2019t Let My Son Be a Browns Fan",
-     "published": "2026-09-13T09:03:58+00:00",
-     "image": "https://substackcdn.com/image/fetch/$s_!gBLM!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F829188a8-1815-4a14-9486-129b126c0622_2560x1440.webp",
-     "kind": "article",
-     "id": "a8052ff175d3623a",
-     "first_seen": "2026-09-13T14:02:24.614721+00:00",
-     "is_new": true,
+     "is_new": false,
      "corroboration": 1,
      "also_in": [],
      "boosted": false,
@@ -290,7 +343,5 @@
    ]
   }
  ],
- "errors": [
-  "Permanent Style: RuntimeError \u2014 https://www.permanentstyle.com/feed \u2192 HTTP 415"
- ]
+ "errors": []
 }
