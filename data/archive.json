@@ -264,7 +264,7 @@
   "title": "Session 2-in-1 Shorts",
   "url": "https://www.tracksmith.com/products/m-session-2-in-1-shorts?sku=MB326501N",
   "source": "Tracksmith",
-  "image": "https://cdn.shopify.com/s/files/1/1594/4353/files/Spring26-Mens-Session-7inch-Shorts-Navy.png?v=1770045094?auto=format,compress&crop=faces&dpr=2&fit=crop&h=400&w=400",
+  "image": "https://cdn-image.tracksmith.com/1770949356-screenshot-2026-02-10-at-1-36-09-pm-1.png?auto=format,compress&crop=faces&dpr=2&fit=crop&h=560&w=420",
   "price": "$95",
   "published": null,
   "first_seen": "2026-08-13T18:33:33.597069+00:00"
@@ -3679,5 +3679,23 @@
   "price": "$85",
   "published": null,
   "first_seen": "2026-09-18T17:42:52.113087+00:00"
+ },
+ "a7b1550a8987cb0a": {
+  "title": "Turnover Half Tights",
+  "url": "https://www.tracksmith.com/products/m-turnover-half-tights?sku=6996563918935:black__XS",
+  "source": "Tracksmith",
+  "image": "https://cdn-image.tracksmith.com/1756829380-emilymaye_ts_fall25_craftsbury_09827.jpg?auto=format,compress&crop=faces&dpr=2&fit=crop&h=560&w=420",
+  "price": "$80",
+  "published": null,
+  "first_seen": "2026-09-18T22:40:26.519676+00:00"
+ },
+ "3621d385e2f8cb7c": {
+  "title": "Session Tee",
+  "url": "https://www.tracksmith.com/products/m-session-tee?sku=6744160206935:dove__XS",
+  "source": "Tracksmith",
+  "image": "https://cdn-image.tracksmith.com/1770945291-plp-rollover-image.png?auto=format,compress&crop=faces&dpr=2&fit=crop&h=560&w=420",
+  "price": "$85",
+  "published": null,
+  "first_seen": "2026-09-18T22:40:26.519676+00:00"
  }
 }
