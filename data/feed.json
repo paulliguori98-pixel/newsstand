@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-18T14:04:15.896581+00:00",
+ "generated_at": "2026-09-18T17:42:52.113087+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -15,7 +15,7 @@
      "detail": "It reaches 77\u00b0 today and falls to 44\u00b0 overnight. The sun is up from 6:38 until 7:00.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 67,
+     "temp": 73,
      "high": 77,
      "low": 44,
      "sunrise": "6:38",
@@ -69,12 +69,12 @@
    "more": 0,
    "items": [
     {
-     "title": "Warren Buffett Steps Down as Berkshire Chairman and Names Son to Replace Him",
+     "title": "Warren Buffett Steps Down as Berkshire Hathaway Chairman",
      "url": "https://www.nytimes.com/2026/09/18/business/warren-buffett-berkshire-chairman.html",
      "source": "New York Times",
      "summary": "\u201cFather Time always wins,\u201d the 96-year-old, who turned Berkshire Hathaway into an investing powerhouse, said in a letter to shareholders. He will remain on the board as chairman e\u2026",
-     "published": "2026-09-18T12:23:30+00:00",
-     "image": "https://static01.nyt.com/images/2026/09/18/multimedia/18biz-buffett-berkshire-tqcf/18biz-buffett-berkshire-tqcf-mediumSquareAt3X-v2.jpg",
+     "published": "2026-09-18T17:02:43+00:00",
+     "image": null,
      "kind": "article",
      "id": "bcfece4060ebfcc0",
      "first_seen": "2026-09-18T14:04:15.896581+00:00",
@@ -110,9 +110,9 @@
      "title": "Flight chaos for hundreds of thousands was caused in \u2018millisecond\u2019 by software error",
      "url": "https://www.theguardian.com/world/2026/sep/18/flight-chaos-affecting-hundreds-of-thousands-caused-in-millisecond-by-software-error-uk",
      "source": "Guardian",
-     "summary": "UK ministers say report into incident leaves questions unanswered over why problem was not discovered and fixed earlierBusiness live \u2013 latest updatesA software defect in part of t\u2026",
-     "published": "2026-09-18T13:28:16+00:00",
-     "image": "https://i.guim.co.uk/img/media/3180b828104c9bdba1fbeda67b755c7a40924203/28_96_6449_5162/master/6449.jpg?width=140&quality=85&auto=format&fit=max&s=12d828912c709ad09acac14728573173",
+     "summary": "Error first occurred at 10am but major incident was not declared until 12.30pm, says reportA software defect in part of the UK\u2019s air traffic control system corrupted flight data \u201c\u2026",
+     "published": "2026-09-18T15:45:18+00:00",
+     "image": "https://i.guim.co.uk/img/media/87fbb8a84446d79dd1a9f01154ab7ff9503c99e7/751_57_4084_3267/master/4084.jpg?width=140&quality=85&auto=format&fit=max&s=56b254c56746a34e5a7f5f3538dc85b3",
      "kind": "article",
      "id": "de07ae44559d8c07",
      "first_seen": "2026-09-18T14:04:15.896581+00:00",
@@ -123,15 +123,15 @@
      "score": 4
     },
     {
-     "title": "A Timeline of Warren Buffett\u2019s Career Defining Moments",
-     "url": "https://www.nytimes.com/2025/05/04/business/warren-buffett-career-timeline.html",
-     "source": "New York Times",
-     "summary": "Mr. Buffett, 96, was crowned the \u201cOracle of Omaha\u201d because of smart investments he made as the chief executive of Berkshire Hathaway. He also made some mistakes.",
-     "published": "2026-09-18T12:47:30+00:00",
-     "image": "https://static01.nyt.com/images/2025/05/04/multimedia/04xp-buffett1-ljwq/04xp-buffett1-ljwq-mediumSquareAt3X.jpg",
+     "title": "Blanche warned of contempt risk in Epstein files case",
+     "url": "https://www.axios.com/2026/09/17/epstein-files-doj-contempt-judge-blanche",
+     "source": "Axios",
+     "summary": "A federal judge warned Attorney General Todd Blanche Wednesday that he could face contempt proceedings if the Department of Justice fails to comply with an order involving the rel\u2026",
+     "published": "2026-09-18T00:37:01+00:00",
+     "image": "https://images.axios.com/h_tZVWT0zhU1hauE2UdwcuJhSaA=/0x487:8070x5026/1366x768/2026/09/17/1789663767426.jpg",
      "kind": "article",
-     "id": "4d22541e0e407386",
-     "first_seen": "2026-09-18T14:04:15.896581+00:00",
+     "id": "b5e53cd25aebe257",
+     "first_seen": "2026-09-17T18:32:25.618924+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
@@ -161,6 +161,18 @@
      "is_new": true
     },
     {
+     "title": "IoT Water Level Monitoring System Using ESP8266 & KiwisIoT",
+     "url": "https://www.hackster.io/kggopi666/iot-water-level-monitoring-system-using-esp8266-kiwisiot-69c32a",
+     "source": "Hackster",
+     "summary": "IoT water tank monitor using ESP8266 & KiwisIoT with live levels and full-tank alerts.",
+     "published": "2026-09-18T10:33:27+00:00",
+     "image": "https://hackster.imgix.net/uploads/attachments/2002699/_0KjP7L1Peb.blob",
+     "kind": "article",
+     "id": "2fd945f2663517c2",
+     "first_seen": "2026-09-18T17:42:52.113087+00:00",
+     "is_new": true
+    },
+    {
      "title": "Determine BJT Transistor Pinouts using a Digital Multimeter",
      "url": "https://www.hackster.io/electroniclovers/determine-bjt-transistor-pinouts-using-a-digital-multimeter-52f83c",
      "source": "Hackster",
@@ -169,18 +181,6 @@
      "image": "https://hackster.imgix.net/uploads/attachments/2002596/_BRLA6aduje.blob",
      "kind": "article",
      "id": "23b048d595ca8b2e",
-     "first_seen": "2026-09-18T14:04:15.896581+00:00",
-     "is_new": true
-    },
-    {
-     "title": "IoT Cold Storage Monitor with KiwisIoT",
-     "url": "https://www.hackster.io/varunprasadeng/iot-cold-storage-monitor-with-kiwisiot-0df565",
-     "source": "Hackster",
-     "summary": "Monitor cold-storage temperature and humidity with ESP8266 and DHT11, featuring LED alerts and real-time KiwisIoT cloud monitoring",
-     "published": "2026-09-18T05:57:29+00:00",
-     "image": "https://hackster.imgix.net/uploads/attachments/2002594/_bqTEjb58JN.blob",
-     "kind": "article",
-     "id": "a093f6d311348b04",
      "first_seen": "2026-09-18T14:04:15.896581+00:00",
      "is_new": true
     },
@@ -217,7 +217,21 @@
    "lead_image": false,
    "row_detail": false,
    "more": 0,
-   "items": []
+   "items": [
+    {
+     "title": "Session Tee",
+     "url": "https://www.tracksmith.com/products/m-session-tee?sku=MT208101NAR",
+     "source": "Tracksmith",
+     "summary": "",
+     "published": null,
+     "image": "https://cdn-image.tracksmith.com/1770945291-plp-rollover-image.png?auto=format,compress&crop=faces&dpr=2&fit=crop&h=560&w=420",
+     "price": "$85",
+     "kind": "product",
+     "id": "aac614711b7ded3b",
+     "first_seen": "2026-09-18T17:42:52.113087+00:00",
+     "is_new": true
+    }
+   ]
   },
   {
    "id": "dispatches",

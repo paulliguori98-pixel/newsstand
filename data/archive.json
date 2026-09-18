@@ -1713,7 +1713,7 @@
   "title": "Trackhouse Midweight Sweatshirt",
   "url": "https://www.tracksmith.com/products/m-trackhouse-midweight-sweatshirt?sku=MT2247TRKE01WIW",
   "source": "Tracksmith",
-  "image": "https://cdn.shopify.com/s/files/1/1594/4353/files/Fall26-Mens-Fieldhouse-Midweight-Sweatshirt-Wild-Wind.png?v=1787579288&width=800&height=800&crop=center",
+  "image": "https://cdn-image.tracksmith.com/1768006903-fh26-m-midweightsweatshirt-4.jpg?auto=format,compress&crop=faces&dpr=2&fit=crop&h=560&w=420",
   "price": "$120",
   "published": null,
   "first_seen": "2026-08-28T01:31:34.864033+00:00"
@@ -1767,7 +1767,7 @@
   "title": "Session Shorts",
   "url": "https://www.tracksmith.com/products/m-session-shorts?sku=MB323401CAB",
   "source": "Tracksmith",
-  "image": "https://cdn.shopify.com/s/files/1/1594/4353/files/Fall26-Mens-Session-Shorts-Cabernet_47faaec1-c097-477f-b43f-16d94926a681.png?v=1787595955&width=800&height=800&crop=center",
+  "image": "https://cdn-image.tracksmith.com/1770948337-plp-rollover-image.png?auto=format,compress&crop=faces&dpr=2&fit=crop&h=560&w=420",
   "price": "$85",
   "published": null,
   "first_seen": "2026-08-28T01:31:34.864033+00:00"
@@ -1785,7 +1785,7 @@
   "title": "Session Pants",
   "url": "https://www.tracksmith.com/products/m-session-pants?sku=MB323501BRU",
   "source": "Tracksmith",
-  "image": "https://cdn.shopify.com/s/files/1/1594/4353/files/Fall26-Mens-Session-Pants-Brushed-Nickel-On-Model.png?v=1787671133?auto=format,compress&crop=faces&dpr=2&fit=crop&h=400&w=400",
+  "image": "https://cdn-image.tracksmith.com/1762275790-ts_em_holiday_25_05702.jpg?auto=format,compress&crop=faces&dpr=2&fit=crop&h=560&w=420",
   "price": "$130",
   "published": null,
   "first_seen": "2026-08-28T01:31:34.864033+00:00"
@@ -3670,5 +3670,14 @@
   "price": "$228",
   "published": "2026-07-10T20:22:09+00:00",
   "first_seen": "2026-09-17T23:52:40.924523+00:00"
+ },
+ "aac614711b7ded3b": {
+  "title": "Session Tee",
+  "url": "https://www.tracksmith.com/products/m-session-tee?sku=MT208101NAR",
+  "source": "Tracksmith",
+  "image": "https://cdn-image.tracksmith.com/1770945291-plp-rollover-image.png?auto=format,compress&crop=faces&dpr=2&fit=crop&h=560&w=420",
+  "price": "$85",
+  "published": null,
+  "first_seen": "2026-09-18T17:42:52.113087+00:00"
  }
 }
