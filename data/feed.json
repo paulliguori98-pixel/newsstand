@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-19T00:38:33.587464+00:00",
+ "generated_at": "2026-09-19T13:40:14.899782+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,16 +10,16 @@
    "more": 0,
    "items": [
     {
-     "title": "Mostly Cloudy",
-     "phrase": "Mostly Cloudy all day.",
-     "detail": "It reaches 66\u00b0 today and falls to 44\u00b0 overnight. The sun is up from 6:38 until 7:00.",
+     "title": "Mostly Sunny",
+     "phrase": "Mostly Sunny all day.",
+     "detail": "It reaches 65\u00b0 today and falls to 47\u00b0 overnight. The sun is up from 6:39 until 6:58.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 61,
-     "high": 66,
-     "low": 44,
-     "sunrise": "6:38",
-     "sunset": "7:00",
+     "temp": 48,
+     "high": 65,
+     "low": 47,
+     "sunrise": "6:39",
+     "sunset": "6:58",
      "id": "bb806d72c86dcec1",
      "first_seen": "2026-08-19T17:11:19.569450+00:00",
      "is_new": false
@@ -69,67 +69,74 @@
    "more": 0,
    "items": [
     {
-     "title": "Anthropic Pursues IPO Despite Its A.I. Safety Warnings",
-     "url": "https://www.nytimes.com/2026/09/18/technology/anthropic-ipo-ai-safety.html",
-     "source": "New York Times",
-     "summary": "The company is expected to reach $100 billion in annualized revenue this year, even as chief executive Dario Amodei calls for slowing down development of some advanced A.I. models.",
-     "published": "2026-09-19T00:23:01+00:00",
-     "image": "https://static01.nyt.com/images/2026/09/18/multimedia/18biz-anthropic-ipo-go-bzlw/18biz-anthropic-ipo-go-bzlw-mediumSquareAt3X.jpg",
+     "title": "US and Denmark reach deal over Greenland after Trump annexation threats",
+     "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "summary": "Denmark and Greenland have welcomed the deal, which Trump claims will give the US \"permanent control over security and all other needs\" in the Danish territory.",
+     "published": "2026-09-19T11:36:55+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1ad/live/fd353880-b421-11f1-8a8e-d9778c1036bb.jpg",
      "kind": "article",
-     "id": "68b690d601090e3e",
+     "id": "7ffe8b5c7454717b",
      "first_seen": "2026-09-18T22:40:26.519676+00:00",
      "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
+     "corroboration": 5,
+     "also_in": [
+      "Axios",
+      "Guardian",
+      "NPR",
+      "New York Times"
+     ],
+     "boosted": false,
+     "score": 5
     },
     {
-     "title": "US and Denmark reach security deal after Trump\u2019s threats to take over Greenland",
-     "url": "https://www.theguardian.com/world/2026/sep/18/united-states-denmark-greenland-security",
-     "source": "Guardian",
-     "summary": "The agreement would allow the US to expand its military presence, while Denmark and Greenland say it preserves their sovereignty and right to self-determinationDonald Trump announ\u2026",
-     "published": "2026-09-19T00:10:54+00:00",
-     "image": "https://i.guim.co.uk/img/media/2682fb6ff4a3009a14304ef15d3a2c645b8bd00c/1000_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=077fe757626a325f8f5959aef9c70c3a",
+     "title": "Buffett Hands Berkshire Chairman\u2019s Seat to Son Howard",
+     "url": "https://www.wsj.com/finance/stocks/buffett-hands-berkshire-chairmans-seat-to-son-howard-bd424456?mod=rss_markets_main",
+     "source": "WSJ",
+     "summary": "Plus, Coinbase shares soar and Bank of Japan\u2019s rate hike sends yen sinking",
+     "published": "2026-09-18T20:31:00+00:00",
+     "image": "https://images.wsj.net/im-07422794",
      "kind": "article",
-     "id": "a4ec3b580cc7e92d",
-     "first_seen": "2026-09-19T00:38:33.587464+00:00",
+     "id": "89b29526c629fe56",
+     "first_seen": "2026-09-18T22:40:26.519676+00:00",
+     "is_new": true,
+     "corroboration": 2,
+     "also_in": [
+      "Axios"
+     ],
+     "boosted": true,
+     "score": 5
+    },
+    {
+     "title": "MS NOW Reporter Barred From White House After Trump Imposes Press Ban",
+     "url": "https://www.nytimes.com/2026/09/19/business/media/trump-white-house-press-ban.html",
+     "source": "New York Times",
+     "summary": "The president said on Friday he would ban CNN, Politico and MS NOW. Any prohibition will probably face a legal challenge.",
+     "published": "2026-09-19T13:20:30+00:00",
+     "image": null,
+     "kind": "article",
+     "id": "e58a1bb612fe4627",
+     "first_seen": "2026-09-19T13:40:14.899782+00:00",
      "is_new": true,
      "corroboration": 4,
      "also_in": [
       "Axios",
       "BBC",
-      "New York Times"
+      "NPR"
      ],
      "boosted": false,
      "score": 4
     },
     {
-     "title": "A four-minute warning isn't enough: Russia's new relentless missile tactics exhaust Kyiv residents",
-     "url": "https://www.bbc.co.uk/news/articles/cwp93k9gpnv1o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "summary": "Increasingly frequent and ferocious attacks on the Ukrainian capital have left many on edge.",
-     "published": "2026-09-18T23:03:38+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29a1/live/446ff8b0-a1fe-11f1-a97e-999c5aae08bf.jpg",
+     "title": "Iran war causes global pain at the pump",
+     "url": "https://www.axios.com/2026/09/19/iran-war-global-pain-fuel-prices",
+     "source": "Axios",
+     "summary": "Data: Axios research. Note: Some countries use a quota system for gasoline. Malaysia's figure reflects the unsubsidized market rate. Chart: Noah Bressner/AxiosThe Iran war is driv\u2026",
+     "published": "2026-09-19T12:58:55+00:00",
+     "image": "https://datawrapper.dwcdn.net/IXouA/fallback.png",
      "kind": "article",
-     "id": "3fad262e8b12a7d1",
-     "first_seen": "2026-09-19T00:38:33.587464+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "Latvia\u2019s president warns that Europe is not up to date with drone and aerial warfare in Ukraine",
-     "url": "https://www.theguardian.com/world/2026/sep/18/edgars-rinkevics-europe-ukraine-war",
-     "source": "Guardian",
-     "summary": "Edgars Rink\u0113vi\u010ds says drone warfare in Ukraine is moving at \u2018lightning speed\u2019 and efforts to prepare for an aerial war could be obsolete by next yearLatvia\u2019s president has warned \u2026",
-     "published": "2026-09-18T22:05:53+00:00",
-     "image": "https://i.guim.co.uk/img/media/8c97bbdbed9ba2b1f11920c10fb1ae9a58333d62/683_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=98f1e8347e022f781333579a918e8d9f",
-     "kind": "article",
-     "id": "3ae6bf1742157d47",
-     "first_seen": "2026-09-18T22:40:26.519676+00:00",
+     "id": "062e32e6ad36fc6a",
+     "first_seen": "2026-09-19T13:40:14.899782+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
@@ -147,39 +154,39 @@
    "more": 0,
    "items": [
     {
-     "title": "Making a Digital Music Player for Cassette Decks",
-     "url": "https://hackaday.com/2026/09/18/making-a-digital-music-player-for-cassette-decks/",
+     "title": "The Concertina Goes Electronic",
+     "url": "https://hackaday.com/2026/09/18/the-concertina-goes-electronic/",
      "source": "Hackaday",
-     "summary": "In the cross-over between the era of tapes into that of MP3s, you\u2019d see quite a few of those special cassette tapes that were actually digital music players inside. Some \u2026read more",
-     "published": "2026-09-18T20:00:40+00:00",
-     "image": "https://hackaday.com/wp-content/uploads/2026/09/mp3_cassette_adapter_jonathanrowny_youtube.jpg",
+     "summary": "The concertina is an instrument that features heavily in European folk music, of which there are a variety of types. [Xcott Craver] has built one, an anglo concertina of the \u2026read\u2026",
+     "published": "2026-09-19T05:00:20+00:00",
+     "image": "https://hackaday.com/wp-content/uploads/2026/09/concertina-featured.jpg",
      "kind": "article",
-     "id": "d9beb6088a2b0787",
+     "id": "f05401d889b3d377",
+     "first_seen": "2026-09-19T13:40:14.899782+00:00",
+     "is_new": true
+    },
+    {
+     "title": "Clothing Color Classifier \ud83d\udc55\ud83c\udfa8",
+     "url": "https://www.hackster.io/aula-jazmati/clothing-color-classifier-efdf32",
+     "source": "Hackster",
+     "summary": "A TinyML Object Detection model that identifies clothing colors in real time \u2014 trained and deployed entirely through Edge Impulse Studio.",
+     "published": "2026-09-18T21:53:21+00:00",
+     "image": "https://hackster.imgix.net/uploads/attachments/2002855/_KppBh967vD.blob",
+     "kind": "article",
+     "id": "79622289a052482e",
+     "first_seen": "2026-09-19T13:40:14.899782+00:00",
+     "is_new": true
+    },
+    {
+     "title": "Build a Smart 24VAC Heat Pump Thermostat System",
+     "url": "https://www.hackster.io/owonsmart/build-a-smart-24vac-heat-pump-thermostat-system-8318d2",
+     "source": "Hackster",
+     "summary": "Build a connected 24VAC HVAC system with smart thermostat control, heat pump support, remote sensors, scheduling, and WiFi access.",
+     "published": "2026-09-18T14:59:12+00:00",
+     "image": "https://hackster.imgix.net/uploads/attachments/2002775/_oEe0V1rnp8.blob",
+     "kind": "article",
+     "id": "00205da765376abe",
      "first_seen": "2026-09-18T20:20:04.102708+00:00",
-     "is_new": true
-    },
-    {
-     "title": "Nine Circuits, One Panel: Modbus Metering in Home Assistant",
-     "url": "https://www.hackster.io/dmitry10/nine-circuits-one-panel-modbus-metering-in-home-assistant-aaa53c",
-     "source": "Hackster",
-     "summary": "Three DIN-rail three-phase meters, an ESP32 and nine CTs \u2014 plus the wiring rule that decides whether the numbers mean anything.",
-     "published": "2026-09-18T12:16:54+00:00",
-     "image": "https://hackster.imgix.net/uploads/attachments/2002755/_tXQYR0YWsU.blob",
-     "kind": "article",
-     "id": "1fed416c70ae18b8",
-     "first_seen": "2026-09-19T00:38:33.587464+00:00",
-     "is_new": true
-    },
-    {
-     "title": "IoT Water Level Monitoring System Using ESP8266 & KiwisIoT",
-     "url": "https://www.hackster.io/kggopi666/iot-water-level-monitoring-system-using-esp8266-kiwisiot-69c32a",
-     "source": "Hackster",
-     "summary": "IoT water tank monitor using ESP8266 & KiwisIoT with live levels and full-tank alerts.",
-     "published": "2026-09-18T10:33:27+00:00",
-     "image": "https://hackster.imgix.net/uploads/attachments/2002699/_0KjP7L1Peb.blob",
-     "kind": "article",
-     "id": "2fd945f2663517c2",
-     "first_seen": "2026-09-18T17:42:52.113087+00:00",
      "is_new": true
     },
     {
@@ -215,7 +222,21 @@
    "lead_image": false,
    "row_detail": false,
    "more": 0,
-   "items": []
+   "items": [
+    {
+     "title": "Turnover Half Tights",
+     "url": "https://www.tracksmith.com/products/m-turnover-half-tights?sku=MB310601N",
+     "source": "Tracksmith",
+     "summary": "",
+     "published": null,
+     "image": "https://cdn-image.tracksmith.com/1756829380-emilymaye_ts_fall25_craftsbury_09827.jpg?auto=format,compress&crop=faces&dpr=2&fit=crop&h=560&w=420",
+     "price": "$80",
+     "kind": "product",
+     "id": "bb8577a80691c91f",
+     "first_seen": "2026-09-19T13:40:14.899782+00:00",
+     "is_new": true
+    }
+   ]
   },
   {
    "id": "dispatches",
