@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-19T19:08:27.152917+00:00",
+ "generated_at": "2026-09-19T21:29:00.160813+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -11,11 +11,11 @@
    "items": [
     {
      "title": "Mostly Cloudy",
-     "phrase": "Rain is likely between 6am and 8am.",
+     "phrase": "Rain is near certain between 6am and 10am.",
      "detail": "It reaches 66\u00b0 today and falls to 47\u00b0 overnight. The sun is up from 6:39 until 6:58.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 65,
+     "temp": 64,
      "high": 66,
      "low": 47,
      "sunrise": "6:39",
@@ -87,6 +87,22 @@
      "score": 5
     },
     {
+     "title": "India Is Again Squeezed Between the Threat of Trump Tariffs and Russian Oil",
+     "url": "https://www.nytimes.com/2026/09/19/business/india-russia-sanctions-oil.html",
+     "source": "New York Times",
+     "summary": "India is trying to secure affordable energy while preserving a crucial relationship with Washington, a balancing act made harder by turmoil in global energy markets.",
+     "published": "2026-09-19T18:58:53+00:00",
+     "image": "https://static01.nyt.com/images/2026/09/18/multimedia/18Biz-India-Oil-Tariffs-01-fkbh/18Biz-India-Oil-Tariffs-01-fkbh-mediumSquareAt3X.jpg",
+     "kind": "article",
+     "id": "c28d4a3630e31e1f",
+     "first_seen": "2026-09-19T21:29:00.160813+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
      "title": "Iran war causes global pain at the pump",
      "url": "https://www.axios.com/2026/09/19/iran-war-global-pain-fuel-prices",
      "source": "Axios",
@@ -117,22 +133,6 @@
      "also_in": [],
      "boosted": true,
      "score": 4
-    },
-    {
-     "title": "As Europe warms, Italy sees West Nile virus spread",
-     "url": "https://www.npr.org/2026/09/19/g-s1-144162/as-europe-warms-italy-sees-west-nile-virus-spread",
-     "source": "NPR",
-     "summary": "Italian health authorities see evidence that rising temperatures and longer warm seasons are helping mosquitoes spread West Nile virus across a wider area, during more months of t\u2026",
-     "published": "2026-09-19T05:13:18+00:00",
-     "image": null,
-     "kind": "article",
-     "id": "fc41024e17a66191",
-     "first_seen": "2026-09-19T13:40:14.899782+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
     }
    ]
   },
@@ -145,39 +145,39 @@
    "more": 0,
    "items": [
     {
-     "title": "Teaching a Robot Hand to Walk",
-     "url": "https://hackaday.com/2026/09/19/teaching-a-robot-hand-to-walk/",
+     "title": "Coreboot Hikes the Bay Trail to DRAM Initialization",
+     "url": "https://hackaday.com/2026/09/19/coreboot-hikes-the-bay-trail-to-dram-initialization/",
      "source": "Hackaday",
-     "summary": "Although it wasn\u2019t apparently designed with this in mind, it seems particularly fortuitous that this walking robotic hand was released in time for Halloween. Designed by researche\u2026",
-     "published": "2026-09-19T17:00:37+00:00",
-     "image": "https://hackaday.com/wp-content/uploads/2026/09/walking_hand.png",
+     "summary": "This article is written on an open-source operating system, but not an open-source machine \u2014 the BIOS isn\u2019t open-source, and even if it were supported by the coreboot project (for\u2026",
+     "published": "2026-09-19T20:00:06+00:00",
+     "image": "https://hackaday.com/wp-content/uploads/2020/06/chromebook-featured.jpg",
      "kind": "article",
-     "id": "b2ce59c474668603",
-     "first_seen": "2026-09-19T19:08:27.152917+00:00",
+     "id": "455814361f542168",
+     "first_seen": "2026-09-19T21:29:00.160813+00:00",
      "is_new": true
     },
     {
-     "title": "Clothing Color Classifier \ud83d\udc55\ud83c\udfa8",
-     "url": "https://www.hackster.io/aula-jazmati/clothing-color-classifier-efdf32",
+     "title": "Smart Garage Monitoring with ESP8266 and KiwisIoT",
+     "url": "https://www.hackster.io/keerthanadc19/smart-garage-monitoring-with-esp8266-and-kiwisiot-e9eca2",
      "source": "Hackster",
-     "summary": "A TinyML Object Detection model that identifies clothing colors in real time \u2014 trained and deployed entirely through Edge Impulse Studio.",
-     "published": "2026-09-18T21:53:21+00:00",
-     "image": "https://hackster.imgix.net/uploads/attachments/2002855/_KppBh967vD.blob",
+     "summary": "Turn your garage into a smart space with real-time vehicle detection, distance, temperature, and humidity monitoring using KiwisIoT.",
+     "published": "2026-09-19T11:42:29+00:00",
+     "image": "https://hackster.imgix.net/uploads/attachments/2002962/_LT12d9eEs4.blob",
      "kind": "article",
-     "id": "79622289a052482e",
-     "first_seen": "2026-09-19T13:40:14.899782+00:00",
+     "id": "6bf5ca12b7289314",
+     "first_seen": "2026-09-19T21:29:00.160813+00:00",
      "is_new": true
     },
     {
-     "title": "Nine Circuits, One Panel: Modbus Metering in Home Assistant",
-     "url": "https://www.hackster.io/dmitry10/nine-circuits-one-panel-modbus-metering-in-home-assistant-aaa53c",
+     "title": "French Baguette sampler&synth",
+     "url": "https://www.hackster.io/koralinstruments/french-baguette-sampler-synth-0da915",
      "source": "Hackster",
-     "summary": "Three DIN-rail three-phase meters, an ESP32 and nine CTs \u2014 plus the wiring rule that decides whether the numbers mean anything.",
-     "published": "2026-09-18T12:16:54+00:00",
-     "image": "https://hackster.imgix.net/uploads/attachments/2002755/_tXQYR0YWsU.blob",
+     "summary": "French Baguette is a playful tactile sampler and synthesizer built around the Chili Pepper devboard platform.",
+     "published": "2026-09-19T09:43:22+00:00",
+     "image": "https://hackster.imgix.net/uploads/attachments/2002975/monfilm7-ezgif_com-video-to-gif-converter-3_RkEktXtnlm.gif",
      "kind": "article",
-     "id": "1fed416c70ae18b8",
-     "first_seen": "2026-09-19T00:38:33.587464+00:00",
+     "id": "963869386209f735",
+     "first_seen": "2026-09-19T21:29:00.160813+00:00",
      "is_new": true
     },
     {
