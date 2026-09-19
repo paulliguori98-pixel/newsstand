@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-19T13:40:14.899782+00:00",
+ "generated_at": "2026-09-19T16:48:38.502648+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -15,7 +15,7 @@
      "detail": "It reaches 65\u00b0 today and falls to 47\u00b0 overnight. The sun is up from 6:39 until 6:58.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 48,
+     "temp": 60,
      "high": 65,
      "low": 47,
      "sunrise": "6:39",
@@ -69,27 +69,6 @@
    "more": 0,
    "items": [
     {
-     "title": "US and Denmark reach deal over Greenland after Trump annexation threats",
-     "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "summary": "Denmark and Greenland have welcomed the deal, which Trump claims will give the US \"permanent control over security and all other needs\" in the Danish territory.",
-     "published": "2026-09-19T11:36:55+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1ad/live/fd353880-b421-11f1-8a8e-d9778c1036bb.jpg",
-     "kind": "article",
-     "id": "7ffe8b5c7454717b",
-     "first_seen": "2026-09-18T22:40:26.519676+00:00",
-     "is_new": true,
-     "corroboration": 5,
-     "also_in": [
-      "Axios",
-      "Guardian",
-      "NPR",
-      "New York Times"
-     ],
-     "boosted": false,
-     "score": 5
-    },
-    {
      "title": "Buffett Hands Berkshire Chairman\u2019s Seat to Son Howard",
      "url": "https://www.wsj.com/finance/stocks/buffett-hands-berkshire-chairmans-seat-to-son-howard-bd424456?mod=rss_markets_main",
      "source": "WSJ",
@@ -108,23 +87,19 @@
      "score": 5
     },
     {
-     "title": "MS NOW Reporter Barred From White House After Trump Imposes Press Ban",
-     "url": "https://www.nytimes.com/2026/09/19/business/media/trump-white-house-press-ban.html",
+     "title": "A Small Country\u2019s Huge Windfall from the War in Iran",
+     "url": "https://www.nytimes.com/2026/09/19/world/americas/guyana-oil-boom.html",
      "source": "New York Times",
-     "summary": "The president said on Friday he would ban CNN, Politico and MS NOW. Any prohibition will probably face a legal challenge.",
-     "published": "2026-09-19T13:20:30+00:00",
-     "image": null,
+     "summary": "Oil-rich Guyana is enjoying red-hot growth. But the boom is magnifying tensions over corruption, inequality and strained ties with Venezuela.",
+     "published": "2026-09-19T13:47:42+00:00",
+     "image": "https://static01.nyt.com/images/2026/09/19/multimedia/19int-guyana-oil-kjwz-copy-promo/19int-guyana-oil-kjwz-mediumSquareAt3X.jpg",
      "kind": "article",
-     "id": "e58a1bb612fe4627",
+     "id": "9eedd3cf6a5de216",
      "first_seen": "2026-09-19T13:40:14.899782+00:00",
      "is_new": true,
-     "corroboration": 4,
-     "also_in": [
-      "Axios",
-      "BBC",
-      "NPR"
-     ],
-     "boosted": false,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
      "score": 4
     },
     {
@@ -141,6 +116,26 @@
      "corroboration": 1,
      "also_in": [],
      "boosted": true,
+     "score": 4
+    },
+    {
+     "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
+     "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "summary": "Denmark and the US have reached an agreement after months of threats from Donald Trump to annex the territory.",
+     "published": "2026-09-19T11:36:55+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1ad/live/fd353880-b421-11f1-8a8e-d9778c1036bb.jpg",
+     "kind": "article",
+     "id": "7ffe8b5c7454717b",
+     "first_seen": "2026-09-18T22:40:26.519676+00:00",
+     "is_new": true,
+     "corroboration": 4,
+     "also_in": [
+      "Axios",
+      "Guardian",
+      "New York Times"
+     ],
+     "boosted": false,
      "score": 4
     }
    ]
@@ -178,15 +173,15 @@
      "is_new": true
     },
     {
-     "title": "Build a Smart 24VAC Heat Pump Thermostat System",
-     "url": "https://www.hackster.io/owonsmart/build-a-smart-24vac-heat-pump-thermostat-system-8318d2",
+     "title": "Nine Circuits, One Panel: Modbus Metering in Home Assistant",
+     "url": "https://www.hackster.io/dmitry10/nine-circuits-one-panel-modbus-metering-in-home-assistant-aaa53c",
      "source": "Hackster",
-     "summary": "Build a connected 24VAC HVAC system with smart thermostat control, heat pump support, remote sensors, scheduling, and WiFi access.",
-     "published": "2026-09-18T14:59:12+00:00",
-     "image": "https://hackster.imgix.net/uploads/attachments/2002775/_oEe0V1rnp8.blob",
+     "summary": "Three DIN-rail three-phase meters, an ESP32 and nine CTs \u2014 plus the wiring rule that decides whether the numbers mean anything.",
+     "published": "2026-09-18T12:16:54+00:00",
+     "image": "https://hackster.imgix.net/uploads/attachments/2002755/_tXQYR0YWsU.blob",
      "kind": "article",
-     "id": "00205da765376abe",
-     "first_seen": "2026-09-18T20:20:04.102708+00:00",
+     "id": "1fed416c70ae18b8",
+     "first_seen": "2026-09-19T00:38:33.587464+00:00",
      "is_new": true
     },
     {
@@ -199,7 +194,7 @@
      "kind": "article",
      "id": "9d97fccd913a9d1c",
      "first_seen": "2026-09-15T14:37:02.891572+00:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "title": "CircuitPython Turbo: Go Blinka!",
@@ -224,16 +219,16 @@
    "more": 0,
    "items": [
     {
-     "title": "Turnover Half Tights",
-     "url": "https://www.tracksmith.com/products/m-turnover-half-tights?sku=MB310601N",
-     "source": "Tracksmith",
-     "summary": "",
-     "published": null,
-     "image": "https://cdn-image.tracksmith.com/1756829380-emilymaye_ts_fall25_craftsbury_09827.jpg?auto=format,compress&crop=faces&dpr=2&fit=crop&h=560&w=420",
-     "price": "$80",
+     "title": "Fine-Gauge Crewneck Sweater in Bottle Cashmere",
+     "url": "https://shopmashburn.com/products/sid-mashburn-fine-gauge-crewneck-sweater-bottle-cashmere-s79186",
+     "source": "Sid Mashburn",
+     "summary": "Sid Sweaters",
+     "published": "2026-09-17T10:20:31-04:00",
+     "image": "https://cdn.shopify.com/s/files/1/0414/4532/6999/files/S79186_0027.jpg?v=1789481861",
+     "price": "$450",
      "kind": "product",
-     "id": "bb8577a80691c91f",
-     "first_seen": "2026-09-19T13:40:14.899782+00:00",
+     "id": "508b275f8f4c3e63",
+     "first_seen": "2026-09-19T16:48:38.502648+00:00",
      "is_new": true
     }
    ]
@@ -246,6 +241,22 @@
    "row_detail": false,
    "more": 0,
    "items": [
+    {
+     "title": "And The List Grows Shorter",
+     "url": "https://www.thisnicelife.com/p/and-the-list-grows-shorter",
+     "source": "This Nice Life",
+     "summary": "Lessons learned in pursuit of the ideal dad-mobile",
+     "published": "2026-09-19T14:31:04+00:00",
+     "image": "https://substackcdn.com/image/fetch/$s_!q7zH!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3a5f4dd7-ba93-47aa-9279-eb50f4adb9fb_6154x4615.jpeg",
+     "kind": "article",
+     "id": "decf4c20dcc98c32",
+     "first_seen": "2026-09-19T16:48:38.502648+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": false,
+     "score": 1
+    },
     {
      "title": "Introducing Bao: Sexton suits and Vinted scrolling",
      "url": "https://www.permanentstyle.com/2026/09/introducing-bao-sexton-suits-and-vinted-scrolling.html",
@@ -289,22 +300,6 @@
      "id": "a61d05b8507cf5c0",
      "first_seen": "2026-09-16T21:40:56.260131+00:00",
      "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": false,
-     "score": 1
-    },
-    {
-     "title": "Reviewing My Own Travel Packing Advice",
-     "url": "https://www.menswearmusings.com/reviewing-my-own-travel-packing-advice/",
-     "source": "Menswear Musings",
-     "summary": "Is my 2017 packing advice for the UK still any good? The post Reviewing My Own Travel Packing Advice first appeared on Menswear Musings.",
-     "published": "2026-09-13T21:20:57+00:00",
-     "image": "https://i0.wp.com/www.menswearmusings.com/wp-content/uploads/2026/09/IMG_3490-2.jpg?fit=768%2C512&amp;ssl=1",
-     "kind": "article",
-     "id": "1b53a16e81e069a0",
-     "first_seen": "2026-09-13T22:03:45.103529+00:00",
-     "is_new": false,
      "corroboration": 1,
      "also_in": [],
      "boosted": false,
