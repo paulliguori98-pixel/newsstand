@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-19T21:29:00.160813+00:00",
+ "generated_at": "2026-09-19T23:29:18.581382+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -11,12 +11,12 @@
    "items": [
     {
      "title": "Mostly Cloudy",
-     "phrase": "Rain is near certain between 6am and 10am.",
-     "detail": "It reaches 66\u00b0 today and falls to 47\u00b0 overnight. The sun is up from 6:39 until 6:58.",
+     "phrase": "Rain is near certain between 6am and 12pm.",
+     "detail": "It reaches 60\u00b0 today and falls to 47\u00b0 overnight. The sun is up from 6:39 until 6:58.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 64,
-     "high": 66,
+     "temp": 60,
+     "high": 60,
      "low": 47,
      "sunrise": "6:39",
      "sunset": "6:58",
@@ -69,22 +69,20 @@
    "more": 0,
    "items": [
     {
-     "title": "Buffett Hands Berkshire Chairman\u2019s Seat to Son Howard",
-     "url": "https://www.wsj.com/finance/stocks/buffett-hands-berkshire-chairmans-seat-to-son-howard-bd424456?mod=rss_markets_main",
-     "source": "WSJ",
-     "summary": "Plus, Coinbase shares soar and Bank of Japan\u2019s rate hike sends yen sinking",
-     "published": "2026-09-18T20:31:00+00:00",
-     "image": "https://images.wsj.net/im-07422794",
+     "title": "'I don't even know if my parents are alive' - the war heroes jailed 25 years ago",
+     "url": "https://www.bbc.co.uk/news/articles/cx1l6762jeq4o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "summary": "The children of key politicians jailed 25 years ago without a trace in Eritrea want answers.",
+     "published": "2026-09-19T23:01:45+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6132/live/ba962470-b355-11f1-bc1f-3f186ca4140c.png",
      "kind": "article",
-     "id": "89b29526c629fe56",
-     "first_seen": "2026-09-18T22:40:26.519676+00:00",
+     "id": "91999846279225f1",
+     "first_seen": "2026-09-19T23:29:18.581382+00:00",
      "is_new": true,
-     "corroboration": 2,
-     "also_in": [
-      "Axios"
-     ],
+     "corroboration": 1,
+     "also_in": [],
      "boosted": true,
-     "score": 5
+     "score": 4
     },
     {
      "title": "India Is Again Squeezed Between the Threat of Trump Tariffs and Russian Oil",
@@ -145,15 +143,15 @@
    "more": 0,
    "items": [
     {
-     "title": "Coreboot Hikes the Bay Trail to DRAM Initialization",
-     "url": "https://hackaday.com/2026/09/19/coreboot-hikes-the-bay-trail-to-dram-initialization/",
+     "title": "A Hotspot Becomes A Handheld",
+     "url": "https://hackaday.com/2026/09/19/a-hotspot-becomes-a-handheld/",
      "source": "Hackaday",
-     "summary": "This article is written on an open-source operating system, but not an open-source machine \u2014 the BIOS isn\u2019t open-source, and even if it were supported by the coreboot project (for\u2026",
-     "published": "2026-09-19T20:00:06+00:00",
-     "image": "https://hackaday.com/wp-content/uploads/2020/06/chromebook-featured.jpg",
+     "summary": "A Linux handheld computer is, in theory, easy and inexpensive given the availability of single-board computers, but in practice the budget invariably edges well into three figures\u2026",
+     "published": "2026-09-19T23:00:20+00:00",
+     "image": "https://hackaday.com/wp-content/uploads/2026/09/router-handheld-featured.jpg",
      "kind": "article",
-     "id": "455814361f542168",
-     "first_seen": "2026-09-19T21:29:00.160813+00:00",
+     "id": "ff826d66746fe89c",
+     "first_seen": "2026-09-19T23:29:18.581382+00:00",
      "is_new": true
     },
     {
@@ -214,19 +212,6 @@
    "row_detail": false,
    "more": 0,
    "items": [
-    {
-     "title": "Turnover Half Tights",
-     "url": "https://www.tracksmith.com/products/m-turnover-half-tights?sku=MB310601N",
-     "source": "Tracksmith",
-     "summary": "",
-     "published": null,
-     "image": "https://cdn-image.tracksmith.com/1756829380-emilymaye_ts_fall25_craftsbury_09827.jpg?auto=format,compress&crop=faces&dpr=2&fit=crop&h=560&w=420",
-     "price": "$80",
-     "kind": "product",
-     "id": "bb8577a80691c91f",
-     "first_seen": "2026-09-19T13:40:14.899782+00:00",
-     "is_new": true
-    },
     {
      "title": "Fine-Gauge Crewneck Sweater in Bottle Cashmere",
      "url": "https://shopmashburn.com/products/sid-mashburn-fine-gauge-crewneck-sweater-bottle-cashmere-s79186",
