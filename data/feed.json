@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-18T22:40:26.519676+00:00",
+ "generated_at": "2026-09-19T00:38:33.587464+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,12 +10,12 @@
    "more": 0,
    "items": [
     {
-     "title": "Partly Cloudy",
-     "phrase": "Partly Cloudy all day.",
+     "title": "Mostly Cloudy",
+     "phrase": "Mostly Cloudy all day.",
      "detail": "It reaches 66\u00b0 today and falls to 44\u00b0 overnight. The sun is up from 6:38 until 7:00.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 71,
+     "temp": 61,
      "high": 66,
      "low": 44,
      "sunrise": "6:38",
@@ -69,30 +69,11 @@
    "more": 0,
    "items": [
     {
-     "title": "Buffett Hands Berkshire Chairman\u2019s Seat to Son Howard",
-     "url": "https://www.wsj.com/finance/stocks/buffett-hands-berkshire-chairmans-seat-to-son-howard-bd424456?mod=rss_markets_main",
-     "source": "WSJ",
-     "summary": "Plus, Coinbase shares soar and Bank of Japan\u2019s rate hike sends yen sinking",
-     "published": "2026-09-18T20:31:00+00:00",
-     "image": "https://images.wsj.net/im-07422794",
-     "kind": "article",
-     "id": "89b29526c629fe56",
-     "first_seen": "2026-09-18T22:40:26.519676+00:00",
-     "is_new": true,
-     "corroboration": 3,
-     "also_in": [
-      "Axios",
-      "NPR"
-     ],
-     "boosted": true,
-     "score": 6
-    },
-    {
      "title": "Anthropic Pursues IPO Despite Its A.I. Safety Warnings",
      "url": "https://www.nytimes.com/2026/09/18/technology/anthropic-ipo-ai-safety.html",
      "source": "New York Times",
      "summary": "The company is expected to reach $100 billion in annualized revenue this year, even as chief executive Dario Amodei calls for slowing down development of some advanced A.I. models.",
-     "published": "2026-09-18T22:32:05+00:00",
+     "published": "2026-09-19T00:23:01+00:00",
      "image": "https://static01.nyt.com/images/2026/09/18/multimedia/18biz-anthropic-ipo-go-bzlw/18biz-anthropic-ipo-go-bzlw-mediumSquareAt3X.jpg",
      "kind": "article",
      "id": "68b690d601090e3e",
@@ -104,15 +85,35 @@
      "score": 4
     },
     {
-     "title": "Latvia\u2019s president warns that Europe is not up to date with drone and aerial warfare in Ukraine",
-     "url": "https://www.theguardian.com/world/2026/sep/18/edgars-rinkevics-europe-ukraine-war",
+     "title": "US and Denmark reach security deal after Trump\u2019s threats to take over Greenland",
+     "url": "https://www.theguardian.com/world/2026/sep/18/united-states-denmark-greenland-security",
      "source": "Guardian",
-     "summary": "Edgars Rink\u0113vi\u010ds reveals that drone warfare in Ukraine is moving at \u2018lightning speed\u2019 and current efforts to prepare for an aerial war could be obsolete by next yearLatvia\u2019s presi\u2026",
-     "published": "2026-09-18T22:05:53+00:00",
-     "image": "https://i.guim.co.uk/img/media/8c97bbdbed9ba2b1f11920c10fb1ae9a58333d62/683_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=98f1e8347e022f781333579a918e8d9f",
+     "summary": "The agreement would allow the US to expand its military presence, while Denmark and Greenland say it preserves their sovereignty and right to self-determinationDonald Trump announ\u2026",
+     "published": "2026-09-19T00:10:54+00:00",
+     "image": "https://i.guim.co.uk/img/media/2682fb6ff4a3009a14304ef15d3a2c645b8bd00c/1000_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=077fe757626a325f8f5959aef9c70c3a",
      "kind": "article",
-     "id": "3ae6bf1742157d47",
-     "first_seen": "2026-09-18T22:40:26.519676+00:00",
+     "id": "a4ec3b580cc7e92d",
+     "first_seen": "2026-09-19T00:38:33.587464+00:00",
+     "is_new": true,
+     "corroboration": 4,
+     "also_in": [
+      "Axios",
+      "BBC",
+      "New York Times"
+     ],
+     "boosted": false,
+     "score": 4
+    },
+    {
+     "title": "A four-minute warning isn't enough: Russia's new relentless missile tactics exhaust Kyiv residents",
+     "url": "https://www.bbc.co.uk/news/articles/cwp93k9gpnv1o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "summary": "Increasingly frequent and ferocious attacks on the Ukrainian capital have left many on edge.",
+     "published": "2026-09-18T23:03:38+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29a1/live/446ff8b0-a1fe-11f1-a97e-999c5aae08bf.jpg",
+     "kind": "article",
+     "id": "3fad262e8b12a7d1",
+     "first_seen": "2026-09-19T00:38:33.587464+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
@@ -120,15 +121,15 @@
      "score": 4
     },
     {
-     "title": "Cost of Iran War Estimated at $43.6 Billion",
-     "url": "https://www.nytimes.com/2026/09/18/us/politics/iran-war-cost-pentagon.html",
-     "source": "New York Times",
-     "summary": "For the first time, the Pentagon reported costs incurred by each armed service. The figures are almost certainly on the low side, congressional officials said.",
-     "published": "2026-09-18T19:43:39+00:00",
-     "image": "https://static01.nyt.com/images/2026/09/18/multimedia/18dc-warcosts-tgbf/18dc-warcosts-tgbf-mediumSquareAt3X.jpg",
+     "title": "Latvia\u2019s president warns that Europe is not up to date with drone and aerial warfare in Ukraine",
+     "url": "https://www.theguardian.com/world/2026/sep/18/edgars-rinkevics-europe-ukraine-war",
+     "source": "Guardian",
+     "summary": "Edgars Rink\u0113vi\u010ds says drone warfare in Ukraine is moving at \u2018lightning speed\u2019 and efforts to prepare for an aerial war could be obsolete by next yearLatvia\u2019s president has warned \u2026",
+     "published": "2026-09-18T22:05:53+00:00",
+     "image": "https://i.guim.co.uk/img/media/8c97bbdbed9ba2b1f11920c10fb1ae9a58333d62/683_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=98f1e8347e022f781333579a918e8d9f",
      "kind": "article",
-     "id": "87e5b719ae7b9871",
-     "first_seen": "2026-09-18T20:20:04.102708+00:00",
+     "id": "3ae6bf1742157d47",
+     "first_seen": "2026-09-18T22:40:26.519676+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
@@ -158,15 +159,15 @@
      "is_new": true
     },
     {
-     "title": "Build a Smart 24VAC Heat Pump Thermostat System",
-     "url": "https://www.hackster.io/owonsmart/build-a-smart-24vac-heat-pump-thermostat-system-8318d2",
+     "title": "Nine Circuits, One Panel: Modbus Metering in Home Assistant",
+     "url": "https://www.hackster.io/dmitry10/nine-circuits-one-panel-modbus-metering-in-home-assistant-aaa53c",
      "source": "Hackster",
-     "summary": "Build a connected 24VAC HVAC system with smart thermostat control, heat pump support, remote sensors, scheduling, and WiFi access.",
-     "published": "2026-09-18T14:59:12+00:00",
-     "image": "https://hackster.imgix.net/uploads/attachments/2002775/_oEe0V1rnp8.blob",
+     "summary": "Three DIN-rail three-phase meters, an ESP32 and nine CTs \u2014 plus the wiring rule that decides whether the numbers mean anything.",
+     "published": "2026-09-18T12:16:54+00:00",
+     "image": "https://hackster.imgix.net/uploads/attachments/2002755/_tXQYR0YWsU.blob",
      "kind": "article",
-     "id": "00205da765376abe",
-     "first_seen": "2026-09-18T20:20:04.102708+00:00",
+     "id": "1fed416c70ae18b8",
+     "first_seen": "2026-09-19T00:38:33.587464+00:00",
      "is_new": true
     },
     {
@@ -214,34 +215,7 @@
    "lead_image": false,
    "row_detail": false,
    "more": 0,
-   "items": [
-    {
-     "title": "Turnover Half Tights",
-     "url": "https://www.tracksmith.com/products/m-turnover-half-tights?sku=6996563918935:black__XS",
-     "source": "Tracksmith",
-     "summary": "",
-     "published": null,
-     "image": "https://cdn-image.tracksmith.com/1756829380-emilymaye_ts_fall25_craftsbury_09827.jpg?auto=format,compress&crop=faces&dpr=2&fit=crop&h=560&w=420",
-     "price": "$80",
-     "kind": "product",
-     "id": "a7b1550a8987cb0a",
-     "first_seen": "2026-09-18T22:40:26.519676+00:00",
-     "is_new": true
-    },
-    {
-     "title": "Session Tee",
-     "url": "https://www.tracksmith.com/products/m-session-tee?sku=6744160206935:dove__XS",
-     "source": "Tracksmith",
-     "summary": "",
-     "published": null,
-     "image": "https://cdn-image.tracksmith.com/1770945291-plp-rollover-image.png?auto=format,compress&crop=faces&dpr=2&fit=crop&h=560&w=420",
-     "price": "$85",
-     "kind": "product",
-     "id": "3621d385e2f8cb7c",
-     "first_seen": "2026-09-18T22:40:26.519676+00:00",
-     "is_new": true
-    }
-   ]
+   "items": []
   },
   {
    "id": "dispatches",
