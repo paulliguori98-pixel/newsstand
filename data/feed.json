@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-20T21:47:39.810880+00:00",
+ "generated_at": "2026-09-20T23:49:04.806855+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,13 +10,13 @@
    "more": 0,
    "items": [
     {
-     "title": "Light Rain Likely",
-     "phrase": "An even chance of rain between 5pm and 6pm.",
-     "detail": "It reaches 57\u00b0 today and falls to 48\u00b0 overnight. The sun is up from 6:41 until 6:56.",
+     "title": "Cloudy",
+     "phrase": "Cloudy all day.",
+     "detail": "It reaches 63\u00b0 today and falls to 48\u00b0 overnight. The sun is up from 6:41 until 6:56.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 57,
-     "high": 57,
+     "temp": 56,
+     "high": 63,
      "low": 48,
      "sunrise": "6:41",
      "sunset": "6:56",
@@ -143,15 +143,27 @@
    "more": 0,
    "items": [
     {
-     "title": "Ski Lift Removes Mice from Chicken Coop",
-     "url": "https://hackaday.com/2026/09/20/ski-lift-removes-mice-from-chicken-coop/",
+     "title": "Reviving TEMPEST Attacks with an Injected Signal",
+     "url": "https://hackaday.com/2026/09/20/reviving-tempest-attacks-with-an-injected-signal/",
      "source": "Hackaday",
-     "summary": "Getting rid of rodents like squirrels, mice, or groundhogs is a lot like digging a hole on the beach. No matter how much you remove, it\u2019ll always fill back in. \u2026read more",
-     "published": "2026-09-20T20:00:00+00:00",
-     "image": "https://hackaday.com/wp-content/uploads/2026/09/mouse-lift-main.png",
+     "summary": "TEMPEST attacks are often the most effective way to break air-gapped security: rather than directly accessing a computer, the attacker records the system\u2019s unintended radio emissi\u2026",
+     "published": "2026-09-20T23:00:06+00:00",
+     "image": "https://hackaday.com/wp-content/uploads/2026/09/injected_TEMPEST.png",
      "kind": "article",
-     "id": "0e013ce014538b8b",
-     "first_seen": "2026-09-20T21:47:39.810880+00:00",
+     "id": "9c2442df12dcb08d",
+     "first_seen": "2026-09-20T23:49:04.806855+00:00",
+     "is_new": true
+    },
+    {
+     "title": "Deployment and Validation of ACT- on the Ventuno Q",
+     "url": "https://www.hackster.io/jarain78/deployment-and-validation-of-act-on-the-ventuno-q-944249",
+     "source": "Hackster",
+     "summary": "ACT-Lab brings Transformer-based robotic skills to the edge with real-time ACT inference on the Arduino VENTUNO Q NPU.",
+     "published": "2026-09-20T19:20:12+00:00",
+     "image": "https://hackster.imgix.net/uploads/attachments/2003206/_6LSH9PoGcv.blob",
+     "kind": "article",
+     "id": "6e296e14fa942947",
+     "first_seen": "2026-09-20T23:49:04.806855+00:00",
      "is_new": true
     },
     {
@@ -163,18 +175,6 @@
      "image": "https://hackster.imgix.net/uploads/attachments/2003156/_m3KrsWD2gw.blob",
      "kind": "article",
      "id": "4191774fe9fb6817",
-     "first_seen": "2026-09-20T19:30:49.166506+00:00",
-     "is_new": true
-    },
-    {
-     "title": "YOLO26n on RK3576: Built-in NPU vs RK182x vs Hailo-8",
-     "url": "https://www.hackster.io/Myang/yolo26n-on-rk3576-built-in-npu-vs-rk182x-vs-hailo-8-4f68ab",
-     "source": "Hackster",
-     "summary": "The same YOLO26n INT8 workload shows Hailo-8 leading one stream while RK182x delivers the highest multi-camera throughput.",
-     "published": "2026-09-20T09:34:17+00:00",
-     "image": "https://hackster.imgix.net/uploads/attachments/2003145/_6q2aaWnGt4.blob",
-     "kind": "article",
-     "id": "face969174835ba4",
      "first_seen": "2026-09-20T19:30:49.166506+00:00",
      "is_new": true
     },
