@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-20T13:54:34.793858+00:00",
+ "generated_at": "2026-09-20T17:15:54.837477+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -11,11 +11,11 @@
    "items": [
     {
      "title": "Rain",
-     "phrase": "Rain is near certain between 9am and 8pm.",
+     "phrase": "Rain is near certain between 1pm and 8pm.",
      "detail": "It reaches 57\u00b0 today and falls to 47\u00b0 overnight. The sun is up from 6:41 until 6:56.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 53,
+     "temp": 56,
      "high": 57,
      "low": 47,
      "sunrise": "6:41",
@@ -56,7 +56,7 @@
      "kind": "garden",
      "id": "a117749942dbb379",
      "first_seen": "2026-09-16T14:33:28.772629+00:00",
-     "is_new": true
+     "is_new": false
     }
    ]
   },
@@ -69,15 +69,15 @@
    "more": 0,
    "items": [
     {
-     "title": "Ed Sheeran Addresses War in Gaza After Macklemore Is Dropped From Tour",
-     "url": "https://www.nytimes.com/2026/09/19/arts/music/ed-sheeran-macklemore-gaza-tour.html",
-     "source": "New York Times",
-     "summary": "Back onstage, Sheeran acknowledged \u201cmistakes\u201d over the departure of supporting acts, and discussed the \u201chorrific\u201d attack on Israel and the \u201chumanitarian crisis\u201d in Gaza.",
-     "published": "2026-09-20T13:26:27+00:00",
-     "image": "https://static01.nyt.com/images/2026/09/20/multimedia/20cul-sheeren-tour-ed-qmbw/20cul-sheeren-tour-ed-qmbw-mediumSquareAt3X.jpg",
+     "title": "European spy chiefs warn Moscow is planning more decisive action against Nato",
+     "url": "https://www.theguardian.com/world/2026/sep/20/baltic-spy-chiefs-warn-moscow-is-preparing-for-more-decisive-action-in-europe",
+     "source": "Guardian",
+     "summary": "Exclusive: Intelligence officers warn Russian campaign could intensify \u2018in months, not years\u2019 \u2013 but panic will play into Kremlin psy-opsEuropean intelligence officials have raised\u2026",
+     "published": "2026-09-20T16:47:50+00:00",
+     "image": "https://i.guim.co.uk/img/media/90ff8d30e65886f845cc2a83c36901d0e7929bc8/557_0_6682_5344/master/6682.jpg?width=140&quality=85&auto=format&fit=max&s=b5624cc13b90e04700d4fd0827fe1832",
      "kind": "article",
-     "id": "daa15782d191c68f",
-     "first_seen": "2026-09-20T13:54:34.793858+00:00",
+     "id": "71309709907c0e8e",
+     "first_seen": "2026-09-20T17:15:54.837477+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
@@ -85,15 +85,15 @@
      "score": 4
     },
     {
-     "title": "Moscow targeted with hundreds of drones as Kyiv uses its first ballistic missile in the war",
-     "url": "https://www.theguardian.com/world/2026/sep/20/hundreds-of-drones-target-moscow-on-last-day-of-voting-in-russias-parliamentary-election",
-     "source": "Guardian",
-     "summary": "Authorities accuse Zelenskyy of trying to disrupt Russian elections, with at least two killed and oil refinery damagedUkraine has targeted Moscow and elsewhere in Russia in a larg\u2026",
-     "published": "2026-09-20T12:09:33+00:00",
-     "image": "https://i.guim.co.uk/img/media/979fa9e8d7eff9e724d5a9c0ae2bcb0daed75718/157_0_2734_2187/master/2734.jpg?width=140&quality=85&auto=format&fit=max&s=c73daf65006d02a2332dd2fdf641b77e",
+     "title": "Russia Barred Their Party, but These Antiwar Voices Are Still Standing",
+     "url": "https://www.nytimes.com/2026/09/20/world/europe/russia-duma-election-yabloko.html",
+     "source": "New York Times",
+     "summary": "The liberal party Yabloko is fielding 98 candidates in this weekend\u2019s elections, a small miracle for antiwar Russians who cannot openly express their views.",
+     "published": "2026-09-20T11:14:55+00:00",
+     "image": "https://static01.nyt.com/images/2026/09/20/multimedia/20russia-opposition-01-lthg/20russia-opposition-01-lthg-mediumSquareAt3X.jpg",
      "kind": "article",
-     "id": "c0a5c051b9f2d497",
-     "first_seen": "2026-09-20T13:54:34.793858+00:00",
+     "id": "29ce6a3fffeaf553",
+     "first_seen": "2026-09-20T17:15:54.837477+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
@@ -155,27 +155,27 @@
      "is_new": true
     },
     {
-     "title": "Smart Garage Monitoring with ESP8266 and KiwisIoT",
-     "url": "https://www.hackster.io/keerthanadc19/smart-garage-monitoring-with-esp8266-and-kiwisiot-e9eca2",
+     "title": "BOSE Speaker Remake: A 3D\u2011Printed Back\u2011Loaded Horn Speaker",
+     "url": "https://www.hackster.io/hnakamiru1103/bose-speaker-remake-a-3d-printed-back-loaded-horn-speaker-f37fee",
      "source": "Hackster",
-     "summary": "Turn your garage into a smart space with real-time vehicle detection, distance, temperature, and humidity monitoring using KiwisIoT.",
-     "published": "2026-09-19T11:42:29+00:00",
-     "image": "https://hackster.imgix.net/uploads/attachments/2002962/_LT12d9eEs4.blob",
+     "summary": "Give a pair of scavenged BOSE drivers a second life inside a fully 3D\u2011printed, back\u2011loaded horn enclosure designed from scratch.",
+     "published": "2026-09-20T00:52:10+00:00",
+     "image": "https://hackster.imgix.net/uploads/attachments/2003092/_a4Cx97qJc6.blob",
      "kind": "article",
-     "id": "6bf5ca12b7289314",
-     "first_seen": "2026-09-19T21:29:00.160813+00:00",
+     "id": "6c57f5544e9c0903",
+     "first_seen": "2026-09-20T17:15:54.837477+00:00",
      "is_new": true
     },
     {
-     "title": "Clothing Color Classifier \ud83d\udc55\ud83c\udfa8",
-     "url": "https://www.hackster.io/aula-jazmati/clothing-color-classifier-efdf32",
+     "title": "Playing Doom on 555 Timers \u2014 Pt. 2",
+     "url": "https://www.hackster.io/nickbild/playing-doom-on-555-timers-pt-2-fb5fca",
      "source": "Hackster",
-     "summary": "A TinyML Object Detection model that identifies clothing colors in real time \u2014 trained and deployed entirely through Edge Impulse Studio.",
-     "published": "2026-09-18T21:53:21+00:00",
-     "image": "https://hackster.imgix.net/uploads/attachments/2002855/_KppBh967vD.blob",
+     "summary": "This circuit plays the opening riff from \"At Doom's Gate\" using 555 timers, 7400-series logic, and some resistors and capacitors.",
+     "published": "2026-09-19T21:57:11+00:00",
+     "image": "https://hackster.imgix.net/uploads/attachments/2003087/_AlBZu3LvMC.blob",
      "kind": "article",
-     "id": "79622289a052482e",
-     "first_seen": "2026-09-19T13:40:14.899782+00:00",
+     "id": "c9a22d85401f8dc2",
+     "first_seen": "2026-09-20T17:15:54.837477+00:00",
      "is_new": true
     },
     {
