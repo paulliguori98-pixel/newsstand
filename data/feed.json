@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-19T23:29:18.581382+00:00",
+ "generated_at": "2026-09-20T01:34:50.458841+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,12 +10,12 @@
    "more": 0,
    "items": [
     {
-     "title": "Mostly Cloudy",
-     "phrase": "Rain is near certain between 6am and 12pm.",
+     "title": "Partly Cloudy",
+     "phrase": "Rain is near certain between 6am and 2pm.",
      "detail": "It reaches 60\u00b0 today and falls to 47\u00b0 overnight. The sun is up from 6:39 until 6:58.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 60,
+     "temp": 54,
      "high": 60,
      "low": 47,
      "sunrise": "6:39",
@@ -69,6 +69,22 @@
    "more": 0,
    "items": [
     {
+     "title": "Cultural treasures are being destroyed by war, and people want justice",
+     "url": "https://www.bbc.co.uk/news/articles/cvgy1q2k2z0o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "summary": "A cauldron of conflicts is bubbling across the world, with cultural monuments being destroyed. These people are fighting against it.",
+     "published": "2026-09-19T23:18:18+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2fc2/live/3b2c77f0-b023-11f1-b1d1-571ed4d7ff2c.jpg",
+     "kind": "article",
+     "id": "d20716fa94668316",
+     "first_seen": "2026-09-20T01:34:50.458841+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
      "title": "'I don't even know if my parents are alive' - the war heroes jailed 25 years ago",
      "url": "https://www.bbc.co.uk/news/articles/cx1l6762jeq4o?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
@@ -109,22 +125,6 @@
      "image": "https://datawrapper.dwcdn.net/IXouA/fallback.png",
      "kind": "article",
      "id": "062e32e6ad36fc6a",
-     "first_seen": "2026-09-19T13:40:14.899782+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "Russia holds parliamentary vote in areas it seized from Ukraine in the war",
-     "url": "https://www.npr.org/2026/09/19/g-s1-144169/russia-holds-parliamentary-vote-in-areas-it-seized-from-ukraine",
-     "source": "NPR",
-     "summary": "Russia's parliamentary election for the first time is being held in Ukraine's regions that Moscow illegally annexed after the start of its full-scale invasion more than 4 1/2 year\u2026",
-     "published": "2026-09-19T06:39:57+00:00",
-     "image": null,
-     "kind": "article",
-     "id": "13633b947662dfef",
      "first_seen": "2026-09-19T13:40:14.899782+00:00",
      "is_new": true,
      "corroboration": 1,
@@ -211,21 +211,7 @@
    "lead_image": false,
    "row_detail": false,
    "more": 0,
-   "items": [
-    {
-     "title": "Fine-Gauge Crewneck Sweater in Bottle Cashmere",
-     "url": "https://shopmashburn.com/products/sid-mashburn-fine-gauge-crewneck-sweater-bottle-cashmere-s79186",
-     "source": "Sid Mashburn",
-     "summary": "Sid Sweaters",
-     "published": "2026-09-17T10:20:31-04:00",
-     "image": "https://cdn.shopify.com/s/files/1/0414/4532/6999/files/S79186_0027.jpg?v=1789481861",
-     "price": "$450",
-     "kind": "product",
-     "id": "508b275f8f4c3e63",
-     "first_seen": "2026-09-19T16:48:38.502648+00:00",
-     "is_new": true
-    }
-   ]
+   "items": []
   },
   {
    "id": "dispatches",
