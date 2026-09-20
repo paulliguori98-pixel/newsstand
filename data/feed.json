@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-20T17:15:54.837477+00:00",
+ "generated_at": "2026-09-20T19:30:49.166506+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,14 +10,14 @@
    "more": 0,
    "items": [
     {
-     "title": "Rain",
-     "phrase": "Rain is near certain between 1pm and 8pm.",
-     "detail": "It reaches 57\u00b0 today and falls to 47\u00b0 overnight. The sun is up from 6:41 until 6:56.",
+     "title": "Light Rain",
+     "phrase": "Rain is near certain between 3pm and 6pm.",
+     "detail": "It reaches 57\u00b0 today and falls to 48\u00b0 overnight. The sun is up from 6:41 until 6:56.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 56,
+     "temp": 57,
      "high": 57,
-     "low": 47,
+     "low": 48,
      "sunrise": "6:41",
      "sunset": "6:56",
      "id": "bb806d72c86dcec1",
@@ -72,7 +72,7 @@
      "title": "European spy chiefs warn Moscow is planning more decisive action against Nato",
      "url": "https://www.theguardian.com/world/2026/sep/20/baltic-spy-chiefs-warn-moscow-is-preparing-for-more-decisive-action-in-europe",
      "source": "Guardian",
-     "summary": "Exclusive: Intelligence officers warn Russian campaign could intensify \u2018in months, not years\u2019 \u2013 but panic will play into Kremlin psy-opsEuropean intelligence officials have raised\u2026",
+     "summary": "Exclusive: Intelligence officers say Russian campaign could intensify \u2018in months, not years\u2019 \u2013 but that panic risks playing into Kremlin psy-opsEuropean intelligence officials hav\u2026",
      "published": "2026-09-20T16:47:50+00:00",
      "image": "https://i.guim.co.uk/img/media/90ff8d30e65886f845cc2a83c36901d0e7929bc8/557_0_6682_5344/master/6682.jpg?width=140&quality=85&auto=format&fit=max&s=b5624cc13b90e04700d4fd0827fe1832",
      "kind": "article",
@@ -155,27 +155,27 @@
      "is_new": true
     },
     {
-     "title": "BOSE Speaker Remake: A 3D\u2011Printed Back\u2011Loaded Horn Speaker",
-     "url": "https://www.hackster.io/hnakamiru1103/bose-speaker-remake-a-3d-printed-back-loaded-horn-speaker-f37fee",
+     "title": "espbox",
+     "url": "https://www.hackster.io/arjuntanwar3337/espbox-7f5d01",
      "source": "Hackster",
-     "summary": "Give a pair of scavenged BOSE drivers a second life inside a fully 3D\u2011printed, back\u2011loaded horn enclosure designed from scratch.",
-     "published": "2026-09-20T00:52:10+00:00",
-     "image": "https://hackster.imgix.net/uploads/attachments/2003092/_a4Cx97qJc6.blob",
+     "summary": "# espbox This is a comprehensive ESP32-based multi-tool firmware with 19+ modules including WiFi attacks, BLE tools, IR remote and games",
+     "published": "2026-09-20T10:14:34+00:00",
+     "image": "https://hackster.imgix.net/uploads/attachments/2003156/_m3KrsWD2gw.blob",
      "kind": "article",
-     "id": "6c57f5544e9c0903",
-     "first_seen": "2026-09-20T17:15:54.837477+00:00",
+     "id": "4191774fe9fb6817",
+     "first_seen": "2026-09-20T19:30:49.166506+00:00",
      "is_new": true
     },
     {
-     "title": "Playing Doom on 555 Timers \u2014 Pt. 2",
-     "url": "https://www.hackster.io/nickbild/playing-doom-on-555-timers-pt-2-fb5fca",
+     "title": "YOLO26n on RK3576: Built-in NPU vs RK182x vs Hailo-8",
+     "url": "https://www.hackster.io/Myang/yolo26n-on-rk3576-built-in-npu-vs-rk182x-vs-hailo-8-4f68ab",
      "source": "Hackster",
-     "summary": "This circuit plays the opening riff from \"At Doom's Gate\" using 555 timers, 7400-series logic, and some resistors and capacitors.",
-     "published": "2026-09-19T21:57:11+00:00",
-     "image": "https://hackster.imgix.net/uploads/attachments/2003087/_AlBZu3LvMC.blob",
+     "summary": "The same YOLO26n INT8 workload shows Hailo-8 leading one stream while RK182x delivers the highest multi-camera throughput.",
+     "published": "2026-09-20T09:34:17+00:00",
+     "image": "https://hackster.imgix.net/uploads/attachments/2003145/_6q2aaWnGt4.blob",
      "kind": "article",
-     "id": "c9a22d85401f8dc2",
-     "first_seen": "2026-09-20T17:15:54.837477+00:00",
+     "id": "face969174835ba4",
+     "first_seen": "2026-09-20T19:30:49.166506+00:00",
      "is_new": true
     },
     {
