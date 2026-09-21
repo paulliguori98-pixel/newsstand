@@ -3715,5 +3715,14 @@
   "price": "$450",
   "published": "2026-09-17T10:20:31-04:00",
   "first_seen": "2026-09-19T16:48:38.502648+00:00"
+ },
+ "faff6f5f446eaab8": {
+  "title": "Turnover Tights",
+  "url": "https://www.tracksmith.com/products/m-turnover-tights?sku=MB325501N",
+  "source": "Tracksmith",
+  "image": "https://cdn-image.tracksmith.com/1756830085-emilymaye_ts_fall25_craftsbury_06723.jpg?auto=format,compress&crop=faces&dpr=2&fit=crop&h=560&w=420",
+  "price": "$108",
+  "published": null,
+  "first_seen": "2026-09-21T23:34:08.163788+00:00"
  }
 }
