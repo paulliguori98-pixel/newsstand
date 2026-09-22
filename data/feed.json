@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-22T21:24:01.182777+00:00",
+ "generated_at": "2026-09-22T23:47:16.997730+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,12 +10,12 @@
    "more": 0,
    "items": [
     {
-     "title": "Partly Sunny",
-     "phrase": "Partly Sunny all day.",
+     "title": "Mostly Cloudy",
+     "phrase": "Mostly Cloudy all day.",
      "detail": "It reaches 67\u00b0 today and falls to 44\u00b0 overnight. The sun is up from 6:43 until 6:53.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 64,
+     "temp": 59,
      "high": 67,
      "low": 44,
      "sunrise": "6:43",
@@ -90,8 +90,8 @@
      "title": "U.S. and Iran officials meet in New York to discuss ending the war",
      "url": "https://www.axios.com/2026/09/22/unga-iran-us-trump-war",
      "source": "Axios",
-     "summary": "President Trump said U.S. officials met for three hours with the Iranian delegation to the United Nations General Assembly in New York on Tuesday. \"It was a good meeting ... It's \u2026",
-     "published": "2026-09-22T19:48:14+00:00",
+     "summary": "President Trump said U.S. officials met for three hours with the Iranian delegation to the United Nations General Assembly in New York on Tuesday. Trump envoys Steve Witkoff and J\u2026",
+     "published": "2026-09-22T23:42:43+00:00",
      "image": "https://images.axios.com/6lWG5-ea5PyYMHBnn262HLmGChk=/0x0:7170x4033/1366x768/2026/09/22/1790087449264.jpeg",
      "kind": "article",
      "id": "9a8be53dbccc7de7",
@@ -145,27 +145,15 @@
    "more": 0,
    "items": [
     {
-     "title": "Dumpster-dived Window A/C becomes Ground-Source Heat Pump",
-     "url": "https://hackaday.com/2026/09/22/dumpster-dived-window-a-c-becomes-ground-source-heat-pump/",
+     "title": "ESP32 Replacement for Lighting Display Controller",
+     "url": "https://hackaday.com/2026/09/22/esp32-replacement-for-lighting-display-controller/",
      "source": "Hackaday",
-     "summary": "Heat pumps are great, because they pump heat around, and we often don\u2019t want heat where it is. Need it somewhere else? Pump it! It\u2019s great. It\u2019s also a bit \u2026read more",
-     "published": "2026-09-22T20:00:02+00:00",
-     "image": "https://hackaday.com/wp-content/uploads/2026/09/ground-source-window-ac-2.jpg",
+     "summary": "As a company, NanoLeaf has been producing modular lights that can be easily snapped together into various geometric shapes for around a decade. Similar to the addressable LED ligh\u2026",
+     "published": "2026-09-22T23:00:52+00:00",
+     "image": "https://hackaday.com/wp-content/uploads/2026/09/nanoleaf-main.png",
      "kind": "article",
-     "id": "fac27226a9232ddb",
-     "first_seen": "2026-09-22T21:24:01.182777+00:00",
-     "is_new": true
-    },
-    {
-     "title": "PanTilt 0.9 \u2013 CPU vision+Nano/PCA9685 neck (I debug on app)",
-     "url": "https://www.hackster.io/olesha-ai/pantilt-0-9-cpu-vision-nano-pca9685-neck-i-debug-on-app-3f025f",
-     "source": "Hackster",
-     "summary": "Desk tracker: ORT/OpenVINO CPU, active/watch journal (max 2), Nano+PCA9685 neck. Eval zip 0.9.",
-     "published": "2026-09-22T11:48:38+00:00",
-     "image": "https://hackster.imgix.net/uploads/attachments/2004459/_ckfcGL12jB.blob",
-     "kind": "article",
-     "id": "9036eb5e5f57cd14",
-     "first_seen": "2026-09-22T21:24:01.182777+00:00",
+     "id": "53c906491141b89b",
+     "first_seen": "2026-09-22T23:47:16.997730+00:00",
      "is_new": true
     },
     {
@@ -177,6 +165,18 @@
      "image": "https://hackster.imgix.net/uploads/attachments/2004328/_klnEgabJoG.blob",
      "kind": "article",
      "id": "b442db6094ebdf57",
+     "first_seen": "2026-09-22T18:09:36.184378+00:00",
+     "is_new": true
+    },
+    {
+     "title": "Automated Irrigation Monitoring with ESP8266 & KiwisIoT",
+     "url": "https://www.hackster.io/keerthanadc19/automated-irrigation-monitoring-with-esp8266-kiwisiot-5a6629",
+     "source": "Hackster",
+     "summary": "Automatically monitor soil moisture and control irrigation with ESP8266, while tracking temperature, humidity, and pump status on KiwisIoT.",
+     "published": "2026-09-21T13:32:02+00:00",
+     "image": "https://hackster.imgix.net/uploads/attachments/2004339/_kjPC9UvCVT.blob",
+     "kind": "article",
+     "id": "fbf020802135a264",
      "first_seen": "2026-09-22T18:09:36.184378+00:00",
      "is_new": true
     },
@@ -216,15 +216,15 @@
    "items": [
     {
      "title": "Trackhouse Midweight Crew",
-     "url": "https://www.tracksmith.com/products/m-trackhouse-midweight-crew?sku=MT2245TRKE01WIW",
+     "url": "https://www.tracksmith.com/products/m-trackhouse-midweight-crew?sku=7463885668439:cabernet__XS",
      "source": "Tracksmith",
      "summary": "",
      "published": null,
      "image": "https://cdn-image.tracksmith.com/1781201767-description-panel-1.png?auto=format,compress&crop=faces&dpr=2&fit=crop&h=560&w=420",
      "price": "$110",
      "kind": "product",
-     "id": "91b18a016834586a",
-     "first_seen": "2026-09-22T21:24:01.182777+00:00",
+     "id": "e1e000ae11e917d5",
+     "first_seen": "2026-09-22T23:47:16.997730+00:00",
      "is_new": true
     },
     {

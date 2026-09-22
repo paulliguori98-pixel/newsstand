@@ -3760,5 +3760,14 @@
   "price": "$110",
   "published": null,
   "first_seen": "2026-09-22T21:24:01.182777+00:00"
+ },
+ "e1e000ae11e917d5": {
+  "title": "Trackhouse Midweight Crew",
+  "url": "https://www.tracksmith.com/products/m-trackhouse-midweight-crew?sku=7463885668439:cabernet__XS",
+  "source": "Tracksmith",
+  "image": "https://cdn-image.tracksmith.com/1781201767-description-panel-1.png?auto=format,compress&crop=faces&dpr=2&fit=crop&h=560&w=420",
+  "price": "$110",
+  "published": null,
+  "first_seen": "2026-09-22T23:47:16.997730+00:00"
  }
 }
