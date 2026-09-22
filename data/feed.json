@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-22T01:49:40.569312+00:00",
+ "generated_at": "2026-09-22T14:19:28.648413+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,16 +10,16 @@
    "more": 0,
    "items": [
     {
-     "title": "Mostly Cloudy",
-     "phrase": "Mostly Cloudy all day.",
-     "detail": "It reaches 66\u00b0 today and falls to 45\u00b0 overnight. The sun is up from 6:42 until 6:55.",
+     "title": "Mostly Sunny",
+     "phrase": "Mostly Sunny all day.",
+     "detail": "It reaches 66\u00b0 today and falls to 43\u00b0 overnight. The sun is up from 6:43 until 6:53.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 53,
+     "temp": 55,
      "high": 66,
-     "low": 45,
-     "sunrise": "6:42",
-     "sunset": "6:55",
+     "low": 43,
+     "sunrise": "6:43",
+     "sunset": "6:53",
      "id": "bb806d72c86dcec1",
      "first_seen": "2026-08-19T17:11:19.569450+00:00",
      "is_new": false
@@ -69,63 +69,63 @@
    "more": 0,
    "items": [
     {
-     "title": "South Korean President Calls for Easing Sanctions on the North",
-     "url": "https://www.nytimes.com/2026/09/21/world/asia/south-korea-president-interview-sanctions-trump-north-korea.html",
-     "source": "New York Times",
-     "summary": "President Trump should demand that North Korea freeze, not eliminate, its nuclear weapons program, President Lee Jae Myung said in an interview.",
-     "published": "2026-09-22T01:39:34+00:00",
-     "image": "https://static01.nyt.com/images/2026/09/22/multimedia/22int-china-xi-01-zcfw/22int-china-xi-01-zcfw-mediumSquareAt3X.jpg",
-     "kind": "article",
-     "id": "a8090afcd6d5f91a",
-     "first_seen": "2026-09-22T01:49:40.569312+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "GOP's war for eyeballs",
-     "url": "https://www.axios.com/2026/09/21/republicans-democrats-senate-campaign-ad-spending-impressions",
-     "source": "Axios",
-     "summary": "Republicans are starting to trounce Democrats in political spending across the Senate map, and that advantage is now showing up in one of the metrics campaigns care about most: im\u2026",
-     "published": "2026-09-21T23:26:22+00:00",
-     "image": "https://datawrapper.dwcdn.net/E5JC9/fallback.png",
-     "kind": "article",
-     "id": "787f03ab7790e57b",
-     "first_seen": "2026-09-22T01:49:40.569312+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "America Is Blundering Toward War With China",
-     "url": "https://www.nytimes.com/2026/09/21/opinion/america-china-war.html",
-     "source": "New York Times",
-     "summary": "The U.S. has long misunderstood Beijing, and Trump\u2019s mixed signals aren\u2019t helping.",
-     "published": "2026-09-21T22:35:51+00:00",
-     "image": "https://static01.nyt.com/images/2026/09/22/multimedia/221kaplan-gjbz/221kaplan-gjbz-mediumSquareAt3X.jpg",
-     "kind": "article",
-     "id": "cd446a9bf52cec6d",
-     "first_seen": "2026-09-21T16:10:43.027945+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "Healthcare in Africa \u2018under growing strain\u2019 after US withdrawal from aid programs, report warns",
-     "url": "https://www.theguardian.com/us-news/2026/sep/21/africa-healthcare-aid-program-withdrawl",
+     "title": "Trump delivers message to Putin: \u2018Settle the war\u2019 - Europe live",
+     "url": "https://www.theguardian.com/world/live/2026/sep/22/eu-trump-russia-putin-sanctions-ukraine-greenland-denmark-zelenskyy-latest-news-updates",
      "source": "Guardian",
-     "summary": "Accra Reset\u2019s report states countries in the region and global south should take greater control of their health development after USAID debacleThe United States\u2019 withdrawal from \u2026",
-     "published": "2026-09-21T22:33:40+00:00",
-     "image": "https://i.guim.co.uk/img/media/63ea0238588856f02ee6eb9c01d9cff32fba4bec/234_0_6828_5464/master/6828.jpg?width=140&quality=85&auto=format&fit=max&s=18b9e65de33ae3a8942f6d477b3de163",
+     "summary": "The US president made the comments as he arrives at the UN headquarters in New YorkNordic correspondent Emotions among Greenlanders are a mixture of hope, scepticism and fear ahea\u2026",
+     "published": "2026-09-22T14:08:51+00:00",
+     "image": "https://i.guim.co.uk/img/media/92400394de0e87909e29008a0a4d5f2c455ea498/1135_0_4759_3809/master/4759.jpg?width=140&quality=85&auto=format&fit=max&s=eb4c1e649ec2fd24ab6a0c72a6390bab",
      "kind": "article",
-     "id": "2d21281d7127f641",
-     "first_seen": "2026-09-21T23:34:08.163788+00:00",
+     "id": "f7e833720f91f717",
+     "first_seen": "2026-09-22T14:19:28.648413+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
+     "title": "The National Book Awards Are No Longer National",
+     "url": "https://www.nytimes.com/2026/09/22/opinion/national-book-awards-dei.html",
+     "source": "New York Times",
+     "summary": "The National Book Awards longlists are a study in tedious political orthodoxy.",
+     "published": "2026-09-22T09:03:25+00:00",
+     "image": "https://static01.nyt.com/images/2026/09/22/multimedia/22stephens-hvqz/22stephens-hvqz-mediumSquareAt3X.jpg",
+     "kind": "article",
+     "id": "4af48b24f9982e13",
+     "first_seen": "2026-09-22T14:19:28.648413+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
+     "title": "U.S.-China \"red telephone\" could bring a Cold War guardrail to AI",
+     "url": "https://www.axios.com/2026/09/22/trump-china-ai-hotline-xi-summit",
+     "source": "Axios",
+     "summary": "A distinctly Cold War calculus is looming over this week's Trump-Xi summit in Washington, as the U.S. and China weigh an emergency \"red phone\" for the day AI goes haywire.Why it m\u2026",
+     "published": "2026-09-22T09:00:05+00:00",
+     "image": "https://images.axios.com/fi6cdKVyGzoF0zOdrmToBoaaAcg=/0x0:1280x720/2026/09/21/1790025280932.gif",
+     "kind": "article",
+     "id": "06894867de8c97c5",
+     "first_seen": "2026-09-22T14:19:28.648413+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
+     "title": "German Leaders Prepare to Deny Far Right Access to Secret War Plan",
+     "url": "https://www.nytimes.com/2026/09/22/world/europe/germany-afd-secrets-restriction.html",
+     "source": "New York Times",
+     "summary": "With the Alternative for Germany party close to power in a German state, federal officials are planning to limit the group\u2019s access to classified intelligence.",
+     "published": "2026-09-22T04:00:10+00:00",
+     "image": "https://static01.nyt.com/images/2026/09/21/multimedia/21germany-Intel-01-pjgh/21germany-Intel-01-pjgh-mediumSquareAt3X.jpg",
+     "kind": "article",
+     "id": "471f80c344d3e70a",
+     "first_seen": "2026-09-22T14:19:28.648413+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
@@ -155,6 +155,18 @@
      "is_new": true
     },
     {
+     "title": "IoT Battery Voltage Monitoring with ESP8266 & KiwisIoT",
+     "url": "https://www.hackster.io/varunprasadeng/iot-battery-voltage-monitoring-with-esp8266-kiwisiot-c35606",
+     "source": "Hackster",
+     "summary": "Monitor battery voltage in real time using an ESP8266, 0\u201325V voltage sensor, and KiwisIoT cloud dashboard.",
+     "published": "2026-09-21T10:18:33+00:00",
+     "image": "https://hackster.imgix.net/uploads/attachments/2004036/_lVmFd0pLTV.blob",
+     "kind": "article",
+     "id": "37dd7fcd5b30af4a",
+     "first_seen": "2026-09-22T14:19:28.648413+00:00",
+     "is_new": true
+    },
+    {
      "title": "Build Your Own Steering Wheel Gaming Setup",
      "url": "https://www.hackster.io/upsidedownlabs/build-your-own-steering-wheel-gaming-setup-8f66d3",
      "source": "Hackster",
@@ -164,18 +176,6 @@
      "kind": "article",
      "id": "0c38432020b5f5d2",
      "first_seen": "2026-09-21T23:34:08.163788+00:00",
-     "is_new": true
-    },
-    {
-     "title": "IoT EV Battery Monitoring with ESP8266 & KiwisIoT",
-     "url": "https://www.hackster.io/varunprasadeng/iot-ev-battery-monitoring-with-esp8266-kiwisiot-ad84cf",
-     "source": "Hackster",
-     "summary": "Monitor EV battery voltage and temperature in real time using ESP8266, DS18B20, a voltage sensor, and KiwisIoT.",
-     "published": "2026-09-21T09:01:25+00:00",
-     "image": "https://hackster.imgix.net/uploads/attachments/2003975/_4nuz47KC8s.blob",
-     "kind": "article",
-     "id": "fed69ef503194c26",
-     "first_seen": "2026-09-21T16:10:43.027945+00:00",
      "is_new": true
     },
     {
@@ -191,16 +191,16 @@
      "is_new": false
     },
     {
-     "title": "CircuitPython Turbo: Go Blinka!",
-     "url": "https://learn.adafruit.com/circuitpython-turbo",
+     "title": "Adafruit TSL2585 Digital UVA and Ambient Light Sensor",
+     "url": "https://learn.adafruit.com/adafruit-tsl2585-digital-uva-and-ambient-light-sensor",
      "source": "Adafruit",
-     "summary": "Compile the busy parts. Keep building in Python.Explore CircuitPython Turbo, a host-side toolchain for compiling selected Python functions to native code. See real device demos, e\u2026",
-     "published": "2026-09-11T04:14:58+00:00",
-     "image": "https://cdn-learn.adafruit.com/guides/images/000/004/615/medium500/turbo-learn-thumbnail-seated.png?1789131831",
+     "summary": "\"Three-in-one\" light sensorThe Adafruit TSL2585 Digital UVA and Ambient Light Sensor is a great \"three-in-one\" light sensor that has ambient light sensing, Infrared channel and UV\u2026",
+     "published": "2026-09-11T16:17:57+00:00",
+     "image": "https://cdn-learn.adafruit.com/guides/images/000/004/617/medium500/6524-00.jpg?1789143548",
      "kind": "article",
-     "id": "7ab5940789eaaf85",
-     "first_seen": "2026-09-11T18:33:22.916458+00:00",
-     "is_new": false
+     "id": "1d12920d1d261583",
+     "first_seen": "2026-09-22T14:19:28.648413+00:00",
+     "is_new": true
     }
    ]
   },
@@ -211,21 +211,7 @@
    "lead_image": false,
    "row_detail": false,
    "more": 0,
-   "items": [
-    {
-     "title": "Chicago Reversible Singlet",
-     "url": "https://www.tracksmith.com/products/m-chicago-reversible-singlet?sku=MT2253CHI2602DBNCRN",
-     "source": "Tracksmith",
-     "summary": "",
-     "published": null,
-     "image": "https://cdn-image.tracksmith.com/1788975219-description-panel-1.png?auto=format,compress&crop=faces&dpr=2&fit=crop&h=560&w=420",
-     "price": "$90",
-     "kind": "product",
-     "id": "9486802c19c56c2c",
-     "first_seen": "2026-09-22T01:49:40.569312+00:00",
-     "is_new": true
-    }
-   ]
+   "items": []
   },
   {
    "id": "dispatches",
