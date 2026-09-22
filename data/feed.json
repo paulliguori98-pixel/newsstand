@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-22T18:09:36.184378+00:00",
+ "generated_at": "2026-09-22T21:24:01.182777+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,14 +10,14 @@
    "more": 0,
    "items": [
     {
-     "title": "Mostly Sunny",
-     "phrase": "Mostly Sunny all day.",
-     "detail": "It reaches 66\u00b0 today and falls to 43\u00b0 overnight. The sun is up from 6:43 until 6:53.",
+     "title": "Partly Sunny",
+     "phrase": "Partly Sunny all day.",
+     "detail": "It reaches 67\u00b0 today and falls to 44\u00b0 overnight. The sun is up from 6:43 until 6:53.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 65,
-     "high": 66,
-     "low": 43,
+     "temp": 64,
+     "high": 67,
+     "low": 44,
      "sunrise": "6:43",
      "sunset": "6:53",
      "id": "bb806d72c86dcec1",
@@ -69,14 +69,32 @@
    "more": 0,
    "items": [
     {
-     "title": "EU removes oligarchs from Russia sanctions list as deadline looms",
-     "url": "https://www.theguardian.com/world/2026/sep/22/eu-removes-oligarchs-from-russia-sanctions-list-as-deadline-looms",
-     "source": "Guardian",
-     "summary": "Alisher Usmanov and Mikhail Fridman delisted in what Ireland\u2019s EU presidency called \u2018a difficult compromise\u2019 for the blocThe EU has agreed to remove two Russian billionaires, Alis\u2026",
-     "published": "2026-09-22T17:00:24+00:00",
-     "image": "https://i.guim.co.uk/img/media/fec21ff9823021bcdda79255837000ad9f664613/91_0_3008_2406/master/3008.jpg?width=140&quality=85&auto=format&fit=max&s=8fed3bc6a8ada0f828ac9d8ad3d53614",
+     "title": "Ukraine anger as EU removes Russian oligarchs from sanctions list",
+     "url": "https://www.bbc.co.uk/news/articles/c6dj4k98107do?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "summary": "Alisher Usmanov and Mikhail Fridman both have close ties to President Putin, and Kyiv said the move sent Moscow the wrong signals.",
+     "published": "2026-09-22T19:06:06+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9373/live/8fd92fe0-b6b4-11f1-a430-4d16ee157c41.jpg",
      "kind": "article",
-     "id": "0acb7df6f8df4c26",
+     "id": "50f60bf3e3c7ac12",
+     "first_seen": "2026-09-22T21:24:01.182777+00:00",
+     "is_new": true,
+     "corroboration": 2,
+     "also_in": [
+      "Guardian"
+     ],
+     "boosted": true,
+     "score": 5
+    },
+    {
+     "title": "U.S. and Iran officials meet in New York to discuss ending the war",
+     "url": "https://www.axios.com/2026/09/22/unga-iran-us-trump-war",
+     "source": "Axios",
+     "summary": "President Trump said U.S. officials met for three hours with the Iranian delegation to the United Nations General Assembly in New York on Tuesday. \"It was a good meeting ... It's \u2026",
+     "published": "2026-09-22T19:48:14+00:00",
+     "image": "https://images.axios.com/6lWG5-ea5PyYMHBnn262HLmGChk=/0x0:7170x4033/1366x768/2026/09/22/1790087449264.jpeg",
+     "kind": "article",
+     "id": "9a8be53dbccc7de7",
      "first_seen": "2026-09-22T18:09:36.184378+00:00",
      "is_new": true,
      "corroboration": 1,
@@ -89,7 +107,7 @@
      "url": "https://www.nytimes.com/2026/09/22/us/politics/republican-candidates-senate-iran-war.html",
      "source": "New York Times",
      "summary": "Representative Ashley Hinson of Iowa and Mike Rogers of Michigan distanced themselves from President Trump amid concern that high diesel prices could hurt the party in November.",
-     "published": "2026-09-22T16:05:16+00:00",
+     "published": "2026-09-22T18:16:02+00:00",
      "image": "https://static01.nyt.com/images/2026/09/22/multimedia/22pol-republicans-iran-buda-pvcg/22pol-republicans-iran-buda-pvcg-mediumSquareAt3X.jpg",
      "kind": "article",
      "id": "dd0a69ca6e126926",
@@ -115,22 +133,6 @@
      "also_in": [],
      "boosted": true,
      "score": 4
-    },
-    {
-     "title": "GOP's war for eyeballs",
-     "url": "https://www.axios.com/2026/09/21/republicans-democrats-senate-campaign-ad-spending-impressions",
-     "source": "Axios",
-     "summary": "Republicans are starting to trounce Democrats in political spending across the Senate map, and that advantage is now showing up in one of the metrics campaigns care about most: im\u2026",
-     "published": "2026-09-21T23:26:22+00:00",
-     "image": "https://datawrapper.dwcdn.net/E5JC9/fallback.png",
-     "kind": "article",
-     "id": "787f03ab7790e57b",
-     "first_seen": "2026-09-22T01:49:40.569312+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
     }
    ]
   },
@@ -143,15 +145,27 @@
    "more": 0,
    "items": [
     {
-     "title": "Digital Upgrade Brings Medium Format Camera Into the 21st Century",
-     "url": "https://hackaday.com/2026/09/22/digital-upgrade-brings-medium-format-camera-into-the-21st-century/",
+     "title": "Dumpster-dived Window A/C becomes Ground-Source Heat Pump",
+     "url": "https://hackaday.com/2026/09/22/dumpster-dived-window-a-c-becomes-ground-source-heat-pump/",
      "source": "Hackaday",
-     "summary": "Large format cameras can produce amazing shots, but are a bit too bulky to be practical. Medium format is a different story, as [Wenting] demonstrates with his Sitina B220M \u2014 \u2026rea\u2026",
-     "published": "2026-09-22T15:00:08+00:00",
-     "image": "https://hackaday.com/wp-content/uploads/2026/09/Mamiya-digital-back-CCD-1.jpg",
+     "summary": "Heat pumps are great, because they pump heat around, and we often don\u2019t want heat where it is. Need it somewhere else? Pump it! It\u2019s great. It\u2019s also a bit \u2026read more",
+     "published": "2026-09-22T20:00:02+00:00",
+     "image": "https://hackaday.com/wp-content/uploads/2026/09/ground-source-window-ac-2.jpg",
      "kind": "article",
-     "id": "b498e691a99ba7ca",
-     "first_seen": "2026-09-22T18:09:36.184378+00:00",
+     "id": "fac27226a9232ddb",
+     "first_seen": "2026-09-22T21:24:01.182777+00:00",
+     "is_new": true
+    },
+    {
+     "title": "PanTilt 0.9 \u2013 CPU vision+Nano/PCA9685 neck (I debug on app)",
+     "url": "https://www.hackster.io/olesha-ai/pantilt-0-9-cpu-vision-nano-pca9685-neck-i-debug-on-app-3f025f",
+     "source": "Hackster",
+     "summary": "Desk tracker: ORT/OpenVINO CPU, active/watch journal (max 2), Nano+PCA9685 neck. Eval zip 0.9.",
+     "published": "2026-09-22T11:48:38+00:00",
+     "image": "https://hackster.imgix.net/uploads/attachments/2004459/_ckfcGL12jB.blob",
+     "kind": "article",
+     "id": "9036eb5e5f57cd14",
+     "first_seen": "2026-09-22T21:24:01.182777+00:00",
      "is_new": true
     },
     {
@@ -163,18 +177,6 @@
      "image": "https://hackster.imgix.net/uploads/attachments/2004328/_klnEgabJoG.blob",
      "kind": "article",
      "id": "b442db6094ebdf57",
-     "first_seen": "2026-09-22T18:09:36.184378+00:00",
-     "is_new": true
-    },
-    {
-     "title": "Automated Irrigation Monitoring with ESP8266 & KiwisIoT",
-     "url": "https://www.hackster.io/keerthanadc19/automated-irrigation-monitoring-with-esp8266-kiwisiot-5a6629",
-     "source": "Hackster",
-     "summary": "Automatically monitor soil moisture and control irrigation with ESP8266, while tracking temperature, humidity, and pump status on KiwisIoT.",
-     "published": "2026-09-21T13:32:02+00:00",
-     "image": "https://hackster.imgix.net/uploads/attachments/2004339/_kjPC9UvCVT.blob",
-     "kind": "article",
-     "id": "fbf020802135a264",
      "first_seen": "2026-09-22T18:09:36.184378+00:00",
      "is_new": true
     },
@@ -213,16 +215,16 @@
    "more": 0,
    "items": [
     {
-     "title": "Chicago Reversible Singlet",
-     "url": "https://www.tracksmith.com/products/m-chicago-reversible-singlet?sku=MT2253CHI2602DBNCRN",
+     "title": "Trackhouse Midweight Crew",
+     "url": "https://www.tracksmith.com/products/m-trackhouse-midweight-crew?sku=MT2245TRKE01WIW",
      "source": "Tracksmith",
      "summary": "",
      "published": null,
-     "image": "https://cdn-image.tracksmith.com/1788975219-description-panel-1.png?auto=format,compress&crop=faces&dpr=2&fit=crop&h=560&w=420",
-     "price": "$90",
+     "image": "https://cdn-image.tracksmith.com/1781201767-description-panel-1.png?auto=format,compress&crop=faces&dpr=2&fit=crop&h=560&w=420",
+     "price": "$110",
      "kind": "product",
-     "id": "9486802c19c56c2c",
-     "first_seen": "2026-09-22T01:49:40.569312+00:00",
+     "id": "91b18a016834586a",
+     "first_seen": "2026-09-22T21:24:01.182777+00:00",
      "is_new": true
     },
     {

@@ -3751,5 +3751,14 @@
   "price": "$168",
   "published": "2026-07-10T20:22:10+00:00",
   "first_seen": "2026-09-22T18:09:36.184378+00:00"
+ },
+ "91b18a016834586a": {
+  "title": "Trackhouse Midweight Crew",
+  "url": "https://www.tracksmith.com/products/m-trackhouse-midweight-crew?sku=MT2245TRKE01WIW",
+  "source": "Tracksmith",
+  "image": "https://cdn-image.tracksmith.com/1781201767-description-panel-1.png?auto=format,compress&crop=faces&dpr=2&fit=crop&h=560&w=420",
+  "price": "$110",
+  "published": null,
+  "first_seen": "2026-09-22T21:24:01.182777+00:00"
  }
 }
