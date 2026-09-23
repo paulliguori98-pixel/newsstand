@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-23T14:38:37.680305+00:00",
+ "generated_at": "2026-09-23T18:38:21.255605+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -15,7 +15,7 @@
      "detail": "It reaches 67\u00b0 today and falls to 40\u00b0 overnight. The sun is up from 6:44 until 6:51.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 55,
+     "temp": 65,
      "high": 67,
      "low": 40,
      "sunrise": "6:44",
@@ -69,30 +69,28 @@
    "more": 0,
    "items": [
     {
-     "title": "Ukraine anger as EU removes Russian oligarchs from sanctions list",
-     "url": "https://www.bbc.co.uk/news/articles/c6dj4k98107do?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "summary": "Alisher Usmanov and Mikhail Fridman both have close ties to President Putin, and Kyiv said the move sent Moscow the wrong signals.",
-     "published": "2026-09-22T19:06:06+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9373/live/8fd92fe0-b6b4-11f1-a430-4d16ee157c41.jpg",
+     "title": "Iran's president gives a rare wartime speech at the U.N.",
+     "url": "https://www.npr.org/2026/09/23/nx-s1-5978863/iran-president-united-nations-general-assembly",
+     "source": "NPR",
+     "summary": "Iranian President Masoud Pezeshkian addressed the U.N. General Assembly a day after President Trump threatened from the same podium to \"annihilate\" Iran.",
+     "published": "2026-09-23T18:14:40+00:00",
+     "image": null,
      "kind": "article",
-     "id": "50f60bf3e3c7ac12",
-     "first_seen": "2026-09-22T21:24:01.182777+00:00",
+     "id": "f41eb61b7d23a7d6",
+     "first_seen": "2026-09-23T18:38:21.255605+00:00",
      "is_new": true,
-     "corroboration": 2,
-     "also_in": [
-      "Guardian"
-     ],
+     "corroboration": 1,
+     "also_in": [],
      "boosted": true,
-     "score": 5
+     "score": 4
     },
     {
      "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
      "url": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
      "summary": "The local authorities reportedly seize Tigray's airports following reports of recent drone strikes.",
-     "published": "2026-09-23T13:17:11+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd1c/live/f9fdfbe0-b74e-11f1-a430-4d16ee157c41.png",
+     "published": "2026-09-23T16:53:37+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b8d/live/5b472620-b767-11f1-a7b2-f3bdba1cd194.jpg",
      "kind": "article",
      "id": "afdbac57395c0f9d",
      "first_seen": "2026-09-23T14:38:37.680305+00:00",
@@ -103,15 +101,15 @@
      "score": 4
     },
     {
-     "title": "Gus Lamont\u2019s parents make emotional plea as $1m reward offered for information about disappearance",
-     "url": "https://www.theguardian.com/australia-news/2026/sep/23/missing-boy-gus-lamont-parents-video-message-1m-reward-announced-ntwnfb",
+     "title": "Victorian Labor puts reproductive rights on election agenda as it warns One Nation could try to wind back abortion access",
+     "url": "https://www.theguardian.com/australia-news/2026/sep/24/victorian-labor-election-one-nation-abortion-ntwnfb",
      "source": "Guardian",
-     "summary": "No trace of Gus has been found since he went missing from his family\u2019s South Australian farm on 27 September last yearThe parents of missing four-year-old Gus Lamont have made an \u2026",
-     "published": "2026-09-23T07:21:19+00:00",
-     "image": "https://i.guim.co.uk/img/media/965cfc3839db4d0c445fa08e704bfde7d3a58503/0_0_2813_2250/master/2813.jpg?width=140&quality=85&auto=format&fit=max&s=f333c04f77687b79288cf22d9f5212f7",
+     "summary": "Exclusive: \u2018We don\u2019t want to see any winding back of women\u2019s rights,\u2019 health minister says ahead of state electionGet our breaking news email, free app or daily news podcastThe Vi\u2026",
+     "published": "2026-09-23T15:00:51+00:00",
+     "image": "https://i.guim.co.uk/img/media/cfc7cfaa202950f16cdea6b3357fd8145833ec3b/204_0_2309_1848/master/2309.jpg?width=140&quality=85&auto=format&fit=max&s=842010ec8af584714e3ab8b35e8a9d57",
      "kind": "article",
-     "id": "ba593164b405d496",
-     "first_seen": "2026-09-23T14:38:37.680305+00:00",
+     "id": "3cf9e8bc2eabbcc8",
+     "first_seen": "2026-09-23T18:38:21.255605+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
@@ -119,15 +117,15 @@
      "score": 4
     },
     {
-     "title": "U.S. and Iran officials meet in New York to discuss ending the war",
-     "url": "https://www.axios.com/2026/09/22/unga-iran-us-trump-war",
-     "source": "Axios",
-     "summary": "President Trump said U.S. officials met for three hours with the Iranian delegation to the United Nations General Assembly in New York on Tuesday. Trump envoys Steve Witkoff and J\u2026",
-     "published": "2026-09-22T23:42:43+00:00",
-     "image": "https://images.axios.com/6lWG5-ea5PyYMHBnn262HLmGChk=/0x0:7170x4033/1366x768/2026/09/22/1790087449264.jpeg",
+     "title": "Azerbaijan pardons Frenchman after EU lifts sanctions on Russian billionaire",
+     "url": "https://www.bbc.co.uk/news/articles/cwp84rrrymd0o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "summary": "Martin Ryan is pardoned months after he was jailed on charges of spying, but a second Frenchman remains in prison.",
+     "published": "2026-09-23T14:32:42+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc15/live/41c899f0-b748-11f1-8846-e70401199dae.jpg",
      "kind": "article",
-     "id": "9a8be53dbccc7de7",
-     "first_seen": "2026-09-22T18:09:36.184378+00:00",
+     "id": "2d75ae0dab864c25",
+     "first_seen": "2026-09-23T18:38:21.255605+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
@@ -145,15 +143,15 @@
    "more": 0,
    "items": [
     {
-     "title": "How Pixar Stopped Worrying and Learned to Love Linux",
-     "url": "https://hackaday.com/2026/09/23/how-pixar-stopped-worrying-and-learned-to-love-linux/",
+     "title": "A Mini\u2019s Infotainment System and the Joys of Aftermarket Car Parts",
+     "url": "https://hackaday.com/2026/09/23/a-minis-infotainment-system-and-the-joys-of-aftermarket-car-parts/",
      "source": "Hackaday",
-     "summary": "If you weren\u2019t already aware, it will probably come as no surprise to hear that the pioneering computer-animation studio Pixar built its early workflow on Silicon Graphics SGI wor\u2026",
-     "published": "2026-09-23T11:00:56+00:00",
-     "image": "https://hackaday.com/wp-content/uploads/2026/09/Pixar-Linux-feat.jpg",
+     "summary": "Although [Arkandas] disclaims any interest in being a \u2018car guy\u2019, this is somewhat ironic in light of the sheer amount of modding he has performed on a range of cars \u2026read more",
+     "published": "2026-09-23T18:30:00+00:00",
+     "image": "https://hackaday.com/wp-content/uploads/2026/09/carplay_misadventure_arkandas.jpg",
      "kind": "article",
-     "id": "672843b1cd18fe61",
-     "first_seen": "2026-09-23T14:38:37.680305+00:00",
+     "id": "d0257040695e72cc",
+     "first_seen": "2026-09-23T18:38:21.255605+00:00",
      "is_new": true
     },
     {
@@ -213,7 +211,20 @@
    "lead_image": false,
    "row_detail": false,
    "more": 0,
-   "items": []
+   "items": [
+    {
+     "title": "Marled Ink Felted Field Shirt",
+     "url": "https://www.buckmason.com/products/marled-ink-felted-field-shirt",
+     "source": "Buck Mason",
+     "image": "https://cdn.shopify.com/s/files/1/0123/5065/2473/files/BM16078.403_FELTEDFIELDSHIRT_MARLEDINK_81194_1.jpg?v=1790187521",
+     "price": "$248",
+     "published": "2026-07-10T20:22:36+00:00",
+     "kind": "product",
+     "id": "e6c87b5304784d9f",
+     "first_seen": "2026-09-23T18:38:21.255605+00:00",
+     "is_new": true
+    }
+   ]
   },
   {
    "id": "dispatches",
@@ -224,16 +235,16 @@
    "more": 0,
    "items": [
     {
-     "title": "Knize Ten fragrance: A little follow-up from Bernhard",
-     "url": "https://www.permanentstyle.com/2026/09/knize-ten-fragrance-a-little-follow-up-from-bernhard.html",
-     "source": "Permanent Style",
-     "summary": "By Bernhard Roetzel. Among the many myths surrounding the Viennese menswear shop Knize is the origin and history of its fragrance \u2018Knize Ten\u2019. In fact, several myths. Germans and \u2026",
-     "published": "2026-09-23T08:00:43+00:00",
-     "image": "https://www.permanentstyle.com/wp-content/uploads/2026/08/DSC4151.jpg",
+     "title": "And The List Grows Shorter",
+     "url": "https://www.thisnicelife.com/p/and-the-list-grows-shorter",
+     "source": "This Nice Life",
+     "summary": "Lessons learned in pursuit of the ideal dad-mobile",
+     "published": "2026-09-19T14:31:04+00:00",
+     "image": "https://substackcdn.com/image/fetch/$s_!q7zH!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3a5f4dd7-ba93-47aa-9279-eb50f4adb9fb_6154x4615.jpeg",
      "kind": "article",
-     "id": "1c1fba56080e2544",
-     "first_seen": "2026-09-23T14:38:37.680305+00:00",
-     "is_new": true,
+     "id": "decf4c20dcc98c32",
+     "first_seen": "2026-09-19T16:48:38.502648+00:00",
+     "is_new": false,
      "corroboration": 1,
      "also_in": [],
      "boosted": false,
@@ -272,16 +283,16 @@
      "score": 1
     },
     {
-     "title": "And The List Grows Shorter",
-     "url": "https://www.thisnicelife.com/p/and-the-list-grows-shorter",
-     "source": "This Nice Life",
-     "summary": "Lessons learned in pursuit of the ideal dad-mobile",
-     "published": "2026-09-19T14:31:04+00:00",
-     "image": "https://substackcdn.com/image/fetch/$s_!q7zH!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3a5f4dd7-ba93-47aa-9279-eb50f4adb9fb_6154x4615.jpeg",
+     "title": "The ACL Digest",
+     "url": "https://www.acl.news/p/the-acl-digest-b5c",
+     "source": "A Continuous Lean",
+     "summary": "Not Signals, but similar.",
+     "published": "2026-09-17T19:26:06+00:00",
+     "image": "https://substackcdn.com/image/fetch/$s_!LESB!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbf05c5e5-d4da-4d73-97bd-8f040c2b8407_886x1020.png",
      "kind": "article",
-     "id": "decf4c20dcc98c32",
-     "first_seen": "2026-09-19T16:48:38.502648+00:00",
-     "is_new": true,
+     "id": "dc8cec67f33f3458",
+     "first_seen": "2026-09-17T21:43:16.003922+00:00",
+     "is_new": false,
      "corroboration": 1,
      "also_in": [],
      "boosted": false,
@@ -290,5 +301,7 @@
    ]
   }
  ],
- "errors": []
+ "errors": [
+  "Permanent Style: RuntimeError \u2014 https://www.permanentstyle.com/feed \u2192 HTTP 415"
+ ]
 }
