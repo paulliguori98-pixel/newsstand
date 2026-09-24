@@ -3783,7 +3783,7 @@
   "title": "Green Road Stripe Italian Silk Woven Tie",
   "url": "https://www.buckmason.com/products/green-road-stripe-italian-silk-woven-tie",
   "source": "Buck Mason",
-  "image": "https://cdn.shopify.com/s/files/1/0123/5065/2473/files/BM19260.1804_ITALIANSILKWOVENTIEGREENROADSTRIPE_2.jpg?v=1790194798",
+  "image": "https://cdn.shopify.com/s/files/1/0123/5065/2473/files/BM19260.1804_ITALIANSILKWOVENTIEGREENROADSTRIPE_1.jpg?v=1790194795",
   "price": "$128",
   "published": "2026-07-16T18:45:30+00:00",
   "first_seen": "2026-09-23T21:46:13.211074+00:00"
@@ -3801,7 +3801,7 @@
   "title": "Rust Bar Stripe Italian Silk Woven Tie",
   "url": "https://www.buckmason.com/products/rust-bar-stripe-italian-silk-woven-tie",
   "source": "Buck Mason",
-  "image": "https://cdn.shopify.com/s/files/1/0123/5065/2473/files/BM19278.1804_ITALIANSILKWOVENTIERUSTBARSTRIPE_2.jpg?v=1790194892",
+  "image": "https://cdn.shopify.com/s/files/1/0123/5065/2473/files/BM19278.1804_ITALIANSILKWOVENTIERUSTBARSTRIPE_1.jpg?v=1790194881",
   "price": "$128",
   "published": "2026-07-16T18:45:30+00:00",
   "first_seen": "2026-09-23T21:46:13.211074+00:00"
@@ -3823,5 +3823,266 @@
   "price": "$278",
   "published": "2026-07-10T20:22:37+00:00",
   "first_seen": "2026-09-24T00:12:16.243791+00:00"
+ },
+ "99b51a57d4625d89": {
+  "title": "Ghost Trouser in Chocolate/Oat/Sky Glen Plaid Brushed Hopsack",
+  "url": "https://shopmashburn.com/products/sid-mashburn-ghost-trouser-chocolate-oat-sky-glen-plaid-brushed-hopsack-s80240",
+  "source": "Sid Mashburn",
+  "image": "https://cdn.shopify.com/s/files/1/0414/4532/6999/files/S80240_34.jpg?v=1787667501",
+  "price": "$395",
+  "published": "2026-09-24T14:10:47-04:00",
+  "first_seen": "2026-09-24T18:38:52.389604+00:00"
+ },
+ "8cc433470fdcb0ce": {
+  "title": "Italian Tassel Loafer in Chocolate Suede",
+  "url": "https://shopmashburn.com/products/sid-mashburn-italian-tassel-loafer-chocolate-suede-s80807",
+  "source": "Sid Mashburn",
+  "image": "https://cdn.shopify.com/s/files/1/0414/4532/6999/files/S80807_0150.jpg?v=1782308349",
+  "price": "$595",
+  "published": "2026-09-24T14:10:46-04:00",
+  "first_seen": "2026-09-24T18:38:52.389604+00:00"
+ },
+ "3a1dec2f821746a9": {
+  "title": "Snuff Suede Raglan Work Coat",
+  "url": "https://us.drakes.com/products/snuff-suede-raglan-work-coat",
+  "source": "Drake's",
+  "image": "https://cdn.shopify.com/s/files/1/0649/6603/3653/files/26692.jpg?v=1790259843",
+  "price": "$2,495",
+  "published": "2026-09-24T11:08:54-04:00",
+  "first_seen": "2026-09-24T18:38:52.389604+00:00"
+ },
+ "87940b839389e638": {
+  "title": "Purple Herringbone Shetland Wool Hand Rolled Tie",
+  "url": "https://us.drakes.com/products/purple-herringbone-shetland-wool-hand-rolled-tie",
+  "source": "Drake's",
+  "image": "https://cdn.shopify.com/s/files/1/0649/6603/3653/files/DR1AAR26726-07-900-2.jpg?v=1790156597",
+  "price": "$275",
+  "published": "2026-09-24T04:25:57-04:00",
+  "first_seen": "2026-09-24T18:38:52.389604+00:00"
+ },
+ "42c149ee2298a4e0": {
+  "title": "Pink Herringbone Shetland Wool Hand Rolled Tie",
+  "url": "https://us.drakes.com/products/pink-herringbone-shetland-wool-hand-rolled-tie",
+  "source": "Drake's",
+  "image": "https://cdn.shopify.com/s/files/1/0649/6603/3653/files/DR1AAR26726-06-990-2.jpg?v=1790156563",
+  "price": "$275",
+  "published": "2026-09-24T04:25:56-04:00",
+  "first_seen": "2026-09-24T18:38:52.389604+00:00"
+ },
+ "8c8524c3b4dd5798": {
+  "title": "Orange Herringbone Shetland Wool Hand Rolled Tie",
+  "url": "https://us.drakes.com/products/orange-herringbone-shetland-wool-hand-rolled-tie",
+  "source": "Drake's",
+  "image": "https://cdn.shopify.com/s/files/1/0649/6603/3653/files/DR1AAR26726-05-800-2.jpg?v=1790156531",
+  "price": "$275",
+  "published": "2026-09-24T04:25:55-04:00",
+  "first_seen": "2026-09-24T18:38:52.389604+00:00"
+ },
+ "206026d6255f83d9": {
+  "title": "Green Herringbone Shetland Wool Hand Rolled Tie",
+  "url": "https://us.drakes.com/products/green-herringbone-shetland-wool-hand-rolled-tie",
+  "source": "Drake's",
+  "image": "https://cdn.shopify.com/s/files/1/0649/6603/3653/files/DR1AAR26726-04-400-2.jpg?v=1790156497",
+  "price": "$275",
+  "published": "2026-09-24T04:25:54-04:00",
+  "first_seen": "2026-09-24T18:38:52.389604+00:00"
+ },
+ "94a78c187a732da0": {
+  "title": "Blue Herringbone Shetland Wool Hand Rolled Tie",
+  "url": "https://us.drakes.com/products/blue-herringbone-shetland-wool-hand-rolled-tie",
+  "source": "Drake's",
+  "image": "https://cdn.shopify.com/s/files/1/0649/6603/3653/files/DR1AAR26726-03-200-2.jpg?v=1790156461",
+  "price": "$275",
+  "published": "2026-09-24T04:25:53-04:00",
+  "first_seen": "2026-09-24T18:38:52.389604+00:00"
+ },
+ "91c6a4bb61a587e8": {
+  "title": "Grey Herringbone Shetland Wool Hand Rolled Tie",
+  "url": "https://us.drakes.com/products/grey-herringbone-shetland-wool-hand-rolled-tie",
+  "source": "Drake's",
+  "image": "https://cdn.shopify.com/s/files/1/0649/6603/3653/files/DR1AAR26726-01-100-2.jpg?v=1790156266",
+  "price": "$275",
+  "published": "2026-09-24T04:25:52-04:00",
+  "first_seen": "2026-09-24T18:38:52.389604+00:00"
+ },
+ "3ef01e0ecfd7d640": {
+  "title": "Navy and Green Line Stripe Repp Silk Tipped Tie",
+  "url": "https://us.drakes.com/products/navy-and-green-line-stripe-repp-silk-tipped-tie",
+  "source": "Drake's",
+  "image": "https://cdn.shopify.com/s/files/1/0649/6603/3653/files/DR1AAN26746-01-252-1.jpg?v=1790162626",
+  "price": "$275",
+  "published": "2026-09-24T04:25:51-04:00",
+  "first_seen": "2026-09-24T18:38:52.389604+00:00"
+ },
+ "b9875fbbdf5367e6": {
+  "title": "Navy, Red and Yellow Line Stripe Repp Silk Cotton Tipped Tie",
+  "url": "https://us.drakes.com/products/navy-red-and-yellow-line-stripe-repp-silk-cotton-tipped-tie",
+  "source": "Drake's",
+  "image": "https://cdn.shopify.com/s/files/1/0649/6603/3653/files/DR1AAN26745-01-252-2.jpg?v=1790162285",
+  "price": "$275",
+  "published": "2026-09-24T04:25:50-04:00",
+  "first_seen": "2026-09-24T18:38:52.389604+00:00"
+ },
+ "58e5f9b1894ad09b": {
+  "title": "Navy Oxford Weave Wool-Silk Tipped Tie",
+  "url": "https://us.drakes.com/products/navy-oxford-weave-wool-silk-tipped-tie",
+  "source": "Drake's",
+  "image": "https://cdn.shopify.com/s/files/1/0649/6603/3653/files/DR1AAN26729-01-250-2.jpg?v=1790161927",
+  "price": "$275",
+  "published": "2026-09-24T04:25:49-04:00",
+  "first_seen": "2026-09-24T18:38:52.389604+00:00"
+ },
+ "40a1348a797fb779": {
+  "title": "Olive Cotton Fatigue Trouser",
+  "url": "https://us.drakes.com/products/olive-cotton-fatigue-trouser",
+  "source": "Drake's",
+  "image": "https://cdn.shopify.com/s/files/1/0649/6603/3653/files/DR2A6H25534-01-400-1_a688cb7d-7d6b-4dfd-a922-b5e0335d4b45.jpg?v=1786098529",
+  "price": "$450",
+  "published": "2026-09-24T04:25:48-04:00",
+  "first_seen": "2026-09-24T18:38:52.389604+00:00"
+ },
+ "d8bead0ad05d93d8": {
+  "title": "Brown Waxed Cotton Stable Jacket",
+  "url": "https://us.drakes.com/products/brown-waxed-cotton-stable-jacket",
+  "source": "Drake's",
+  "image": "https://cdn.shopify.com/s/files/1/0649/6603/3653/files/26511.jpg?v=1790179985",
+  "price": "$1,595",
+  "published": "2026-09-24T04:24:57-04:00",
+  "first_seen": "2026-09-24T18:38:52.389604+00:00"
+ },
+ "b89995b6a3c92081": {
+  "title": "Brown Suede Blouson Jacket",
+  "url": "https://us.drakes.com/products/brown-suede-blouson-jacket",
+  "source": "Drake's",
+  "image": "https://cdn.shopify.com/s/files/1/0649/6603/3653/files/DR2A1H26693-01-300-1.jpg?v=1790072957",
+  "price": "$2,295",
+  "published": "2026-09-24T04:24:56-04:00",
+  "first_seen": "2026-09-24T18:38:52.389604+00:00"
+ },
+ "131d81459eb30c36": {
+  "title": "Brown Herringbone Tweed Woodward Jacket",
+  "url": "https://us.drakes.com/products/brown-herringbone-tweed-woodward-jacket",
+  "source": "Drake's",
+  "image": "https://cdn.shopify.com/s/files/1/0649/6603/3653/files/DR2A1B26579-01300autumn-3.jpg?v=1790178979",
+  "price": "$1,175",
+  "published": "2026-09-24T04:24:54-04:00",
+  "first_seen": "2026-09-24T18:38:52.389604+00:00"
+ },
+ "39acb16da546aef1": {
+  "title": "Navy Moleskin Artist Chore Jacket",
+  "url": "https://us.drakes.com/products/navy-moleskin-artist-chore-jacket",
+  "source": "Drake's",
+  "image": "https://cdn.shopify.com/s/files/1/0649/6603/3653/files/26578.jpg?v=1790238205",
+  "price": "$1,175",
+  "published": "2026-09-24T04:24:53-04:00",
+  "first_seen": "2026-09-24T18:38:52.389604+00:00"
+ },
+ "a16b5ecafa8fe749": {
+  "title": "Navy Wool-Cotton Artist Chore Jacket",
+  "url": "https://us.drakes.com/products/navy-wool-cotton-artist-chore-jacket",
+  "source": "Drake's",
+  "image": "https://cdn.shopify.com/s/files/1/0649/6603/3653/files/DR2A1B26577-01-250-1.jpg?v=1789483337",
+  "price": "$1,175",
+  "published": "2026-09-24T04:24:52-04:00",
+  "first_seen": "2026-09-24T18:38:52.389604+00:00"
+ },
+ "1c026c3e6892e568": {
+  "title": "Brown Corduroy Double-Breasted Chore Coat",
+  "url": "https://us.drakes.com/products/brown-corduroy-double-breasted-chore-coat",
+  "source": "Drake's",
+  "image": "https://cdn.shopify.com/s/files/1/0649/6603/3653/files/26575.jpg?v=1790238155",
+  "price": "$1,175",
+  "published": "2026-09-24T04:24:50-04:00",
+  "first_seen": "2026-09-24T18:38:52.389604+00:00"
+ },
+ "c0fb64fe42699b92": {
+  "title": "Dark Green Corduroy Ranger Coat",
+  "url": "https://us.drakes.com/products/dark-green-corduroy-ranger-coat",
+  "source": "Drake's",
+  "image": "https://cdn.shopify.com/s/files/1/0649/6603/3653/files/26516.jpg?v=1790180080",
+  "price": "$1,295",
+  "published": "2026-09-24T04:24:49-04:00",
+  "first_seen": "2026-09-24T18:38:52.389604+00:00"
+ },
+ "f12307d5005e61c2": {
+  "title": "Red 'Home Comforts' Cotton Twill Baseball Cap",
+  "url": "https://us.drakes.com/products/red-home-comforts-cotton-twill-baseball-cap",
+  "source": "Drake's",
+  "image": "https://cdn.shopify.com/s/files/1/0649/6603/3653/files/DR1AG226700-02700autumn-2.jpg?v=1790177689",
+  "price": "$115",
+  "published": "2026-09-24T04:24:48-04:00",
+  "first_seen": "2026-09-24T18:38:52.389604+00:00"
+ },
+ "6f830d6158cbfa9a": {
+  "title": "Brown 'Home Comforts' Cotton Twill Baseball Cap",
+  "url": "https://us.drakes.com/products/brown-home-comforts-cotton-twill-baseball-cap",
+  "source": "Drake's",
+  "image": "https://cdn.shopify.com/s/files/1/0649/6603/3653/files/DR1AG226700-01-300-1.jpg?v=1790155794",
+  "price": "$115",
+  "published": "2026-09-24T04:24:46-04:00",
+  "first_seen": "2026-09-24T18:38:52.389604+00:00"
+ },
+ "13e9bd397ef91296": {
+  "title": "Navy 'Clock' Cotton Twill Baseball Cap",
+  "url": "https://us.drakes.com/products/navy-clock-cotton-twill-baseball-cap",
+  "source": "Drake's",
+  "image": "https://cdn.shopify.com/s/files/1/0649/6603/3653/files/DR1AG226695-01-250-1.jpg?v=1790155058",
+  "price": "$115",
+  "published": "2026-09-24T04:24:45-04:00",
+  "first_seen": "2026-09-24T18:38:52.389604+00:00"
+ },
+ "d73993ea44ae548b": {
+  "title": "Navy Small Floral Print Silk Pocket Square",
+  "url": "https://us.drakes.com/products/navy-small-floral-print-silk-pocket-square",
+  "source": "Drake's",
+  "image": "https://cdn.shopify.com/s/files/1/0649/6603/3653/files/DR1AE026767-02-251-1.jpg?v=1790162909",
+  "price": "$160",
+  "published": "2026-09-24T04:24:43-04:00",
+  "first_seen": "2026-09-24T18:38:52.389604+00:00"
+ },
+ "b5686ed01bce233e": {
+  "title": "Brown Small Floral Print Silk Pocket Square",
+  "url": "https://us.drakes.com/products/brown-small-floral-print-silk-pocket-square",
+  "source": "Drake's",
+  "image": "https://cdn.shopify.com/s/files/1/0649/6603/3653/files/DR1AE026767-01-301-1.jpg?v=1790162768",
+  "price": "$160",
+  "published": "2026-09-24T04:24:42-04:00",
+  "first_seen": "2026-09-24T18:38:52.389604+00:00"
+ },
+ "8300d14c696eff26": {
+  "title": "Green Tile Print Silk Pocket Square",
+  "url": "https://us.drakes.com/products/green-tile-print-silk-pocket-square",
+  "source": "Drake's",
+  "image": "https://cdn.shopify.com/s/files/1/0649/6603/3653/files/DR1AE026760-02401autumn-1.jpg?v=1790177653",
+  "price": "$160",
+  "published": "2026-09-24T04:24:40-04:00",
+  "first_seen": "2026-09-24T18:38:52.389604+00:00"
+ },
+ "26a9b2e87258419a": {
+  "title": "Heather Natural Shaggy Alpaca Saddle Crew",
+  "url": "https://www.buckmason.com/products/heather-natural-shaggy-alpaca-saddle-crew",
+  "source": "Buck Mason",
+  "image": "https://cdn.shopify.com/s/files/1/0123/5065/2473/files/BM16325.1198_SHAGGYALPACASADDLECREW_HEATHERNATURAL_79966_1.jpg?v=1790270334",
+  "price": "$268",
+  "published": "2026-07-10T20:22:41+00:00",
+  "first_seen": "2026-09-24T18:38:52.389604+00:00"
+ },
+ "ea950490266a1b75": {
+  "title": "Dress Navy Shaggy Alpaca Saddle Crew",
+  "url": "https://www.buckmason.com/products/dress-navy-shaggy-alpaca-saddle-crew",
+  "source": "Buck Mason",
+  "image": "https://cdn.shopify.com/s/files/1/0123/5065/2473/files/BM16325.1198_SHAGGYALPACASADDLECREW_DRESSNAVY_82238_1.jpg?v=1790270992",
+  "price": "$268",
+  "published": "2026-07-10T20:22:40+00:00",
+  "first_seen": "2026-09-24T18:38:52.389604+00:00"
+ },
+ "c11ad9eccda8d207": {
+  "title": "Heather Navy Herdsman Crew",
+  "url": "https://www.buckmason.com/products/heather-navy-herdsman-crew",
+  "source": "Buck Mason",
+  "image": "https://cdn.shopify.com/s/files/1/0123/5065/2473/files/BM16191.411_HERDSMAN_CREW_HEATHER_NAVY_1.jpg?v=1790271975",
+  "price": "$278",
+  "published": "2026-07-10T20:22:37+00:00",
+  "first_seen": "2026-09-24T18:38:52.389604+00:00"
  }
 }

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-24T00:12:16.243791+00:00",
+ "generated_at": "2026-09-24T18:38:52.389604+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,16 +10,16 @@
    "more": 0,
    "items": [
     {
-     "title": "Mostly Clear",
-     "phrase": "Mostly Clear all day.",
-     "detail": "It reaches 67\u00b0 today and falls to 39\u00b0 overnight. The sun is up from 6:44 until 6:51.",
+     "title": "Sunny",
+     "phrase": "Sunny all day.",
+     "detail": "It reaches 66\u00b0 today and falls to 43\u00b0 overnight. The sun is up from 6:45 until 6:49.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 56,
-     "high": 67,
-     "low": 39,
-     "sunrise": "6:44",
-     "sunset": "6:51",
+     "temp": 64,
+     "high": 66,
+     "low": 43,
+     "sunrise": "6:45",
+     "sunset": "6:49",
      "id": "bb806d72c86dcec1",
      "first_seen": "2026-08-19T17:11:19.569450+00:00",
      "is_new": false
@@ -69,15 +69,15 @@
    "more": 0,
    "items": [
     {
-     "title": "At the U.N., Iran Says It Will Not Give Up Its Nuclear Program",
-     "url": "https://www.nytimes.com/2026/09/23/briefing/at-the-un-iran-says-it-will-not-give-up-its-nuclear-program.html",
+     "title": "The \u2018Monster\u2019 Behind Russia\u2019s Global Effort to Evade Western Sanctions",
+     "url": "https://www.nytimes.com/2026/09/24/business/russia-sanctions-evasion-a7.html",
      "source": "New York Times",
-     "summary": "Also, hackers say they stole thousands of sensitive F.B.I. records. Here\u2019s the latest at the end of Wednesday.",
-     "published": "2026-09-23T21:57:16+00:00",
-     "image": "https://static01.nyt.com/images/2026/09/24/multimedia/23evening-nl-iran/23evening-nl-iran-mediumSquareAt3X.jpg",
+     "summary": "A Moscow firm uses shell companies and cryptocurrency to launder money, and a custom app to forge trade records, to help Russia bypass sweeping financial restrictions.",
+     "published": "2026-09-24T18:33:12+00:00",
+     "image": "https://static01.nyt.com/images/2026/08/11/multimedia/00russia-sanctions-a7-cvzw/00russia-sanctions-a7-cvzw-mediumSquareAt3X.jpg",
      "kind": "article",
-     "id": "759d93bdb7e5876c",
-     "first_seen": "2026-09-24T00:12:16.243791+00:00",
+     "id": "7cb7143aa8a8a6e2",
+     "first_seen": "2026-09-24T18:38:52.389604+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
@@ -85,15 +85,15 @@
      "score": 4
     },
     {
-     "title": "Cook nudges three Senate races toward Democrats",
-     "url": "https://www.axios.com/2026/09/23/midterms-senate-georgia-kansas-south-carolina-forecast",
-     "source": "Axios",
-     "summary": "Senate races in Georgia, Kansas and South Carolina were reclassified with a nudge toward Democrats in the latest analysis from the closely watched Cook Political Report. The big p\u2026",
-     "published": "2026-09-23T18:14:53+00:00",
-     "image": "https://images.axios.com/lIAH0rGVjkFNYLf-v4P9Jn6J3DQ=/0x0:3000x1688/1366x768/2026/09/23/1790181911292.jpeg",
+     "title": "Mortgage Rates Hit 7% as Iran War Fallout Crushes a Weak Housing Market",
+     "url": "https://www.nytimes.com/2026/09/24/business/mortgage-rates-7-percent.html",
+     "source": "New York Times",
+     "summary": "The average rate on a 30-year mortgage in the United States jumped to 7.03 percent, putting pressure on housing affordability.",
+     "published": "2026-09-24T16:36:50+00:00",
+     "image": "https://static01.nyt.com/images/2026/09/24/multimedia/2026-biz-sept-promos-mortgage-rates/2026-biz-sept-promos-mortgage-rates-mediumSquareAt3X-v5.png",
      "kind": "article",
-     "id": "2798d13c3aaa150a",
-     "first_seen": "2026-09-23T21:46:13.211074+00:00",
+     "id": "e07064cd37923269",
+     "first_seen": "2026-09-24T18:38:52.389604+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
@@ -101,31 +101,31 @@
      "score": 4
     },
     {
-     "title": "Iran's president gives a rare wartime speech at the U.N.",
-     "url": "https://www.npr.org/2026/09/23/nx-s1-5978863/iran-president-united-nations-general-assembly",
-     "source": "NPR",
-     "summary": "Iranian President Masoud Pezeshkian addressed the U.N. General Assembly a day after President Trump threatened from the same podium to \"annihilate\" Iran.",
-     "published": "2026-09-23T18:14:40+00:00",
-     "image": null,
-     "kind": "article",
-     "id": "f41eb61b7d23a7d6",
-     "first_seen": "2026-09-23T18:38:21.255605+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
-     "url": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
+     "title": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
+     "url": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "summary": "The local authorities reportedly seize Tigray's airports following reports of recent drone strikes.",
-     "published": "2026-09-23T16:53:37+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b8d/live/5b472620-b767-11f1-a7b2-f3bdba1cd194.jpg",
+     "summary": "The satellite station is used in part to provide internet coverage to neighbouring Ukraine, the government says.",
+     "published": "2026-09-24T16:00:29+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34f4/live/bd885cd0-b7ff-11f1-97e1-83bf52ec4acd.jpg",
      "kind": "article",
-     "id": "afdbac57395c0f9d",
-     "first_seen": "2026-09-23T14:38:37.680305+00:00",
+     "id": "225c216237cabf05",
+     "first_seen": "2026-09-24T18:38:52.389604+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
+     "title": "Rebel offensive against Ethiopian army stokes fears of return to civil war",
+     "url": "https://www.theguardian.com/world/2026/sep/24/fears-return-to-war-tigray-rebels-launch-offensive-against-ethiopian-army",
+     "source": "Guardian",
+     "summary": "Fighting escalates after Tigrayan rebels form new coalition aimed at overthrowing Abiy Ahmed governmentThere are growing fears of a return to civil war in Ethiopia after an offens\u2026",
+     "published": "2026-09-24T15:29:42+00:00",
+     "image": "https://i.guim.co.uk/img/media/02fbbbb2097252c71e2c812c2af983be2d3c8e5e/39_0_1695_1356/master/1695.jpg?width=140&quality=85&auto=format&fit=max&s=4a6e9458ca61d9b200e3e0a204d29b5f",
+     "kind": "article",
+     "id": "d8856d6d307b8883",
+     "first_seen": "2026-09-24T18:38:52.389604+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
@@ -143,15 +143,39 @@
    "more": 0,
    "items": [
     {
-     "title": "A Mini\u2019s Infotainment System and the Joys of Aftermarket Car Parts",
-     "url": "https://hackaday.com/2026/09/23/a-minis-infotainment-system-and-the-joys-of-aftermarket-car-parts/",
+     "title": "Handheld Scanner is a Radio Multi-tool",
+     "url": "https://hackaday.com/2026/09/24/handheld-scanner-is-a-radio-multi-tool/",
      "source": "Hackaday",
-     "summary": "Although [Arkandas] disclaims any interest in being a \u2018car guy\u2019, this is somewhat ironic in light of the sheer amount of modding he has performed on a range of cars \u2026read more",
-     "published": "2026-09-23T18:30:00+00:00",
-     "image": "https://hackaday.com/wp-content/uploads/2026/09/carplay_misadventure_arkandas.jpg",
+     "summary": "These days, it\u2019s possible to cram a whole lot of radio functionality into a very compact device. A great example of that is the LakeShark scanner from [SAMS0N1TE]. The LakeShark \u2026\u2026",
+     "published": "2026-09-24T18:30:05+00:00",
+     "image": "https://hackaday.com/wp-content/uploads/2026/09/Screenshot-2026-09-24-170458-1-e1790233550318.png",
      "kind": "article",
-     "id": "d0257040695e72cc",
-     "first_seen": "2026-09-23T18:38:21.255605+00:00",
+     "id": "1f14a42fc70d0d62",
+     "first_seen": "2026-09-24T18:38:52.389604+00:00",
+     "is_new": true
+    },
+    {
+     "title": "Arduino Volt Meter Using Nokia5110 Display",
+     "url": "https://www.hackster.io/chethanavishmika/arduino-volt-meter-using-nokia5110-display-20b35e",
+     "source": "Hackster",
+     "summary": "A compact DC Voltmeter built with an Arduino Uno, a Voltage Sensor Module (0\u201325V), and a Nokia 5110 LCD screen.",
+     "published": "2026-09-24T07:40:28+00:00",
+     "image": "https://hackster.imgix.net/uploads/attachments/2005030/_Ao8PY8ckEC.blob",
+     "kind": "article",
+     "id": "56e76d5a6cc13fe2",
+     "first_seen": "2026-09-24T18:38:52.389604+00:00",
+     "is_new": true
+    },
+    {
+     "title": "Build a Low-Power Wireless Sensor with the Murata TR7000",
+     "url": "https://www.hackster.io/robertfletcher1582/build-a-low-power-wireless-sensor-with-the-murata-tr7000-6465b0",
+     "source": "Hackster",
+     "summary": "Build a compact battery-powered wireless sensor using the Murata TR7000 433.92 MHz hybrid transceiver.",
+     "published": "2026-09-24T07:08:32+00:00",
+     "image": "https://hackster.imgix.net/uploads/attachments/2005028/_4jrW9zzDH6.blob",
+     "kind": "article",
+     "id": "bfaeeefade4e4cf6",
+     "first_seen": "2026-09-24T18:38:52.389604+00:00",
      "is_new": true
     },
     {
@@ -177,18 +201,6 @@
      "id": "1c26a0c71d273028",
      "first_seen": "2026-09-23T14:38:37.680305+00:00",
      "is_new": true
-    },
-    {
-     "title": "Arcade Machine Emulator for ESP32 Handheld",
-     "url": "https://learn.adafruit.com/handheld-esp32-arcade-machine-ports",
-     "source": "Adafruit",
-     "summary": "Play classic ROMs on a dedicated ESP32 handheldYou can play original arcade ROMs on Feather ESP32 v2 emulations of Intel 8080, Z80, and 6502 games -- Space Invaders, Lunar Rescue,\u2026",
-     "published": "2026-09-14T22:46:38+00:00",
-     "image": "https://cdn-learn.adafruit.com/guides/images/000/004/620/medium500/BTESP.jpg?1790089656",
-     "kind": "article",
-     "id": "4ec5eaa0cb8f34a3",
-     "first_seen": "2026-09-22T18:09:36.184378+00:00",
-     "is_new": true
     }
    ]
   },
@@ -198,18 +210,57 @@
    "kind": "goods",
    "lead_image": false,
    "row_detail": false,
-   "more": 0,
+   "more": 25,
    "items": [
     {
-     "title": "Ivory Herdsman Crew",
-     "url": "https://www.buckmason.com/products/ivory-herdsman-crew",
-     "source": "Buck Mason",
-     "image": "https://cdn.shopify.com/s/files/1/0123/5065/2473/files/BM16191.411_HERDSMAN-CREW_IVORY_84529.jpg?v=1790204348",
-     "price": "$278",
-     "published": "2026-07-10T20:22:37+00:00",
+     "title": "Ghost Trouser in Chocolate/Oat/Sky Glen Plaid Brushed Hopsack",
+     "url": "https://shopmashburn.com/products/sid-mashburn-ghost-trouser-chocolate-oat-sky-glen-plaid-brushed-hopsack-s80240",
+     "source": "Sid Mashburn",
+     "summary": "Sid Dress Trousers",
+     "published": "2026-09-24T14:10:47-04:00",
+     "image": "https://cdn.shopify.com/s/files/1/0414/4532/6999/files/S80240_34.jpg?v=1787667501",
+     "price": "$395",
      "kind": "product",
-     "id": "128b2d01353a2a2d",
-     "first_seen": "2026-09-24T00:12:16.243791+00:00",
+     "id": "99b51a57d4625d89",
+     "first_seen": "2026-09-24T18:38:52.389604+00:00",
+     "is_new": true
+    },
+    {
+     "title": "Snuff Suede Raglan Work Coat",
+     "url": "https://us.drakes.com/products/snuff-suede-raglan-work-coat",
+     "source": "Drake's",
+     "summary": "Coats",
+     "published": "2026-09-24T11:08:54-04:00",
+     "image": "https://cdn.shopify.com/s/files/1/0649/6603/3653/files/26692.jpg?v=1790259843",
+     "price": "$2,495",
+     "kind": "product",
+     "id": "3a1dec2f821746a9",
+     "first_seen": "2026-09-24T18:38:52.389604+00:00",
+     "is_new": true
+    },
+    {
+     "title": "Heather Natural Shaggy Alpaca Saddle Crew",
+     "url": "https://www.buckmason.com/products/heather-natural-shaggy-alpaca-saddle-crew",
+     "source": "Buck Mason",
+     "image": "https://cdn.shopify.com/s/files/1/0123/5065/2473/files/BM16325.1198_SHAGGYALPACASADDLECREW_HEATHERNATURAL_79966_1.jpg?v=1790270334",
+     "price": "$268",
+     "published": "2026-07-10T20:22:41+00:00",
+     "kind": "product",
+     "id": "26a9b2e87258419a",
+     "first_seen": "2026-09-24T18:38:52.389604+00:00",
+     "is_new": true
+    },
+    {
+     "title": "Italian Tassel Loafer in Chocolate Suede",
+     "url": "https://shopmashburn.com/products/sid-mashburn-italian-tassel-loafer-chocolate-suede-s80807",
+     "source": "Sid Mashburn",
+     "summary": "Sid Loafers",
+     "published": "2026-09-24T14:10:46-04:00",
+     "image": "https://cdn.shopify.com/s/files/1/0414/4532/6999/files/S80807_0150.jpg?v=1782308349",
+     "price": "$595",
+     "kind": "product",
+     "id": "8cc433470fdcb0ce",
+     "first_seen": "2026-09-24T18:38:52.389604+00:00",
      "is_new": true
     }
    ]
@@ -264,7 +315,7 @@
      "kind": "article",
      "id": "303b41fa0f1b141b",
      "first_seen": "2026-09-20T13:54:34.793858+00:00",
-     "is_new": true,
+     "is_new": false,
      "corroboration": 1,
      "also_in": [],
      "boosted": false,
@@ -289,7 +340,5 @@
    ]
   }
  ],
- "errors": [
-  "Hackster: RuntimeError \u2014 https://www.hackster.io/projects.atom \u2192 HTTP 503"
- ]
+ "errors": []
 }
