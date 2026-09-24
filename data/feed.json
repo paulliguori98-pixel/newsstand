@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-23T21:46:13.211074+00:00",
+ "generated_at": "2026-09-24T00:12:16.243791+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,13 +10,13 @@
    "more": 0,
    "items": [
     {
-     "title": "Sunny",
-     "phrase": "Sunny all day.",
-     "detail": "It reaches 68\u00b0 today and falls to 39\u00b0 overnight. The sun is up from 6:44 until 6:51.",
+     "title": "Mostly Clear",
+     "phrase": "Mostly Clear all day.",
+     "detail": "It reaches 67\u00b0 today and falls to 39\u00b0 overnight. The sun is up from 6:44 until 6:51.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 67,
-     "high": 68,
+     "temp": 56,
+     "high": 67,
      "low": 39,
      "sunrise": "6:44",
      "sunset": "6:51",
@@ -69,15 +69,15 @@
    "more": 0,
    "items": [
     {
-     "title": "\u2018Ukraine did not choose this war\u2019, Volodymyr Zelenskyy tells UN general assembly - live",
-     "url": "https://www.theguardian.com/world/live/2026/sep/23/united-nations-general-assembly-unga-zelenksyy-trump-xi-china-ukraine-russia-europe-latest-news-updates",
-     "source": "Guardian",
-     "summary": "Ukrainian president reminds delegates of scale and impact of war in Ukraine during his appearance, claiming that Putin will come for other cities after DonetskThese latest attacks\u2026",
-     "published": "2026-09-23T21:21:29+00:00",
-     "image": "https://i.guim.co.uk/img/media/573791b09d176675054b908337e520b602274275/375_0_3654_2925/master/3654.jpg?width=140&quality=85&auto=format&fit=max&s=2ec256980364de1fc1b2a3762181234e",
+     "title": "At the U.N., Iran Says It Will Not Give Up Its Nuclear Program",
+     "url": "https://www.nytimes.com/2026/09/23/briefing/at-the-un-iran-says-it-will-not-give-up-its-nuclear-program.html",
+     "source": "New York Times",
+     "summary": "Also, hackers say they stole thousands of sensitive F.B.I. records. Here\u2019s the latest at the end of Wednesday.",
+     "published": "2026-09-23T21:57:16+00:00",
+     "image": "https://static01.nyt.com/images/2026/09/24/multimedia/23evening-nl-iran/23evening-nl-iran-mediumSquareAt3X.jpg",
      "kind": "article",
-     "id": "8f1c017c9a4cdfe0",
-     "first_seen": "2026-09-23T14:38:37.680305+00:00",
+     "id": "759d93bdb7e5876c",
+     "first_seen": "2026-09-24T00:12:16.243791+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
@@ -155,30 +155,6 @@
      "is_new": true
     },
     {
-     "title": "IEMS: IoT Based Energy Management System",
-     "url": "https://www.hackster.io/mohammedshan6141/iems-iot-based-energy-management-system-c01a21",
-     "source": "Hackster",
-     "summary": "An ESP32 energy meter and remote switch that shows your electricity use as it happens, instead of two months later on the bill.",
-     "published": "2026-09-23T15:19:28+00:00",
-     "image": "https://hackster.imgix.net/uploads/attachments/2004807/_qQq9Q6it6a.blob",
-     "kind": "article",
-     "id": "cc64066a0203295e",
-     "first_seen": "2026-09-23T21:46:13.211074+00:00",
-     "is_new": true
-    },
-    {
-     "title": "IoT Fire Monitoring System Using ESP8266, Sensors & KiwisIoT",
-     "url": "https://www.hackster.io/valli1192003/iot-fire-monitoring-system-using-esp8266-sensors-kiwisiot-d52b01",
-     "source": "Hackster",
-     "summary": "Build an IoT-based fire monitoring system using NodeMCU ESP8266, Flame Sensor, MQ-2 Smoke Sensor, DHT11, and KiwisIoT.",
-     "published": "2026-09-23T08:09:30+00:00",
-     "image": "https://hackster.imgix.net/uploads/attachments/2004759/_P0qsrYdifJ.blob",
-     "kind": "article",
-     "id": "8d38c7d9d5f415cd",
-     "first_seen": "2026-09-23T21:46:13.211074+00:00",
-     "is_new": true
-    },
-    {
      "title": "Win a Development Kit for Compute Module 5",
      "url": "https://magazine.raspberrypi.com/articles/win-a-development-kit-for-compute-module-5",
      "source": "MagPi",
@@ -201,6 +177,18 @@
      "id": "1c26a0c71d273028",
      "first_seen": "2026-09-23T14:38:37.680305+00:00",
      "is_new": true
+    },
+    {
+     "title": "Arcade Machine Emulator for ESP32 Handheld",
+     "url": "https://learn.adafruit.com/handheld-esp32-arcade-machine-ports",
+     "source": "Adafruit",
+     "summary": "Play classic ROMs on a dedicated ESP32 handheldYou can play original arcade ROMs on Feather ESP32 v2 emulations of Intel 8080, Z80, and 6502 games -- Space Invaders, Lunar Rescue,\u2026",
+     "published": "2026-09-14T22:46:38+00:00",
+     "image": "https://cdn-learn.adafruit.com/guides/images/000/004/620/medium500/BTESP.jpg?1790089656",
+     "kind": "article",
+     "id": "4ec5eaa0cb8f34a3",
+     "first_seen": "2026-09-22T18:09:36.184378+00:00",
+     "is_new": true
     }
    ]
   },
@@ -210,54 +198,18 @@
    "kind": "goods",
    "lead_image": false,
    "row_detail": false,
-   "more": 1,
+   "more": 0,
    "items": [
     {
-     "title": "Green Road Stripe Italian Silk Woven Tie",
-     "url": "https://www.buckmason.com/products/green-road-stripe-italian-silk-woven-tie",
+     "title": "Ivory Herdsman Crew",
+     "url": "https://www.buckmason.com/products/ivory-herdsman-crew",
      "source": "Buck Mason",
-     "image": "https://cdn.shopify.com/s/files/1/0123/5065/2473/files/BM19260.1804_ITALIANSILKWOVENTIEGREENROADSTRIPE_2.jpg?v=1790194798",
-     "price": "$128",
-     "published": "2026-07-16T18:45:30+00:00",
+     "image": "https://cdn.shopify.com/s/files/1/0123/5065/2473/files/BM16191.411_HERDSMAN-CREW_IVORY_84529.jpg?v=1790204348",
+     "price": "$278",
+     "published": "2026-07-10T20:22:37+00:00",
      "kind": "product",
-     "id": "b58ccaa18b9395b0",
-     "first_seen": "2026-09-23T21:46:13.211074+00:00",
-     "is_new": true
-    },
-    {
-     "title": "Navy Broad Stripe Italian Silk Woven Tie",
-     "url": "https://www.buckmason.com/products/navy-broad-stripe-italian-silk-woven-tie",
-     "source": "Buck Mason",
-     "image": "https://cdn.shopify.com/s/files/1/0123/5065/2473/files/BM19258.1804_ITALIANSILKWOVENTIENAVYBROADSTRIPE_2.jpg?v=1790194711",
-     "price": "$128",
-     "published": "2026-07-16T18:45:30+00:00",
-     "kind": "product",
-     "id": "4832b5b0105fd582",
-     "first_seen": "2026-09-23T21:46:13.211074+00:00",
-     "is_new": true
-    },
-    {
-     "title": "Rust Bar Stripe Italian Silk Woven Tie",
-     "url": "https://www.buckmason.com/products/rust-bar-stripe-italian-silk-woven-tie",
-     "source": "Buck Mason",
-     "image": "https://cdn.shopify.com/s/files/1/0123/5065/2473/files/BM19278.1804_ITALIANSILKWOVENTIERUSTBARSTRIPE_2.jpg?v=1790194892",
-     "price": "$128",
-     "published": "2026-07-16T18:45:30+00:00",
-     "kind": "product",
-     "id": "f5993a17af7371c0",
-     "first_seen": "2026-09-23T21:46:13.211074+00:00",
-     "is_new": true
-    },
-    {
-     "title": "Marled Ink Felted Field Shirt",
-     "url": "https://www.buckmason.com/products/marled-ink-felted-field-shirt",
-     "source": "Buck Mason",
-     "image": "https://cdn.shopify.com/s/files/1/0123/5065/2473/files/BM16078.403_FELTEDFIELDSHIRT_MARLEDINK_81194_1.jpg?v=1790187521",
-     "price": "$248",
-     "published": "2026-07-10T20:22:36+00:00",
-     "kind": "product",
-     "id": "e6c87b5304784d9f",
-     "first_seen": "2026-09-23T18:38:21.255605+00:00",
+     "id": "128b2d01353a2a2d",
+     "first_seen": "2026-09-24T00:12:16.243791+00:00",
      "is_new": true
     }
    ]
@@ -337,5 +289,7 @@
    ]
   }
  ],
- "errors": []
+ "errors": [
+  "Hackster: RuntimeError \u2014 https://www.hackster.io/projects.atom \u2192 HTTP 503"
+ ]
 }
