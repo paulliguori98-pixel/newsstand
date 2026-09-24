@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-24T18:38:52.389604+00:00",
+ "generated_at": "2026-09-24T21:48:07.674437+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -12,12 +12,12 @@
     {
      "title": "Sunny",
      "phrase": "Sunny all day.",
-     "detail": "It reaches 66\u00b0 today and falls to 43\u00b0 overnight. The sun is up from 6:45 until 6:49.",
+     "detail": "It reaches 66\u00b0 today and falls to 42\u00b0 overnight. The sun is up from 6:45 until 6:49.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 64,
+     "temp": 66,
      "high": 66,
-     "low": 43,
+     "low": 42,
      "sunrise": "6:45",
      "sunset": "6:49",
      "id": "bb806d72c86dcec1",
@@ -69,15 +69,31 @@
    "more": 0,
    "items": [
     {
-     "title": "The \u2018Monster\u2019 Behind Russia\u2019s Global Effort to Evade Western Sanctions",
-     "url": "https://www.nytimes.com/2026/09/24/business/russia-sanctions-evasion-a7.html",
+     "title": "Senate Defeats Bid to Direct Trump to End Iran War or Seek Approval",
+     "url": "https://www.nytimes.com/2026/09/24/us/politics/senate-iran-war-powers-trump.html",
      "source": "New York Times",
-     "summary": "A Moscow firm uses shell companies and cryptocurrency to launder money, and a custom app to forge trade records, to help Russia bypass sweeping financial restrictions.",
-     "published": "2026-09-24T18:33:12+00:00",
-     "image": "https://static01.nyt.com/images/2026/08/11/multimedia/00russia-sanctions-a7-cvzw/00russia-sanctions-a7-cvzw-mediumSquareAt3X.jpg",
+     "summary": "The vote came as a growing number of Republicans have broken from President Trump on the conflict, reflecting voters\u2019 concerns ahead of midterm elections.",
+     "published": "2026-09-24T20:44:21+00:00",
+     "image": "https://static01.nyt.com/images/2026/09/23/multimedia/00dc-warpowers-kbzw/00dc-warpowers-kbzw-mediumSquareAt3X.jpg",
      "kind": "article",
-     "id": "7cb7143aa8a8a6e2",
-     "first_seen": "2026-09-24T18:38:52.389604+00:00",
+     "id": "a0268a75720bc93b",
+     "first_seen": "2026-09-24T21:48:07.674437+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
+     "title": "In one of their last votes before November, Senate GOP blocks effort to end Iran war",
+     "url": "https://www.npr.org/2026/09/24/nx-s1-5980318/senate-iran-war-powers-vote",
+     "source": "NPR",
+     "summary": "The vote on a war powers resolution introduced by Democrats came at a moment when some Republicans have begun to distance themselves from President Trump over the ongoing conflict.",
+     "published": "2026-09-24T19:46:53+00:00",
+     "image": null,
+     "kind": "article",
+     "id": "6bdae1bbcb1ad51c",
+     "first_seen": "2026-09-24T21:48:07.674437+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
@@ -90,7 +106,7 @@
      "source": "New York Times",
      "summary": "The average rate on a 30-year mortgage in the United States jumped to 7.03 percent, putting pressure on housing affordability.",
      "published": "2026-09-24T16:36:50+00:00",
-     "image": "https://static01.nyt.com/images/2026/09/24/multimedia/2026-biz-sept-promos-mortgage-rates/2026-biz-sept-promos-mortgage-rates-mediumSquareAt3X-v5.png",
+     "image": "https://static01.nyt.com/images/2026/09/24/multimedia/2026-biz-sept-promos-mortgage-rates/2026-biz-sept-promos-mortgage-rates-mediumSquareAt3X-v7.png",
      "kind": "article",
      "id": "e07064cd37923269",
      "first_seen": "2026-09-24T18:38:52.389604+00:00",
@@ -115,22 +131,6 @@
      "also_in": [],
      "boosted": true,
      "score": 4
-    },
-    {
-     "title": "Rebel offensive against Ethiopian army stokes fears of return to civil war",
-     "url": "https://www.theguardian.com/world/2026/sep/24/fears-return-to-war-tigray-rebels-launch-offensive-against-ethiopian-army",
-     "source": "Guardian",
-     "summary": "Fighting escalates after Tigrayan rebels form new coalition aimed at overthrowing Abiy Ahmed governmentThere are growing fears of a return to civil war in Ethiopia after an offens\u2026",
-     "published": "2026-09-24T15:29:42+00:00",
-     "image": "https://i.guim.co.uk/img/media/02fbbbb2097252c71e2c812c2af983be2d3c8e5e/39_0_1695_1356/master/1695.jpg?width=140&quality=85&auto=format&fit=max&s=4a6e9458ca61d9b200e3e0a204d29b5f",
-     "kind": "article",
-     "id": "d8856d6d307b8883",
-     "first_seen": "2026-09-24T18:38:52.389604+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
     }
    ]
   },
@@ -143,15 +143,15 @@
    "more": 0,
    "items": [
     {
-     "title": "Handheld Scanner is a Radio Multi-tool",
-     "url": "https://hackaday.com/2026/09/24/handheld-scanner-is-a-radio-multi-tool/",
+     "title": "A 7-Segment Clock Built With No Digital Electronics",
+     "url": "https://hackaday.com/2026/09/24/a-7-segment-clock-built-with-no-digital-electronics/",
      "source": "Hackaday",
-     "summary": "These days, it\u2019s possible to cram a whole lot of radio functionality into a very compact device. A great example of that is the LakeShark scanner from [SAMS0N1TE]. The LakeShark \u2026\u2026",
-     "published": "2026-09-24T18:30:05+00:00",
-     "image": "https://hackaday.com/wp-content/uploads/2026/09/Screenshot-2026-09-24-170458-1-e1790233550318.png",
+     "summary": "If you wanted to build a clock with a 7-segment display, there are a wide variety of ways you might go about it. You could grab some 74-series logic chips \u2026read more",
+     "published": "2026-09-24T20:00:04+00:00",
+     "image": "https://hackaday.com/wp-content/uploads/2026/09/This-1970s-_Digital_-Clock-Has-No-Electronics-Inside-7-23-screenshot.png",
      "kind": "article",
-     "id": "1f14a42fc70d0d62",
-     "first_seen": "2026-09-24T18:38:52.389604+00:00",
+     "id": "afcd93989712cdaa",
+     "first_seen": "2026-09-24T21:48:07.674437+00:00",
      "is_new": true
     },
     {
@@ -210,7 +210,7 @@
    "kind": "goods",
    "lead_image": false,
    "row_detail": false,
-   "more": 25,
+   "more": 26,
    "items": [
     {
      "title": "Ghost Trouser in Chocolate/Oat/Sky Glen Plaid Brushed Hopsack",
@@ -239,15 +239,15 @@
      "is_new": true
     },
     {
-     "title": "Heather Natural Shaggy Alpaca Saddle Crew",
-     "url": "https://www.buckmason.com/products/heather-natural-shaggy-alpaca-saddle-crew",
+     "title": "Hunter Brown Bird-Dog Hunting Jacket",
+     "url": "https://www.buckmason.com/products/hunter-brown-bird-dog-hunting-jacket",
      "source": "Buck Mason",
-     "image": "https://cdn.shopify.com/s/files/1/0123/5065/2473/files/BM16325.1198_SHAGGYALPACASADDLECREW_HEATHERNATURAL_79966_1.jpg?v=1790270334",
-     "price": "$268",
-     "published": "2026-07-10T20:22:41+00:00",
+     "image": "https://cdn.shopify.com/s/files/1/0123/5065/2473/files/Bird-DogHuntingJacketHunterBrown.jpg?v=1790208263",
+     "price": "$398",
+     "published": "2026-07-16T18:32:37+00:00",
      "kind": "product",
-     "id": "26a9b2e87258419a",
-     "first_seen": "2026-09-24T18:38:52.389604+00:00",
+     "id": "4ea844237871b0a6",
+     "first_seen": "2026-09-24T21:48:07.674437+00:00",
      "is_new": true
     },
     {
