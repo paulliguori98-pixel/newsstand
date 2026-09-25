@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-25T19:10:25.514830+00:00",
+ "generated_at": "2026-09-25T22:26:16.835330+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,13 +10,13 @@
    "more": 0,
    "items": [
     {
-     "title": "Partly Sunny",
-     "phrase": "Partly Sunny all day.",
-     "detail": "It reaches 71\u00b0 today and falls to 55\u00b0 overnight. The sun is up from 6:46 until 6:47.",
+     "title": "Mostly Cloudy",
+     "phrase": "Mostly Cloudy all day.",
+     "detail": "It reaches 67\u00b0 today and falls to 55\u00b0 overnight. The sun is up from 6:46 until 6:47.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 70,
-     "high": 71,
+     "temp": 69,
+     "high": 67,
      "low": 55,
      "sunrise": "6:46",
      "sunset": "6:47",
@@ -88,6 +88,26 @@
      "score": 6
     },
     {
+     "title": "Supreme Court Allows Use of Trump Administration\u2019s Expansive Database for Voter Screening",
+     "url": "https://www.nytimes.com/2026/09/25/us/politics/supreme-court-citizenship-voter-lists.html",
+     "source": "New York Times",
+     "summary": "Critics of a citizenship database built by the Trump administration have raised alarms about privacy and improper voter purges.",
+     "published": "2026-09-25T19:34:48+00:00",
+     "image": "https://static01.nyt.com/images/2026/09/16/multimedia/00dc-scotus-dhs-bfcv/00dc-scotus-dhs-bfcv-mediumSquareAt3X.jpg",
+     "kind": "article",
+     "id": "548db4b5bdddf4ac",
+     "first_seen": "2026-09-25T19:10:25.514830+00:00",
+     "is_new": true,
+     "corroboration": 4,
+     "also_in": [
+      "Axios",
+      "BBC",
+      "NPR"
+     ],
+     "boosted": false,
+     "score": 4
+    },
+    {
      "title": "Netanyahu Said to Have Been Warned by Emirati Leader About Hamas Attack Before Oct. 7",
      "url": "https://www.nytimes.com/2026/09/25/world/middleeast/netanyahu-warning-oct-7-uae.html",
      "source": "New York Times",
@@ -118,22 +138,6 @@
      "also_in": [],
      "boosted": true,
      "score": 4
-    },
-    {
-     "title": "Hurricane Polo barrels towards Baja California region of Mexico",
-     "url": "https://www.theguardian.com/world/2026/sep/25/weather-tracker-hurricane-polo-baja-california-mexico",
-     "source": "Guardian",
-     "summary": "Area\u2019s second-most intense hurricane on record being fuelled by exceptionally warm Pacific watersHurricane Polo is barreling towards the Baja California region of Mexico, the late\u2026",
-     "published": "2026-09-25T10:28:45+00:00",
-     "image": "https://i.guim.co.uk/img/media/b50c83c9039b9bab804792995e9e6fe40b2bd16b/328_0_1834_1467/master/1834.jpg?width=140&quality=85&auto=format&fit=max&s=24d8066eaf76037e46fbceca0af1a725",
-     "kind": "article",
-     "id": "7579f9b502ac90d5",
-     "first_seen": "2026-09-25T14:57:54.570603+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
     }
    ]
   },
@@ -146,15 +150,15 @@
    "more": 0,
    "items": [
     {
-     "title": "Investigating a Rare Burnout 3 Beta Disc",
-     "url": "https://hackaday.com/2026/09/25/investigating-a-rare-burnout-3-beta-disc/",
+     "title": "Pi Pico Recreates The Heathkit Pocket Packet",
+     "url": "https://hackaday.com/2026/09/25/pi-pico-recreates-the-heathkit-pocket-packet/",
      "source": "Hackaday",
-     "summary": "These days, it\u2019s pretty easy to buy old retail console games just by hunting online auction sites. It\u2019s much rarer to come across a disc holding a beta version that \u2026read more",
-     "published": "2026-09-25T18:30:39+00:00",
-     "image": "https://hackaday.com/wp-content/uploads/2026/09/I-bought-a-Burnout-3-beta-disc.-1-58-screenshot.png",
+     "summary": "Packet radio is a particularly fun part of the ham radio hobby. Once upon a time, you might have squirted data about the airwaves using something like the Heathkit HK-21 \u2026read more",
+     "published": "2026-09-25T20:00:50+00:00",
+     "image": "https://hackaday.com/wp-content/uploads/2026/09/pico-board-jacks-e1790239295298.webp",
      "kind": "article",
-     "id": "8522f54987c5e436",
-     "first_seen": "2026-09-25T19:10:25.514830+00:00",
+     "id": "9192388547430fba",
+     "first_seen": "2026-09-25T22:26:16.835330+00:00",
      "is_new": true
     },
     {
@@ -264,7 +268,7 @@
      "kind": "article",
      "id": "59a90c467349a4de",
      "first_seen": "2026-09-21T20:27:18.048605+00:00",
-     "is_new": true,
+     "is_new": false,
      "corroboration": 1,
      "also_in": [],
      "boosted": false,
