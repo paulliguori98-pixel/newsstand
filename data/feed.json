@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-25T14:57:54.570603+00:00",
+ "generated_at": "2026-09-25T19:10:25.514830+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,14 +10,14 @@
    "more": 0,
    "items": [
     {
-     "title": "Mostly Sunny",
-     "phrase": "Mostly Sunny all day.",
-     "detail": "It reaches 70\u00b0 today and falls to 54\u00b0 overnight. The sun is up from 6:46 until 6:47.",
+     "title": "Partly Sunny",
+     "phrase": "Partly Sunny all day.",
+     "detail": "It reaches 71\u00b0 today and falls to 55\u00b0 overnight. The sun is up from 6:46 until 6:47.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 54,
-     "high": 70,
-     "low": 54,
+     "temp": 70,
+     "high": 71,
+     "low": 55,
      "sunrise": "6:46",
      "sunset": "6:47",
      "id": "bb806d72c86dcec1",
@@ -69,40 +69,39 @@
    "more": 0,
    "items": [
     {
-     "title": "Pope Leo warns against AI and says technology \u2018must remain at service of humans\u2019 during first visit to France \u2013 Europe live",
-     "url": "https://www.theguardian.com/world/live/2026/sep/25/pope-leo-france-paris-notre-dame-metz-ai-europe-latest-news-updates",
+     "title": "Pope Leo warns of AI threat to humanity at start of three-day France visit",
+     "url": "https://www.theguardian.com/world/2026/sep/25/pope-leo-ai-threat-to-humanity-three-day-france-visit",
      "source": "Guardian",
-     "summary": "The pope gives landmark speech on AI development and Europe\u2019s future Later today, Pope Leo will go to the \u00c9lys\u00e9e Palace for (another) formal welcome and a meeting with authorities\u2026",
-     "published": "2026-09-25T14:49:09+00:00",
-     "image": "https://i.guim.co.uk/img/media/a2f99ffe6fc66332e76f4202e3a5941c11f59ba5/1740_713_3578_2863/master/3578.jpg?width=140&quality=85&auto=format&fit=max&s=9275d1c21df76fcf675586426054616e",
+     "summary": "Pontiff says artificial intelligence must remain at service of people in first official papal visit to country in 18 yearsPope Leo has warned against losing humanity in a \u201cparadis\u2026",
+     "published": "2026-09-25T16:01:10+00:00",
+     "image": "https://i.guim.co.uk/img/media/bda0afa989fbdccf5e1501fceef9d84965bd6fff/16_0_1379_1103/master/1379.jpg?width=140&quality=85&auto=format&fit=max&s=4ca1a5352f5e47303462cbba9ba0de1f",
      "kind": "article",
-     "id": "5650625ff0c7dfa3",
-     "first_seen": "2026-09-25T14:57:54.570603+00:00",
+     "id": "0d0ab2de5779428c",
+     "first_seen": "2026-09-25T19:10:25.514830+00:00",
      "is_new": true,
-     "corroboration": 2,
+     "corroboration": 3,
      "also_in": [
-      "BBC"
+      "BBC",
+      "NPR"
      ],
      "boosted": true,
-     "score": 5
+     "score": 6
     },
     {
-     "title": "Trump and Xi exchange warm words at state dinner but little progress on key issues",
-     "url": "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "summary": "Despite diplomatic niceties and gifts, little was shared on substantial issues separating the leaders.",
-     "published": "2026-09-25T10:36:55+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/602f/live/4a515750-b8a7-11f1-a430-4d16ee157c41.jpg",
+     "title": "Netanyahu Said to Have Been Warned by Emirati Leader About Hamas Attack Before Oct. 7",
+     "url": "https://www.nytimes.com/2026/09/25/world/middleeast/netanyahu-warning-oct-7-uae.html",
+     "source": "New York Times",
+     "summary": "The warning from the leader of the United Arab Emirates, which lacked specific details about the nature of an attack, never reached the chiefs of Israel\u2019s security establishment, \u2026",
+     "published": "2026-09-25T17:15:17+00:00",
+     "image": "https://static01.nyt.com/images/2026/09/23/multimedia/23int-netanyahu-warning-01-ktqg/23int-netanyahu-warning-01-ktqg-mediumSquareAt3X.jpg",
      "kind": "article",
-     "id": "262b590f746fdd26",
-     "first_seen": "2026-09-25T14:57:54.570603+00:00",
+     "id": "d28d56dbb7a47a8a",
+     "first_seen": "2026-09-25T19:10:25.514830+00:00",
      "is_new": true,
-     "corroboration": 2,
-     "also_in": [
-      "New York Times"
-     ],
+     "corroboration": 1,
+     "also_in": [],
      "boosted": true,
-     "score": 5
+     "score": 4
     },
     {
      "title": "Bill Gates warns AI is powerful enough to cause \"a billion deaths\"",
@@ -147,15 +146,15 @@
    "more": 0,
    "items": [
     {
-     "title": "Commodore 128 Becomes Marine Vessel Tracker",
-     "url": "https://hackaday.com/2026/09/25/commodore-128-becomes-marine-vessel-tracker/",
+     "title": "Investigating a Rare Burnout 3 Beta Disc",
+     "url": "https://hackaday.com/2026/09/25/investigating-a-rare-burnout-3-beta-disc/",
      "source": "Hackaday",
-     "summary": "The Automatic Identification System (AIS) is a maritime radio communications tool used to allow different vessels to identify each other and communicate their movements and other \u2026",
-     "published": "2026-09-25T08:00:14+00:00",
-     "image": "https://hackaday.com/wp-content/uploads/2026/09/graphics-aberdeen-e1790235525962.png",
+     "summary": "These days, it\u2019s pretty easy to buy old retail console games just by hunting online auction sites. It\u2019s much rarer to come across a disc holding a beta version that \u2026read more",
+     "published": "2026-09-25T18:30:39+00:00",
+     "image": "https://hackaday.com/wp-content/uploads/2026/09/I-bought-a-Burnout-3-beta-disc.-1-58-screenshot.png",
      "kind": "article",
-     "id": "b3679bef85522e5a",
-     "first_seen": "2026-09-25T14:57:54.570603+00:00",
+     "id": "8522f54987c5e436",
+     "first_seen": "2026-09-25T19:10:25.514830+00:00",
      "is_new": true
     },
     {
