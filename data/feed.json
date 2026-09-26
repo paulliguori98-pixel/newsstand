@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-26T20:35:58.950999+00:00",
+ "generated_at": "2026-09-26T23:08:17.032018+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -11,12 +11,12 @@
    "items": [
     {
      "title": "Chance Light Rain",
-     "phrase": "Rain is near certain between 4pm and 9am.",
-     "detail": "It reaches 69\u00b0 today and falls to 54\u00b0 overnight. The sun is up from 6:47 until 6:46.",
+     "phrase": "Rain is near certain between 7pm and 12pm.",
+     "detail": "It reaches 62\u00b0 today and falls to 54\u00b0 overnight. The sun is up from 6:47 until 6:46.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 67,
-     "high": 69,
+     "temp": 62,
+     "high": 62,
      "low": 54,
      "sunrise": "6:47",
      "sunset": "6:46",
@@ -69,20 +69,20 @@
    "more": 0,
    "items": [
     {
-     "title": "Trump calls Iranian plan to reopen Strait of Hormuz not 'acceptable'",
-     "url": "https://www.npr.org/2026/09/26/nx-s1-5981990/trump-rejects-iranian-deal-strait-of-hormuz",
-     "source": "NPR",
-     "summary": "President Trump said he was rejecting an Iranian plan to reopen the Strait of Hormuz. The Iranian proposal is similar to a memorandum of understanding agreed upon by the U.S. and \u2026",
-     "published": "2026-09-26T20:08:28+00:00",
-     "image": null,
+     "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
+     "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "summary": "Iran's foreign minister acknowledges Trump's comments, but adds that Tehran is waiting for the \"definitive views\" of mediators.",
+     "published": "2026-09-26T22:15:59+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/adf9/live/6f8e27d0-b9c1-11f1-9190-07b6ee147cf1.png",
      "kind": "article",
-     "id": "0efa634cfa7dade8",
-     "first_seen": "2026-09-26T20:35:58.950999+00:00",
+     "id": "3808196cf27c416a",
+     "first_seen": "2026-09-26T00:50:57.967982+00:00",
      "is_new": true,
      "corroboration": 4,
      "also_in": [
       "Axios",
-      "BBC",
+      "NPR",
       "New York Times"
      ],
      "boosted": true,
@@ -107,6 +107,22 @@
      "score": 5
     },
     {
+     "title": "Trump gave Xi Jinping a warm welcome. What did the talks accomplish?",
+     "url": "https://www.npr.org/2026/09/26/nx-s1-5980066/trump-gave-xi-jinping-a-warm-welcome-what-did-the-talks-accomplish",
+     "source": "NPR",
+     "summary": "From the National Archives to the state dinner, President Trump and Xi Jinping looked comfortable together in Washington. Two former NPR China correspondents on what the visit did\u2026",
+     "published": "2026-09-26T21:13:54+00:00",
+     "image": null,
+     "kind": "article",
+     "id": "2297c92b3271c4e9",
+     "first_seen": "2026-09-26T23:08:17.032018+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
      "title": "Pope warns a 'paradise of machines' could undermine humanity as he opens France trip",
      "url": "https://www.npr.org/2026/09/26/g-s1-145150/pope-warns-a-paradise-of-machines-could-undermine-humanity",
      "source": "NPR",
@@ -116,22 +132,6 @@
      "kind": "article",
      "id": "cd28012b247ae26a",
      "first_seen": "2026-09-26T14:02:17.812081+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "Bill Gates warns AI is powerful enough to cause \"a billion deaths\"",
-     "url": "https://www.axios.com/2026/09/25/bill-gates-ai-deaths-doom",
-     "source": "Axios",
-     "summary": "Bill Gates will warn on this weekend's \"Meet the Press\" that he can see a future where AI wipes out humanity. Why it matters: Gates, one of technology's leading optimists, has inc\u2026",
-     "published": "2026-09-25T12:52:48+00:00",
-     "image": "https://images.axios.com/Z_7bZbAztx_ymd5EJsgvDNH7XUY=/0x166:4000x2416/1366x768/2026/09/25/1790340610418.jpeg",
-     "kind": "article",
-     "id": "3596e243df950a60",
-     "first_seen": "2026-09-25T14:57:54.570603+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
