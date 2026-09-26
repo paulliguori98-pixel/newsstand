@@ -4089,7 +4089,7 @@
   "title": "Hunter Brown Bird-Dog Hunting Jacket",
   "url": "https://www.buckmason.com/products/hunter-brown-bird-dog-hunting-jacket",
   "source": "Buck Mason",
-  "image": "https://cdn.shopify.com/s/files/1/0123/5065/2473/files/Bird-DogHuntingJacketHunterBrown.jpg?v=1790208263",
+  "image": "https://cdn.shopify.com/s/files/1/0123/5065/2473/files/Bird-DogHuntingJacketHunterBrown2.jpg?v=1790208263",
   "price": "$398",
   "published": "2026-07-16T18:32:37+00:00",
   "first_seen": "2026-09-24T21:48:07.674437+00:00"
@@ -4111,5 +4111,23 @@
   "price": "$150",
   "published": null,
   "first_seen": "2026-09-25T14:57:54.570603+00:00"
+ },
+ "ec682276c87ca46b": {
+  "title": "Dark Navy California Cashmere Cable Crew",
+  "url": "https://www.buckmason.com/products/dark-navy-california-cashmere-cable-crew",
+  "source": "Buck Mason",
+  "image": "https://cdn.shopify.com/s/files/1/0123/5065/2473/files/BW16614.998_CALIFORNIACASHMERECABLECREW_DARKNAVY_59324_3_af955ac8-e024-422d-b5ce-92372f63ab3f.jpg?v=1790377211",
+  "price": "$328",
+  "published": "2026-09-25T23:02:32+00:00",
+  "first_seen": "2026-09-26T00:50:57.967982+00:00"
+ },
+ "05346bc8157ee179": {
+  "title": "Natural California Cashmere Cable Crew",
+  "url": "https://www.buckmason.com/products/natural-california-cashmere-cable-crew-1",
+  "source": "Buck Mason",
+  "image": "https://cdn.shopify.com/s/files/1/0123/5065/2473/files/BW16614.998_CALIFORNIACASHMERECABLECREW_NATURAL_61858.jpg?v=1790377181",
+  "price": "$328",
+  "published": "2026-07-16T21:35:40+00:00",
+  "first_seen": "2026-09-26T00:50:57.967982+00:00"
  }
 }
