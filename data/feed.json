@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-26T17:46:37.878112+00:00",
+ "generated_at": "2026-09-26T20:35:58.950999+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,13 +10,13 @@
    "more": 0,
    "items": [
     {
-     "title": "Slight Chance Rain Showers",
-     "phrase": "Rain is likely between 1pm and 6am.",
-     "detail": "It reaches 67\u00b0 today and falls to 54\u00b0 overnight. The sun is up from 6:47 until 6:46.",
+     "title": "Chance Light Rain",
+     "phrase": "Rain is near certain between 4pm and 9am.",
+     "detail": "It reaches 69\u00b0 today and falls to 54\u00b0 overnight. The sun is up from 6:47 until 6:46.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 65,
-     "high": 67,
+     "temp": 67,
+     "high": 69,
      "low": 54,
      "sunrise": "6:47",
      "sunset": "6:46",
@@ -69,22 +69,24 @@
    "more": 0,
    "items": [
     {
-     "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
-     "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "summary": "The US president says Tehran had only put forward the proposal because it is losing the war.",
-     "published": "2026-09-26T16:58:39+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/adf9/live/6f8e27d0-b9c1-11f1-9190-07b6ee147cf1.png",
+     "title": "Trump calls Iranian plan to reopen Strait of Hormuz not 'acceptable'",
+     "url": "https://www.npr.org/2026/09/26/nx-s1-5981990/trump-rejects-iranian-deal-strait-of-hormuz",
+     "source": "NPR",
+     "summary": "President Trump said he was rejecting an Iranian plan to reopen the Strait of Hormuz. The Iranian proposal is similar to a memorandum of understanding agreed upon by the U.S. and \u2026",
+     "published": "2026-09-26T20:08:28+00:00",
+     "image": null,
      "kind": "article",
-     "id": "3808196cf27c416a",
-     "first_seen": "2026-09-26T00:50:57.967982+00:00",
+     "id": "0efa634cfa7dade8",
+     "first_seen": "2026-09-26T20:35:58.950999+00:00",
      "is_new": true,
-     "corroboration": 2,
+     "corroboration": 4,
      "also_in": [
+      "Axios",
+      "BBC",
       "New York Times"
      ],
      "boosted": true,
-     "score": 5
+     "score": 7
     },
     {
      "title": "U.S., China reach $30 billion tariff deal after Trump-Xi summit",
@@ -159,6 +161,18 @@
      "is_new": true
     },
     {
+     "title": "I Built a Virtual Pet Every Hacker Needs | TamaFi",
+     "url": "https://www.hackster.io/CiferTech/i-built-a-virtual-pet-every-hacker-needs-tamafi-fd0b19",
+     "source": "Hackster",
+     "summary": "TamaFi is an open-source, WiFi-enabled virtual pet project built with an ESP32-s3",
+     "published": "2026-09-26T15:20:12+00:00",
+     "image": "https://hackster.imgix.net/uploads/attachments/2005515/_W5Lbk6TjqN.blob",
+     "kind": "article",
+     "id": "e2c25ad59bd1a574",
+     "first_seen": "2026-09-26T20:35:58.950999+00:00",
+     "is_new": true
+    },
+    {
      "title": "Driving E-Paper Displays with Rust on the XIAO ESP32-C3",
      "url": "https://www.hackster.io/melastmohican/driving-e-paper-displays-with-rust-on-the-xiao-esp32-c3-7c6ecb",
      "source": "Hackster",
@@ -167,18 +181,6 @@
      "image": "https://hackster.imgix.net/uploads/attachments/2005456/_Y75C6EeciI.blob",
      "kind": "article",
      "id": "2f356284fc4eec7f",
-     "first_seen": "2026-09-26T14:02:17.812081+00:00",
-     "is_new": true
-    },
-    {
-     "title": "Hands Free, Voice-Activated Videoconference Over HDMI TV",
-     "url": "https://www.hackster.io/ekierklo/hands-free-voice-activated-videoconference-over-hdmi-tv-51f014",
-     "source": "Hackster",
-     "summary": "Using a Raspberry Pi foundation and an HDMI TV connection along with a plug and play webcam a videoconferencing system is enabled.",
-     "published": "2026-09-25T16:17:31+00:00",
-     "image": "https://hackster.imgix.net/uploads/attachments/2005404/_kgCFNpqWh4.blob",
-     "kind": "article",
-     "id": "be9ba1f84229d8d6",
      "first_seen": "2026-09-26T14:02:17.812081+00:00",
      "is_new": true
     },
