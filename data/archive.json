@@ -4089,7 +4089,7 @@
   "title": "Hunter Brown Bird-Dog Hunting Jacket",
   "url": "https://www.buckmason.com/products/hunter-brown-bird-dog-hunting-jacket",
   "source": "Buck Mason",
-  "image": "https://cdn.shopify.com/s/files/1/0123/5065/2473/files/Bird-DogHuntingJacketHunterBrown2.jpg?v=1790208263",
+  "image": "https://cdn.shopify.com/s/files/1/0123/5065/2473/files/BM17304.1528_BIRD-DOGHUNTINGJACKETHUNTERBROWN_1.jpg?v=1790707883",
   "price": "$398",
   "published": "2026-07-16T18:32:37+00:00",
   "first_seen": "2026-09-24T21:48:07.674437+00:00"
@@ -4399,5 +4399,50 @@
   "price": "$60",
   "published": "2026-09-29T05:09:25-04:00",
   "first_seen": "2026-09-29T16:18:51.154675+00:00"
+ },
+ "d2b6a2dd4a6d69f0": {
+  "title": "Brighton Base Layer - New York",
+  "url": "https://www.tracksmith.com/products/m-new-york-brighton-base-layer?sku=6829528678487:charcoal-vintage-violet__S",
+  "source": "Tracksmith",
+  "image": "https://cdn.shopify.com/s/files/1/1594/4353/files/NewYork26-Mens-Brighton-Base-Layer-On-Model.png?v=1787853219&width=800&height=800&crop=center",
+  "price": "$110",
+  "published": null,
+  "first_seen": "2026-09-29T20:54:12.131084+00:00"
+ },
+ "902dc94467d60f50": {
+  "title": "New York Tee",
+  "url": "https://www.tracksmith.com/products/m-new-york-tee?sku=MT213NYC2602BLKMAG",
+  "source": "Tracksmith",
+  "image": "https://cdn-image.tracksmith.com/1790374564-description-panel-1-4.png?auto=format,compress&crop=faces&dpr=2&fit=crop&h=560&w=420",
+  "price": "$80",
+  "published": null,
+  "first_seen": "2026-09-29T20:54:12.131084+00:00"
+ },
+ "ec9aebe71f717319": {
+  "title": "New York Reversible Singlet",
+  "url": "https://www.tracksmith.com/products/m-new-york-reversible-singlet?sku=MT2253NYC2601MAGBLKVVT",
+  "source": "Tracksmith",
+  "image": "https://cdn-image.tracksmith.com/1790374564-description-panel-1-1.png?auto=format,compress&crop=faces&dpr=2&fit=crop&h=560&w=420",
+  "price": "$90",
+  "published": null,
+  "first_seen": "2026-09-29T20:54:12.131084+00:00"
+ },
+ "1d34e8f7215df5dc": {
+  "title": "New York Long Sleeve",
+  "url": "https://www.tracksmith.com/products/m-new-york-long-sleeve?sku=MT2277NYC2601MAGBLKVVT",
+  "source": "Tracksmith",
+  "image": "https://cdn-image.tracksmith.com/1790374564-description-panel-1-3.png?auto=format,compress&crop=faces&dpr=2&fit=crop&h=560&w=420",
+  "price": "$90",
+  "published": null,
+  "first_seen": "2026-09-29T20:54:12.131084+00:00"
+ },
+ "02ef77edd5651eec": {
+  "title": "Men's Tracksmith Eliot Ryder",
+  "url": "https://www.tracksmith.com/products/m-tracksmith-eliot-ryder?sku=7673226330199:navy-ivory__7",
+  "source": "Tracksmith",
+  "image": "https://cdn-image.tracksmith.com/1782945054-plp-rollover-image-1.jpg?auto=format,compress&crop=faces&dpr=2&fit=crop&h=560&w=420",
+  "price": "$220",
+  "published": null,
+  "first_seen": "2026-09-29T20:54:12.131084+00:00"
  }
 }

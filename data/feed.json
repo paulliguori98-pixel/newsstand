@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-29T16:18:51.154675+00:00",
+ "generated_at": "2026-09-29T20:54:12.131084+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,14 +10,14 @@
    "more": 0,
    "items": [
     {
-     "title": "Mostly Cloudy",
-     "phrase": "Mostly Cloudy all day.",
-     "detail": "It reaches 66\u00b0 today and falls to 48\u00b0 overnight. The sun is up from 6:51 until 6:40.",
+     "title": "Patchy Drizzle",
+     "phrase": "Patchy Drizzle all day.",
+     "detail": "It reaches 64\u00b0 today and falls to 50\u00b0 overnight. The sun is up from 6:51 until 6:40.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
      "temp": 63,
-     "high": 66,
-     "low": 48,
+     "high": 64,
+     "low": 50,
      "sunrise": "6:51",
      "sunset": "6:40",
      "id": "bb806d72c86dcec1",
@@ -69,6 +69,22 @@
    "more": 0,
    "items": [
     {
+     "title": "OpenAI Ignored Employees\u2019 Warnings About Safely Testing A.I. Models",
+     "url": "https://www.nytimes.com/2026/09/29/technology/openai-warnings-security.html",
+     "source": "New York Times",
+     "summary": "Employees and security researchers said that they had cautioned the company on safely testing its A.I. models and strengthening its corporate infrastructure, but that OpenAI did n\u2026",
+     "published": "2026-09-29T19:34:42+00:00",
+     "image": "https://static01.nyt.com/images/2026/09/29/multimedia/29biz-openai-security-sam-promo-hpcz/29biz-openai-security-sam-promo-hpcz-mediumSquareAt3X.jpg",
+     "kind": "article",
+     "id": "593165f424f85208",
+     "first_seen": "2026-09-29T20:54:12.131084+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
      "title": "French students and police clash as school blockades turn violent",
      "url": "https://www.theguardian.com/world/2026/sep/29/french-students-police-clash-school-blockades-violent",
      "source": "Guardian",
@@ -115,22 +131,6 @@
      "also_in": [],
      "boosted": true,
      "score": 4
-    },
-    {
-     "title": "French hard-right leader accuses opponents of 'total war' after claims of antisemitism",
-     "url": "https://www.bbc.co.uk/news/articles/cmn45k85gj34o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "summary": "National Rally President Jordan Bardella says he will sue for libel over comments he is accused of making as a young activist.",
-     "published": "2026-09-29T12:20:02+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b1a/live/145292d0-bbfa-11f1-90b9-913e4354ed35.jpg",
-     "kind": "article",
-     "id": "c41b0e31389dba79",
-     "first_seen": "2026-09-29T16:18:51.154675+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
     }
    ]
   },
@@ -143,39 +143,39 @@
    "more": 0,
    "items": [
     {
-     "title": "Electromechanical TV Goes 3D with This Light-field Display",
-     "url": "https://hackaday.com/2026/09/29/electromechanical-tv-goes-3d-with-this-light-field-display/",
+     "title": "Designing a Fully 3D-Printed Mechanical Calculator",
+     "url": "https://hackaday.com/2026/09/29/designing-a-fully-3d-printed-mechanical-calculator/",
      "source": "Hackaday",
-     "summary": "A mechanical TV \u2014 the kind that makes an image with a Nipkow disk and a single lamp with some help from persistence of vision \u2014 is easy enough to \u2026read more",
-     "published": "2026-09-29T15:30:47+00:00",
-     "image": "https://hackaday.com/wp-content/uploads/2026/09/3D-mechanical-tv-feat.jpg",
+     "summary": "Even if almost tragically impractical in a world where digital calculators are cheap as chips, mechanical calculators and their big mechanical computer brethren remain an absolute\u2026",
+     "published": "2026-09-29T20:00:01+00:00",
+     "image": "https://hackaday.com/wp-content/uploads/2026/09/mechanical_calculator_printed_3d_all_workshop_youtube.jpg",
      "kind": "article",
-     "id": "f9a02826f7bed04b",
-     "first_seen": "2026-09-29T16:18:51.154675+00:00",
+     "id": "6141be0112c724e6",
+     "first_seen": "2026-09-29T20:54:12.131084+00:00",
      "is_new": true
     },
     {
-     "title": "DIY Soil Moisture Analog Gauge Using MakerBuddy IoT Kit",
-     "url": "https://www.hackster.io/mafzal/diy-soil-moisture-analog-gauge-using-makerbuddy-iot-kit-abfd46",
+     "title": "Driving the reTerminal E1002 7.3\" Color E-Paper with Arduino",
+     "url": "https://www.hackster.io/melastmohican/driving-the-reterminal-e1002-7-3-color-e-paper-with-arduino-21070f",
      "source": "Hackster",
-     "summary": "In this project, we built a simple Soil Moisture Analog Gauge using the MakerBuddy IoT Kit, a soil moisture sensor, and an SG90 servo motor.",
-     "published": "2026-09-29T10:59:57+00:00",
-     "image": "https://hackster.imgix.net/uploads/attachments/2006265/_vuxseyFMz2.blob",
+     "summary": "Getting the 7.3\" Spectra 6 color e-paper working reliably on Seeed's reTerminal E1002 using GxEPD2, Good Display, and Waveshare drivers.",
+     "published": "2026-09-29T15:55:07+00:00",
+     "image": "https://hackster.imgix.net/uploads/attachments/2006357/_qE2bzWZRZF.blob",
      "kind": "article",
-     "id": "c08600a9b4ed9000",
-     "first_seen": "2026-09-29T16:18:51.154675+00:00",
+     "id": "3104afd0caf6c8ec",
+     "first_seen": "2026-09-29T20:54:12.131084+00:00",
      "is_new": true
     },
     {
-     "title": "Arduino Parking Sensor: Beeps Faster as You Get Closer",
-     "url": "https://www.hackster.io/compoden/arduino-parking-sensor-beeps-faster-as-you-get-closer-3ad1a0",
+     "title": "TrackPulse: Multi-Node LoRa Radar Tracker with Heading",
+     "url": "https://www.hackster.io/maxpower463260/trackpulse-multi-node-lora-radar-tracker-with-heading-0321e7",
      "source": "Hackster",
-     "summary": "A beginner-friendly distance alarm: an ultrasonic sensor and passive buzzer that beep faster as an object gets closer.",
-     "published": "2026-09-29T09:35:17+00:00",
-     "image": "https://hackster.imgix.net/uploads/attachments/2006240/_tGYSneBQJs.blob",
+     "summary": "Flash the same every unit and they find each other. Off-grid LoRa tracker with a live radar display, compass heading, No SIM, no internet",
+     "published": "2026-09-29T12:04:43+00:00",
+     "image": "https://hackster.imgix.net/uploads/attachments/2006296/_aMeDO8uM2d.blob",
      "kind": "article",
-     "id": "cfe5c4cf4112e6ce",
-     "first_seen": "2026-09-29T16:18:51.154675+00:00",
+     "id": "2819e4e57a715f5b",
+     "first_seen": "2026-09-29T20:54:12.131084+00:00",
      "is_new": true
     },
     {
@@ -210,8 +210,21 @@
    "kind": "goods",
    "lead_image": false,
    "row_detail": false,
-   "more": 6,
+   "more": 11,
    "items": [
+    {
+     "title": "Brighton Base Layer - New York",
+     "url": "https://www.tracksmith.com/products/m-new-york-brighton-base-layer?sku=6829528678487:charcoal-vintage-violet__S",
+     "source": "Tracksmith",
+     "summary": "",
+     "published": null,
+     "image": "https://cdn.shopify.com/s/files/1/1594/4353/files/NewYork26-Mens-Brighton-Base-Layer-On-Model.png?v=1787853219&width=800&height=800&crop=center",
+     "price": "$110",
+     "kind": "product",
+     "id": "d2b6a2dd4a6d69f0",
+     "first_seen": "2026-09-29T20:54:12.131084+00:00",
+     "is_new": true
+    },
     {
      "title": "Black Waxed Coverall Jacket",
      "url": "https://us.drakes.com/products/black-waxed-coverall-jacket",
@@ -226,6 +239,19 @@
      "is_new": true
     },
     {
+     "title": "New York Tee",
+     "url": "https://www.tracksmith.com/products/m-new-york-tee?sku=MT213NYC2602BLKMAG",
+     "source": "Tracksmith",
+     "summary": "",
+     "published": null,
+     "image": "https://cdn-image.tracksmith.com/1790374564-description-panel-1-4.png?auto=format,compress&crop=faces&dpr=2&fit=crop&h=560&w=420",
+     "price": "$80",
+     "kind": "product",
+     "id": "902dc94467d60f50",
+     "first_seen": "2026-09-29T20:54:12.131084+00:00",
+     "is_new": true
+    },
+    {
      "title": "Black Heavyweight Suede Five-Pocket Chore Jacket",
      "url": "https://us.drakes.com/products/black-heavyweight-suede-five-pocket-chore-jacket",
      "source": "Drake's",
@@ -235,32 +261,6 @@
      "price": "$1,995",
      "kind": "product",
      "id": "f2f97c835dd830ea",
-     "first_seen": "2026-09-29T16:18:51.154675+00:00",
-     "is_new": true
-    },
-    {
-     "title": "Navy Wool Casual Socks",
-     "url": "https://us.drakes.com/products/navy-wool-casual-socks",
-     "source": "Drake's",
-     "summary": "Socks",
-     "published": "2026-09-29T05:09:33-04:00",
-     "image": "https://cdn.shopify.com/s/files/1/0649/6603/3653/files/DR1AJ226959-08250-1.jpg?v=1790672256",
-     "price": "$60",
-     "kind": "product",
-     "id": "5d641b84170e49c0",
-     "first_seen": "2026-09-29T16:18:51.154675+00:00",
-     "is_new": true
-    },
-    {
-     "title": "Grey Melange Wool Casual Socks",
-     "url": "https://us.drakes.com/products/grey-melange-wool-casual-socks",
-     "source": "Drake's",
-     "summary": "Socks",
-     "published": "2026-09-29T05:09:32-04:00",
-     "image": "https://cdn.shopify.com/s/files/1/0649/6603/3653/files/DR1AJ226959-07600-1.jpg?v=1790672019",
-     "price": "$60",
-     "kind": "product",
-     "id": "2327f111461b74ec",
      "first_seen": "2026-09-29T16:18:51.154675+00:00",
      "is_new": true
     }
