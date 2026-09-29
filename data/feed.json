@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-28T22:57:23.419139+00:00",
+ "generated_at": "2026-09-29T02:30:21.660748+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,12 +10,12 @@
    "more": 0,
    "items": [
     {
-     "title": "Rain Showers Likely",
-     "phrase": "An even chance of rain between 6pm and 7pm.",
+     "title": "Patchy Drizzle",
+     "phrase": "Patchy Drizzle all day.",
      "detail": "It reaches 67\u00b0 today and falls to 53\u00b0 overnight. The sun is up from 6:49 until 6:42.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 60,
+     "temp": 57,
      "high": 67,
      "low": 53,
      "sunrise": "6:49",
@@ -69,15 +69,15 @@
    "more": 0,
    "items": [
     {
-     "title": "Australia news live: Chalmers says taxes lower than under Howard as rate decision due; deaths of NSW men under investigation",
-     "url": "https://www.theguardian.com/australia-news/live/2026/sep/29/treasurer-jim-chalmers-reserve-bank-cash-rate-decision-coalition-one-nation-ntwnfb",
-     "source": "Guardian",
-     "summary": "Follow the day\u2019s news liveGet our breaking news email, free app or daily news podcastPolice investigating suspicious deaths of two men in northern NSWNew South Wales police say th\u2026",
-     "published": "2026-09-28T22:47:07+00:00",
-     "image": "https://i.guim.co.uk/img/media/515d1119e357fd1f5e6b9348d6501616a51f1a16/250_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=fbd21ed948b09f2445224c1a0be36e34",
+     "title": "Couple Accused of Killing Their Son-in-Law in Bay Area Park",
+     "url": "https://www.nytimes.com/2026/09/28/us/jonathan-mckinsey-new-york-times-shooting-california.html",
+     "source": "New York Times",
+     "summary": "Jonathan McKinsey, an engineer who worked in the games department for The New York Times, was fatally shot Saturday in a San Francisco suburb. The police have accused his parents-\u2026",
+     "published": "2026-09-29T01:36:30+00:00",
+     "image": "https://static01.nyt.com/images/2026/09/28/us/28nat-dublin-shooting/28nat-dublin-shooting-mediumSquareAt3X.jpg",
      "kind": "article",
-     "id": "fd61e3e42c6a0bb3",
-     "first_seen": "2026-09-28T22:57:23.419139+00:00",
+     "id": "9c39a8a30ea277e3",
+     "first_seen": "2026-09-29T02:30:21.660748+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
@@ -143,15 +143,27 @@
    "more": 0,
    "items": [
     {
-     "title": "Synthetic Aperture Radar Drone Gets Interferometric Imaging",
-     "url": "https://hackaday.com/2026/09/28/synthetic-aperture-radar-drone-gets-interferometric-imaging/",
+     "title": "This PICO-8 Handheld is No Fantasy",
+     "url": "https://hackaday.com/2026/09/28/this-pico-8-handheld-is-no-fantasy/",
      "source": "Hackaday",
-     "summary": "It\u2019s been more than a year since [Henrik Forst\u00e9n] built the first iteration of his synthetic-aperture radar (SAR) imaging drone, and he\u2019s certainly been productive in the meantime\u2026",
-     "published": "2026-09-28T20:00:17+00:00",
-     "image": "https://hackaday.com/wp-content/uploads/2026/09/sar_drone.png",
+     "summary": "The PICO-8 is what is known as a \u2018fantasy console\u2019\u2013 you can program it, and there are oodles of games, but it\u2019s not actually the 8-bit console it pretends to \u2026read more",
+     "published": "2026-09-28T23:00:54+00:00",
+     "image": "https://hackaday.com/wp-content/uploads/2026/09/PICO-8-handheld-feat.jpg",
      "kind": "article",
-     "id": "c8fa0e879cacf66d",
-     "first_seen": "2026-09-28T22:57:23.419139+00:00",
+     "id": "e1d5bf44f4f27f8d",
+     "first_seen": "2026-09-29T02:30:21.660748+00:00",
+     "is_new": true
+    },
+    {
+     "title": "KryonOS \u2014 A JavaScript OS for ESP32",
+     "url": "https://www.hackster.io/Haris16-code/kryonos-a-javascript-os-for-esp32-239085",
+     "source": "Hackster",
+     "summary": "An open-source GUI JavaScript OS for ESP32 with apps, graphics, hardware APIs, and an expanding ecosystem.",
+     "published": "2026-09-28T18:38:43+00:00",
+     "image": "https://hackster.imgix.net/uploads/attachments/2006096/_ZKVlWdEIgV.blob",
+     "kind": "article",
+     "id": "1ccd15c3f84d6efe",
+     "first_seen": "2026-09-29T02:30:21.660748+00:00",
      "is_new": true
     },
     {
@@ -163,18 +175,6 @@
      "image": "https://hackster.imgix.net/uploads/attachments/2006063/_3h68R9LkGE.blob",
      "kind": "article",
      "id": "de628f614af5d837",
-     "first_seen": "2026-09-28T22:57:23.419139+00:00",
-     "is_new": true
-    },
-    {
-     "title": "FreeRTOS Room Monitor using STM32 Blue Pill",
-     "url": "https://www.hackster.io/shanicereihtanque/freertos-room-monitor-using-stm32-blue-pill-18e7fd",
-     "source": "Hackster",
-     "summary": "A FreeRTOS-based STM32 room monitor for temperature, humidity, light, motion, OLED navigation, and alarm control.",
-     "published": "2026-09-28T11:51:49+00:00",
-     "image": "https://hackster.imgix.net/uploads/attachments/2005980/_Iu6lNgcmmO.blob",
-     "kind": "article",
-     "id": "9e486b045b793872",
      "first_seen": "2026-09-28T22:57:23.419139+00:00",
      "is_new": true
     },
@@ -210,59 +210,8 @@
    "kind": "goods",
    "lead_image": false,
    "row_detail": false,
-   "more": 14,
-   "items": [
-    {
-     "title": "Ivory Loft-Lite Merino Guernsey Roll Neck",
-     "url": "https://www.buckmason.com/products/ivory-loft-lite-merino-guernsey-roll-neck",
-     "source": "Buck Mason",
-     "image": "https://cdn.shopify.com/s/files/1/0123/5065/2473/files/BM16574.763_LOFT-LITE_MERINO_GUERNSEY_ROLL_NECK_IVORY_80492_1.jpg?v=1790403877",
-     "price": "$228",
-     "published": "2026-09-28T19:30:13+00:00",
-     "kind": "product",
-     "id": "47c4f153c22db163",
-     "first_seen": "2026-09-28T22:57:23.419139+00:00",
-     "is_new": true
-    },
-    {
-     "title": "Burgundy Cotton Casual Socks",
-     "url": "https://us.drakes.com/products/burgundy-cotton-casual-socks",
-     "source": "Drake's",
-     "summary": "Socks",
-     "published": "2026-09-28T11:53:21-04:00",
-     "image": "https://cdn.shopify.com/s/files/1/0649/6603/3653/files/DR1AJ226914-12700-1.jpg?v=1790609050",
-     "price": "$40",
-     "kind": "product",
-     "id": "24041fc609eaaea0",
-     "first_seen": "2026-09-28T17:56:26.445726+00:00",
-     "is_new": true
-    },
-    {
-     "title": "Van Cortlandt Jacket",
-     "url": "https://www.tracksmith.com/products/m-van-cortlandt-jacket?sku=MO406701N",
-     "source": "Tracksmith",
-     "summary": "",
-     "published": null,
-     "image": "https://cdn-image.tracksmith.com/1788375915-plp-rollover-image-3.jpg?auto=format,compress&crop=faces&dpr=2&fit=crop&h=560&w=420",
-     "price": "$150",
-     "kind": "product",
-     "id": "f81d3d77904ce2fe",
-     "first_seen": "2026-09-28T00:16:31.903909+00:00",
-     "is_new": true
-    },
-    {
-     "title": "Charcoal Loft-Lite Merino Guernsey Roll Neck",
-     "url": "https://www.buckmason.com/products/charcoal-loft-lite-merino-guernsey-roll-neck",
-     "source": "Buck Mason",
-     "image": "https://cdn.shopify.com/s/files/1/0123/5065/2473/files/BM16574.763_LOFT-LITE_MERINO_GUERNSEY_ROLL_NECK_CHARCOAL_80205_1.jpg?v=1790403898",
-     "price": "$228",
-     "published": "2026-09-28T19:30:12+00:00",
-     "kind": "product",
-     "id": "7b925437d46aebb0",
-     "first_seen": "2026-09-28T22:57:23.419139+00:00",
-     "is_new": true
-    }
-   ]
+   "more": 0,
+   "items": []
   },
   {
    "id": "dispatches",
