@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-29T20:54:12.131084+00:00",
+ "generated_at": "2026-09-30T00:02:38.788998+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,13 +10,13 @@
    "more": 0,
    "items": [
     {
-     "title": "Patchy Drizzle",
-     "phrase": "Patchy Drizzle all day.",
-     "detail": "It reaches 64\u00b0 today and falls to 50\u00b0 overnight. The sun is up from 6:51 until 6:40.",
+     "title": "Mostly Cloudy",
+     "phrase": "Mostly Cloudy all day.",
+     "detail": "It reaches 72\u00b0 today and falls to 50\u00b0 overnight. The sun is up from 6:51 until 6:40.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 63,
-     "high": 64,
+     "temp": 61,
+     "high": 72,
      "low": 50,
      "sunrise": "6:51",
      "sunset": "6:40",
@@ -73,27 +73,11 @@
      "url": "https://www.nytimes.com/2026/09/29/technology/openai-warnings-security.html",
      "source": "New York Times",
      "summary": "Employees and security researchers said that they had cautioned the company on safely testing its A.I. models and strengthening its corporate infrastructure, but that OpenAI did n\u2026",
-     "published": "2026-09-29T19:34:42+00:00",
+     "published": "2026-09-29T22:53:40+00:00",
      "image": "https://static01.nyt.com/images/2026/09/29/multimedia/29biz-openai-security-sam-promo-hpcz/29biz-openai-security-sam-promo-hpcz-mediumSquareAt3X.jpg",
      "kind": "article",
      "id": "593165f424f85208",
      "first_seen": "2026-09-29T20:54:12.131084+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "French students and police clash as school blockades turn violent",
-     "url": "https://www.theguardian.com/world/2026/sep/29/french-students-police-clash-school-blockades-violent",
-     "source": "Guardian",
-     "summary": "More than 200 arrested while teachers join protest over class sizes, exhausting timetables and staff shortagesFrench teenagers blockading their schools in protest at class sizes, \u2026",
-     "published": "2026-09-29T15:19:30+00:00",
-     "image": "https://i.guim.co.uk/img/media/52b6ae9649674fca94f7aa1b482ffd6b9fd5ef6b/266_0_6642_5317/master/6642.jpg?width=140&quality=85&auto=format&fit=max&s=a947bbb639dc505682e6149468bfd8c6",
-     "kind": "article",
-     "id": "dc2b8a22652c1abf",
-     "first_seen": "2026-09-29T16:18:51.154675+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
@@ -131,6 +115,22 @@
      "also_in": [],
      "boosted": true,
      "score": 4
+    },
+    {
+     "title": "French hard-right leader accuses opponents of 'total war' after claims of antisemitism",
+     "url": "https://www.bbc.co.uk/news/articles/cmn45k85gj34o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "summary": "National Rally President Jordan Bardella says he will sue for libel over comments he is accused of making as a young activist.",
+     "published": "2026-09-29T12:20:02+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b1a/live/145292d0-bbfa-11f1-90b9-913e4354ed35.jpg",
+     "kind": "article",
+     "id": "c41b0e31389dba79",
+     "first_seen": "2026-09-29T16:18:51.154675+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
     }
    ]
   },
@@ -143,15 +143,27 @@
    "more": 0,
    "items": [
     {
-     "title": "Designing a Fully 3D-Printed Mechanical Calculator",
-     "url": "https://hackaday.com/2026/09/29/designing-a-fully-3d-printed-mechanical-calculator/",
+     "title": "The Deep Magic of 3D Graphics Perspective",
+     "url": "https://hackaday.com/2026/09/29/the-deep-magic-of-3d-graphics-perspective/",
      "source": "Hackaday",
-     "summary": "Even if almost tragically impractical in a world where digital calculators are cheap as chips, mechanical calculators and their big mechanical computer brethren remain an absolute\u2026",
-     "published": "2026-09-29T20:00:01+00:00",
-     "image": "https://hackaday.com/wp-content/uploads/2026/09/mechanical_calculator_printed_3d_all_workshop_youtube.jpg",
+     "summary": "Many of us of a certain age will have had their first true, good 3D video game experience with Super Mario 64. Unlike previous 3D games, the camera was an \u2026read more",
+     "published": "2026-09-29T23:00:46+00:00",
+     "image": "https://hackaday.com/wp-content/uploads/2026/09/3d-perspective-main.png",
      "kind": "article",
-     "id": "6141be0112c724e6",
-     "first_seen": "2026-09-29T20:54:12.131084+00:00",
+     "id": "3cec7a208107cce6",
+     "first_seen": "2026-09-30T00:02:38.788998+00:00",
+     "is_new": true
+    },
+    {
+     "title": "Keiko",
+     "url": "https://www.hackster.io/taha-rawjani/keiko-db4e83",
+     "source": "Hackster",
+     "summary": "Tracking whales in cape cod using underwater vocalizations!",
+     "published": "2026-09-29T19:14:20+00:00",
+     "image": "https://hackster.imgix.net/uploads/attachments/2006376/_PJXnQJxwap.blob",
+     "kind": "article",
+     "id": "75a760c0af20fdaf",
+     "first_seen": "2026-09-30T00:02:38.788998+00:00",
      "is_new": true
     },
     {
@@ -163,18 +175,6 @@
      "image": "https://hackster.imgix.net/uploads/attachments/2006357/_qE2bzWZRZF.blob",
      "kind": "article",
      "id": "3104afd0caf6c8ec",
-     "first_seen": "2026-09-29T20:54:12.131084+00:00",
-     "is_new": true
-    },
-    {
-     "title": "TrackPulse: Multi-Node LoRa Radar Tracker with Heading",
-     "url": "https://www.hackster.io/maxpower463260/trackpulse-multi-node-lora-radar-tracker-with-heading-0321e7",
-     "source": "Hackster",
-     "summary": "Flash the same every unit and they find each other. Off-grid LoRa tracker with a live radar display, compass heading, No SIM, no internet",
-     "published": "2026-09-29T12:04:43+00:00",
-     "image": "https://hackster.imgix.net/uploads/attachments/2006296/_aMeDO8uM2d.blob",
-     "kind": "article",
-     "id": "2819e4e57a715f5b",
      "first_seen": "2026-09-29T20:54:12.131084+00:00",
      "is_new": true
     },
@@ -210,61 +210,8 @@
    "kind": "goods",
    "lead_image": false,
    "row_detail": false,
-   "more": 11,
-   "items": [
-    {
-     "title": "Brighton Base Layer - New York",
-     "url": "https://www.tracksmith.com/products/m-new-york-brighton-base-layer?sku=6829528678487:charcoal-vintage-violet__S",
-     "source": "Tracksmith",
-     "summary": "",
-     "published": null,
-     "image": "https://cdn.shopify.com/s/files/1/1594/4353/files/NewYork26-Mens-Brighton-Base-Layer-On-Model.png?v=1787853219&width=800&height=800&crop=center",
-     "price": "$110",
-     "kind": "product",
-     "id": "d2b6a2dd4a6d69f0",
-     "first_seen": "2026-09-29T20:54:12.131084+00:00",
-     "is_new": true
-    },
-    {
-     "title": "Black Waxed Coverall Jacket",
-     "url": "https://us.drakes.com/products/black-waxed-coverall-jacket",
-     "source": "Drake's",
-     "summary": "Jackets",
-     "published": "2026-09-29T10:21:23-04:00",
-     "image": "https://cdn.shopify.com/s/files/1/0649/6603/3653/files/DR2A1O26888-01100-1.jpg?v=1790689781",
-     "price": "$1,175",
-     "kind": "product",
-     "id": "7f573386df3da2e1",
-     "first_seen": "2026-09-29T16:18:51.154675+00:00",
-     "is_new": true
-    },
-    {
-     "title": "New York Tee",
-     "url": "https://www.tracksmith.com/products/m-new-york-tee?sku=MT213NYC2602BLKMAG",
-     "source": "Tracksmith",
-     "summary": "",
-     "published": null,
-     "image": "https://cdn-image.tracksmith.com/1790374564-description-panel-1-4.png?auto=format,compress&crop=faces&dpr=2&fit=crop&h=560&w=420",
-     "price": "$80",
-     "kind": "product",
-     "id": "902dc94467d60f50",
-     "first_seen": "2026-09-29T20:54:12.131084+00:00",
-     "is_new": true
-    },
-    {
-     "title": "Black Heavyweight Suede Five-Pocket Chore Jacket",
-     "url": "https://us.drakes.com/products/black-heavyweight-suede-five-pocket-chore-jacket",
-     "source": "Drake's",
-     "summary": "Chore Jackets",
-     "published": "2026-09-29T06:30:08-04:00",
-     "image": "https://cdn.shopify.com/s/files/1/0649/6603/3653/files/DR2A1B24823-03100-1.jpg?v=1790677012",
-     "price": "$1,995",
-     "kind": "product",
-     "id": "f2f97c835dd830ea",
-     "first_seen": "2026-09-29T16:18:51.154675+00:00",
-     "is_new": true
-    }
-   ]
+   "more": 0,
+   "items": []
   },
   {
    "id": "dispatches",
