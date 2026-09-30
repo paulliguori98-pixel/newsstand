@@ -4561,5 +4561,32 @@
   "price": "$68",
   "published": "2026-09-30T09:18:37-04:00",
   "first_seen": "2026-09-30T16:14:04.934325+00:00"
+ },
+ "bcbfcb356b83ce01": {
+  "title": "Brighton Base Layer - New York",
+  "url": "https://www.tracksmith.com/products/m-new-york-brighton-base-layer?sku=MT217NYC2502N",
+  "source": "Tracksmith",
+  "image": "https://cdn.shopify.com/s/files/1/1594/4353/files/Fall25-Men-New-York-Brighton-Base-Layer.png?v=1759252158&width=800&height=800&crop=center",
+  "price": "$110",
+  "published": null,
+  "first_seen": "2026-09-30T20:50:49.404569+00:00"
+ },
+ "0dfeb85a689120f9": {
+  "title": "Modoc Gun Club Check Woolen Cashmere Carry-On Jacket",
+  "url": "https://www.buckmason.com/products/modoc-gun-club-check-woolen-cashmere-carry-on-jacket",
+  "source": "Buck Mason",
+  "image": "https://cdn.shopify.com/s/files/1/0123/5065/2473/files/BM17042.1695_WOOLENCASHMERECARRY-ONJACKETMODOCGUNCLUBCHECK_1.jpg?v=1790788785",
+  "price": "$498",
+  "published": "2026-09-30T17:49:06+00:00",
+  "first_seen": "2026-09-30T20:50:49.404569+00:00"
+ },
+ "d20aeace8de63b4f": {
+  "title": "Olive Brown Featherweight Terry Waffle Full-Zip",
+  "url": "https://www.buckmason.com/products/olive-brown-featherweight-terry-waffle-full-zip",
+  "source": "Buck Mason",
+  "image": "https://cdn.shopify.com/s/files/1/0123/5065/2473/files/BM15237.1298_FEATHERWEIGHTTERRYWAFFLEFULL-ZIP_OLIVEBROWN_79144_1__1.jpg?v=1790788069",
+  "price": "$158",
+  "published": "2026-09-30T17:19:05+00:00",
+  "first_seen": "2026-09-30T20:50:49.404569+00:00"
  }
 }
