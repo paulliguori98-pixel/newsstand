@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-02T16:04:30.794655+00:00",
+ "generated_at": "2026-10-02T20:47:50.401190+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,12 +10,12 @@
    "more": 0,
    "items": [
     {
-     "title": "Chance Rain Showers",
-     "phrase": "A one-in-three chance of rain between 12pm and 4pm.",
+     "title": "Slight Chance Rain Showers",
+     "phrase": "Slight Chance Rain Showers all day.",
      "detail": "It reaches 74\u00b0 today and falls to 49\u00b0 overnight. The sun is up from 6:54 until 6:35.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 73,
+     "temp": 70,
      "high": 74,
      "low": 49,
      "sunrise": "6:54",
@@ -69,46 +69,30 @@
    "more": 0,
    "items": [
     {
+     "title": "Student Protests Rattle France as Police Clashes Bring Blockades and Tear Gas",
+     "url": "https://www.nytimes.com/2026/10/02/world/europe/france-schools-protests-unrest.html",
+     "source": "New York Times",
+     "summary": "Days of unrest have affected more than 1,000 schools across France as high school students push for better standards.",
+     "published": "2026-10-02T17:39:39+00:00",
+     "image": "https://static01.nyt.com/images/2026/10/02/multimedia/02int-france-schools-04-bqlw/02int-france-schools-04-bqlw-mediumSquareAt3X.jpg",
+     "kind": "article",
+     "id": "7dc6ae083420b992",
+     "first_seen": "2026-10-02T16:04:30.794655+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
      "title": "Intensified Russian strikes are tearing Kyiv apart, warns mayor",
      "url": "https://www.bbc.co.uk/news/articles/c6wyv44y4ywjo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
      "summary": "Vitaliy Klitschko says Ukraine's capital is in a \"very dramatic situation\" as Russia hits critical infrastructure.",
      "published": "2026-10-02T15:26:37+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc2f/live/1f543100-be6d-11f1-b36c-81ad410b221e.png",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b383/live/9bf9c6a0-be8d-11f1-bc2e-018d645d8d21.jpg",
      "kind": "article",
      "id": "a134fd91c55320b4",
-     "first_seen": "2026-10-02T16:04:30.794655+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "Fighting Intensifies in Yemen, Raising Fears Further of All-Out War",
-     "url": "https://www.nytimes.com/2026/10/02/world/middleeast/yemen-houthis-saudi-arabia-sanaa-taiz.html",
-     "source": "New York Times",
-     "summary": "Yemen\u2019s capital, Sanaa, was bombarded overnight, after government forces reported some of the most intense clashes in years around Taiz, the country\u2019s third largest city.",
-     "published": "2026-10-02T14:28:33+00:00",
-     "image": "https://static01.nyt.com/images/2026/10/02/multimedia/02int-yemen-1-bhtj/02int-yemen-1-bhtj-mediumSquareAt3X.jpg",
-     "kind": "article",
-     "id": "ee7de5807229e734",
-     "first_seen": "2026-10-02T16:04:30.794655+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "Student Protests Rattle France as Police Clashes Bring Blockades and Tear Gas",
-     "url": "https://www.nytimes.com/2026/10/02/world/europe/france-schools-protests-unrest.html",
-     "source": "New York Times",
-     "summary": "Days of unrest have affected more than 1,000 schools across France as high school students push for better standards.",
-     "published": "2026-10-02T14:22:42+00:00",
-     "image": "https://static01.nyt.com/images/2026/10/02/multimedia/02int-france-schools-04-bqlw/02int-france-schools-04-bqlw-mediumSquareAt3X.jpg",
-     "kind": "article",
-     "id": "7dc6ae083420b992",
      "first_seen": "2026-10-02T16:04:30.794655+00:00",
      "is_new": true,
      "corroboration": 1,
@@ -131,6 +115,22 @@
      "also_in": [],
      "boosted": true,
      "score": 4
+    },
+    {
+     "title": "Putin warns West that Russia is ready to use every weapon to protect Kaliningrad",
+     "url": "https://www.bbc.co.uk/news/articles/cqg7k7v499jjo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "summary": "The Russian leader insists Moscow is \"not threatening anyone\" and is merely responding to statements by Western leaders.",
+     "published": "2026-10-01T19:38:30+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d348/live/42c7b520-bdc4-11f1-964e-45603b94c961.jpg",
+     "kind": "article",
+     "id": "eede0656ba41ccf9",
+     "first_seen": "2026-10-01T21:32:58.370231+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
     }
    ]
   },
@@ -142,6 +142,18 @@
    "row_detail": true,
    "more": 0,
    "items": [
+    {
+     "title": "Indoor / Outdoor Weather Monitor on W55MH32-ADK",
+     "url": "https://www.hackster.io/melodysit2003/indoor-outdoor-weather-monitor-on-w55mh32-adk-b50a58",
+     "source": "Hackster",
+     "summary": "Desk weather monitor on W55MH32-ADK: AHT20 indoors, Open-Meteo outdoors over Ethernet, rainy UI when Hong Kong is wet.",
+     "published": "2026-10-02T13:44:36+00:00",
+     "image": "https://hackster.imgix.net/uploads/attachments/2007134/_D471th2nZz.blob",
+     "kind": "article",
+     "id": "22cf67df3cbeb42b",
+     "first_seen": "2026-10-02T20:47:50.401190+00:00",
+     "is_new": true
+    },
     {
      "title": "YOLOv11 Detection + Segmentation with Versal VitisAI NPU",
      "url": "https://www.hackster.io/LogicTronix/yolov11-detection-segmentation-with-versal-vitisai-npu-8d94f6",
@@ -167,18 +179,6 @@
      "is_new": true
     },
     {
-     "title": "A Wrist-Worn Step Counter with XIAO nRF54LM20A Sense",
-     "url": "https://www.hackster.io/pradeeplogu0/a-wrist-worn-step-counter-with-xiao-nrf54lm20a-sense-ffd823",
-     "source": "Hackster",
-     "summary": "DIY Portable 3D printed Step Counter with Web Control Dashboard.",
-     "published": "2026-10-02T02:11:46+00:00",
-     "image": "https://hackster.imgix.net/uploads/attachments/2007015/_mxAwOxUro3.blob",
-     "kind": "article",
-     "id": "3c767333ec5e6618",
-     "first_seen": "2026-10-02T16:04:30.794655+00:00",
-     "is_new": true
-    },
-    {
      "title": "CircuitPython Turbo Sushi Conveyor Belt",
      "url": "https://learn.adafruit.com/circuitpython-turbo-sushi-conveyor-belt",
      "source": "Adafruit",
@@ -200,7 +200,7 @@
      "kind": "article",
      "id": "9b7079dbaf9b36dc",
      "first_seen": "2026-09-28T17:56:26.445726+00:00",
-     "is_new": true
+     "is_new": false
     }
    ]
   },
@@ -291,6 +291,22 @@
      "score": 4
     },
     {
+     "title": "It\u2019s Almost Sweater Weather!",
+     "url": "https://www.putthison.com/its-almost-sweater-weather/",
+     "source": "Put This On",
+     "summary": "(Pictured: Handmade Cream Cable-Knit Wool Cardigan \u2013 Sz ~42) Hi everyone, it\u2019s your Shopkeeper Brynna. Are you all excited... The post It\u2019s Almost Sweater Weather! appeared first \u2026",
+     "published": "2026-10-02T18:49:20+00:00",
+     "image": null,
+     "kind": "article",
+     "id": "0db0539436b6f9a9",
+     "first_seen": "2026-10-02T20:47:50.401190+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": false,
+     "score": 1
+    },
+    {
      "title": "The Lobbyist",
      "url": "https://www.acl.news/p/the-lobbyist",
      "source": "A Continuous Lean",
@@ -300,7 +316,7 @@
      "kind": "article",
      "id": "89ef260d8d75e3dc",
      "first_seen": "2026-09-28T17:56:26.445726+00:00",
-     "is_new": true,
+     "is_new": false,
      "corroboration": 1,
      "also_in": [],
      "boosted": false,
@@ -316,22 +332,6 @@
      "kind": "article",
      "id": "96a6888f157e8111",
      "first_seen": "2026-09-27T18:56:33.778275+00:00",
-     "is_new": false,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": false,
-     "score": 1
-    },
-    {
-     "title": "Inside Track: September 20th \u2013 September 26th Edition",
-     "url": "https://www.putthison.com/inside-track-september-20th-september-26th-edition-2/",
-     "source": "Put This On",
-     "summary": "Here are our hand-selected favorites from eBay for this week, plus a heads-up on recommended sales. If you\u2019re a member... The post Inside Track: September 20th \u2013 September 26th Ed\u2026",
-     "published": "2026-09-27T07:25:10+00:00",
-     "image": null,
-     "kind": "article",
-     "id": "9247123672b00b92",
-     "first_seen": "2026-09-27T14:58:23.521132+00:00",
      "is_new": false,
      "corroboration": 1,
      "also_in": [],
