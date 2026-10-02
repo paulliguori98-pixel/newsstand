@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-01T21:32:58.370231+00:00",
+ "generated_at": "2026-10-02T01:04:06.628941+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -11,12 +11,12 @@
    "items": [
     {
      "title": "Mostly Cloudy",
-     "phrase": "An even chance of rain between 9am and 10am.",
-     "detail": "It reaches 72\u00b0 today and falls to 62\u00b0 overnight. The sun is up from 6:53 until 6:37.",
+     "phrase": "An even chance of rain between 9am and 2pm.",
+     "detail": "It reaches 73\u00b0 today and falls to 62\u00b0 overnight. The sun is up from 6:53 until 6:37.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 69,
-     "high": 72,
+     "temp": 66,
+     "high": 73,
      "low": 62,
      "sunrise": "6:53",
      "sunset": "6:37",
@@ -69,15 +69,15 @@
    "more": 0,
    "items": [
     {
-     "title": "Australia news live: eSafety warns online gaming can cause \u2018serious harms\u2019 to children; Atlassian to power solar farm",
-     "url": "https://www.theguardian.com/australia-news/live/2026/oct/02/labor-anthony-albanese-online-gaming-esafety-coalition-angus-taylor-greens-david-shoebridge-ntwnfb",
-     "source": "Guardian",
-     "summary": "Follow the day\u2019s news live.Get our breaking news email, free app or daily news podcastFormer Wallaby hooker Nathan Charles diagnosed with MND at 37The former Wallaby Nathan Charle\u2026",
-     "published": "2026-10-01T21:15:34+00:00",
-     "image": "https://i.guim.co.uk/img/media/a10d2e80a23093a5ef272742ca7f57bbaf468d26/241_0_4834_3865/master/4834.jpg?width=140&quality=85&auto=format&fit=max&s=06643ef93045c81079bd377493179967",
+     "title": "The Bond Rout Is Deepening Even as Oil Tankers Return to the Strait of Hormuz",
+     "url": "https://www.wsj.com/finance/commodities-futures/the-bond-rout-is-deepening-even-as-oil-tankers-return-to-the-strait-of-hormuz-30d8189d?mod=rss_markets_main",
+     "source": "WSJ",
+     "summary": "Supply chains that transform crude into fuel are still under siege, and that is keeping prices high\u2014helping drive a brutal bond selloff.",
+     "published": "2026-10-02T01:00:00+00:00",
+     "image": "https://images.wsj.net/im-28023869",
      "kind": "article",
-     "id": "8ce24920e2517027",
-     "first_seen": "2026-10-01T21:32:58.370231+00:00",
+     "id": "afbf297011d91a24",
+     "first_seen": "2026-10-02T01:04:06.628941+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
@@ -143,15 +143,15 @@
    "more": 0,
    "items": [
     {
-     "title": "A Mechanical Radio, Sort Of",
-     "url": "https://hackaday.com/2026/10/01/a-mechanical-radio-sort-of/",
+     "title": "Elgato Key Lights Get Matter Upgrade",
+     "url": "https://hackaday.com/2026/10/01/elgato-key-lights-get-matter-upgrade/",
      "source": "Hackaday",
-     "summary": "[The Mike Stuff] has an interesting proposition. He asserts that ancient people like the Greeks could have built a form of radio that was purely mechanical. We aren\u2019t sure we \u2026rea\u2026",
-     "published": "2026-10-01T20:00:45+00:00",
-     "image": "https://hackaday.com/wp-content/uploads/2026/10/air-radio.png",
+     "summary": "[Michael H Thiesen] had a couple of Elgato Key Lights in his home streaming setup. The only problem was that they would stop responding regularly, requiring a power cycle to \u2026read\u2026",
+     "published": "2026-10-01T23:00:07+00:00",
+     "image": "https://hackaday.com/wp-content/uploads/2026/09/desk.DraDUnBD_YOTAv_6212b4-e1790814659804.webp",
      "kind": "article",
-     "id": "312ad48585e4c250",
-     "first_seen": "2026-10-01T21:32:58.370231+00:00",
+     "id": "aaeb12ab2a6e0290",
+     "first_seen": "2026-10-02T01:04:06.628941+00:00",
      "is_new": true
     },
     {
@@ -210,61 +210,8 @@
    "kind": "goods",
    "lead_image": false,
    "row_detail": false,
-   "more": 20,
-   "items": [
-    {
-     "title": "D-Ring Belt in Navy Delta Paisley",
-     "url": "https://shopmashburn.com/products/sid-mashburn-d-ring-belt-navy-delta-paisley-s81472",
-     "source": "Sid Mashburn",
-     "summary": "Sid Belts",
-     "published": "2026-10-01T11:04:28-04:00",
-     "image": "https://cdn.shopify.com/s/files/1/0414/4532/6999/files/S81472_0215.jpg?v=1790782381",
-     "price": "$95",
-     "kind": "product",
-     "id": "1f97f6152bb71af2",
-     "first_seen": "2026-10-01T16:51:34.732094+00:00",
-     "is_new": true
-    },
-    {
-     "title": "1.25\" African Beaded Belt in Sky Bue/Navy Arrow",
-     "url": "https://shopmashburn.com/products/sid-mashburn-125-african-beaded-belt-sky-bue-navy-arrow-s81850",
-     "source": "Sid Mashburn",
-     "summary": "Sid Belts",
-     "published": "2026-10-01T11:04:28-04:00",
-     "image": "https://cdn.shopify.com/s/files/1/0414/4532/6999/files/S81850_0031.jpg?v=1790782539",
-     "price": "$160",
-     "kind": "product",
-     "id": "637c3c7819dbc513",
-     "first_seen": "2026-10-01T16:51:34.732094+00:00",
-     "is_new": true
-    },
-    {
-     "title": "1.25\" African Beaded Belt in Blue/Green Kilifi",
-     "url": "https://shopmashburn.com/products/sid-mashburn-125-african-beaded-belt-blue-green-kilifi-s81849",
-     "source": "Sid Mashburn",
-     "summary": "Sid Belts",
-     "published": "2026-10-01T11:04:26-04:00",
-     "image": "https://cdn.shopify.com/s/files/1/0414/4532/6999/files/S81849_0065.jpg?v=1790782522",
-     "price": "$160",
-     "kind": "product",
-     "id": "e9f96918aa9e899f",
-     "first_seen": "2026-10-01T16:51:34.732094+00:00",
-     "is_new": true
-    },
-    {
-     "title": "1.25\" African Beaded Belt in Blue/Red Multi Vertical",
-     "url": "https://shopmashburn.com/products/sid-mashburn-125-african-beaded-belt-blue-red-multi-vertical-s81851",
-     "source": "Sid Mashburn",
-     "summary": "Sid Belts",
-     "published": "2026-10-01T11:04:26-04:00",
-     "image": "https://cdn.shopify.com/s/files/1/0414/4532/6999/files/S81851_0041.jpg?v=1790782555",
-     "price": "$160",
-     "kind": "product",
-     "id": "c9eae4a8fae14c33",
-     "first_seen": "2026-10-01T16:51:34.732094+00:00",
-     "is_new": true
-    }
-   ]
+   "more": 0,
+   "items": []
   },
   {
    "id": "dispatches",
