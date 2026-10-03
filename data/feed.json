@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-03T18:08:37.731566+00:00",
+ "generated_at": "2026-10-03T21:23:09.045901+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -15,7 +15,7 @@
      "detail": "It reaches 64\u00b0 today and falls to 41\u00b0 overnight. The sun is up from 6:55 until 6:33.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 63,
+     "temp": 62,
      "high": 64,
      "low": 41,
      "sunrise": "6:55",
@@ -69,6 +69,24 @@
    "more": 0,
    "items": [
     {
+     "title": "Tennessee Commissioner Resigns After Failed Execution of Christa Pike",
+     "url": "https://www.nytimes.com/2026/10/03/us/tennessee-prison-commissioner-resigns-christa-pike.html",
+     "source": "New York Times",
+     "summary": "Frank Strada, who oversaw the process that left Christa Pike unconscious and hospitalized, quit as an independent review began.",
+     "published": "2026-10-03T19:57:23+00:00",
+     "image": "https://static01.nyt.com/images/2026/10/03/multimedia/03nat-strada-steps-down-top-art/03nat-strada-steps-down-top-art-mediumSquareAt3X.jpg",
+     "kind": "article",
+     "id": "5c110f854464fba5",
+     "first_seen": "2026-10-03T18:08:37.731566+00:00",
+     "is_new": true,
+     "corroboration": 2,
+     "also_in": [
+      "BBC"
+     ],
+     "boosted": true,
+     "score": 5
+    },
+    {
      "title": "All's fair in love and 'War' \u2014 a well-cast, classy-trashy divorce drama",
      "url": "https://www.npr.org/2026/10/03/nx-s1-5983443/war-hbo-divorce-dominic-west-sienna-miller",
      "source": "NPR",
@@ -115,24 +133,6 @@
      "also_in": [],
      "boosted": true,
      "score": 4
-    },
-    {
-     "title": "Medical plane with 6 on board missing off Massachusetts coast",
-     "url": "https://www.bbc.co.uk/news/articles/cme3x85013llo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "summary": "The aircraft lost communication with flight controllers after significantly dropping in altitude, according to flight data.",
-     "published": "2026-10-03T18:06:47+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5084/live/3748e6a0-bf41-11f1-8acc-0bb5649ca116.jpg",
-     "kind": "article",
-     "id": "677c47da7b75bcd6",
-     "first_seen": "2026-10-03T18:08:37.731566+00:00",
-     "is_new": true,
-     "corroboration": 2,
-     "also_in": [
-      "Guardian"
-     ],
-     "boosted": false,
-     "score": 2
     }
    ]
   },
