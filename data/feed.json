@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-04T21:56:27.859611+00:00",
+ "generated_at": "2026-10-05T00:27:03.091327+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,13 +10,13 @@
    "more": 0,
    "items": [
     {
-     "title": "Mostly Sunny",
-     "phrase": "Mostly Sunny all day.",
-     "detail": "It reaches 65\u00b0 today and falls to 48\u00b0 overnight. The sun is up from 6:56 until 6:31.",
+     "title": "Mostly Cloudy",
+     "phrase": "Mostly Cloudy all day.",
+     "detail": "It reaches 61\u00b0 today and falls to 48\u00b0 overnight. The sun is up from 6:56 until 6:31.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 63,
-     "high": 65,
+     "temp": 56,
+     "high": 61,
      "low": 48,
      "sunrise": "6:56",
      "sunset": "6:31",
@@ -56,7 +56,7 @@
      "kind": "garden",
      "id": "4529da7e79f727dc",
      "first_seen": "2026-10-01T00:19:39.756703+00:00",
-     "is_new": true
+     "is_new": false
     }
    ]
   },
@@ -73,7 +73,7 @@
      "url": "https://www.nytimes.com/2026/10/04/world/middleeast/iran-economy-rial.html",
      "source": "New York Times",
      "summary": "The rare admission from Mohsen Rezaei, the security chief, came weeks after the U.S. tightened sanctions and its naval blockade.",
-     "published": "2026-10-04T18:47:12+00:00",
+     "published": "2026-10-05T00:18:12+00:00",
      "image": "https://static01.nyt.com/images/2026/10/04/multimedia/04int-iran-economy-01-whtg/04int-iran-economy-01-whtg-mediumSquareAt3X.jpg",
      "kind": "article",
      "id": "6eb8c6e0a43e0a70",
@@ -117,15 +117,15 @@
      "score": 4
     },
     {
-     "title": "U.K. Base Would Be Ambitious Target for \u2018Gig Economy\u2019 Warfare",
-     "url": "https://www.nytimes.com/2026/10/04/world/europe/uk-base-plot-proxy-attacks.html",
+     "title": "Superpowers Race to Put Nuclear Reactors on the Moon",
+     "url": "https://www.nytimes.com/2026/10/04/world/asia/nuclear-reactors-moon.html",
      "source": "New York Times",
-     "summary": "The U.S. war in Iran unleashed small-scale attacks by local criminals or disenfranchised young men hired anonymously to target Jewish and American sites in Europe and North Americ\u2026",
-     "published": "2026-10-04T09:03:44+00:00",
-     "image": "https://static01.nyt.com/images/2026/10/02/multimedia/00Iran-HybridWarfare-cktg/00Iran-HybridWarfare-cktg-mediumSquareAt3X.jpg",
+     "summary": "The United States wants a reactor on the moon by 2030. A Russian-Chinese alliance is working on one for 2036. Some leading scientists say the danger is great.",
+     "published": "2026-10-04T09:00:29+00:00",
+     "image": "https://static01.nyt.com/images/2026/09/30/multimedia/00-nuclear-moon-01-plvq/00-nuclear-moon-01-plvq-mediumSquareAt3X.jpg",
      "kind": "article",
-     "id": "89c534ee8beef30c",
-     "first_seen": "2026-10-04T21:56:27.859611+00:00",
+     "id": "765254fd313321d1",
+     "first_seen": "2026-10-04T15:06:37.540448+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
