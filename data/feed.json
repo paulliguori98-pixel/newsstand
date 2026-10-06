@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-06T00:51:09.647508+00:00",
+ "generated_at": "2026-10-06T16:28:19.842483+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,16 +10,16 @@
    "more": 0,
    "items": [
     {
-     "title": "Mostly Clear",
-     "phrase": "Mostly Clear all day.",
-     "detail": "It reaches 57\u00b0 today and falls to 36\u00b0 overnight. The sun is up from 6:57 until 6:30.",
+     "title": "Sunny",
+     "phrase": "Sunny all day.",
+     "detail": "It reaches 57\u00b0 today and falls to 31\u00b0 overnight. The sun is up from 6:58 until 6:28.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 50,
+     "temp": 53,
      "high": 57,
-     "low": 36,
-     "sunrise": "6:57",
-     "sunset": "6:30",
+     "low": 31,
+     "sunrise": "6:58",
+     "sunset": "6:28",
      "id": "bb806d72c86dcec1",
      "first_seen": "2026-08-19T17:11:19.569450+00:00",
      "is_new": false
@@ -69,31 +69,51 @@
    "more": 0,
    "items": [
     {
-     "title": "Oil from South Korea being shipped to Russia as Ukraine war grinds on",
-     "url": "https://www.theguardian.com/world/2026/oct/06/oil-tankers-south-korea-russia-ukraine-war",
-     "source": "Guardian",
-     "summary": "Exclusive: Guardian analysis finds more than 150,000 tonnes of fuel was shipped to Russian ports in July and August, some using sanctioned tankers Oil is being shipped from South \u2026",
-     "published": "2026-10-05T23:50:12+00:00",
-     "image": "https://i.guim.co.uk/img/media/114e35882114ac58e9df0098ba5e7f859c899ea3/0_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=2cd46f3496cd6f34fe14177ad2448be3",
-     "kind": "article",
-     "id": "405483f8c72f9b7d",
-     "first_seen": "2026-10-06T00:51:09.647508+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "War With Iran Is Forcing the World to Reckon With Geography\u2019s Power",
-     "url": "https://www.nytimes.com/2026/10/05/business/economy/iran-war-oil-geography.html",
+     "title": "Paramount Closes Merger With Warner Bros. Discovery to Form Skydance",
+     "url": "https://www.nytimes.com/2026/10/06/business/media/paramount-warner-bros-discovery-skydance.html",
      "source": "New York Times",
-     "summary": "Trade blockages in the Persian Gulf have reminded the world that there are forces as great as or greater than technology and globalization.",
-     "published": "2026-10-05T21:43:29+00:00",
-     "image": "https://static01.nyt.com/images/2026/10/02/business/00geographys-revenge/00geographys-revenge-mediumSquareAt3X.jpg",
+     "summary": "After a legal battle, Paramount has finally acquired Warner Bros. Discovery. In a memo to employees, the combined company\u2019s leaders hinted at cost cuts.",
+     "published": "2026-10-06T14:08:35+00:00",
+     "image": "https://static01.nyt.com/images/2026/10/05/multimedia/05biz-paramount-closure-1-pmvl/05biz-paramount-closure-1-pmvl-mediumSquareAt3X.jpg",
      "kind": "article",
-     "id": "092c08bae2cd2203",
-     "first_seen": "2026-10-05T19:01:54.897689+00:00",
+     "id": "bd46c496a32f7e06",
+     "first_seen": "2026-10-06T16:28:19.842483+00:00",
+     "is_new": true,
+     "corroboration": 2,
+     "also_in": [
+      "NPR"
+     ],
+     "boosted": true,
+     "score": 5
+    },
+    {
+     "title": "Nobel Prize in Physics Is Awarded to Francis Halzen for Work on Neutrinos",
+     "url": "https://www.nytimes.com/2026/10/06/science/nobel-prize-physics.html",
+     "source": "New York Times",
+     "summary": "The Nobel Committee honored Francis Halzen for his \u201cvision and scientific leadership\u201d of a telescope within the ice at the South Pole.",
+     "published": "2026-10-06T13:15:26+00:00",
+     "image": "https://static01.nyt.com/images/2026/10/06/multimedia/06SCI-nobel-physics-wvgp/06SCI-nobel-physics-wvgp-mediumSquareAt3X-v3.jpg",
+     "kind": "article",
+     "id": "8b765a70afeb1a54",
+     "first_seen": "2026-10-06T16:28:19.842483+00:00",
+     "is_new": true,
+     "corroboration": 2,
+     "also_in": [
+      "NPR"
+     ],
+     "boosted": true,
+     "score": 5
+    },
+    {
+     "title": "Here are the finalists for the 2026 National Book Awards",
+     "url": "https://www.npr.org/2026/10/06/nx-s1-5991463/2026-national-book-award-shortlist-finalists",
+     "source": "NPR",
+     "summary": "Three-time National Book Award finalist Edwidge Danticat and debut novelist Morgan Thomas are up for the fiction prize. Nonfiction books cover the prison system and music, and que\u2026",
+     "published": "2026-10-06T14:30:20+00:00",
+     "image": null,
+     "kind": "article",
+     "id": "a72121d1780951de",
+     "first_seen": "2026-10-06T16:28:19.842483+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
@@ -101,31 +121,15 @@
      "score": 4
     },
     {
-     "title": "GOP senator warns Anthropic of \"alarmist\" approach to AI",
-     "url": "https://www.axios.com/2026/10/05/gop-senator-bernie-moreno-ai-anthropic-dario-amodei-superintelligence",
-     "source": "Axios",
-     "summary": "Sen. Bernie Moreno (R-Ohio) is urging Anthropic CEO Dario Amodei against an \"alarmist approach\" and \"panic-inducing commentary\" on AI, according to a letter sent Monday and obtain\u2026",
-     "published": "2026-10-05T18:00:05+00:00",
-     "image": "https://images.axios.com/JZtG10NlL1bUfd-Zn_5x4umCca4=/0x0:5183x2915/1366x768/2026/10/05/1791215010057.jpeg",
+     "title": "Coalition\u2019s migration plan risks breaching India free trade agreement and damaging economy, advocates warn",
+     "url": "https://www.theguardian.com/australia-news/2026/oct/07/coalition-migration-policy-reaction-universities-students-economy-india-ntwnfb",
+     "source": "Guardian",
+     "summary": "Angus Taylor\u2019s drastic cuts to graduate visas aim to end a citizenship pathway, but universities body says changes will make Australia less competitiveGet our new political email,\u2026",
+     "published": "2026-10-06T14:00:16+00:00",
+     "image": "https://i.guim.co.uk/img/media/4bb05cf254a0d001887cc470a954f6597ff2f951/436_0_4363_3491/master/4363.jpg?width=140&quality=85&auto=format&fit=max&s=2819e7e5f210d3e97688d6b64c5462e8",
      "kind": "article",
-     "id": "2c0677b4c7df583e",
-     "first_seen": "2026-10-06T00:51:09.647508+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "The Iran war is hitting America's school buses \u2014 and kids are paying the price",
-     "url": "https://www.axios.com/2026/10/05/iran-war-diesel-fuel-costs-school-bus",
-     "source": "Axios",
-     "summary": "For millions of children, the school day starts on a diesel-powered bus with a driver behind the wheel. Now, school districts are struggling to afford both.Why it matters: The Ira\u2026",
-     "published": "2026-10-05T15:59:17+00:00",
-     "image": "https://images.axios.com/QSw0RBh2moRlD29c6VwtE6IwWec=/1366x768/smart/2022/05/11/181016-1652292616341.jpg",
-     "kind": "article",
-     "id": "7a2a0152e7dc2864",
-     "first_seen": "2026-10-05T19:01:54.897689+00:00",
+     "id": "a485e5563d829fe8",
+     "first_seen": "2026-10-06T16:28:19.842483+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
@@ -143,39 +147,39 @@
    "more": 0,
    "items": [
     {
-     "title": "Ambition, Thy Name is a 3D Printed Transonic R/C Jet",
-     "url": "https://hackaday.com/2026/10/05/ambition-thy-name-is-a-3d-printed-transonic-r-c-jet/",
+     "title": "Using LineageOS for Phones and DIY Smart TVs is Pretty Nifty",
+     "url": "https://hackaday.com/2026/10/06/using-lineageos-for-phones-and-diy-smart-tvs-is-pretty-nifty/",
      "source": "Hackaday",
-     "summary": "Building anything that flies from scratch is an ambitious undertaking, even if it\u2019s \u2018just\u2019 radio-controlled. 3D printing the aircraft isn\u2019t that odd these days, but putting a hot \u2026",
-     "published": "2026-10-05T23:00:10+00:00",
-     "image": "https://hackaday.com/wp-content/uploads/2026/10/kingchaser2.jpg",
+     "summary": "Although Android is essentially just another Linux distribution, most people only experience it in the form of the rather restrictive and proprietary versions found on smartphones\u2026",
+     "published": "2026-10-06T14:00:21+00:00",
+     "image": "https://hackaday.com/wp-content/uploads/2026/10/lineage_stacked_teal.png",
      "kind": "article",
-     "id": "bc1349960f66f730",
-     "first_seen": "2026-10-06T00:51:09.647508+00:00",
+     "id": "a510996c6c4c6863",
+     "first_seen": "2026-10-06T16:28:19.842483+00:00",
      "is_new": true
     },
     {
-     "title": "Tiny OLED Keychain with a Face",
-     "url": "https://www.hackster.io/techtalkies1/tiny-oled-keychain-with-a-face-c4c694",
+     "title": "How to Diagnose and Repair a Switching Power Supply",
+     "url": "https://www.hackster.io/electroniclovers/how-to-diagnose-and-repair-a-switching-power-supply-39fc13",
      "source": "Hackster",
-     "summary": "A pocket-sized keychain with an expressive pixel-art face. 3D printed enclosure and battery powered.",
-     "published": "2026-10-05T07:03:21+00:00",
-     "image": "https://hackster.imgix.net/uploads/attachments/2007777/_sptIAgzamx.blob",
+     "summary": "How to Diagnose and Repair a Switching Power Supply in 6 Simple Steps",
+     "published": "2026-10-06T07:58:35+00:00",
+     "image": "https://hackster.imgix.net/uploads/attachments/2008101/_s39rSFFpX2.blob",
      "kind": "article",
-     "id": "516b71ce5a8964f1",
-     "first_seen": "2026-10-05T19:01:54.897689+00:00",
+     "id": "691d7e7781832f52",
+     "first_seen": "2026-10-06T16:28:19.842483+00:00",
      "is_new": true
     },
     {
-     "title": "A talking desk robot you flash from a web page",
-     "url": "https://www.hackster.io/varozhan/a-talking-desk-robot-you-flash-from-a-web-page-ce6271",
+     "title": "Build a Compact 8051-Based Embedded Control System",
+     "url": "https://www.hackster.io/lc2403478/build-a-compact-8051-based-embedded-control-system-daae37",
      "source": "Hackster",
-     "summary": "No soldering, no toolchain. Flash it from a browser in 70 seconds and it answers you out loud, with a face and smart lights.",
-     "published": "2026-10-05T01:33:02+00:00",
-     "image": "https://hackster.imgix.net/uploads/attachments/2007733/_SIMuX0A23Z.blob",
+     "summary": "A practical embedded control project using the AT89S8253-24AU microcontroller for learning classic 8051-based system design.",
+     "published": "2026-10-06T07:20:42+00:00",
+     "image": "https://hackster.imgix.net/uploads/attachments/2008068/_reyv91s2du.blob",
      "kind": "article",
-     "id": "235f70a4ee5dac98",
-     "first_seen": "2026-10-05T19:01:54.897689+00:00",
+     "id": "5d73706242075bed",
+     "first_seen": "2026-10-06T16:28:19.842483+00:00",
      "is_new": true
     },
     {
@@ -188,7 +192,7 @@
      "kind": "article",
      "id": "9533c072016600b8",
      "first_seen": "2026-10-02T16:04:30.794655+00:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "title": "MirrorBallBot",
@@ -301,5 +305,7 @@
    ]
   }
  ],
- "errors": []
+ "errors": [
+  "Drake's: RuntimeError \u2014 /products.json \u2192 empty \u2014 this store may not be Shopify (check https://us.drakes.com/products.json in a browser)"
+ ]
 }
