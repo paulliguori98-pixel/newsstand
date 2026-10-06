@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-05T19:01:54.897689+00:00",
+ "generated_at": "2026-10-06T00:51:09.647508+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,13 +10,13 @@
    "more": 0,
    "items": [
     {
-     "title": "Sunny",
-     "phrase": "Sunny all day.",
-     "detail": "It reaches 61\u00b0 today and falls to 36\u00b0 overnight. The sun is up from 6:57 until 6:30.",
+     "title": "Mostly Clear",
+     "phrase": "Mostly Clear all day.",
+     "detail": "It reaches 57\u00b0 today and falls to 36\u00b0 overnight. The sun is up from 6:57 until 6:30.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 57,
-     "high": 61,
+     "temp": 50,
+     "high": 57,
      "low": 36,
      "sunrise": "6:57",
      "sunset": "6:30",
@@ -69,15 +69,47 @@
    "more": 0,
    "items": [
     {
+     "title": "Oil from South Korea being shipped to Russia as Ukraine war grinds on",
+     "url": "https://www.theguardian.com/world/2026/oct/06/oil-tankers-south-korea-russia-ukraine-war",
+     "source": "Guardian",
+     "summary": "Exclusive: Guardian analysis finds more than 150,000 tonnes of fuel was shipped to Russian ports in July and August, some using sanctioned tankers Oil is being shipped from South \u2026",
+     "published": "2026-10-05T23:50:12+00:00",
+     "image": "https://i.guim.co.uk/img/media/114e35882114ac58e9df0098ba5e7f859c899ea3/0_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=2cd46f3496cd6f34fe14177ad2448be3",
+     "kind": "article",
+     "id": "405483f8c72f9b7d",
+     "first_seen": "2026-10-06T00:51:09.647508+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
      "title": "War With Iran Is Forcing the World to Reckon With Geography\u2019s Power",
      "url": "https://www.nytimes.com/2026/10/05/business/economy/iran-war-oil-geography.html",
      "source": "New York Times",
      "summary": "Trade blockages in the Persian Gulf have reminded the world that there are forces as great as or greater than technology and globalization.",
-     "published": "2026-10-05T17:29:57+00:00",
+     "published": "2026-10-05T21:43:29+00:00",
      "image": "https://static01.nyt.com/images/2026/10/02/business/00geographys-revenge/00geographys-revenge-mediumSquareAt3X.jpg",
      "kind": "article",
      "id": "092c08bae2cd2203",
      "first_seen": "2026-10-05T19:01:54.897689+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
+     "title": "GOP senator warns Anthropic of \"alarmist\" approach to AI",
+     "url": "https://www.axios.com/2026/10/05/gop-senator-bernie-moreno-ai-anthropic-dario-amodei-superintelligence",
+     "source": "Axios",
+     "summary": "Sen. Bernie Moreno (R-Ohio) is urging Anthropic CEO Dario Amodei against an \"alarmist approach\" and \"panic-inducing commentary\" on AI, according to a letter sent Monday and obtain\u2026",
+     "published": "2026-10-05T18:00:05+00:00",
+     "image": "https://images.axios.com/JZtG10NlL1bUfd-Zn_5x4umCca4=/0x0:5183x2915/1366x768/2026/10/05/1791215010057.jpeg",
+     "kind": "article",
+     "id": "2c0677b4c7df583e",
+     "first_seen": "2026-10-06T00:51:09.647508+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
@@ -99,38 +131,6 @@
      "also_in": [],
      "boosted": true,
      "score": 4
-    },
-    {
-     "title": "Hundreds of Australians, including war veterans, are being buried in unmarked communal graves",
-     "url": "https://www.theguardian.com/australia-news/2026/oct/06/poor-australians-war-veterans-buried-unmarked-graves",
-     "source": "Guardian",
-     "summary": "Exclusive: Guardian Australia investigation reveals state governments use shared graves to bury those deemed too poor to pay for funerals. \u2018It\u2019s unspeakable,\u2019 one relative saysFin\u2026",
-     "published": "2026-10-05T14:00:28+00:00",
-     "image": "https://i.guim.co.uk/img/media/4fcb3f6941747d8411e147b6e1ee823777905967/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=d61603243d9a5a221325b0d194e4bd1f",
-     "kind": "article",
-     "id": "f9bbf82ccaa51171",
-     "first_seen": "2026-10-05T19:01:54.897689+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "Nobel Prize awarded for revealing inner workings of the brain",
-     "url": "https://www.bbc.co.uk/news/articles/c5ev3ypmzly8o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "summary": "US psychiatrist and neurologist Karl Deisseroth and his German colleagues Peter Hegemann and Georg Nagel have been awarded for their work.",
-     "published": "2026-10-05T11:04:37+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ceaa/live/22381b10-c0b2-11f1-bc2e-018d645d8d21.jpg",
-     "kind": "article",
-     "id": "dc7779782bf418cf",
-     "first_seen": "2026-10-05T19:01:54.897689+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
     }
    ]
   },
@@ -143,15 +143,15 @@
    "more": 0,
    "items": [
     {
-     "title": "Failing to Make a Fanless PC",
-     "url": "https://hackaday.com/2026/10/05/failing-to-make-a-fanless-pc/",
+     "title": "Ambition, Thy Name is a 3D Printed Transonic R/C Jet",
+     "url": "https://hackaday.com/2026/10/05/ambition-thy-name-is-a-3d-printed-transonic-r-c-jet/",
      "source": "Hackaday",
-     "summary": "The discerning modern gamer\u2019s quest is to find a quieter computer without sacrificing performance. That proves challenging when modern components are highly efficient at producing\u2026",
-     "published": "2026-10-05T17:30:20+00:00",
-     "image": "https://hackaday.com/wp-content/uploads/2026/10/steamPunkPC.jpg",
+     "summary": "Building anything that flies from scratch is an ambitious undertaking, even if it\u2019s \u2018just\u2019 radio-controlled. 3D printing the aircraft isn\u2019t that odd these days, but putting a hot \u2026",
+     "published": "2026-10-05T23:00:10+00:00",
+     "image": "https://hackaday.com/wp-content/uploads/2026/10/kingchaser2.jpg",
      "kind": "article",
-     "id": "8d66e259b56b3f8e",
-     "first_seen": "2026-10-05T19:01:54.897689+00:00",
+     "id": "bc1349960f66f730",
+     "first_seen": "2026-10-06T00:51:09.647508+00:00",
      "is_new": true
     },
     {
@@ -213,15 +213,15 @@
    "more": 0,
    "items": [
     {
-     "title": "Sun Valley Sno-Cap Shearling Rider Jacket",
-     "url": "https://www.buckmason.com/products/sun-valley-sno-cap-shearling-rider-jacket",
+     "title": "Ranger Mini Check Pacific Twill Flannel One Pocket Shirt",
+     "url": "https://www.buckmason.com/products/ranger-mini-check-pacific-twill-flannel-one-pocket-shirt",
      "source": "Buck Mason",
-     "image": "https://cdn.shopify.com/s/files/1/0123/5065/2473/files/BM18090.1315_SNO-CAPSHEARLINGRIDERJACKETSUNVALLEY_1.jpg?v=1791223456",
-     "price": "$998",
-     "published": "2026-10-05T18:12:40+00:00",
+     "image": "https://cdn.shopify.com/s/files/1/0123/5065/2473/files/BM13366.1770_PACIFICTWILLFLANNELBDSHIRTRANGERMINICHECK_1.jpg?v=1791229477",
+     "price": "$158",
+     "published": "2026-10-05T20:00:48+00:00",
      "kind": "product",
-     "id": "16a4b8ea601c2223",
-     "first_seen": "2026-10-05T19:01:54.897689+00:00",
+     "id": "85b0ab58458fe89f",
+     "first_seen": "2026-10-06T00:51:09.647508+00:00",
      "is_new": true
     }
    ]
