@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-06T16:28:19.842483+00:00",
+ "generated_at": "2026-10-06T21:12:34.457751+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -12,12 +12,12 @@
     {
      "title": "Sunny",
      "phrase": "Sunny all day.",
-     "detail": "It reaches 57\u00b0 today and falls to 31\u00b0 overnight. The sun is up from 6:58 until 6:28.",
+     "detail": "It reaches 58\u00b0 today and falls to 32\u00b0 overnight. The sun is up from 6:58 until 6:28.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 53,
-     "high": 57,
-     "low": 31,
+     "temp": 56,
+     "high": 58,
+     "low": 32,
      "sunrise": "6:58",
      "sunset": "6:28",
      "id": "bb806d72c86dcec1",
@@ -69,40 +69,52 @@
    "more": 0,
    "items": [
     {
-     "title": "Paramount Closes Merger With Warner Bros. Discovery to Form Skydance",
-     "url": "https://www.nytimes.com/2026/10/06/business/media/paramount-warner-bros-discovery-skydance.html",
-     "source": "New York Times",
-     "summary": "After a legal battle, Paramount has finally acquired Warner Bros. Discovery. In a memo to employees, the combined company\u2019s leaders hinted at cost cuts.",
-     "published": "2026-10-06T14:08:35+00:00",
-     "image": "https://static01.nyt.com/images/2026/10/05/multimedia/05biz-paramount-closure-1-pmvl/05biz-paramount-closure-1-pmvl-mediumSquareAt3X.jpg",
+     "title": "Paramount closes historic $110B deal for Warner Bros. Discovery to create Skydance",
+     "url": "https://www.axios.com/2026/10/06/paramount-warner-bros-discovery-deal-skydance",
+     "source": "Axios",
+     "summary": "Paramount Skydance on Tuesday closed its deal to acquire Warner Bros. Discovery, ending a dramatic, yearlong process that rattled Hollywood, Wall Street and Washington. Why it mat\u2026",
+     "published": "2026-10-06T16:26:29+00:00",
+     "image": "https://images.axios.com/c9gHXSbp20F9n32a3h9OIckyC2w=/0x359:5000x3172/1366x768/2026/10/06/1791301880682.jpeg",
      "kind": "article",
-     "id": "bd46c496a32f7e06",
-     "first_seen": "2026-10-06T16:28:19.842483+00:00",
+     "id": "8a249355b11c2ef1",
+     "first_seen": "2026-10-06T21:12:34.457751+00:00",
      "is_new": true,
-     "corroboration": 2,
-     "also_in": [
-      "NPR"
-     ],
+     "corroboration": 1,
+     "also_in": [],
      "boosted": true,
-     "score": 5
+     "score": 4
     },
     {
-     "title": "Nobel Prize in Physics Is Awarded to Francis Halzen for Work on Neutrinos",
-     "url": "https://www.nytimes.com/2026/10/06/science/nobel-prize-physics.html",
-     "source": "New York Times",
-     "summary": "The Nobel Committee honored Francis Halzen for his \u201cvision and scientific leadership\u201d of a telescope within the ice at the South Pole.",
-     "published": "2026-10-06T13:15:26+00:00",
-     "image": "https://static01.nyt.com/images/2026/10/06/multimedia/06SCI-nobel-physics-wvgp/06SCI-nobel-physics-wvgp-mediumSquareAt3X-v3.jpg",
+     "title": "State parliament elects Germany\u2019s first far-right speaker since second world war",
+     "url": "https://www.theguardian.com/world/2026/oct/06/germany-afd-first-far-right-tobias-rausch-speaker-since-war",
+     "source": "Guardian",
+     "summary": "Tobias Rausch secures role of president in Saxony-Anhalt after AfD\u2019s election breakthroughEurope live \u2013 latest updatesAlternative f\u00fcr Deutschland has become Germany\u2019s first far-ri\u2026",
+     "published": "2026-10-06T15:38:58+00:00",
+     "image": "https://i.guim.co.uk/img/media/4aa969a0f5d39b3bc0a0317979392e3bda48930a/712_160_3397_2718/master/3397.jpg?width=140&quality=85&auto=format&fit=max&s=b4a4ddd3f933982742e4b9401c73a6be",
      "kind": "article",
-     "id": "8b765a70afeb1a54",
+     "id": "672c785854954901",
      "first_seen": "2026-10-06T16:28:19.842483+00:00",
      "is_new": true,
-     "corroboration": 2,
-     "also_in": [
-      "NPR"
-     ],
+     "corroboration": 1,
+     "also_in": [],
      "boosted": true,
-     "score": 5
+     "score": 4
+    },
+    {
+     "title": "U.S. Trade Deficit Hits 17-Month High Despite Trump\u2019s Tariffs",
+     "url": "https://www.nytimes.com/2026/10/06/business/economy/us-trade-deficit.html",
+     "source": "New York Times",
+     "summary": "Imports and the trade deficit have ballooned in recent months, defying the Trump administration\u2019s efforts to reduce it through tariffs.",
+     "published": "2026-10-06T15:01:36+00:00",
+     "image": "https://static01.nyt.com/images/2026/10/06/multimedia/06dc-trade-jhqb/06dc-trade-jhqb-mediumSquareAt3X.jpg",
+     "kind": "article",
+     "id": "b275722556fbd9b8",
+     "first_seen": "2026-10-06T16:28:19.842483+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
     },
     {
      "title": "Here are the finalists for the 2026 National Book Awards",
@@ -113,22 +125,6 @@
      "image": null,
      "kind": "article",
      "id": "a72121d1780951de",
-     "first_seen": "2026-10-06T16:28:19.842483+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "Coalition\u2019s migration plan risks breaching India free trade agreement and damaging economy, advocates warn",
-     "url": "https://www.theguardian.com/australia-news/2026/oct/07/coalition-migration-policy-reaction-universities-students-economy-india-ntwnfb",
-     "source": "Guardian",
-     "summary": "Angus Taylor\u2019s drastic cuts to graduate visas aim to end a citizenship pathway, but universities body says changes will make Australia less competitiveGet our new political email,\u2026",
-     "published": "2026-10-06T14:00:16+00:00",
-     "image": "https://i.guim.co.uk/img/media/4bb05cf254a0d001887cc470a954f6597ff2f951/436_0_4363_3491/master/4363.jpg?width=140&quality=85&auto=format&fit=max&s=2819e7e5f210d3e97688d6b64c5462e8",
-     "kind": "article",
-     "id": "a485e5563d829fe8",
      "first_seen": "2026-10-06T16:28:19.842483+00:00",
      "is_new": true,
      "corroboration": 1,
@@ -147,39 +143,39 @@
    "more": 0,
    "items": [
     {
-     "title": "Using LineageOS for Phones and DIY Smart TVs is Pretty Nifty",
-     "url": "https://hackaday.com/2026/10/06/using-lineageos-for-phones-and-diy-smart-tvs-is-pretty-nifty/",
+     "title": "SmallTV Hacking With Surprisingly Little Fuss",
+     "url": "https://hackaday.com/2026/10/06/smalltv-hacking-with-surprisingly-little-fuss/",
      "source": "Hackaday",
-     "summary": "Although Android is essentially just another Linux distribution, most people only experience it in the form of the rather restrictive and proprietary versions found on smartphones\u2026",
-     "published": "2026-10-06T14:00:21+00:00",
-     "image": "https://hackaday.com/wp-content/uploads/2026/10/lineage_stacked_teal.png",
+     "summary": "We\u2019ve seen the GeekMagic SmallTV line of devices before \u2014 these cheap gadgets combine a microcontroller and a display in a little plastic case that can be used to show \u2026read more",
+     "published": "2026-10-06T20:00:47+00:00",
+     "image": "https://hackaday.com/wp-content/uploads/2026/10/smalltv_feat.png",
      "kind": "article",
-     "id": "a510996c6c4c6863",
-     "first_seen": "2026-10-06T16:28:19.842483+00:00",
+     "id": "c2e9a9eda28a480e",
+     "first_seen": "2026-10-06T21:12:34.457751+00:00",
      "is_new": true
     },
     {
-     "title": "How to Diagnose and Repair a Switching Power Supply",
-     "url": "https://www.hackster.io/electroniclovers/how-to-diagnose-and-repair-a-switching-power-supply-39fc13",
+     "title": "Self-Hosted Temperature Alerts with an ESP32-C6",
+     "url": "https://www.hackster.io/smain01/self-hosted-temperature-alerts-with-an-esp32-c6-4c88ad",
      "source": "Hackster",
-     "summary": "How to Diagnose and Repair a Switching Power Supply in 6 Simple Steps",
-     "published": "2026-10-06T07:58:35+00:00",
-     "image": "https://hackster.imgix.net/uploads/attachments/2008101/_s39rSFFpX2.blob",
+     "summary": "An AM2301 sensor, firmware written in the browser and a phone alert, all on your own server. No cloud account.",
+     "published": "2026-10-06T13:30:30+00:00",
+     "image": "https://hackster.imgix.net/uploads/attachments/2008195/_mE0GhTDApm.blob",
      "kind": "article",
-     "id": "691d7e7781832f52",
-     "first_seen": "2026-10-06T16:28:19.842483+00:00",
+     "id": "dc243c7e0b484b6f",
+     "first_seen": "2026-10-06T21:12:34.457751+00:00",
      "is_new": true
     },
     {
-     "title": "Build a Compact 8051-Based Embedded Control System",
-     "url": "https://www.hackster.io/lc2403478/build-a-compact-8051-based-embedded-control-system-daae37",
+     "title": "ESP8266 Vibration Sensor With KiwisIoT Dashboard",
+     "url": "https://www.hackster.io/kirusokumar/esp8266-vibration-sensor-with-kiwisiot-dashboard-175dfc",
      "source": "Hackster",
-     "summary": "A practical embedded control project using the AT89S8253-24AU microcontroller for learning classic 8051-based system design.",
-     "published": "2026-10-06T07:20:42+00:00",
-     "image": "https://hackster.imgix.net/uploads/attachments/2008068/_reyv91s2du.blob",
+     "summary": "\u201cMonitor vibration and movement in real time using an ESP8266 and KiwisIoT dashboard. \u201d",
+     "published": "2026-10-06T13:14:48+00:00",
+     "image": "https://hackster.imgix.net/uploads/attachments/2008186/_iI6XbQZAem.blob",
      "kind": "article",
-     "id": "5d73706242075bed",
-     "first_seen": "2026-10-06T16:28:19.842483+00:00",
+     "id": "09ad2ae31815a024",
+     "first_seen": "2026-10-06T21:12:34.457751+00:00",
      "is_new": true
     },
     {
@@ -214,18 +210,57 @@
    "kind": "goods",
    "lead_image": false,
    "row_detail": false,
-   "more": 0,
+   "more": 5,
    "items": [
     {
-     "title": "Ranger Mini Check Pacific Twill Flannel One Pocket Shirt",
-     "url": "https://www.buckmason.com/products/ranger-mini-check-pacific-twill-flannel-one-pocket-shirt",
-     "source": "Buck Mason",
-     "image": "https://cdn.shopify.com/s/files/1/0123/5065/2473/files/BM13366.1770_PACIFICTWILLFLANNELBDSHIRTRANGERMINICHECK_1.jpg?v=1791229477",
-     "price": "$158",
-     "published": "2026-10-05T20:00:48+00:00",
+     "title": "Burgundy Pique Cotton Long-Sleeve Polo Shirt",
+     "url": "https://us.drakes.com/products/burgundy-pique-cotton-long-sleeve-polo-shirt",
+     "source": "Drake's",
+     "summary": "Polos",
+     "published": "2026-10-06T09:14:53-04:00",
+     "image": "https://cdn.shopify.com/s/files/1/0649/6603/3653/files/7173001900031.jpg?v=1791292844",
+     "price": "$275",
      "kind": "product",
-     "id": "85b0ab58458fe89f",
-     "first_seen": "2026-10-06T00:51:09.647508+00:00",
+     "id": "53ef3003366c78c0",
+     "first_seen": "2026-10-06T21:12:34.457751+00:00",
+     "is_new": true
+    },
+    {
+     "title": "Grey Navy Nailhead Pacific Twill Flannel One Pocket Shirt",
+     "url": "https://www.buckmason.com/products/grey-navy-nailhead-pacific-twill-flannel-one-pocket-shirt",
+     "source": "Buck Mason",
+     "image": "https://cdn.shopify.com/s/files/1/0123/5065/2473/files/BM13366.1786_PACIFICTWILLFLANNELBDSHIRT_GREYNAVYNAILHEAD_81759_1.jpg?v=1791312999",
+     "price": "$158",
+     "published": "2026-09-23T21:31:54+00:00",
+     "kind": "product",
+     "id": "2baf10422a458563",
+     "first_seen": "2026-10-06T21:12:34.457751+00:00",
+     "is_new": true
+    },
+    {
+     "title": "Black Pique Cotton Long-Sleeve Polo Shirt",
+     "url": "https://us.drakes.com/products/black-pique-cotton-long-sleeve-polo-shirt",
+     "source": "Drake's",
+     "summary": "Polos",
+     "published": "2026-10-06T09:12:13-04:00",
+     "image": "https://cdn.shopify.com/s/files/1/0649/6603/3653/files/DR2A5D26909-02100-1.jpg?v=1791284831",
+     "price": "$275",
+     "kind": "product",
+     "id": "eb1834df27e7bb13",
+     "first_seen": "2026-10-06T21:12:34.457751+00:00",
+     "is_new": true
+    },
+    {
+     "title": "Navy Slub Cotton Long-Sleeve Mock Neck Hiking T-Shirt",
+     "url": "https://us.drakes.com/products/navy-slub-cotton-long-sleeve-mock-neck-hiking-t-shirt",
+     "source": "Drake's",
+     "summary": "Sweatshirts",
+     "published": "2026-10-06T06:28:46-04:00",
+     "image": "https://cdn.shopify.com/s/files/1/0649/6603/3653/files/DR2A5G26130-01-250-1.jpg?v=1791282025",
+     "price": "$275",
+     "kind": "product",
+     "id": "b6e5cf6681402d23",
+     "first_seen": "2026-10-06T21:12:34.457751+00:00",
      "is_new": true
     }
    ]
@@ -280,7 +315,7 @@
      "kind": "article",
      "id": "0db0539436b6f9a9",
      "first_seen": "2026-10-02T20:47:50.401190+00:00",
-     "is_new": true,
+     "is_new": false,
      "corroboration": 1,
      "also_in": [],
      "boosted": false,
@@ -305,7 +340,5 @@
    ]
   }
  ],
- "errors": [
-  "Drake's: RuntimeError \u2014 /products.json \u2192 empty \u2014 this store may not be Shopify (check https://us.drakes.com/products.json in a browser)"
- ]
+ "errors": []
 }
