@@ -1731,7 +1731,7 @@
   "title": "Brighton Base Layer",
   "url": "https://www.tracksmith.com/products/m-brighton-base-layer-ls?sku=MT21702NRRS",
   "source": "Tracksmith",
-  "image": "https://cdn-image.tracksmith.com/1787599960-plp-rollover-image.jpg?auto=format,compress&crop=faces&dpr=2&fit=crop&h=560&w=420",
+  "image": "https://cdn.shopify.com/s/files/1/1594/4353/files/Fall26-Mens-Brighton-Base-Layer-Navy-Red-On-Model.png?v=1787248983&width=800&height=800&crop=center",
   "price": "$100",
   "published": null,
   "first_seen": "2026-08-28T01:31:34.864033+00:00"
@@ -1767,7 +1767,7 @@
   "title": "Session Shorts",
   "url": "https://www.tracksmith.com/products/m-session-shorts?sku=MB323401CAB",
   "source": "Tracksmith",
-  "image": "https://cdn-image.tracksmith.com/1770948337-plp-rollover-image.png?auto=format,compress&crop=faces&dpr=2&fit=crop&h=560&w=420",
+  "image": "https://cdn-image.tracksmith.com/1791299737-plp-rollover-image-1.png?auto=format,compress&crop=faces&dpr=2&fit=crop&h=560&w=420",
   "price": "$85",
   "published": null,
   "first_seen": "2026-08-28T01:31:34.864033+00:00"
@@ -4944,7 +4944,7 @@
   "title": "Antique White Cotton Long-Sleeve Hiking T-Shirt",
   "url": "https://us.drakes.com/products/antique-white-cotton-long-sleeve-hiking-t-shirt-1",
   "source": "Drake's",
-  "image": "https://cdn.shopify.com/s/files/1/0649/6603/3653/files/DR2A5G26600-01050-1.jpg?v=1791204450",
+  "image": "https://cdn.shopify.com/s/files/1/0649/6603/3653/files/DR2A5G26600-01050_winter_-1.jpg?v=1791382976",
   "price": "$190",
   "published": "2026-10-06T05:50:01-04:00",
   "first_seen": "2026-10-06T21:12:34.457751+00:00"
@@ -4953,7 +4953,7 @@
   "title": "Brown Slub Cotton Long-Sleeve Mock Neck Hiking T-Shirt",
   "url": "https://us.drakes.com/products/brown-slub-cotton-long-sleeve-mock-neck-hiking-t-shirt",
   "source": "Drake's",
-  "image": "https://cdn.shopify.com/s/files/1/0649/6603/3653/files/DR2A5G26130-02-300-1.jpg?v=1791199117",
+  "image": "https://cdn.shopify.com/s/files/1/0649/6603/3653/files/DR2A5G26130-02300_winter_-1.jpg?v=1791383232",
   "price": "$275",
   "published": "2026-10-06T04:59:00-04:00",
   "first_seen": "2026-10-06T21:12:34.457751+00:00"
@@ -4962,9 +4962,18 @@
   "title": "Grey Navy Nailhead Pacific Twill Flannel One Pocket Shirt",
   "url": "https://www.buckmason.com/products/grey-navy-nailhead-pacific-twill-flannel-one-pocket-shirt",
   "source": "Buck Mason",
-  "image": "https://cdn.shopify.com/s/files/1/0123/5065/2473/files/BM13366.1786_PACIFICTWILLFLANNELBDSHIRT_GREYNAVYNAILHEAD_81759_1.jpg?v=1791312999",
+  "image": "https://cdn.shopify.com/s/files/1/0123/5065/2473/files/BM13366.1786_PACIFICTWILLFLANNELBDSHIRTNAVYNAILHEAD_1.jpg?v=1791312999",
   "price": "$158",
   "published": "2026-09-23T21:31:54+00:00",
   "first_seen": "2026-10-06T21:12:34.457751+00:00"
+ },
+ "32ce42fd6f26f628": {
+  "title": "Shetland Cap of Courage",
+  "url": "https://www.bestmadeco.com/products/shetland-cap-of-courage",
+  "source": "Best Made",
+  "image": "https://cdn.shopify.com/s/files/1/0674/2985/9558/files/SHETLAND-WHITE-SHEEP-PDP.jpg?v=1791295713",
+  "price": "$88",
+  "published": "2026-10-07T09:57:58-04:00",
+  "first_seen": "2026-10-07T17:11:58.890236+00:00"
  }
 }
