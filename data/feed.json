@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-07T17:11:58.890236+00:00",
+ "generated_at": "2026-10-07T22:02:27.858254+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,14 +10,14 @@
    "more": 0,
    "items": [
     {
-     "title": "Sunny",
-     "phrase": "A one-in-five chance of rain around 5am.",
-     "detail": "It reaches 64\u00b0 today and falls to 48\u00b0 overnight. The sun is up from 7:00 until 6:26.",
+     "title": "Partly Cloudy",
+     "phrase": "A one-in-five chance of rain around 4am.",
+     "detail": "It reaches 67\u00b0 today and falls to 50\u00b0 overnight. The sun is up from 7:00 until 6:26.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 56,
-     "high": 64,
-     "low": 48,
+     "temp": 61,
+     "high": 67,
+     "low": 50,
      "sunrise": "7:00",
      "sunset": "6:26",
      "id": "bb806d72c86dcec1",
@@ -101,22 +101,6 @@
      "score": 4
     },
     {
-     "title": "Ukraine Claws Back Land in the Donbas, Thwarting a Russian Push",
-     "url": "https://www.nytimes.com/2026/10/07/world/europe/ukraine-battlefield-operation-vivaldi.html",
-     "source": "New York Times",
-     "summary": "Moscow says its capture of the region is inevitable. But Kyiv has so far stymied Russian efforts to encircle Ukrainian \u201cfortress belt\u201d cities.",
-     "published": "2026-10-07T12:02:09+00:00",
-     "image": "https://static01.nyt.com/images/2026/10/07/multimedia/2026-09-03-ukraine-frontline-maps-index/2026-09-03-ukraine-frontline-maps-index-mediumSquareAt3X-v3.png",
-     "kind": "article",
-     "id": "746e419cb5cdf929",
-     "first_seen": "2026-10-07T17:11:58.890236+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
      "title": "Chemistry Nobel awarded for solving mystery of life's asymmetry",
      "url": "https://www.bbc.co.uk/news/articles/c6ly038jg0d4o?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
@@ -125,6 +109,22 @@
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/caf1/live/a5f2fc60-c23b-11f1-be2f-0fbd447d6e43.png",
      "kind": "article",
      "id": "2b4add7b07af688c",
+     "first_seen": "2026-10-07T17:11:58.890236+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
+     "title": "Exclusive: Paxton privately blames campaign woes on Iran war, gas prices",
+     "url": "https://www.axios.com/2026/10/07/ken-paxton-iran-war-gas-prices-audio-trump-texas",
+     "source": "Axios",
+     "summary": "Texas Republican Senate nominee Ken Paxton privately lamented the impact of the Iran war and gas prices on his campaign in a meeting last month, telling a group of donors and lobb\u2026",
+     "published": "2026-10-07T09:15:05+00:00",
+     "image": "https://images.axios.com/BKG7dbgRUE1SdF7TBM_9z-0wU-8=/0x0:1920x1080/1366x768/2026/10/06/1791311261719.jpeg",
+     "kind": "article",
+     "id": "1960c1d025b442b3",
      "first_seen": "2026-10-07T17:11:58.890236+00:00",
      "is_new": true,
      "corroboration": 1,
@@ -143,15 +143,27 @@
    "more": 0,
    "items": [
     {
-     "title": "ESP32 As Your Raspberry Pi\u2019s Linux Wireless Co-processor",
-     "url": "https://hackaday.com/2026/10/07/esp32-as-your-raspberry-pis-linux-wireless-co-processor/",
+     "title": "Handheld Atari 2600 Packs a CRT",
+     "url": "https://hackaday.com/2026/10/07/handheld-atari-2600-packs-a-crt/",
      "source": "Hackaday",
-     "summary": "A laptop with no wireless connectivity feels like a rarity \u2013 but when you shop for powerful Linux single-board computers (SBCs), it is pretty common to see one skimp on \u2026read more",
-     "published": "2026-10-07T14:00:06+00:00",
-     "image": "https://hackaday.com/wp-content/uploads/2026/09/hadimg_esphosted_feat.jpg",
+     "summary": "We covered [Nick Bild]\u2019s mini Atari console using original devices not so long ago, and today he\u2019s back with the same console wrapped up with a CRT as a handheld. \u2026read more",
+     "published": "2026-10-07T20:00:21+00:00",
+     "image": "https://hackaday.com/wp-content/uploads/2026/10/utari-featured.jpg",
      "kind": "article",
-     "id": "908ecb9289b26151",
-     "first_seen": "2026-10-07T17:11:58.890236+00:00",
+     "id": "6175a4a556eb025d",
+     "first_seen": "2026-10-07T22:02:27.858254+00:00",
+     "is_new": true
+    },
+    {
+     "title": "IoT LED Control Using NodeMCU ESP8266 and KiwisIoT Platform",
+     "url": "https://www.hackster.io/yuvansris2002/iot-led-control-using-nodemcu-esp8266-and-kiwisiot-platform-347a95",
+     "source": "Hackster",
+     "summary": "Control an LED remotely over Wi-Fi using NodeMCU ESP8266 and the KiwisIoT platform for simple real-time IoT control.",
+     "published": "2026-10-07T11:54:04+00:00",
+     "image": "https://hackster.imgix.net/uploads/attachments/2008581/_P1Yyf9NNZv.blob",
+     "kind": "article",
+     "id": "3de2e24adfe0ffe2",
+     "first_seen": "2026-10-07T22:02:27.858254+00:00",
      "is_new": true
     },
     {
@@ -163,18 +175,6 @@
      "image": "https://hackster.imgix.net/uploads/attachments/2008461/_KtqskGqnqs.blob",
      "kind": "article",
      "id": "b4eae986f0fe6d96",
-     "first_seen": "2026-10-07T17:11:58.890236+00:00",
-     "is_new": true
-    },
-    {
-     "title": "Build a Linux Power-Rail Monitor with the NXP PCA9450C PMIC",
-     "url": "https://www.hackster.io/robertfletcher1582/build-a-linux-power-rail-monitor-with-the-nxp-pca9450c-pmic-b28f6c",
-     "source": "Hackster",
-     "summary": "Monitor, inspect, and safely control the power-management functions of an i. MX 8M Plus system using the NXP PCA9450C over I\u00b2C.",
-     "published": "2026-10-07T07:47:53+00:00",
-     "image": "https://hackster.imgix.net/uploads/attachments/2008459/_i96iwz5dNX.blob",
-     "kind": "article",
-     "id": "470bf828ee0230b6",
      "first_seen": "2026-10-07T17:11:58.890236+00:00",
      "is_new": true
     },
@@ -210,8 +210,34 @@
    "kind": "goods",
    "lead_image": false,
    "row_detail": false,
-   "more": 0,
+   "more": 1,
    "items": [
+    {
+     "title": "Brighton Base Layer",
+     "url": "https://www.tracksmith.com/products/m-brighton-base-layer-ls?sku=MT21702PCN",
+     "source": "Tracksmith",
+     "summary": "",
+     "published": null,
+     "image": "https://cdn-image.tracksmith.com/1787599960-plp-rollover-image.jpg?auto=format,compress&crop=faces&dpr=2&fit=crop&h=560&w=420",
+     "price": "$100",
+     "kind": "product",
+     "id": "9a6001c05b683edb",
+     "first_seen": "2026-10-07T22:02:27.858254+00:00",
+     "is_new": true
+    },
+    {
+     "title": "Hand-Rolled Silk Woven Tie in Orange/Brown/Olive Stripe",
+     "url": "https://shopmashburn.com/products/sid-mashburn-silk-woven-tie-orange-brown-olive-stripe-s81682",
+     "source": "Sid Mashburn",
+     "summary": "Sid Ties",
+     "published": "2026-10-07T17:04:03-04:00",
+     "image": "https://cdn.shopify.com/s/files/1/0414/4532/6999/files/S81682_0986.jpg?v=1790871407",
+     "price": "$155",
+     "kind": "product",
+     "id": "e9636cd7348695bc",
+     "first_seen": "2026-10-07T22:02:27.858254+00:00",
+     "is_new": true
+    },
     {
      "title": "Shetland Cap of Courage",
      "url": "https://www.bestmadeco.com/products/shetland-cap-of-courage",
@@ -223,6 +249,19 @@
      "kind": "product",
      "id": "32ce42fd6f26f628",
      "first_seen": "2026-10-07T17:11:58.890236+00:00",
+     "is_new": true
+    },
+    {
+     "title": "Session Tee",
+     "url": "https://www.tracksmith.com/products/m-session-tee?sku=MT208101SHG",
+     "source": "Tracksmith",
+     "summary": "",
+     "published": null,
+     "image": "https://cdn-image.tracksmith.com/1770945291-plp-rollover-image.png?auto=format,compress&crop=faces&dpr=2&fit=crop&h=560&w=420",
+     "price": "$85",
+     "kind": "product",
+     "id": "c205d870e2e7e6ff",
+     "first_seen": "2026-10-07T22:02:27.858254+00:00",
      "is_new": true
     }
    ]

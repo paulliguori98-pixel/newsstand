@@ -4975,5 +4975,41 @@
   "price": "$88",
   "published": "2026-10-07T09:57:58-04:00",
   "first_seen": "2026-10-07T17:11:58.890236+00:00"
+ },
+ "9a6001c05b683edb": {
+  "title": "Brighton Base Layer",
+  "url": "https://www.tracksmith.com/products/m-brighton-base-layer-ls?sku=MT21702PCN",
+  "source": "Tracksmith",
+  "image": "https://cdn-image.tracksmith.com/1787599960-plp-rollover-image.jpg?auto=format,compress&crop=faces&dpr=2&fit=crop&h=560&w=420",
+  "price": "$100",
+  "published": null,
+  "first_seen": "2026-10-07T22:02:27.858254+00:00"
+ },
+ "c205d870e2e7e6ff": {
+  "title": "Session Tee",
+  "url": "https://www.tracksmith.com/products/m-session-tee?sku=MT208101SHG",
+  "source": "Tracksmith",
+  "image": "https://cdn-image.tracksmith.com/1770945291-plp-rollover-image.png?auto=format,compress&crop=faces&dpr=2&fit=crop&h=560&w=420",
+  "price": "$85",
+  "published": null,
+  "first_seen": "2026-10-07T22:02:27.858254+00:00"
+ },
+ "e9636cd7348695bc": {
+  "title": "Hand-Rolled Silk Woven Tie in Orange/Brown/Olive Stripe",
+  "url": "https://shopmashburn.com/products/sid-mashburn-silk-woven-tie-orange-brown-olive-stripe-s81682",
+  "source": "Sid Mashburn",
+  "image": "https://cdn.shopify.com/s/files/1/0414/4532/6999/files/S81682_0986.jpg?v=1790871407",
+  "price": "$155",
+  "published": "2026-10-07T17:04:03-04:00",
+  "first_seen": "2026-10-07T22:02:27.858254+00:00"
+ },
+ "457aea14284aa370": {
+  "title": "Silk Print Tie in Red/Aegean Antelope Scene",
+  "url": "https://shopmashburn.com/products/sid-mashburn-silk-print-tie-red-aegean-antelope-scene-s81681",
+  "source": "Sid Mashburn",
+  "image": "https://cdn.shopify.com/s/files/1/0414/4532/6999/files/S81681_0925.jpg?v=1790871392",
+  "price": "$155",
+  "published": "2026-10-07T17:03:06-04:00",
+  "first_seen": "2026-10-07T22:02:27.858254+00:00"
  }
 }
