@@ -5011,5 +5011,41 @@
   "price": "$155",
   "published": "2026-10-07T17:03:06-04:00",
   "first_seen": "2026-10-07T22:02:27.858254+00:00"
+ },
+ "093408b9a9f783b1": {
+  "title": "Turnover Half Tights",
+  "url": "https://www.tracksmith.com/products/m-turnover-half-tights?sku=6996563918935:black__Unlined_XS",
+  "source": "Tracksmith",
+  "image": "https://cdn-image.tracksmith.com/1756829380-emilymaye_ts_fall25_craftsbury_09827.jpg?auto=format,compress&crop=faces&dpr=2&fit=crop&h=560&w=420",
+  "price": "$80",
+  "published": null,
+  "first_seen": "2026-10-08T17:09:31.291817+00:00"
+ },
+ "31256d499c2b9611": {
+  "title": "Turnover Tights",
+  "url": "https://www.tracksmith.com/products/m-turnover-tights?sku=MB325401N",
+  "source": "Tracksmith",
+  "image": "https://cdn-image.tracksmith.com/1756830085-emilymaye_ts_fall25_craftsbury_06723.jpg?auto=format,compress&crop=faces&dpr=2&fit=crop&h=560&w=420",
+  "price": "$108",
+  "published": null,
+  "first_seen": "2026-10-08T17:09:31.291817+00:00"
+ },
+ "d1cac90bd4f28689": {
+  "title": "Heirloom Sweatshirt - Chicago",
+  "url": "https://www.tracksmith.com/products/m-heirloom-sweatshirt-chicago?sku=MT238MJRCHI01NCAP",
+  "source": "Tracksmith",
+  "image": "https://cdn-image.tracksmith.com/1760631268-summer25-mens-heirloom-hoodie-chicago-detail-03-0289.jpg?auto=format,compress&crop=faces&dpr=2&fit=crop&h=560&w=420",
+  "price": "$255",
+  "published": null,
+  "first_seen": "2026-10-08T17:09:31.291817+00:00"
+ },
+ "443b811ddcdc7b6a": {
+  "title": "Chicago Tee",
+  "url": "https://www.tracksmith.com/products/m-chicago-tee?sku=MT213CHI2604NDB",
+  "source": "Tracksmith",
+  "image": "https://cdn-image.tracksmith.com/1788975219-description-panel-1-2.png?auto=format,compress&crop=faces&dpr=2&fit=crop&h=560&w=420",
+  "price": "$80",
+  "published": null,
+  "first_seen": "2026-10-08T17:09:31.291817+00:00"
  }
 }
