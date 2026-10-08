@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-08T17:09:31.291817+00:00",
+ "generated_at": "2026-10-08T22:09:01.936511+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,14 +10,14 @@
    "more": 0,
    "items": [
     {
-     "title": "Mostly Sunny",
-     "phrase": "Mostly Sunny all day.",
-     "detail": "It reaches 66\u00b0 today and falls to 44\u00b0 overnight. The sun is up from 7:01 until 6:24.",
+     "title": "Mostly Clear",
+     "phrase": "Mostly Clear all day.",
+     "detail": "It reaches 63\u00b0 today and falls to 46\u00b0 overnight. The sun is up from 7:01 until 6:24.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 64,
-     "high": 66,
-     "low": 44,
+     "temp": 61,
+     "high": 63,
+     "low": 46,
      "sunrise": "7:01",
      "sunset": "6:24",
      "id": "bb806d72c86dcec1",
@@ -73,8 +73,8 @@
      "url": "https://www.nytimes.com/2026/10/08/books/nobel-prize-literature.html",
      "source": "New York Times",
      "summary": "The writer joins a list of laureates that includes Toni Morrison, Samuel Beckett and Bob Dylan.",
-     "published": "2026-10-08T16:16:47+00:00",
-     "image": "https://static01.nyt.com/images/2026/10/08/multimedia/08tbr-nobel-literature-carson-hfcg/08tbr-nobel-literature-carson-hfcg-mediumSquareAt3X-v2.jpg",
+     "published": "2026-10-08T18:56:27+00:00",
+     "image": "https://static01.nyt.com/images/2026/10/08/multimedia/08tbr-nobel-literature-carson-hfcg-copy/08tbr-nobel-literature-carson-hfcg-copy-mediumSquareAt3X-v2.jpg",
      "kind": "article",
      "id": "9a7a24cd57acb283",
      "first_seen": "2026-10-08T17:09:31.291817+00:00",
@@ -87,15 +87,15 @@
      "score": 5
     },
     {
-     "title": "South Korea recalls Ukraine envoy over prisoner-of-war row",
-     "url": "https://www.bbc.co.uk/news/articles/ckwy48rrz95vo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "summary": "It is the latest in a diplomatic spat after Kyiv disclosed that two North Korean prisoners were transferred to Seoul.",
-     "published": "2026-10-08T16:23:09+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f15e/live/fb9d5240-c2fa-11f1-b8c6-6d610e41a5d9.jpg",
+     "title": "Kushner, Witkoff to pitch \"new ideas\" to end Russia-Ukraine war",
+     "url": "https://www.axios.com/2026/10/08/ukraine-russia-war-kushner-witkoff-negotiations-winter",
+     "source": "Axios",
+     "summary": "Presidential envoys Steve Witkoff and Jared Kushner will meet with Ukrainian negotiators and European officials in Miami on Friday to present \"new ideas and proposals\" to break th\u2026",
+     "published": "2026-10-08T21:30:49+00:00",
+     "image": "https://images.axios.com/ArCY5dOCU5lQ_Mkfu7-wJ7nmh3c=/0x0:3827x2153/1366x768/2026/10/08/1791494085608.jpeg",
      "kind": "article",
-     "id": "3d9a359c4b060516",
-     "first_seen": "2026-10-08T17:09:31.291817+00:00",
+     "id": "9ab73efa88b832d3",
+     "first_seen": "2026-10-08T22:09:01.936511+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
@@ -103,15 +103,15 @@
      "score": 4
     },
     {
-     "title": "At Texas Rally, Trump and Paxton Make for an Awkward Pair",
-     "url": "https://www.nytimes.com/2026/10/07/us/elections/in-texas-trump-and-paxton-make-for-an-awkward-pair.html",
+     "title": "U.N. Warns Against Technology Used to Read Citizens\u2019 Minds",
+     "url": "https://www.nytimes.com/2026/10/08/world/europe/united-nations-technology-warning.html",
      "source": "New York Times",
-     "summary": "The president offered support for the Republican Senate candidate, after earlier grumbles, but focused much of his speech on a defense of his own record.",
-     "published": "2026-10-08T14:48:11+00:00",
-     "image": "https://static01.nyt.com/images/2026/10/07/multimedia/07dc-trump-wqfp/07dc-trump-wqfp-mediumSquareAt3X.jpg",
+     "summary": "A report by the secretary-general warned that new technologies could be used to access and criminalize people\u2019s innermost thoughts.",
+     "published": "2026-10-08T21:07:52+00:00",
+     "image": "https://static01.nyt.com/images/2026/10/08/multimedia/08sci-un-thought-crime-lzmf/08sci-un-thought-crime-lzmf-mediumSquareAt3X.jpg",
      "kind": "article",
-     "id": "a58442da0b7d7800",
-     "first_seen": "2026-10-08T17:09:31.291817+00:00",
+     "id": "e3da51c1dabb3848",
+     "first_seen": "2026-10-08T22:09:01.936511+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
@@ -119,11 +119,11 @@
      "score": 4
     },
     {
-     "title": "France Is Veering Toward a Potential Debt Crisis, a Warning to the World",
+     "title": "France Is Veering Toward a Potential Debt Crisis Amid Protests and Turmoil",
      "url": "https://www.nytimes.com/2026/10/08/business/france-bond-yields.html",
      "source": "New York Times",
      "summary": "French bond investors are demanding sharply higher interest rates, a cautionary development for other high-debt countries.",
-     "published": "2026-10-08T12:44:55+00:00",
+     "published": "2026-10-08T18:05:29+00:00",
      "image": "https://static01.nyt.com/images/2026/10/08/multimedia/08Biz-Bonds-France-03-hzmt/08Biz-Bonds-France-03-hzmt-mediumSquareAt3X.jpg",
      "kind": "article",
      "id": "99f761068afaf5c6",
@@ -145,15 +145,15 @@
    "more": 0,
    "items": [
     {
-     "title": "With Latest Update, Alexa Refuses to Pass the Aux",
-     "url": "https://hackaday.com/2026/10/08/with-latest-update-alexa-refuses-to-pass-the-aux/",
+     "title": "The 80s Called: They Say This DIY Phone Is, Like, Totally Rad",
+     "url": "https://hackaday.com/2026/10/08/the-80s-called-they-say-this-diy-phone-is-like-totally-rad/",
      "source": "Hackaday",
-     "summary": "Although the feature has been deleted from newer models, there was a time when Amazon\u2019s Echo devices included a 3.5 mm \u201caux\u201d input jack that let you connect other audio \u2026read more",
-     "published": "2026-10-08T15:30:00+00:00",
-     "image": "https://hackaday.com/wp-content/uploads/2018/01/echo.jpg",
+     "summary": "Like more than a few of us , [Kevin Noki] is sick of being pulled out of flow state by that annoyingly addictive black rectangle we all carry around. His \u2026read more",
+     "published": "2026-10-08T20:00:31+00:00",
+     "image": "https://hackaday.com/wp-content/uploads/2026/10/ADHD-brick.jpg",
      "kind": "article",
-     "id": "c5414cfdd33de217",
-     "first_seen": "2026-10-08T17:09:31.291817+00:00",
+     "id": "79ba1ef35987fa2b",
+     "first_seen": "2026-10-08T22:09:01.936511+00:00",
      "is_new": true
     },
     {
@@ -169,15 +169,15 @@
      "is_new": true
     },
     {
-     "title": "Smart LED Monitoring and Control Using KiwisIoT",
-     "url": "https://www.hackster.io/yuvansris2002/smart-led-monitoring-and-control-using-kiwisiot-347a95",
+     "title": "\u00b5Tari Go: A Handheld Atari 2600",
+     "url": "https://www.hackster.io/nickbild/tari-go-a-handheld-atari-2600-918555",
      "source": "Hackster",
-     "summary": "Control an LED remotely over Wi-Fi using NodeMCU ESP8266 and the KiwisIoT platform for simple real-time IoT control.",
-     "published": "2026-10-07T11:54:04+00:00",
-     "image": "https://hackster.imgix.net/uploads/attachments/2008581/_P1Yyf9NNZv.blob",
+     "summary": "I packed a real Atari 2600 and CRT display into a handheld.",
+     "published": "2026-10-07T12:33:53+00:00",
+     "image": "https://hackster.imgix.net/uploads/attachments/2008595/_0skfiOJZxa.blob",
      "kind": "article",
-     "id": "2d0f347d5cdc1ceb",
-     "first_seen": "2026-10-08T17:09:31.291817+00:00",
+     "id": "5c58105b60fb1ff9",
+     "first_seen": "2026-10-07T22:02:27.858254+00:00",
      "is_new": true
     },
     {
@@ -212,7 +212,7 @@
    "kind": "goods",
    "lead_image": false,
    "row_detail": false,
-   "more": 0,
+   "more": 16,
    "items": [
     {
      "title": "Turnover Half Tights",
@@ -225,6 +225,19 @@
      "kind": "product",
      "id": "093408b9a9f783b1",
      "first_seen": "2026-10-08T17:09:31.291817+00:00",
+     "is_new": true
+    },
+    {
+     "title": "Hand-Rolled Wool Print Tie in Red/Blue/Olive Foulard",
+     "url": "https://shopmashburn.com/products/sid-mashburn-wool-print-tie-red-blue-olive-foulard-s81686",
+     "source": "Sid Mashburn",
+     "summary": "Sid Ties",
+     "published": "2026-10-08T14:49:55-04:00",
+     "image": "https://cdn.shopify.com/s/files/1/0414/4532/6999/files/S81686_1031.jpg?v=1790871456",
+     "price": "$155",
+     "kind": "product",
+     "id": "df4ee5d160046158",
+     "first_seen": "2026-10-08T22:09:01.936511+00:00",
      "is_new": true
     },
     {
@@ -241,29 +254,16 @@
      "is_new": true
     },
     {
-     "title": "Heirloom Sweatshirt - Chicago",
-     "url": "https://www.tracksmith.com/products/m-heirloom-sweatshirt-chicago?sku=MT238MJRCHI01NCAP",
-     "source": "Tracksmith",
-     "summary": "",
-     "published": null,
-     "image": "https://cdn-image.tracksmith.com/1760631268-summer25-mens-heirloom-hoodie-chicago-detail-03-0289.jpg?auto=format,compress&crop=faces&dpr=2&fit=crop&h=560&w=420",
-     "price": "$255",
+     "title": "Hand-Rolled Wool Print Tie in River/Blue/Green Foulard",
+     "url": "https://shopmashburn.com/products/sid-mashburn-wool-print-tie-river-blue-green-foulard-s81691",
+     "source": "Sid Mashburn",
+     "summary": "Sid Ties",
+     "published": "2026-10-08T14:49:55-04:00",
+     "image": "https://cdn.shopify.com/s/files/1/0414/4532/6999/files/S81691_0661.jpg?v=1790871541",
+     "price": "$155",
      "kind": "product",
-     "id": "d1cac90bd4f28689",
-     "first_seen": "2026-10-08T17:09:31.291817+00:00",
-     "is_new": true
-    },
-    {
-     "title": "Chicago Tee",
-     "url": "https://www.tracksmith.com/products/m-chicago-tee?sku=MT213CHI2604NDB",
-     "source": "Tracksmith",
-     "summary": "",
-     "published": null,
-     "image": "https://cdn-image.tracksmith.com/1788975219-description-panel-1-2.png?auto=format,compress&crop=faces&dpr=2&fit=crop&h=560&w=420",
-     "price": "$80",
-     "kind": "product",
-     "id": "443b811ddcdc7b6a",
-     "first_seen": "2026-10-08T17:09:31.291817+00:00",
+     "id": "6b168307bc9d980a",
+     "first_seen": "2026-10-08T22:09:01.936511+00:00",
      "is_new": true
     }
    ]
