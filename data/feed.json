@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-09T16:47:07.910721+00:00",
+ "generated_at": "2026-10-09T21:26:56.299430+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,14 +10,14 @@
    "more": 0,
    "items": [
     {
-     "title": "Scattered Rain Showers",
-     "phrase": "A one-in-three chance of rain around 12pm.",
-     "detail": "It reaches 63\u00b0 today and falls to 36\u00b0 overnight. The sun is up from 7:02 until 6:23.",
+     "title": "Sunny",
+     "phrase": "Sunny all day.",
+     "detail": "It reaches 63\u00b0 today and falls to 38\u00b0 overnight. The sun is up from 7:02 until 6:23.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 60,
+     "temp": 62,
      "high": 63,
-     "low": 36,
+     "low": 38,
      "sunrise": "7:02",
      "sunset": "6:23",
      "id": "bb806d72c86dcec1",
@@ -69,22 +69,56 @@
    "more": 0,
    "items": [
     {
-     "title": "US imposes sanctions on International Criminal Court",
+     "title": "Navi Pillay, South African Jurist, Is Awarded the Nobel Peace Prize",
+     "url": "https://www.nytimes.com/2026/10/09/world/europe/nobel-peace-prize-navi-pillay.html",
+     "source": "New York Times",
+     "summary": "The choice drew condemnation from Israel over Ms. Pillay\u2019s role leading a U.N. commission that said the country had committed genocide against Palestinians.",
+     "published": "2026-10-09T21:21:41+00:00",
+     "image": "https://static01.nyt.com/images/2026/10/09/multimedia/09int-nobel-leadall-plzh/09int-nobel-leadall-plzh-mediumSquareAt3X.jpg",
+     "kind": "article",
+     "id": "d928c5d9504aa158",
+     "first_seen": "2026-10-09T21:26:56.299430+00:00",
+     "is_new": true,
+     "corroboration": 4,
+     "also_in": [
+      "Axios",
+      "BBC",
+      "Guardian"
+     ],
+     "boosted": true,
+     "score": 7
+    },
+    {
+     "title": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
      "url": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "summary": "The US says the measures are aimed at restricting the tribunal's resources and ability to operate.",
-     "published": "2026-10-09T16:06:59+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1175/live/0f69f420-c3f2-11f1-97a9-2d4b5e26e282.jpg",
+     "summary": "Several member states of the international tribunal, including the UK, say they \"strongly disagree\" with the sanctions.",
+     "published": "2026-10-09T18:40:10+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70c6/live/7c05c3c0-c401-11f1-9a39-31b474234113.jpg",
      "kind": "article",
      "id": "4a93d4d6cca3ccc5",
      "first_seen": "2026-10-09T16:47:07.910721+00:00",
      "is_new": true,
-     "corroboration": 2,
-     "also_in": [
-      "New York Times"
-     ],
+     "corroboration": 1,
+     "also_in": [],
      "boosted": true,
-     "score": 5
+     "score": 4
+    },
+    {
+     "title": "Trump Administration Hits International Criminal Court With Severe Sanctions",
+     "url": "https://www.nytimes.com/2026/10/09/us/politics/trump-international-criminal-court-sanctions.html",
+     "source": "New York Times",
+     "summary": "U.S. officials announced the new, sweeping punishments just hours after the Nobel Peace Prize committee gave its annual honor to a former court judge.",
+     "published": "2026-10-09T17:51:24+00:00",
+     "image": "https://static01.nyt.com/images/2026/10/09/multimedia/09dc-trump-icc-hbjz/09dc-trump-icc-hbjz-mediumSquareAt3X.jpg",
+     "kind": "article",
+     "id": "6146e444e812dbe5",
+     "first_seen": "2026-10-09T16:47:07.910721+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
     },
     {
      "title": "Ethiopia warns Eritrea it will defend itself after troops cross border",
@@ -95,42 +129,6 @@
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56c0/live/d81bf860-c3d8-11f1-95ba-dba767ffba7e.jpg",
      "kind": "article",
      "id": "9d41208b8446a5f4",
-     "first_seen": "2026-10-09T16:47:07.910721+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "ICE Shooting in New York: What We Know",
-     "url": "https://www.nytimes.com/2026/10/09/nyregion/ice-shooting-nyc-bronx.html",
-     "source": "New York Times",
-     "summary": "A 28-year-old man was shot by a federal immigration agent in New York City on Thursday. Mayor Zohran Mamdani said agents were \u201cterrorizing our city.\u201d",
-     "published": "2026-10-09T15:17:10+00:00",
-     "image": "https://static01.nyt.com/images/2026/10/09/multimedia/09met-ice-wwk-vlpg/09met-ice-wwk-vlpg-mediumSquareAt3X.jpg",
-     "kind": "article",
-     "id": "411ce332029e594f",
-     "first_seen": "2026-10-09T16:47:07.910721+00:00",
-     "is_new": true,
-     "corroboration": 4,
-     "also_in": [
-      "Axios",
-      "BBC",
-      "NPR"
-     ],
-     "boosted": false,
-     "score": 4
-    },
-    {
-     "title": "Cook Political Report tilts 18 House races toward Democrats",
-     "url": "https://www.axios.com/2026/10/09/cook-report-18-house-races-move-democrats",
-     "source": "Axios",
-     "summary": "House races in Iowa, Pennsylvania, Washington, Michigan and more are shifting in Democrats' direction, according to a Friday update from the closely watched Cook Political Report.\u2026",
-     "published": "2026-10-09T14:35:07+00:00",
-     "image": "https://images.axios.com/MqpIqeIIflZQNZfj6yXYCXY_arE=/0x0:1920x1080/1366x768/2026/09/22/1790094883692.jpeg",
-     "kind": "article",
-     "id": "d33471d6dda64379",
      "first_seen": "2026-10-09T16:47:07.910721+00:00",
      "is_new": true,
      "corroboration": 1,
@@ -149,6 +147,30 @@
    "more": 0,
    "items": [
     {
+     "title": "Two-Component H-shifter for Racing Sims",
+     "url": "https://hackaday.com/2026/10/09/two-component-h-shifter-for-racing-sims/",
+     "source": "Hackaday",
+     "summary": "Flying and driving simulators can go as far as money will take you, and at some point it might end up being cheaper to buy a plane or race car \u2026read more",
+     "published": "2026-10-09T20:00:03+00:00",
+     "image": "https://hackaday.com/wp-content/uploads/2026/10/h-shifter-main.png",
+     "kind": "article",
+     "id": "62a4926a3a646623",
+     "first_seen": "2026-10-09T21:26:56.299430+00:00",
+     "is_new": true
+    },
+    {
+     "title": "ESP8266 Voltage Sensor With KiwisIoT Dashboard",
+     "url": "https://www.hackster.io/harispidy07/esp8266-voltage-sensor-with-kiwisiot-dashboard-0ff5a1",
+     "source": "Hackster",
+     "summary": "Monitor voltage levels in real time using an ESP8266 voltage sensor and KiwisIoT dashboard. View voltage readings remotely over Wi-Fi",
+     "published": "2026-10-09T13:19:07+00:00",
+     "image": "https://hackster.imgix.net/uploads/attachments/2009357/_azL31kV4Pq.blob",
+     "kind": "article",
+     "id": "a5591f4ae831d164",
+     "first_seen": "2026-10-09T21:26:56.299430+00:00",
+     "is_new": true
+    },
+    {
      "title": "DIY Wearable Iron Man Arc Reactor with ESP32-C3 & NeoPixel",
      "url": "https://www.hackster.io/yekta1/diy-wearable-iron-man-arc-reactor-with-esp32-c3-neopixel-2fc32d",
      "source": "Hackster",
@@ -157,30 +179,6 @@
      "image": "https://hackster.imgix.net/uploads/attachments/2009288/_RISInPGehE.blob",
      "kind": "article",
      "id": "79e25b9fc7e1652c",
-     "first_seen": "2026-10-09T16:47:07.910721+00:00",
-     "is_new": true
-    },
-    {
-     "title": "Belt File from Old Mixer and Junk Bin Parts",
-     "url": "https://hackaday.com/2026/10/09/belt-file-from-old-mixer-and-junk-bin-parts/",
-     "source": "Hackaday",
-     "summary": "Making one\u2019s own power tools can be a rewarding way to upcycle parts, and [bluesyann] does exactly that with a belt file made from an old mixer. We like how \u2026read more",
-     "published": "2026-10-09T08:00:37+00:00",
-     "image": "https://hackaday.com/wp-content/uploads/2026/10/DIY-Belt-file-sander.png",
-     "kind": "article",
-     "id": "e069a8820f2a03eb",
-     "first_seen": "2026-10-09T16:47:07.910721+00:00",
-     "is_new": true
-    },
-    {
-     "title": "IoT-Based Electrical Panel Monitoring Using NodeMCU and Kiwi",
-     "url": "https://www.hackster.io/varunprasadeng/iot-based-electrical-panel-monitoring-using-nodemcu-and-kiwi-ede577",
-     "source": "Hackster",
-     "summary": "Elevator Pitch: Monitor electrical panel voltage, current, and temperature in real time using NodeMCU, sensors, and the KiwisIoT cloud dashb",
-     "published": "2026-10-09T06:48:18+00:00",
-     "image": "https://hackster.imgix.net/uploads/attachments/2009227/_j9jwOm4mtr.blob",
-     "kind": "article",
-     "id": "f6e7ac925d42db92",
      "first_seen": "2026-10-09T16:47:07.910721+00:00",
      "is_new": true
     },
@@ -267,7 +265,7 @@
      "kind": "article",
      "id": "9104400fd697557b",
      "first_seen": "2026-10-05T19:01:54.897689+00:00",
-     "is_new": true,
+     "is_new": false,
      "corroboration": 1,
      "also_in": [],
      "boosted": false,
