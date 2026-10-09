@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-09T02:14:40.553794+00:00",
+ "generated_at": "2026-10-09T16:47:07.910721+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,16 +10,16 @@
    "more": 0,
    "items": [
     {
-     "title": "Partly Cloudy",
-     "phrase": "Partly Cloudy all day.",
-     "detail": "It reaches 63\u00b0 today and falls to 46\u00b0 overnight. The sun is up from 7:01 until 6:24.",
+     "title": "Scattered Rain Showers",
+     "phrase": "A one-in-three chance of rain around 12pm.",
+     "detail": "It reaches 63\u00b0 today and falls to 36\u00b0 overnight. The sun is up from 7:02 until 6:23.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 52,
+     "temp": 60,
      "high": 63,
-     "low": 46,
-     "sunrise": "7:01",
-     "sunset": "6:24",
+     "low": 36,
+     "sunrise": "7:02",
+     "sunset": "6:23",
      "id": "bb806d72c86dcec1",
      "first_seen": "2026-08-19T17:11:19.569450+00:00",
      "is_new": false
@@ -69,73 +69,74 @@
    "more": 0,
    "items": [
     {
-     "title": "Kushner, Witkoff to pitch \"new ideas\" to end Russia-Ukraine war",
-     "url": "https://www.axios.com/2026/10/08/ukraine-russia-war-kushner-witkoff-negotiations-winter",
-     "source": "Axios",
-     "summary": "Presidential envoys Steve Witkoff and Jared Kushner will meet with Ukrainian negotiators and European officials in Miami on Friday to present \"new ideas and proposals\" to break th\u2026",
-     "published": "2026-10-08T21:30:49+00:00",
-     "image": "https://images.axios.com/ArCY5dOCU5lQ_Mkfu7-wJ7nmh3c=/0x0:3827x2153/1366x768/2026/10/08/1791494085608.jpeg",
-     "kind": "article",
-     "id": "9ab73efa88b832d3",
-     "first_seen": "2026-10-08T22:09:01.936511+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "South Korea recalls Ukraine envoy over prisoner-of-war row",
-     "url": "https://www.bbc.co.uk/news/articles/ckwy48rrz95vo?at_medium=RSS&at_campaign=rss",
+     "title": "US imposes sanctions on International Criminal Court",
+     "url": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "summary": "It is the latest in a diplomatic spat after Kyiv disclosed that two North Korean prisoners were transferred to Seoul.",
-     "published": "2026-10-08T16:23:09+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f15e/live/fb9d5240-c2fa-11f1-b8c6-6d610e41a5d9.jpg",
+     "summary": "The US says the measures are aimed at restricting the tribunal's resources and ability to operate.",
+     "published": "2026-10-09T16:06:59+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1175/live/0f69f420-c3f2-11f1-97a9-2d4b5e26e282.jpg",
      "kind": "article",
-     "id": "3d9a359c4b060516",
-     "first_seen": "2026-10-08T17:09:31.291817+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "Fort Hood attacker's execution by firing squad will be livestreamed, Pentagon says",
-     "url": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "summary": "The US Defence Secretary says the execution will be public, but a legal expert says the \"unprecedented\" decision is on \"uncertain legal terrain\".",
-     "published": "2026-10-09T01:25:33+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0816/live/4b8745c0-c35c-11f1-8787-a95282cfe51d.jpg",
-     "kind": "article",
-     "id": "7343e10e8dea17e0",
-     "first_seen": "2026-10-09T02:14:40.553794+00:00",
-     "is_new": true,
-     "corroboration": 3,
-     "also_in": [
-      "Axios",
-      "New York Times"
-     ],
-     "boosted": false,
-     "score": 3
-    },
-    {
-     "title": "The long-deployed USS Lincoln returns home to San Diego Bay",
-     "url": "https://www.npr.org/2026/10/08/nx-s1-5995911/the-long-deployed-uss-lincoln-returns-home-to-san-diego-bay",
-     "source": "NPR",
-     "summary": "The USS Abraham Lincoln aircraft carrier has returned home after a record-setting uninterrupted time at sea supporting the Iran war. The extended deployment drew attention followi\u2026",
-     "published": "2026-10-09T00:05:48+00:00",
-     "image": null,
-     "kind": "article",
-     "id": "0ec157b11a3002c7",
-     "first_seen": "2026-10-09T02:14:40.553794+00:00",
+     "id": "4a93d4d6cca3ccc5",
+     "first_seen": "2026-10-09T16:47:07.910721+00:00",
      "is_new": true,
      "corroboration": 2,
      "also_in": [
       "New York Times"
      ],
+     "boosted": true,
+     "score": 5
+    },
+    {
+     "title": "Ethiopia warns Eritrea it will defend itself after troops cross border",
+     "url": "https://www.bbc.co.uk/news/articles/c65ynvw250y1o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "summary": "Truckloads of Eritrean soldiers have been seen driving into Ethiopia, which has reportedly responded with drone strikes.",
+     "published": "2026-10-09T15:24:43+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56c0/live/d81bf860-c3d8-11f1-95ba-dba767ffba7e.jpg",
+     "kind": "article",
+     "id": "9d41208b8446a5f4",
+     "first_seen": "2026-10-09T16:47:07.910721+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
+     "title": "ICE Shooting in New York: What We Know",
+     "url": "https://www.nytimes.com/2026/10/09/nyregion/ice-shooting-nyc-bronx.html",
+     "source": "New York Times",
+     "summary": "A 28-year-old man was shot by a federal immigration agent in New York City on Thursday. Mayor Zohran Mamdani said agents were \u201cterrorizing our city.\u201d",
+     "published": "2026-10-09T15:17:10+00:00",
+     "image": "https://static01.nyt.com/images/2026/10/09/multimedia/09met-ice-wwk-vlpg/09met-ice-wwk-vlpg-mediumSquareAt3X.jpg",
+     "kind": "article",
+     "id": "411ce332029e594f",
+     "first_seen": "2026-10-09T16:47:07.910721+00:00",
+     "is_new": true,
+     "corroboration": 4,
+     "also_in": [
+      "Axios",
+      "BBC",
+      "NPR"
+     ],
      "boosted": false,
-     "score": 2
+     "score": 4
+    },
+    {
+     "title": "Cook Political Report tilts 18 House races toward Democrats",
+     "url": "https://www.axios.com/2026/10/09/cook-report-18-house-races-move-democrats",
+     "source": "Axios",
+     "summary": "House races in Iowa, Pennsylvania, Washington, Michigan and more are shifting in Democrats' direction, according to a Friday update from the closely watched Cook Political Report.\u2026",
+     "published": "2026-10-09T14:35:07+00:00",
+     "image": "https://images.axios.com/MqpIqeIIflZQNZfj6yXYCXY_arE=/0x0:1920x1080/1366x768/2026/09/22/1790094883692.jpeg",
+     "kind": "article",
+     "id": "d33471d6dda64379",
+     "first_seen": "2026-10-09T16:47:07.910721+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
     }
    ]
   },
@@ -148,64 +149,64 @@
    "more": 0,
    "items": [
     {
-     "title": "Turning a Run-Over Samsung Galaxy S23 into a Gaming PC",
-     "url": "https://hackaday.com/2026/10/08/turning-a-run-over-samsung-galaxy-s23-into-a-gaming-pc/",
+     "title": "DIY Wearable Iron Man Arc Reactor with ESP32-C3 & NeoPixel",
+     "url": "https://www.hackster.io/yekta1/diy-wearable-iron-man-arc-reactor-with-esp32-c3-neopixel-2fc32d",
+     "source": "Hackster",
+     "summary": "A standalone, wearable replica of Tony Stark's Mark I Arc Reactor powered by an ESP32-C3 SuperMini and a 24-LED WS2812B NeoPixel ring.",
+     "published": "2026-10-09T09:44:19+00:00",
+     "image": "https://hackster.imgix.net/uploads/attachments/2009288/_RISInPGehE.blob",
+     "kind": "article",
+     "id": "79e25b9fc7e1652c",
+     "first_seen": "2026-10-09T16:47:07.910721+00:00",
+     "is_new": true
+    },
+    {
+     "title": "Belt File from Old Mixer and Junk Bin Parts",
+     "url": "https://hackaday.com/2026/10/09/belt-file-from-old-mixer-and-junk-bin-parts/",
      "source": "Hackaday",
-     "summary": "Repurposing old smartphones for more general purpose computing isn\u2019t a new thing, but the project by [LastComputer] ups the ante by going from a Samsung Galaxy S23 that looks like\u2026",
-     "published": "2026-10-08T23:00:44+00:00",
-     "image": "https://hackaday.com/wp-content/uploads/2026/10/samsung_galaxy_s23_converted_lastcomputer_youtube.jpg",
+     "summary": "Making one\u2019s own power tools can be a rewarding way to upcycle parts, and [bluesyann] does exactly that with a belt file made from an old mixer. We like how \u2026read more",
+     "published": "2026-10-09T08:00:37+00:00",
+     "image": "https://hackaday.com/wp-content/uploads/2026/10/DIY-Belt-file-sander.png",
      "kind": "article",
-     "id": "972cfbfcc090480d",
-     "first_seen": "2026-10-09T02:14:40.553794+00:00",
+     "id": "e069a8820f2a03eb",
+     "first_seen": "2026-10-09T16:47:07.910721+00:00",
      "is_new": true
     },
     {
-     "title": "Dual-Motor Shield for the AURIX\u2122 TC4D7 Lite Kit",
-     "url": "https://www.hackster.io/yazid-talab/dual-motor-shield-for-the-aurix-tc4d7-lite-kit-cd7f07",
+     "title": "IoT-Based Electrical Panel Monitoring Using NodeMCU and Kiwi",
+     "url": "https://www.hackster.io/varunprasadeng/iot-based-electrical-panel-monitoring-using-nodemcu-and-kiwi-ede577",
      "source": "Hackster",
-     "summary": "Breakaway shield pair for the AURIX TC4D7 Lite Kit: drives two BLDC motors via 6EDL7141 boards. Made by AISLER, built with W\u00fcrth parts.",
-     "published": "2026-10-07T19:42:56+00:00",
-     "image": "https://hackster.imgix.net/uploads/attachments/2008711/_rzgfQQ3y5h.blob",
+     "summary": "Elevator Pitch: Monitor electrical panel voltage, current, and temperature in real time using NodeMCU, sensors, and the KiwisIoT cloud dashb",
+     "published": "2026-10-09T06:48:18+00:00",
+     "image": "https://hackster.imgix.net/uploads/attachments/2009227/_j9jwOm4mtr.blob",
      "kind": "article",
-     "id": "7261e19a18925c88",
-     "first_seen": "2026-10-08T02:00:40.834235+00:00",
+     "id": "f6e7ac925d42db92",
+     "first_seen": "2026-10-09T16:47:07.910721+00:00",
      "is_new": true
     },
     {
-     "title": "Smart LED Monitoring and Control Using KiwisIoT",
-     "url": "https://www.hackster.io/yuvansris2002/smart-led-monitoring-and-control-using-kiwisiot-347a95",
-     "source": "Hackster",
-     "summary": "Control an LED remotely over Wi-Fi using NodeMCU ESP8266 and the KiwisIoT platform for simple real-time IoT control.",
-     "published": "2026-10-07T11:54:04+00:00",
-     "image": "https://hackster.imgix.net/uploads/attachments/2008581/_P1Yyf9NNZv.blob",
-     "kind": "article",
-     "id": "2d0f347d5cdc1ceb",
-     "first_seen": "2026-10-08T17:09:31.291817+00:00",
-     "is_new": true
-    },
-    {
-     "title": "CircuitPython Turbo Sushi Conveyor Belt",
-     "url": "https://learn.adafruit.com/circuitpython-turbo-sushi-conveyor-belt",
+     "title": "Fruit Jam Motion Tracking Eyeballs",
+     "url": "https://learn.adafruit.com/fruit-jam-motion-tracking-eyeballs",
      "source": "Adafruit",
-     "summary": "Speed up your sushi conveyor belt with CircuitPython TurboBack when the Qualia S3 was first released I wanted to run the sushi conveyer belt animation on one of the long bar displ\u2026",
-     "published": "2026-09-28T19:43:10+00:00",
-     "image": "https://cdn-learn.adafruit.com/guides/images/000/004/627/medium500thumb/shorterBarSolo.gif?1790865876",
+     "summary": "Turbo-powered motion trackingDo you ever feel like someone or something is watching you? In the case of this project, it is! You can use a Fruit Jam running CircuitPython with a U\u2026",
+     "published": "2026-10-05T19:53:33+00:00",
+     "image": "https://cdn-learn.adafruit.com/guides/images/000/004/632/medium500thumb/around.gif?1791394112",
      "kind": "article",
-     "id": "9533c072016600b8",
-     "first_seen": "2026-10-02T16:04:30.794655+00:00",
-     "is_new": false
+     "id": "3a308a545e0c0f81",
+     "first_seen": "2026-10-09T16:47:07.910721+00:00",
+     "is_new": true
     },
     {
-     "title": "MirrorBallBot",
-     "url": "https://magazine.raspberrypi.com/articles/mirrorballbot",
-     "source": "MagPi",
-     "summary": "This trick uses no smoke but it does use mirrors",
-     "published": "2026-09-28T00:00:00+00:00",
-     "image": "https://www.raspberrypi.com/app/uploads/2026/09/MirrorBallBot-lead-image-web.png",
+     "title": "LED Bubble Hair Extensions with Motion Controlled Effects",
+     "url": "https://learn.adafruit.com/led-bubble-hair-extensions-with-motion-controlled-effects",
+     "source": "Adafruit",
+     "summary": "Clip-in Hair that reacts when you shake your stuffSeed pixels and a PropMaker Feather make this hair accessory dance! Tilt or shake your head to trigger raindrop animations in you\u2026",
+     "published": "2026-10-02T18:07:21+00:00",
+     "image": "https://cdn-learn.adafruit.com/guides/images/000/004/631/medium500thumb/hairgif.gif?1790986021",
      "kind": "article",
-     "id": "9b7079dbaf9b36dc",
-     "first_seen": "2026-09-28T17:56:26.445726+00:00",
-     "is_new": false
+     "id": "b8df85c34a77874e",
+     "first_seen": "2026-10-09T16:47:07.910721+00:00",
+     "is_new": true
     }
    ]
   },
@@ -216,7 +217,21 @@
    "lead_image": false,
    "row_detail": false,
    "more": 0,
-   "items": []
+   "items": [
+    {
+     "title": "Black Herringbone Cotton Fatigue Trouser",
+     "url": "https://us.drakes.com/products/black-herringbone-cotton-fatigue-trouser",
+     "source": "Drake's",
+     "summary": "Trousers",
+     "published": "2026-10-09T08:56:21-04:00",
+     "image": "https://cdn.shopify.com/s/files/1/0649/6603/3653/files/7270003000081.jpg?v=1791556902",
+     "price": "$450",
+     "kind": "product",
+     "id": "c52c043ac15ca2f8",
+     "first_seen": "2026-10-09T16:47:07.910721+00:00",
+     "is_new": true
+    }
+   ]
   },
   {
    "id": "dispatches",
