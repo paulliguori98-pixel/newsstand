@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-08T22:09:01.936511+00:00",
+ "generated_at": "2026-10-09T02:14:40.553794+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,12 +10,12 @@
    "more": 0,
    "items": [
     {
-     "title": "Mostly Clear",
-     "phrase": "Mostly Clear all day.",
+     "title": "Partly Cloudy",
+     "phrase": "Partly Cloudy all day.",
      "detail": "It reaches 63\u00b0 today and falls to 46\u00b0 overnight. The sun is up from 7:01 until 6:24.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 61,
+     "temp": 52,
      "high": 63,
      "low": 46,
      "sunrise": "7:01",
@@ -69,24 +69,6 @@
    "more": 0,
    "items": [
     {
-     "title": "Canadian Poet Anne Carson Is Awarded Nobel Prize in Literature",
-     "url": "https://www.nytimes.com/2026/10/08/books/nobel-prize-literature.html",
-     "source": "New York Times",
-     "summary": "The writer joins a list of laureates that includes Toni Morrison, Samuel Beckett and Bob Dylan.",
-     "published": "2026-10-08T18:56:27+00:00",
-     "image": "https://static01.nyt.com/images/2026/10/08/multimedia/08tbr-nobel-literature-carson-hfcg-copy/08tbr-nobel-literature-carson-hfcg-copy-mediumSquareAt3X-v2.jpg",
-     "kind": "article",
-     "id": "9a7a24cd57acb283",
-     "first_seen": "2026-10-08T17:09:31.291817+00:00",
-     "is_new": true,
-     "corroboration": 2,
-     "also_in": [
-      "Guardian"
-     ],
-     "boosted": true,
-     "score": 5
-    },
-    {
      "title": "Kushner, Witkoff to pitch \"new ideas\" to end Russia-Ukraine war",
      "url": "https://www.axios.com/2026/10/08/ukraine-russia-war-kushner-witkoff-negotiations-winter",
      "source": "Axios",
@@ -103,15 +85,15 @@
      "score": 4
     },
     {
-     "title": "U.N. Warns Against Technology Used to Read Citizens\u2019 Minds",
-     "url": "https://www.nytimes.com/2026/10/08/world/europe/united-nations-technology-warning.html",
-     "source": "New York Times",
-     "summary": "A report by the secretary-general warned that new technologies could be used to access and criminalize people\u2019s innermost thoughts.",
-     "published": "2026-10-08T21:07:52+00:00",
-     "image": "https://static01.nyt.com/images/2026/10/08/multimedia/08sci-un-thought-crime-lzmf/08sci-un-thought-crime-lzmf-mediumSquareAt3X.jpg",
+     "title": "South Korea recalls Ukraine envoy over prisoner-of-war row",
+     "url": "https://www.bbc.co.uk/news/articles/ckwy48rrz95vo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "summary": "It is the latest in a diplomatic spat after Kyiv disclosed that two North Korean prisoners were transferred to Seoul.",
+     "published": "2026-10-08T16:23:09+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f15e/live/fb9d5240-c2fa-11f1-b8c6-6d610e41a5d9.jpg",
      "kind": "article",
-     "id": "e3da51c1dabb3848",
-     "first_seen": "2026-10-08T22:09:01.936511+00:00",
+     "id": "3d9a359c4b060516",
+     "first_seen": "2026-10-08T17:09:31.291817+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
@@ -119,20 +101,41 @@
      "score": 4
     },
     {
-     "title": "France Is Veering Toward a Potential Debt Crisis Amid Protests and Turmoil",
-     "url": "https://www.nytimes.com/2026/10/08/business/france-bond-yields.html",
-     "source": "New York Times",
-     "summary": "French bond investors are demanding sharply higher interest rates, a cautionary development for other high-debt countries.",
-     "published": "2026-10-08T18:05:29+00:00",
-     "image": "https://static01.nyt.com/images/2026/10/08/multimedia/08Biz-Bonds-France-03-hzmt/08Biz-Bonds-France-03-hzmt-mediumSquareAt3X.jpg",
+     "title": "Fort Hood attacker's execution by firing squad will be livestreamed, Pentagon says",
+     "url": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "summary": "The US Defence Secretary says the execution will be public, but a legal expert says the \"unprecedented\" decision is on \"uncertain legal terrain\".",
+     "published": "2026-10-09T01:25:33+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0816/live/4b8745c0-c35c-11f1-8787-a95282cfe51d.jpg",
      "kind": "article",
-     "id": "99f761068afaf5c6",
-     "first_seen": "2026-10-08T17:09:31.291817+00:00",
+     "id": "7343e10e8dea17e0",
+     "first_seen": "2026-10-09T02:14:40.553794+00:00",
      "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
+     "corroboration": 3,
+     "also_in": [
+      "Axios",
+      "New York Times"
+     ],
+     "boosted": false,
+     "score": 3
+    },
+    {
+     "title": "The long-deployed USS Lincoln returns home to San Diego Bay",
+     "url": "https://www.npr.org/2026/10/08/nx-s1-5995911/the-long-deployed-uss-lincoln-returns-home-to-san-diego-bay",
+     "source": "NPR",
+     "summary": "The USS Abraham Lincoln aircraft carrier has returned home after a record-setting uninterrupted time at sea supporting the Iran war. The extended deployment drew attention followi\u2026",
+     "published": "2026-10-09T00:05:48+00:00",
+     "image": null,
+     "kind": "article",
+     "id": "0ec157b11a3002c7",
+     "first_seen": "2026-10-09T02:14:40.553794+00:00",
+     "is_new": true,
+     "corroboration": 2,
+     "also_in": [
+      "New York Times"
+     ],
+     "boosted": false,
+     "score": 2
     }
    ]
   },
@@ -145,15 +148,15 @@
    "more": 0,
    "items": [
     {
-     "title": "The 80s Called: They Say This DIY Phone Is, Like, Totally Rad",
-     "url": "https://hackaday.com/2026/10/08/the-80s-called-they-say-this-diy-phone-is-like-totally-rad/",
+     "title": "Turning a Run-Over Samsung Galaxy S23 into a Gaming PC",
+     "url": "https://hackaday.com/2026/10/08/turning-a-run-over-samsung-galaxy-s23-into-a-gaming-pc/",
      "source": "Hackaday",
-     "summary": "Like more than a few of us , [Kevin Noki] is sick of being pulled out of flow state by that annoyingly addictive black rectangle we all carry around. His \u2026read more",
-     "published": "2026-10-08T20:00:31+00:00",
-     "image": "https://hackaday.com/wp-content/uploads/2026/10/ADHD-brick.jpg",
+     "summary": "Repurposing old smartphones for more general purpose computing isn\u2019t a new thing, but the project by [LastComputer] ups the ante by going from a Samsung Galaxy S23 that looks like\u2026",
+     "published": "2026-10-08T23:00:44+00:00",
+     "image": "https://hackaday.com/wp-content/uploads/2026/10/samsung_galaxy_s23_converted_lastcomputer_youtube.jpg",
      "kind": "article",
-     "id": "79ba1ef35987fa2b",
-     "first_seen": "2026-10-08T22:09:01.936511+00:00",
+     "id": "972cfbfcc090480d",
+     "first_seen": "2026-10-09T02:14:40.553794+00:00",
      "is_new": true
     },
     {
@@ -169,15 +172,15 @@
      "is_new": true
     },
     {
-     "title": "\u00b5Tari Go: A Handheld Atari 2600",
-     "url": "https://www.hackster.io/nickbild/tari-go-a-handheld-atari-2600-918555",
+     "title": "Smart LED Monitoring and Control Using KiwisIoT",
+     "url": "https://www.hackster.io/yuvansris2002/smart-led-monitoring-and-control-using-kiwisiot-347a95",
      "source": "Hackster",
-     "summary": "I packed a real Atari 2600 and CRT display into a handheld.",
-     "published": "2026-10-07T12:33:53+00:00",
-     "image": "https://hackster.imgix.net/uploads/attachments/2008595/_0skfiOJZxa.blob",
+     "summary": "Control an LED remotely over Wi-Fi using NodeMCU ESP8266 and the KiwisIoT platform for simple real-time IoT control.",
+     "published": "2026-10-07T11:54:04+00:00",
+     "image": "https://hackster.imgix.net/uploads/attachments/2008581/_P1Yyf9NNZv.blob",
      "kind": "article",
-     "id": "5c58105b60fb1ff9",
-     "first_seen": "2026-10-07T22:02:27.858254+00:00",
+     "id": "2d0f347d5cdc1ceb",
+     "first_seen": "2026-10-08T17:09:31.291817+00:00",
      "is_new": true
     },
     {
@@ -212,61 +215,8 @@
    "kind": "goods",
    "lead_image": false,
    "row_detail": false,
-   "more": 16,
-   "items": [
-    {
-     "title": "Turnover Half Tights",
-     "url": "https://www.tracksmith.com/products/m-turnover-half-tights?sku=6996563918935:black__Unlined_XS",
-     "source": "Tracksmith",
-     "summary": "",
-     "published": null,
-     "image": "https://cdn-image.tracksmith.com/1756829380-emilymaye_ts_fall25_craftsbury_09827.jpg?auto=format,compress&crop=faces&dpr=2&fit=crop&h=560&w=420",
-     "price": "$80",
-     "kind": "product",
-     "id": "093408b9a9f783b1",
-     "first_seen": "2026-10-08T17:09:31.291817+00:00",
-     "is_new": true
-    },
-    {
-     "title": "Hand-Rolled Wool Print Tie in Red/Blue/Olive Foulard",
-     "url": "https://shopmashburn.com/products/sid-mashburn-wool-print-tie-red-blue-olive-foulard-s81686",
-     "source": "Sid Mashburn",
-     "summary": "Sid Ties",
-     "published": "2026-10-08T14:49:55-04:00",
-     "image": "https://cdn.shopify.com/s/files/1/0414/4532/6999/files/S81686_1031.jpg?v=1790871456",
-     "price": "$155",
-     "kind": "product",
-     "id": "df4ee5d160046158",
-     "first_seen": "2026-10-08T22:09:01.936511+00:00",
-     "is_new": true
-    },
-    {
-     "title": "Turnover Tights",
-     "url": "https://www.tracksmith.com/products/m-turnover-tights?sku=MB325401N",
-     "source": "Tracksmith",
-     "summary": "",
-     "published": null,
-     "image": "https://cdn-image.tracksmith.com/1756830085-emilymaye_ts_fall25_craftsbury_06723.jpg?auto=format,compress&crop=faces&dpr=2&fit=crop&h=560&w=420",
-     "price": "$108",
-     "kind": "product",
-     "id": "31256d499c2b9611",
-     "first_seen": "2026-10-08T17:09:31.291817+00:00",
-     "is_new": true
-    },
-    {
-     "title": "Hand-Rolled Wool Print Tie in River/Blue/Green Foulard",
-     "url": "https://shopmashburn.com/products/sid-mashburn-wool-print-tie-river-blue-green-foulard-s81691",
-     "source": "Sid Mashburn",
-     "summary": "Sid Ties",
-     "published": "2026-10-08T14:49:55-04:00",
-     "image": "https://cdn.shopify.com/s/files/1/0414/4532/6999/files/S81691_0661.jpg?v=1790871541",
-     "price": "$155",
-     "kind": "product",
-     "id": "6b168307bc9d980a",
-     "first_seen": "2026-10-08T22:09:01.936511+00:00",
-     "is_new": true
-    }
-   ]
+   "more": 0,
+   "items": []
   },
   {
    "id": "dispatches",
