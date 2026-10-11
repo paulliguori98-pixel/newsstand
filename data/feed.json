@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-11T20:21:44.754148+00:00",
+ "generated_at": "2026-10-11T23:57:18.488411+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,14 +10,14 @@
    "more": 0,
    "items": [
     {
-     "title": "Chance Rain Showers",
-     "phrase": "Rain is near certain between 4pm and 5am.",
-     "detail": "It reaches 59\u00b0 today and falls to 48\u00b0 overnight. The sun is up from 7:04 until 6:19.",
+     "title": "Rain Showers",
+     "phrase": "Rain is near certain between 7pm and 5am.",
+     "detail": "It reaches 72\u00b0 today and falls to 49\u00b0 overnight. The sun is up from 7:04 until 6:19.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 59,
-     "high": 59,
-     "low": 48,
+     "temp": 53,
+     "high": 72,
+     "low": 49,
      "sunrise": "7:04",
      "sunset": "6:19",
      "id": "bb806d72c86dcec1",
@@ -69,6 +69,54 @@
    "more": 0,
    "items": [
     {
+     "title": "Tropical Storm Rachel downgraded as high winds and rain turn inward",
+     "url": "https://www.npr.org/2026/10/11/nx-s1-5998124/tropical-storm-rachel-downgraded-as-high-winds-and-rain-turn-inward",
+     "source": "NPR",
+     "summary": "Forecasters say the storm, which brought heavy rain and coastal flooding, is a preview of what may be in store as California braces for a possibly record-setting El Ni\u00f1o.",
+     "published": "2026-10-11T23:54:21+00:00",
+     "image": null,
+     "kind": "article",
+     "id": "43da4d3d585d660c",
+     "first_seen": "2026-10-11T23:57:18.488411+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
+     "title": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
+     "url": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "summary": "Zelensky says Kyiv would support such a truce. Moscow has yet to comment.",
+     "published": "2026-10-11T21:36:40+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16d8/live/4817e400-c58a-11f1-bc2e-018d645d8d21.jpg",
+     "kind": "article",
+     "id": "551382d9bff42d38",
+     "first_seen": "2026-10-11T23:57:18.488411+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
+     "title": "Watch: What's behind Trump's energy ceasefire claim?",
+     "url": "https://www.bbc.co.uk/news/videos/cwvgde9vrdd9o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "summary": "The US president made the announcement in a social media post, which was an apparent surprise to Ukraine and Russia is yet to comment.",
+     "published": "2026-10-11T20:55:02+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a6d5/live/bfca61a0-c5b5-11f1-ad08-b9eb6b599088.jpg",
+     "kind": "article",
+     "id": "64af34442eacf7dc",
+     "first_seen": "2026-10-11T23:57:18.488411+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
      "title": "Trump announces partial ceasefire in Ukraine war as Zelenskyy says deal is \u2018news to me\u2019",
      "url": "https://www.theguardian.com/world/2026/oct/11/zelenskyy-trump-ukraine-russia-energy-ceasefire",
      "source": "Guardian",
@@ -83,57 +131,6 @@
      "also_in": [],
      "boosted": true,
      "score": 4
-    },
-    {
-     "title": "Trump claims Russia and Ukraine agree to energy ceasefire",
-     "url": "https://www.axios.com/2026/10/11/trump-russia-ukraine-energy-ceasefire-zelensky",
-     "source": "Axios",
-     "summary": "President Trump claimed Sunday that Russia and Ukraine agreed to an \"energy ceasefire\" and will halt attacks on each other's energy facilities.Ukrainian President Volodymyr Zelens\u2026",
-     "published": "2026-10-11T15:39:35+00:00",
-     "image": "https://images.axios.com/1jCEHrFByidWRa50l0KAGE6D6z8=/0x0:1920x1080/1366x768/2026/10/11/1791729286982.jpeg",
-     "kind": "article",
-     "id": "c67cb56e463c85a2",
-     "first_seen": "2026-10-11T16:07:19.797002+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "Nobel peace laureate says US sanctions on ICC 'unacceptable'",
-     "url": "https://www.bbc.co.uk/news/articles/cqkgjrpmr47vo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "summary": "Navi Pillay says the Trump administrations' sweeping penalties on the international tribunal were \"unheard of\".",
-     "published": "2026-10-10T15:23:47+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8690/live/4429a2a0-c4b5-11f1-9ce9-55293bd7f0d9.jpg",
-     "kind": "article",
-     "id": "068525c293e60db3",
-     "first_seen": "2026-10-10T15:40:32.002876+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "Pope Leo to have surgery after lump found on lung",
-     "url": "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "summary": "The 71-year-old pontiff said the nodule was identified \"at a very early stage\".",
-     "published": "2026-10-11T13:38:55+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13bb/live/c2ac8480-c569-11f1-bd33-db1f7eaf2b30.jpg",
-     "kind": "article",
-     "id": "0db1cf89e89e0989",
-     "first_seen": "2026-10-11T16:07:19.797002+00:00",
-     "is_new": true,
-     "corroboration": 3,
-     "also_in": [
-      "Axios",
-      "NPR"
-     ],
-     "boosted": false,
-     "score": 3
     }
    ]
   },
@@ -145,6 +142,18 @@
    "row_detail": true,
    "more": 0,
    "items": [
+    {
+     "title": "Turn every escape room puzzle into a Home Assistant device",
+     "url": "https://www.hackster.io/nicolaudosbrinquedos/turn-every-escape-room-puzzle-into-a-home-assistant-device-f3c456",
+     "source": "Hackster",
+     "summary": "Two open-source Arduino libraries that make each puzzle a Home Assistant device over MQTT discovery, so game and room share one place.",
+     "published": "2026-10-11T18:39:35+00:00",
+     "image": "https://hackster.imgix.net/uploads/attachments/2009817/_6KY1vfzlwY.blob",
+     "kind": "article",
+     "id": "45c0c9c971058b6d",
+     "first_seen": "2026-10-11T23:57:18.488411+00:00",
+     "is_new": true
+    },
     {
      "title": "Interfacing a 1.8in TFT Display, Rotary Enc, Switch module",
      "url": "https://www.hackster.io/john-bradnam/interfacing-a-1-8in-tft-display-rotary-enc-switch-module-c5f8a6",
@@ -167,18 +176,6 @@
      "kind": "article",
      "id": "54c8c0c9f0d4bee2",
      "first_seen": "2026-10-11T16:07:19.797002+00:00",
-     "is_new": true
-    },
-    {
-     "title": "Droidputer: Your Android Phone Becomes a Cardputer",
-     "url": "https://www.hackster.io/felipecavalcantirj/droidputer-your-android-phone-becomes-a-cardputer-6004d8",
-     "source": "Hackster",
-     "summary": "Plug an ESP32-S3 into an Android phone over USB-OTG: it runs Cardputer apps, the phone is its screen, keyboard, GPS and flasher.",
-     "published": "2026-10-10T15:11:39+00:00",
-     "image": "https://hackster.imgix.net/uploads/attachments/2009671/_cjhSb9rbOe.blob",
-     "kind": "article",
-     "id": "7f42f130b2e14404",
-     "first_seen": "2026-10-11T01:57:50.427101+00:00",
      "is_new": true
     },
     {
