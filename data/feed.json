@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-10T23:10:34.629367+00:00",
+ "generated_at": "2026-10-11T01:57:50.427101+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -11,11 +11,11 @@
    "items": [
     {
      "title": "Mostly Cloudy",
-     "phrase": "Mostly Cloudy all day.",
+     "phrase": "A one-in-five chance of rain between 1pm and 2pm.",
      "detail": "It reaches 62\u00b0 today and falls to 41\u00b0 overnight. The sun is up from 7:03 until 6:21.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 54,
+     "temp": 49,
      "high": 62,
      "low": 41,
      "sunrise": "7:03",
@@ -69,11 +69,31 @@
    "more": 0,
    "items": [
     {
+     "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
+     "url": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "summary": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
+     "published": "2026-10-11T01:41:29+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/57e8/live/ab163790-c50e-11f1-9f41-61faa76b4354.jpg",
+     "kind": "article",
+     "id": "8fd635139c0ba20b",
+     "first_seen": "2026-10-10T19:41:35.284865+00:00",
+     "is_new": true,
+     "corroboration": 4,
+     "also_in": [
+      "Axios",
+      "Guardian",
+      "New York Times"
+     ],
+     "boosted": false,
+     "score": 4
+    },
+    {
      "title": "Pentagon Again Increases Number of U.S. Casualties in Iran War",
      "url": "https://www.nytimes.com/2026/10/10/us/politics/pentagon-casualties-iran-war.html",
      "source": "New York Times",
      "summary": "In an unannounced change, the Defense Department is now acknowledging troops who died or were wounded in support roles.",
-     "published": "2026-10-10T22:44:05+00:00",
+     "published": "2026-10-11T00:01:38+00:00",
      "image": "https://static01.nyt.com/images/2026/07/23/multimedia/10dc-iran-troopdeaths/10dc-iran-troopdeaths-mediumSquareAt3X.jpg",
      "kind": "article",
      "id": "8bc05b7198c02b2f",
@@ -105,30 +125,14 @@
      "score": 4
     },
     {
-     "title": "Hanson seems more and more like the de facto opposition leader. At CPAC, Angus Taylor warmed the seat for her",
+     "title": "Pauline Hanson seems more and more like the de facto opposition leader. At CPAC, Angus Taylor warmed the seat for her",
      "url": "https://www.theguardian.com/australia-news/2026/oct/11/cpac-conference-pauline-hanson-angus-taylor-one-nation-liberals-cooperation-ntwnfb",
      "source": "Guardian",
-     "summary": "Cooperation between One Nation and the Liberals \u2018up to Angus Taylor\u2019, Pauline Hanson says at conservative conference. How would that work?Get our new political email, free app or \u2026",
+     "summary": "Cooperation between One Nation and the Liberals \u2018up to Angus Taylor\u2019, Hanson says at conservative conference. How would that work?Get our new political email, free app or daily ne\u2026",
      "published": "2026-10-10T19:00:09+00:00",
      "image": "https://i.guim.co.uk/img/media/900eda7e04bdab2d04ee65b672a788a8b3995522/286_0_2859_2287/master/2859.jpg?width=140&quality=85&auto=format&fit=max&s=bf002dfaf99d8128fd01f03dcb6377dd",
      "kind": "article",
      "id": "7ed078b4d56067b2",
-     "first_seen": "2026-10-10T19:41:35.284865+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "Falling international student numbers create \u2018massive problems\u2019 for Australian universities, expert warns",
-     "url": "https://www.theguardian.com/australia-news/2026/oct/11/falling-international-student-numbers-australian-universities",
-     "source": "Guardian",
-     "summary": "Immigration debate and visa uncertainty are putting students off and increasing pressure on budgetsGet our breaking news email, free app or daily news podcastUniversity leaders wa\u2026",
-     "published": "2026-10-10T19:00:05+00:00",
-     "image": "https://i.guim.co.uk/img/media/4bb05cf254a0d001887cc470a954f6597ff2f951/873_0_4363_3491/master/4363.jpg?width=140&quality=85&auto=format&fit=max&s=772a9ef42f8ec80e7818eb45ab59ed2e",
-     "kind": "article",
-     "id": "8855c1d13e87e0e4",
      "first_seen": "2026-10-10T19:41:35.284865+00:00",
      "is_new": true,
      "corroboration": 1,
@@ -159,6 +163,18 @@
      "is_new": true
     },
     {
+     "title": "Droidputer: Your Android Phone Becomes a Cardputer",
+     "url": "https://www.hackster.io/felipecavalcantirj/droidputer-your-android-phone-becomes-a-cardputer-6004d8",
+     "source": "Hackster",
+     "summary": "Plug an ESP32-S3 into an Android phone over USB-OTG: it runs Cardputer apps, the phone is its screen, keyboard, GPS and flasher.",
+     "published": "2026-10-10T15:11:39+00:00",
+     "image": "https://hackster.imgix.net/uploads/attachments/2009671/_cjhSb9rbOe.blob",
+     "kind": "article",
+     "id": "7f42f130b2e14404",
+     "first_seen": "2026-10-11T01:57:50.427101+00:00",
+     "is_new": true
+    },
+    {
      "title": "CH32V002 Piano",
      "url": "https://www.hackster.io/dquadros2/ch32v002-piano-ffde98",
      "source": "Hackster",
@@ -168,18 +184,6 @@
      "kind": "article",
      "id": "27d6bd5560a7338c",
      "first_seen": "2026-10-10T19:41:35.284865+00:00",
-     "is_new": true
-    },
-    {
-     "title": "DIY Wearable Iron Man Arc Reactor with ESP32-C3 & NeoPixel",
-     "url": "https://www.hackster.io/yekta1/diy-wearable-iron-man-arc-reactor-with-esp32-c3-neopixel-2fc32d",
-     "source": "Hackster",
-     "summary": "A standalone, wearable replica of Tony Stark's Mark I Arc Reactor powered by an ESP32-C3 SuperMini and a 24-LED WS2812B NeoPixel ring.",
-     "published": "2026-10-09T09:44:19+00:00",
-     "image": "https://hackster.imgix.net/uploads/attachments/2009288/_RISInPGehE.blob",
-     "kind": "article",
-     "id": "79e25b9fc7e1652c",
-     "first_seen": "2026-10-09T16:47:07.910721+00:00",
      "is_new": true
     },
     {
