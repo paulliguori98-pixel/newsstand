@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-11T16:07:19.797002+00:00",
+ "generated_at": "2026-10-11T20:21:44.754148+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,14 +10,14 @@
    "more": 0,
    "items": [
     {
-     "title": "Slight Chance Rain Showers",
-     "phrase": "Rain is near certain between 12pm and 5am.",
-     "detail": "It reaches 57\u00b0 today and falls to 47\u00b0 overnight. The sun is up from 7:04 until 6:19.",
+     "title": "Chance Rain Showers",
+     "phrase": "Rain is near certain between 4pm and 5am.",
+     "detail": "It reaches 59\u00b0 today and falls to 48\u00b0 overnight. The sun is up from 7:04 until 6:19.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 54,
-     "high": 57,
-     "low": 47,
+     "temp": 59,
+     "high": 59,
+     "low": 48,
      "sunrise": "7:04",
      "sunset": "6:19",
      "id": "bb806d72c86dcec1",
@@ -69,6 +69,22 @@
    "more": 0,
    "items": [
     {
+     "title": "Trump announces partial ceasefire in Ukraine war as Zelenskyy says deal is \u2018news to me\u2019",
+     "url": "https://www.theguardian.com/world/2026/oct/11/zelenskyy-trump-ukraine-russia-energy-ceasefire",
+     "source": "Guardian",
+     "summary": "Ukrainian president earlier rejected US call for Kyiv to stop bombing oil refineries, saying Moscow must first end attacks on energy infrastructureDonald Trump has announced an en\u2026",
+     "published": "2026-10-11T17:21:39+00:00",
+     "image": "https://i.guim.co.uk/img/media/31624713e69c27b900599e53c338c0a9581c96c6/0_0_2650_2120/master/2650.jpg?width=140&quality=85&auto=format&fit=max&s=13d2924e17bc1992a66c5fe1affdbce8",
+     "kind": "article",
+     "id": "a49756c40c1d4036",
+     "first_seen": "2026-10-11T20:21:44.754148+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
      "title": "Trump claims Russia and Ukraine agree to energy ceasefire",
      "url": "https://www.axios.com/2026/10/11/trump-russia-ukraine-energy-ceasefire-zelensky",
      "source": "Axios",
@@ -82,26 +98,6 @@
      "corroboration": 1,
      "also_in": [],
      "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "Pope Leo to have surgery after lump found on lung",
-     "url": "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "summary": "The 71-year-old pontiff said the nodule was identified \"at a very early stage\".",
-     "published": "2026-10-11T13:38:55+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13bb/live/c2ac8480-c569-11f1-bd33-db1f7eaf2b30.jpg",
-     "kind": "article",
-     "id": "0db1cf89e89e0989",
-     "first_seen": "2026-10-11T16:07:19.797002+00:00",
-     "is_new": true,
-     "corroboration": 4,
-     "also_in": [
-      "Axios",
-      "Guardian",
-      "NPR"
-     ],
-     "boosted": false,
      "score": 4
     },
     {
@@ -121,20 +117,23 @@
      "score": 4
     },
     {
-     "title": "Flydubai attacker began a 'drift towards extremism and terrorism' in Australia, UAE says",
-     "url": "https://www.bbc.co.uk/news/articles/cw3dj5n538jpo?at_medium=RSS&at_campaign=rss",
+     "title": "Pope Leo to have surgery after lump found on lung",
+     "url": "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "summary": "The United Arab Emirates' attorney-general also alleges the co-pilot was trying to crash the plane into Tel Aviv's airport.",
-     "published": "2026-10-10T04:34:55+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8092/live/6ab37a20-bfbc-11f1-a64c-550be9e3c66b.png",
+     "summary": "The 71-year-old pontiff said the nodule was identified \"at a very early stage\".",
+     "published": "2026-10-11T13:38:55+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13bb/live/c2ac8480-c569-11f1-bd33-db1f7eaf2b30.jpg",
      "kind": "article",
-     "id": "f94a21ce9616568f",
-     "first_seen": "2026-10-10T15:40:32.002876+00:00",
+     "id": "0db1cf89e89e0989",
+     "first_seen": "2026-10-11T16:07:19.797002+00:00",
      "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
+     "corroboration": 3,
+     "also_in": [
+      "Axios",
+      "NPR"
+     ],
+     "boosted": false,
+     "score": 3
     }
    ]
   },
@@ -146,6 +145,18 @@
    "row_detail": true,
    "more": 0,
    "items": [
+    {
+     "title": "Interfacing a 1.8in TFT Display, Rotary Enc, Switch module",
+     "url": "https://www.hackster.io/john-bradnam/interfacing-a-1-8in-tft-display-rotary-enc-switch-module-c5f8a6",
+     "source": "Hackster",
+     "summary": "How to 3D print a case for a ESP32-C3 microprocessor and 1.8in TFT Display/Rotary Enc/Switch module for under $15",
+     "published": "2026-10-11T15:15:35+00:00",
+     "image": "https://hackster.imgix.net/uploads/attachments/2009793/_GELsDMVqJJ.blob",
+     "kind": "article",
+     "id": "4fa3f8953f87eeca",
+     "first_seen": "2026-10-11T20:21:44.754148+00:00",
+     "is_new": true
+    },
     {
      "title": "Improving an Autorouter with a Hexagonal Grid",
      "url": "https://hackaday.com/2026/10/11/improving-an-autorouter-with-a-hexagonal-grid/",
@@ -168,18 +179,6 @@
      "kind": "article",
      "id": "7f42f130b2e14404",
      "first_seen": "2026-10-11T01:57:50.427101+00:00",
-     "is_new": true
-    },
-    {
-     "title": "CH32V002 Piano",
-     "url": "https://www.hackster.io/dquadros2/ch32v002-piano-ffde98",
-     "source": "Hackster",
-     "summary": "A simple toy piano made with a microcontroller.",
-     "published": "2026-10-10T14:35:15+00:00",
-     "image": "https://hackster.imgix.net/uploads/attachments/2009669/_tinsHPKbVY.blob",
-     "kind": "article",
-     "id": "27d6bd5560a7338c",
-     "first_seen": "2026-10-10T19:41:35.284865+00:00",
      "is_new": true
     },
     {
