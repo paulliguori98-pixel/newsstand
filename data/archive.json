@@ -5218,5 +5218,14 @@
   "price": "$68",
   "published": "2026-10-11T10:59:01-04:00",
   "first_seen": "2026-10-11T16:07:19.797002+00:00"
+ },
+ "80e94f27bed47aa1": {
+  "title": "Van Cortlandt Polo",
+  "url": "https://www.tracksmith.com/products/m-van-cortlandt-polo?sku=MT204001RR",
+  "source": "Tracksmith",
+  "image": "https://cdn-image.tracksmith.com/1731437679-van-cortlandt-polo-m.jpg?auto=format,compress&crop=faces&dpr=2&fit=crop&h=560&w=420",
+  "price": "$95",
+  "published": null,
+  "first_seen": "2026-10-12T19:35:43.926909+00:00"
  }
 }
