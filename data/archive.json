@@ -5227,5 +5227,23 @@
   "price": "$95",
   "published": null,
   "first_seen": "2026-10-12T19:35:43.926909+00:00"
+ },
+ "2562ac526d8275a1": {
+  "title": "Black Italian Doeskin Chore Jacket",
+  "url": "https://www.buckmason.com/products/black-italian-doeskin-chore-jacket",
+  "source": "Buck Mason",
+  "image": "https://cdn.shopify.com/s/files/1/0123/5065/2473/files/BM17346.1001_ITALIANDOESKINCHOREJACKETBLACK_1.jpg?v=1791909705",
+  "price": "$348",
+  "published": "2026-10-13T17:06:45+00:00",
+  "first_seen": "2026-10-13T17:19:35.231324+00:00"
+ },
+ "4e985d2a1b0235bc": {
+  "title": "Dress Navy Italian Doeskin Chore Jacket",
+  "url": "https://www.buckmason.com/products/dress-navy-italian-doeskin-chore-jacket",
+  "source": "Buck Mason",
+  "image": "https://cdn.shopify.com/s/files/1/0123/5065/2473/files/BM17346.1001_ITALIANDOESKINCHOREJACKETDRESSNAVY_1.jpg?v=1791909537",
+  "price": "$348",
+  "published": "2026-10-13T17:06:44+00:00",
+  "first_seen": "2026-10-13T17:19:35.231324+00:00"
  }
 }
