@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-13T17:19:35.231324+00:00",
+ "generated_at": "2026-10-13T21:53:41.112408+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,14 +10,14 @@
    "more": 0,
    "items": [
     {
-     "title": "Rain Showers",
-     "phrase": "Rain is near certain between 1pm and 10pm.",
-     "detail": "It reaches 65\u00b0 today and falls to 61\u00b0 overnight. The sun is up from 7:07 until 6:16.",
+     "title": "Chance Showers And Thunderstorms",
+     "phrase": "Rain is near certain between 5pm and 10pm.",
+     "detail": "It reaches 67\u00b0 today and falls to 62\u00b0 overnight. The sun is up from 7:07 until 6:16.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 61,
-     "high": 65,
-     "low": 61,
+     "temp": 67,
+     "high": 67,
+     "low": 62,
      "sunrise": "7:07",
      "sunset": "6:16",
      "id": "bb806d72c86dcec1",
@@ -69,47 +69,53 @@
    "more": 0,
    "items": [
     {
-     "title": "Trump Hands Victories to Putin, Who Offers More War in Return",
-     "url": "https://www.nytimes.com/2026/10/13/world/europe/russia-putin-trump-diesel-ukraine.html",
-     "source": "New York Times",
-     "summary": "Russia has reaped a diesel deal and an increase in U.S. pressure on Ukraine as President Trump\u2019s political needs align with his longstanding inclinations toward Russia.",
-     "published": "2026-10-13T16:13:56+00:00",
-     "image": "https://static01.nyt.com/images/2026/10/13/multimedia/13int-russia-putin-01-htqf/13int-russia-putin-01-htqf-mediumSquareAt3X.jpg",
-     "kind": "article",
-     "id": "26fe1f8bcfe0c684",
-     "first_seen": "2026-10-13T17:19:35.231324+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
      "title": "Kimberly Guilfoyle Resigns as Ambassador to Greece",
      "url": "https://www.nytimes.com/2026/10/13/us/politics/kimberly-guilfoyle-resign.html",
      "source": "New York Times",
      "summary": "Ms. Guilfoyle was asked to quit by the White House after a string of damaging reports, including that she had asked a Republican donor to pay off a credit card.",
-     "published": "2026-10-13T16:04:10+00:00",
+     "published": "2026-10-13T21:42:35+00:00",
      "image": "https://static01.nyt.com/images/2026/10/13/multimedia/13dc-guilfoyle-2-plzk/13dc-guilfoyle-2-plzk-mediumSquareAt3X.jpg",
      "kind": "article",
      "id": "0e9212d7cca67d26",
      "first_seen": "2026-10-13T17:19:35.231324+00:00",
      "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
+     "corroboration": 2,
+     "also_in": [
+      "BBC"
+     ],
      "boosted": true,
+     "score": 5
+    },
+    {
+     "title": "Pope Leo Has Lung Cancer, Vatican Says",
+     "url": "https://www.nytimes.com/2026/10/13/world/europe/pope-leo-lung-surgery.html",
+     "source": "New York Times",
+     "summary": "The surgeons removed the lower lobe of the pope\u2019s right lung after finding a cancerous nodule.",
+     "published": "2026-10-13T21:42:20+00:00",
+     "image": "https://static01.nyt.com/images/2026/10/13/multimedia/13int-pope-surgery-lwgk/13int-pope-surgery-lwgk-mediumSquareAt3X.jpg",
+     "kind": "article",
+     "id": "c2cf9e650dc262af",
+     "first_seen": "2026-10-13T21:53:41.112408+00:00",
+     "is_new": true,
+     "corroboration": 4,
+     "also_in": [
+      "Axios",
+      "BBC",
+      "Guardian"
+     ],
+     "boosted": false,
      "score": 4
     },
     {
-     "title": "MI5 Chief Warns of Escalating Hybrid Threats From Iran and Russia on British Soil",
-     "url": "https://www.nytimes.com/2026/10/13/world/europe/mi5-uk-threat-iran-russia.html",
-     "source": "New York Times",
-     "summary": "The head of Britain\u2019s domestic security agency accused Tehran and Moscow of escalating their hybrid campaigns in the U.K., and called Iran-led attacks on Jewish communities \u201csicke\u2026",
-     "published": "2026-10-13T16:04:03+00:00",
-     "image": "https://static01.nyt.com/images/2026/10/13/multimedia/13uk-mi5-iran-01-lmbt/13uk-mi5-iran-01-lmbt-mediumSquareAt3X.jpg",
+     "title": "The Trump administration warns Ukraine it could cut off intel, Zelenskyy tells NPR",
+     "url": "https://www.npr.org/2026/10/13/nx-s1-6000051/ukraine-zelenskyy-npr-interview-russia-war",
+     "source": "NPR",
+     "summary": "Ukrainian President Volodymyr Zelenskyy sat down for an interview with NPR at a time of renewed tensions with the White House.",
+     "published": "2026-10-13T18:51:55+00:00",
+     "image": null,
      "kind": "article",
-     "id": "f60d36325bbe33fb",
-     "first_seen": "2026-10-13T17:19:35.231324+00:00",
+     "id": "130ee83d3473054e",
+     "first_seen": "2026-10-13T21:53:41.112408+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
@@ -117,14 +123,14 @@
      "score": 4
     },
     {
-     "title": "Europe's alternative to Trump's China trade war",
-     "url": "https://www.axios.com/2026/10/13/europes-alternative-to-trumps-china-trade-war",
-     "source": "Axios",
-     "summary": "Europe is testing a new response to China Shock 2.0, betting that it can confront Beijing's export juggernaut without resorting to President Trump's tariff-heavy approach.Why it m\u2026",
-     "published": "2026-10-13T15:59:26+00:00",
-     "image": "https://images.axios.com/-LfeC1-oLIqIb-wYJxrSTFtYLrg=/1366x768/smart/2022/07/28/170028-1659027628957.jpg",
+     "title": "Allies did not warn Kyiv of Russian ballistic missile strikes, says Zelenskyy",
+     "url": "https://www.theguardian.com/world/2026/oct/13/allies-did-not-warn-kyiv-of-russian-ballistic-missile-strikes-says-zelenskyy",
+     "source": "Guardian",
+     "summary": "Ukrainian president\u2019s comments on \u2018particularly vile\u2019 strikes come after US threatened to halt intelligence sharingUkraine received no early warning from its partners about a Russ\u2026",
+     "published": "2026-10-13T17:17:13+00:00",
+     "image": "https://i.guim.co.uk/img/media/0bdf9ed7b96dc65009d999f39b3c6db73527da07/532_0_4808_3848/master/4808.jpg?width=140&quality=85&auto=format&fit=max&s=5f8a681e5385f4dd16ec7eb015810fe0",
      "kind": "article",
-     "id": "9bcba8da70941702",
+     "id": "1d7bf81ab30e9fa5",
      "first_seen": "2026-10-13T17:19:35.231324+00:00",
      "is_new": true,
      "corroboration": 1,
@@ -143,27 +149,15 @@
    "more": 0,
    "items": [
     {
-     "title": "Counting the PET Bottles Needed to Make 1 Kg of Printer Filament",
-     "url": "https://hackaday.com/2026/10/13/counting-the-pet-bottles-needed-to-make-1-kg-of-printer-filament/",
+     "title": "ESP-SDR Can Now Transmit",
+     "url": "https://hackaday.com/2026/10/13/esp-sdr-can-now-transmit/",
      "source": "Hackaday",
-     "summary": "In countries where PET bottles do not get slapped with an additional fee that induces you to return it for recycling and said fee back, the resulting piles of discarded \u2026read more",
-     "published": "2026-10-13T15:30:08+00:00",
-     "image": "https://hackaday.com/wp-content/uploads/2026/10/recycled_pet_bottles_filament_petcraft_youtube.jpg",
+     "summary": "Well, that was fast! Last week, we reported on two apparently simultaneous hacks using the 2.4 GHz radio inside many ESP32 variants that enabled raw access to the radio samples, \u2026\u2026",
+     "published": "2026-10-13T20:00:21+00:00",
+     "image": "https://hackaday.com/wp-content/uploads/2026/10/32322cdedecb4cb3_featured.jpeg",
      "kind": "article",
-     "id": "3f2acca2d640468a",
-     "first_seen": "2026-10-13T17:19:35.231324+00:00",
-     "is_new": true
-    },
-    {
-     "title": "Predictive Maintenance with ESP8266 and KiwisIoT",
-     "url": "https://www.hackster.io/keerthanadc19/predictive-maintenance-with-esp8266-and-kiwisiot-ddb510",
-     "source": "Hackster",
-     "summary": "Build a simple predictive maintenance monitoring system using ESP8266, a vibration sensor, and a temperature sensor with Kiwisiot platform.",
-     "published": "2026-10-13T07:15:59+00:00",
-     "image": "https://hackster.imgix.net/uploads/attachments/2010314/_aRTAnnod9B.blob",
-     "kind": "article",
-     "id": "fabf21a129ec09a4",
-     "first_seen": "2026-10-13T17:19:35.231324+00:00",
+     "id": "5a7f83531d74e530",
+     "first_seen": "2026-10-13T21:53:41.112408+00:00",
      "is_new": true
     },
     {
@@ -176,6 +170,18 @@
      "kind": "article",
      "id": "6d41c9ccab9cdfab",
      "first_seen": "2026-10-13T17:19:35.231324+00:00",
+     "is_new": true
+    },
+    {
+     "title": "Mini Retro TV: A Tiny Video Player with ESP-32",
+     "url": "https://www.hackster.io/techtalkies1/mini-retro-tv-a-tiny-video-player-with-esp-32-582d9f",
+     "source": "Hackster",
+     "summary": "This project explores video playback on an ESP32-S3 using its 2.4-inch ST7789 SPI IPS display.",
+     "published": "2026-10-12T15:35:15+00:00",
+     "image": "https://hackster.imgix.net/uploads/attachments/2010090/_1b0fg5QWOM.blob",
+     "kind": "article",
+     "id": "53b24d76378043f6",
+     "first_seen": "2026-10-12T19:35:43.926909+00:00",
      "is_new": true
     },
     {
@@ -212,6 +218,18 @@
    "row_detail": false,
    "more": 0,
    "items": [
+    {
+     "title": "Burnt Olive Jungle Cloth Tanker Jacket",
+     "url": "https://www.buckmason.com/products/burnt-olive-jungle-cloth-tanker-jacket",
+     "source": "Buck Mason",
+     "image": "https://cdn.shopify.com/s/files/1/0123/5065/2473/files/BM17313.945_JUNGLECLOTHTANKERJACKETBURNTOLIVE_1.jpg?v=1791909082",
+     "price": "$398",
+     "published": "2026-10-13T17:24:48+00:00",
+     "kind": "product",
+     "id": "0d121e8827ba8f11",
+     "first_seen": "2026-10-13T21:53:41.112408+00:00",
+     "is_new": true
+    },
     {
      "title": "Black Italian Doeskin Chore Jacket",
      "url": "https://www.buckmason.com/products/black-italian-doeskin-chore-jacket",
