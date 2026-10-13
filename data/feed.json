@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-12T19:35:43.926909+00:00",
+ "generated_at": "2026-10-13T01:36:19.409143+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,13 +10,13 @@
    "more": 0,
    "items": [
     {
-     "title": "Mostly Sunny",
-     "phrase": "Rain is likely between 3am and 8am.",
-     "detail": "It reaches 70\u00b0 today and falls to 53\u00b0 overnight. The sun is up from 7:05 until 6:18.",
+     "title": "Mostly Cloudy",
+     "phrase": "Rain is near certain between 3am and 2pm.",
+     "detail": "It reaches 66\u00b0 today and falls to 53\u00b0 overnight. The sun is up from 7:05 until 6:18.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 69,
-     "high": 70,
+     "temp": 58,
+     "high": 66,
      "low": 53,
      "sunrise": "7:05",
      "sunset": "6:18",
@@ -73,7 +73,7 @@
      "url": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
      "summary": "Despite the US president announcing energy infrastructure would not be targeted strikes have continued, Ukraine says.",
-     "published": "2026-10-12T17:32:13+00:00",
+     "published": "2026-10-12T21:20:51+00:00",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fbda/live/375348b0-c659-11f1-8600-efb62b613ab5.jpg",
      "kind": "article",
      "id": "410eece1f6012130",
@@ -87,21 +87,37 @@
      "score": 5
     },
     {
-     "title": "Federal Agents Search Home of Rep. Ilhan Omar",
-     "url": "https://www.nytimes.com/2026/10/12/us/politics/ilhan-omar-home-searched.html",
-     "source": "New York Times",
-     "summary": "The search takes place within the 60-day window of the midterm elections, when the Justice Department has historically avoided such investigative steps related to political candid\u2026",
-     "published": "2026-10-12T19:26:26+00:00",
-     "image": "https://static01.nyt.com/images/2026/10/12/multimedia/12dc-omar-pgqj/12dc-omar-pgqj-mediumSquareAt3X.jpg",
+     "title": "Australian politics live: businesses increasing prices under cover of surcharge ban, UBS economists warn; fire ants in Sydney\u2019s inner west",
+     "url": "https://www.theguardian.com/australia-news/live/2026/oct/13/labor-anthony-albanese-charity-boost-greens-ukraine-coalition-one-nation-ntwnfb",
+     "source": "Guardian",
+     "summary": "Follow the day\u2019s news liveGet our breaking news email, free app or daily news podcastRobert Pether has stressed his innocence and recalled his brush with death in his first commen\u2026",
+     "published": "2026-10-13T01:23:16+00:00",
+     "image": "https://i.guim.co.uk/img/media/c3f1358c5c393fc580a9132ca16c10a7841db539/273_0_2829_2264/master/2829.jpg?width=140&quality=85&auto=format&fit=max&s=7ae8034a8b77da5110f84d3f33daee20",
      "kind": "article",
-     "id": "09066c34d66374b2",
+     "id": "2bbbf34e878c984e",
+     "first_seen": "2026-10-13T01:36:19.409143+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
+     "title": "Feds search Rep. Ilhan Omar's home in immigration probe",
+     "url": "https://www.axios.com/2026/10/12/ilhan-omar-search-immigration",
+     "source": "Axios",
+     "summary": "Federal agents conducted a pre-dawn search Monday at the Washington home of Rep. Ilhan Omar (D-Minn.) as part of an ongoing immigration probe, a DOJ spokesperson confirmed to Axio\u2026",
+     "published": "2026-10-12T22:08:34+00:00",
+     "image": "https://images.axios.com/5k0pVqMpGpfspzIXQ4fcZPKSivI=/0x186:8256x4830/1366x768/2026/10/12/1791808601805.jpeg",
+     "kind": "article",
+     "id": "fad8f2225ab2462a",
      "first_seen": "2026-10-12T19:35:43.926909+00:00",
      "is_new": true,
      "corroboration": 4,
      "also_in": [
-      "Axios",
       "BBC",
-      "NPR"
+      "NPR",
+      "New York Times"
      ],
      "boosted": false,
      "score": 4
@@ -121,22 +137,6 @@
      "also_in": [],
      "boosted": true,
      "score": 4
-    },
-    {
-     "title": "South Africa's deputy police chief resigns after being charged with sexual offences",
-     "url": "https://www.bbc.co.uk/news/articles/c8wy9d940pyko?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "summary": "Shadrack Sibiya had denied grooming a 16-year-old and raping an 18-year-old.",
-     "published": "2026-10-12T16:46:49+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42c8/live/68991b20-c64a-11f1-b47f-e3f9cf703bc3.jpg",
-     "kind": "article",
-     "id": "993702dfd5d4747d",
-     "first_seen": "2026-10-12T19:35:43.926909+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
     }
    ]
   },
@@ -149,15 +149,15 @@
    "more": 0,
    "items": [
     {
-     "title": "The Hexa-Bouncer May Be The Most Overengineered Thing You See This Week",
-     "url": "https://hackaday.com/2026/10/12/the-hexa-bouncer-may-be-the-most-overengineered-thing-you-see-this-week/",
+     "title": "WiFi Router Does Software-Defined Radio",
+     "url": "https://hackaday.com/2026/10/12/wifi-router-does-software-defined-radio/",
      "source": "Hackaday",
-     "summary": "Sometimes, you want to build a simple project\u2013 the minimum viable product that solves your problem and nothing else. Other times you might be feeling a little extra, and want \u2026rea\u2026",
-     "published": "2026-10-12T18:30:55+00:00",
-     "image": "https://hackaday.com/wp-content/uploads/2026/10/hexabouncer-feat.jpg",
+     "summary": "Perhaps the most famous of software-defined radios is the RTL-SDR, which is very cheap because it\u2019s a digital TV receiver that\u2019s been pressed into service delivering raw I and Q \u2026\u2026",
+     "published": "2026-10-12T23:00:26+00:00",
+     "image": "https://hackaday.com/wp-content/uploads/2026/10/wifi-sdr-featured.jpg",
      "kind": "article",
-     "id": "412d389f1af40e87",
-     "first_seen": "2026-10-12T19:35:43.926909+00:00",
+     "id": "88a8407ad86fc6d1",
+     "first_seen": "2026-10-13T01:36:19.409143+00:00",
      "is_new": true
     },
     {
@@ -217,21 +217,7 @@
    "lead_image": false,
    "row_detail": false,
    "more": 0,
-   "items": [
-    {
-     "title": "Van Cortlandt Polo",
-     "url": "https://www.tracksmith.com/products/m-van-cortlandt-polo?sku=MT204001RR",
-     "source": "Tracksmith",
-     "summary": "",
-     "published": null,
-     "image": "https://cdn-image.tracksmith.com/1731437679-van-cortlandt-polo-m.jpg?auto=format,compress&crop=faces&dpr=2&fit=crop&h=560&w=420",
-     "price": "$95",
-     "kind": "product",
-     "id": "80e94f27bed47aa1",
-     "first_seen": "2026-10-12T19:35:43.926909+00:00",
-     "is_new": true
-    }
-   ]
+   "items": []
   },
   {
    "id": "dispatches",
@@ -258,32 +244,32 @@
      "score": 4
     },
     {
-     "title": "Inside Track: September 27th \u2013 October 3rd Edition",
-     "url": "https://www.putthison.com/inside-track-september-27th-october-3rd-edition-2/",
+     "title": "Inside Track: October 4th \u2013 October 10th Edition",
+     "url": "https://www.putthison.com/inside-track-october-4th-october-10th-edition-2/",
      "source": "Put This On",
-     "summary": "Here are our hand-selected favorites from eBay for this week, plus a heads-up on recommended sales. If you\u2019re a member... The post Inside Track: September 27th \u2013 October 3rd Editi\u2026",
-     "published": "2026-10-05T05:11:31+00:00",
+     "summary": "Here are our hand-selected favorites from eBay for this week, plus a heads-up on recommended sales. If you\u2019re a member... The post Inside Track: October 4th \u2013 October 10th Edition\u2026",
+     "published": "2026-10-13T01:34:18+00:00",
      "image": null,
      "kind": "article",
-     "id": "9104400fd697557b",
-     "first_seen": "2026-10-05T19:01:54.897689+00:00",
-     "is_new": false,
+     "id": "5ab78d18e1a578c8",
+     "first_seen": "2026-10-13T01:36:19.409143+00:00",
+     "is_new": true,
      "corroboration": 1,
      "also_in": [],
      "boosted": false,
      "score": 1
     },
     {
-     "title": "It\u2019s Almost Sweater Weather!",
-     "url": "https://www.putthison.com/its-almost-sweater-weather/",
+     "title": "Jacket Season!",
+     "url": "https://www.putthison.com/jacket-season/",
      "source": "Put This On",
-     "summary": "(Pictured: Handmade Cream Cable-Knit Wool Cardigan \u2013 Sz ~42) Hi everyone, it\u2019s your Shopkeeper Brynna. Are you all excited... The post It\u2019s Almost Sweater Weather! appeared first \u2026",
-     "published": "2026-10-02T18:49:20+00:00",
+     "summary": "Hi everyone, it\u2019s your Shopkeeper Brynna, here with some more hot new items from the Put This On Shop. Everyone... The post Jacket Season! appeared first on Put This On.",
+     "published": "2026-10-12T19:40:58+00:00",
      "image": null,
      "kind": "article",
-     "id": "0db0539436b6f9a9",
-     "first_seen": "2026-10-02T20:47:50.401190+00:00",
-     "is_new": false,
+     "id": "b9ea2de82fd00279",
+     "first_seen": "2026-10-13T01:36:19.409143+00:00",
+     "is_new": true,
      "corroboration": 1,
      "also_in": [],
      "boosted": false,
