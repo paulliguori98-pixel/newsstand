@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-16T21:23:25.490886+00:00",
+ "generated_at": "2026-10-16T23:51:28.716611+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,13 +10,13 @@
    "more": 0,
    "items": [
     {
-     "title": "Rain Showers",
-     "phrase": "Rain is likely between 5pm and 6pm.",
-     "detail": "It reaches 67\u00b0 today and falls to 38\u00b0 overnight. The sun is up from 7:10 until 6:11.",
+     "title": "Slight Chance Rain Showers",
+     "phrase": "Slight Chance Rain Showers all day.",
+     "detail": "It reaches 48\u00b0 today and falls to 38\u00b0 overnight. The sun is up from 7:10 until 6:11.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 66,
-     "high": 67,
+     "temp": 62,
+     "high": 48,
      "low": 38,
      "sunrise": "7:10",
      "sunset": "6:11",
@@ -138,15 +138,15 @@
    "more": 0,
    "items": [
     {
-     "title": "Disposing of PLA and Why Composting is Not an Option",
-     "url": "https://hackaday.com/2026/10/16/disposing-of-pla-and-why-composting-is-not-an-option/",
+     "title": "Simplifying Slide Rule Calculations with Trig",
+     "url": "https://hackaday.com/2026/10/16/simplifying-slide-rule-calculations-with-trig/",
      "source": "Hackaday",
-     "summary": "The \u2018biofriendly\u2019 nature of poly(lactic acid) (PLA) filament often gets touted as one of its main advantages over alternatives like PETG, but even a modicum of research ought to i\u2026",
-     "published": "2026-10-16T11:00:21+00:00",
-     "image": "https://hackaday.com/wp-content/uploads/2026/10/pla_biodegrading_test_experiment_i_built_a_thing_youtube.jpg",
+     "summary": "[Bob the Science Guy] remembers how to use a slide rule. Even after all these years, it is pretty easy to remember how to multiply and divide. If you can\u2019t \u2026read more",
+     "published": "2026-10-16T23:00:06+00:00",
+     "image": "https://hackaday.com/wp-content/uploads/2026/10/sliderule.png",
      "kind": "article",
-     "id": "dd2e906b709118db",
-     "first_seen": "2026-10-16T14:29:39.072855+00:00",
+     "id": "accb08d361b94e16",
+     "first_seen": "2026-10-16T23:51:28.716611+00:00",
      "is_new": true
     },
     {
