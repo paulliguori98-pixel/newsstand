@@ -5641,5 +5641,32 @@
   "price": "$1,050",
   "published": "2026-10-15T11:29:07-04:00",
   "first_seen": "2026-10-15T18:38:29.011839+00:00"
+ },
+ "90f7b39aa76d51c3": {
+  "title": "Brighton Base Layer",
+  "url": "https://www.tracksmith.com/products/m-brighton-base-layer-ls?sku=9672701642:earth-red__S",
+  "source": "Tracksmith",
+  "image": "https://cdn-image.tracksmith.com/1787599960-plp-rollover-image.jpg?auto=format,compress&crop=faces&dpr=2&fit=crop&h=560&w=420",
+  "price": "$100",
+  "published": null,
+  "first_seen": "2026-10-16T18:19:26.370529+00:00"
+ },
+ "4fd56ff49823c988": {
+  "title": "Sliding Match Safe Red",
+  "url": "https://www.bestmadeco.com/products/sliding-match-safe-red",
+  "source": "Best Made",
+  "image": "https://cdn.shopify.com/s/files/1/0674/2985/9558/files/MATCHSAFE-PDP-v22.jpg?v=1791979634",
+  "price": "$78",
+  "published": "2026-10-16T13:28:05-04:00",
+  "first_seen": "2026-10-16T18:19:26.370529+00:00"
+ },
+ "de2d5cca15ce7da4": {
+  "title": "Sliding Match Safe Black",
+  "url": "https://www.bestmadeco.com/products/sliding-match-safe-black",
+  "source": "Best Made",
+  "image": "https://cdn.shopify.com/s/files/1/0674/2985/9558/files/MATCHSAFE-PDP-v2.jpg?v=1791979648",
+  "price": "$78",
+  "published": "2026-10-16T13:26:51-04:00",
+  "first_seen": "2026-10-16T18:19:26.370529+00:00"
  }
 }
