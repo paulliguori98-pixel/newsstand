@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-15T21:45:41.972098+00:00",
+ "generated_at": "2026-10-16T00:02:54.778898+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,13 +10,13 @@
    "more": 0,
    "items": [
     {
-     "title": "Sunny",
-     "phrase": "Rain is near certain between 2am and 10am.",
-     "detail": "It reaches 59\u00b0 today and falls to 40\u00b0 overnight. The sun is up from 7:09 until 6:13.",
+     "title": "Partly Cloudy",
+     "phrase": "Rain is near certain between 2am and 1pm.",
+     "detail": "It reaches 67\u00b0 today and falls to 40\u00b0 overnight. The sun is up from 7:09 until 6:13.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 55,
-     "high": 59,
+     "temp": 45,
+     "high": 67,
      "low": 40,
      "sunrise": "7:09",
      "sunset": "6:13",
@@ -35,28 +35,23 @@
    "more": 0,
    "items": [
     {
-     "title": "Plant garlic.",
-     "summary": "Cloves three inches deep, pointed end up, mulched once the soil is cold. Two to three weeks before the ground freezes.",
-     "kicker": "Zone 5b \u00b7 1\u201315 October",
-     "plantings": [
-      {
-       "method": "direct",
-       "crops": "garlic \u00b7 shallot sets \u00b7 last window for winter rye"
-      }
-     ],
+     "title": "Put the beds to bed.",
+     "summary": "Pull spent annuals, mulch anything left bare, and lift the row covers before snow takes the hoops down with them.",
+     "kicker": "Zone 5b \u00b7 16\u201331 October",
+     "plantings": [],
      "reading": [
       {
        "source": "Margaret Roach",
-       "title": "How to grow garlic, a Q&A with Filaree Farm",
-       "url": "https://awaytogarden.com/how-to-grow-garlic-a-qa-with-filaree-farm-and-win-their-classic-book-on-my-favorite-allium/"
+       "title": "Fall garden tips, from cleanup to composting, with Lee Reich",
+       "url": "https://awaytogarden.com/fall-garden-tips-from-cleanup-to-composting-to-fig-tree-storage-from-lee-reich/"
       }
      ],
-     "url": "https://awaytogarden.com/how-to-grow-garlic-a-qa-with-filaree-farm-and-win-their-classic-book-on-my-favorite-allium/",
+     "url": "https://awaytogarden.com/fall-garden-tips-from-cleanup-to-composting-to-fig-tree-storage-from-lee-reich/",
      "source": "Zone 5b",
      "kind": "garden",
-     "id": "4529da7e79f727dc",
-     "first_seen": "2026-10-01T00:19:39.756703+00:00",
-     "is_new": false
+     "id": "7c2ce70a92a1859a",
+     "first_seen": "2026-10-16T00:02:54.778898+00:00",
+     "is_new": true
     }
    ]
   },
@@ -68,6 +63,22 @@
    "row_detail": false,
    "more": 0,
    "items": [
+    {
+     "title": "Trump\u2019s Deal With Russia Inflames Ukraine War He Vowed to End",
+     "url": "https://www.nytimes.com/2026/10/15/us/politics/trump-russia-ukraine.html",
+     "source": "New York Times",
+     "summary": "The Ukrainian president\u2019s defiant decision to continue attacking Russian refineries underscores President Trump\u2019s inability to end a war he had promised to resolve.",
+     "published": "2026-10-15T23:26:45+00:00",
+     "image": "https://static01.nyt.com/images/2026/10/15/multimedia/15dc-trump-ukraine-pmfg/15dc-trump-ukraine-pmfg-mediumSquareAt3X.jpg",
+     "kind": "article",
+     "id": "b75a49f62fe8c167",
+     "first_seen": "2026-10-16T00:02:54.778898+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
     {
      "title": "EU must curb energy prices to prevent people turning to populists, commissioner warns \u2013 as it happened",
      "url": "https://www.theguardian.com/world/live/2026/oct/15/ukraine-russia-war-starlink-zelenskyy-putin-elon-musk-trump-europe-latest-news",
@@ -115,22 +126,6 @@
      "also_in": [],
      "boosted": true,
      "score": 4
-    },
-    {
-     "title": "Scoop: \"OG\" Bill Gates returns to wage war on AI risks",
-     "url": "https://www.axios.com/2026/10/15/bill-gates-ai-safety-push",
-     "source": "Axios",
-     "summary": "Bill Gates is gearing up to dramatically expand his AI safety push, personally leaning on business leaders and considering a major deployment of his resources, sources tell Axios.\u2026",
-     "published": "2026-10-15T09:00:07+00:00",
-     "image": "https://images.axios.com/YhXxpV0sbdizERQtv1G0Gjo0zvM=/0x0:1920x1080/1366x768/2026/10/14/1791997308691.jpeg",
-     "kind": "article",
-     "id": "66b5a48e727d53e3",
-     "first_seen": "2026-10-15T14:38:15.449294+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
     }
    ]
   },
@@ -167,15 +162,15 @@
      "is_new": true
     },
     {
-     "title": "Digital Clock using Quarky and Quarky Connect",
-     "url": "https://www.hackster.io/vaibhavsaralaya28/digital-clock-using-quarky-and-quarky-connect-0f9163",
+     "title": "Meticom MC20901 Vision Sensor Interface",
+     "url": "https://www.hackster.io/cc1101191/meticom-mc20901-vision-sensor-interface-f26295",
      "source": "Hackster",
-     "summary": "Build a digital clock with 3 Quarky microcontrollers communicating through Quarky Connect to display hours, minute, and seconds in real time.",
-     "published": "2026-10-15T11:19:34+00:00",
-     "image": "https://hackster.imgix.net/uploads/attachments/2011265/_Ie2CC5yeQI.blob",
+     "summary": "Implement seamless high-speed MIPI CSI-2 image sensor bridging and signal integrity using the Meticom MC20901 and FPGA.",
+     "published": "2026-10-15T08:06:51+00:00",
+     "image": "https://hackster.imgix.net/uploads/attachments/2011237/_q59nPlSg7j.blob",
      "kind": "article",
-     "id": "1c517f3735980a61",
-     "first_seen": "2026-10-15T21:45:41.972098+00:00",
+     "id": "5bea30158d8e1174",
+     "first_seen": "2026-10-15T18:38:29.011839+00:00",
      "is_new": true
     },
     {
@@ -210,61 +205,8 @@
    "kind": "goods",
    "lead_image": false,
    "row_detail": false,
-   "more": 17,
-   "items": [
-    {
-     "title": "Downeaster Half Zip",
-     "url": "https://www.tracksmith.com/products/m-downeaster?sku=7471993847895:earth-red__XS",
-     "source": "Tracksmith",
-     "summary": "",
-     "published": null,
-     "image": "https://cdn-image.tracksmith.com/1760284202-ts_em_michigan03454.jpg?auto=format,compress&crop=faces&dpr=2&fit=crop&h=560&w=420",
-     "price": "$170",
-     "kind": "product",
-     "id": "780358d4d76f1256",
-     "first_seen": "2026-10-15T18:38:29.011839+00:00",
-     "is_new": true
-    },
-    {
-     "title": "Hand-Rolled Silk Print Tie in Beet/Avocado/Yellow Flower",
-     "url": "https://shopmashburn.com/products/petronius-silk-print-tie-beet-avocado-yellow-flower-s81731",
-     "source": "Sid Mashburn",
-     "summary": "Sid Ties",
-     "published": "2026-10-15T11:29:16-04:00",
-     "image": "https://cdn.shopify.com/s/files/1/0414/4532/6999/files/S81731_0820.jpg?v=1791925088",
-     "price": "$215",
-     "kind": "product",
-     "id": "1c954db7b461ab83",
-     "first_seen": "2026-10-15T18:38:29.011839+00:00",
-     "is_new": true
-    },
-    {
-     "title": "Black Heavyweight Suede A-2 Bomber Jacket",
-     "url": "https://us.drakes.com/products/black-heavyweight-suede-a-2-bomber-jacket",
-     "source": "Drake's",
-     "summary": "Jackets",
-     "published": "2026-10-15T06:01:27-04:00",
-     "image": "https://cdn.shopify.com/s/files/1/0649/6603/3653/files/595400070009B.jpg?v=1792056080",
-     "price": "$2,295",
-     "kind": "product",
-     "id": "12603ed9aa656d00",
-     "first_seen": "2026-10-15T14:38:15.449294+00:00",
-     "is_new": true
-    },
-    {
-     "title": "Downeaster Pants",
-     "url": "https://www.tracksmith.com/products/m-downeaster-pants?sku=MB325101N",
-     "source": "Tracksmith",
-     "summary": "",
-     "published": null,
-     "image": "https://cdn-image.tracksmith.com/1762274759-ts_em_holiday_25_06132.jpg?auto=format,compress&crop=faces&dpr=2&fit=crop&h=560&w=420",
-     "price": "$150",
-     "kind": "product",
-     "id": "a6714669aac4e426",
-     "first_seen": "2026-10-15T18:38:29.011839+00:00",
-     "is_new": true
-    }
-   ]
+   "more": 0,
+   "items": []
   },
   {
    "id": "dispatches",
