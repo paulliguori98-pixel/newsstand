@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-17T13:26:11.069806+00:00",
+ "generated_at": "2026-10-17T16:38:19.505928+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,12 +10,12 @@
    "more": 0,
    "items": [
     {
-     "title": "Mostly Cloudy",
-     "phrase": "Mostly Cloudy all day.",
+     "title": "Partly Sunny",
+     "phrase": "Partly Sunny all day.",
      "detail": "It reaches 48\u00b0 today and falls to 25\u00b0 overnight. The sun is up from 7:11 until 6:09.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 42,
+     "temp": 46,
      "high": 48,
      "low": 25,
      "sunrise": "7:11",
@@ -64,21 +64,44 @@
    "more": 0,
    "items": [
     {
-     "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
-     "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "summary": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
-     "published": "2026-10-17T11:56:06+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c147/live/f608c860-c9cf-11f1-84c1-fd3c3266bb86.jpg",
+     "title": "Trump\u2019s pause on Russia sanctions is \u2018reward\u2019 for Putin, Zelenskyy says",
+     "url": "https://www.theguardian.com/world/2026/oct/17/volodymyr-zelenskyy-donald-trump-lift-sanctions-russia-intensify-war-ukraine",
+     "source": "Guardian",
+     "summary": "Ukrainian president warns it will embolden Russian leader and intensify war as Moscow hits country\u2019s power plantsPower plant attacks reflect Russian blueprint to make Ukrainian ci\u2026",
+     "published": "2026-10-17T15:38:17+00:00",
+     "image": "https://i.guim.co.uk/img/media/66d7fc900581121c0e7d134eb1ebcd4cda702d73/153_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=8a30e5931032880fca4c56248a2fdec3",
      "kind": "article",
-     "id": "b6bb1637df093af8",
-     "first_seen": "2026-10-17T13:26:11.069806+00:00",
+     "id": "8094cfe51f0081ba",
+     "first_seen": "2026-10-17T16:38:19.505928+00:00",
      "is_new": true,
-     "corroboration": 2,
+     "corroboration": 4,
      "also_in": [
-      "Axios"
+      "Axios",
+      "BBC",
+      "NPR"
      ],
      "boosted": true,
+     "score": 7
+    },
+    {
+     "title": "Pope Leo Leaves Hospital, Days After Lung Cancer Surgery",
+     "url": "https://www.nytimes.com/2026/10/17/world/europe/pope-leo-discharged-hospital.html",
+     "source": "New York Times",
+     "summary": "Leo XIV had been treated for lung cancer at Gemelli Hospital in Rome.",
+     "published": "2026-10-17T16:17:00+00:00",
+     "image": "https://static01.nyt.com/images/2026/10/17/multimedia/17int-pope-discharged-cfgk/17int-pope-discharged-cfgk-mediumSquareAt3X.jpg",
+     "kind": "article",
+     "id": "f76392c23980e2fc",
+     "first_seen": "2026-10-17T13:26:11.069806+00:00",
+     "is_new": true,
+     "corroboration": 5,
+     "also_in": [
+      "Axios",
+      "BBC",
+      "Guardian",
+      "NPR"
+     ],
+     "boosted": false,
      "score": 5
     },
     {
@@ -86,7 +109,7 @@
      "url": "https://www.nytimes.com/2026/10/17/us/elections/hegseth-singled-out-in-democrats-campaign-attacks-for-war-and-high-prices.html",
      "source": "New York Times",
      "summary": "Cabinet members are seldom major figures in campaigns, but the defense secretary\u2019s forays into politics and his bravado in defense of an unpopular war have made him a target.",
-     "published": "2026-10-17T09:00:59+00:00",
+     "published": "2026-10-17T16:17:50+00:00",
      "image": "https://static01.nyt.com/images/2026/10/16/multimedia/00DC-HEGSETH-CAMPAIGN-lgfq/00DC-HEGSETH-CAMPAIGN-lgfq-mediumSquareAt3X.jpg",
      "kind": "article",
      "id": "5fd00f55d423041e",
@@ -112,22 +135,6 @@
      "also_in": [],
      "boosted": true,
      "score": 4
-    },
-    {
-     "title": "No 10 leaves option open to impose Chinese EV tariffs if UK joins EU scheme",
-     "url": "https://www.theguardian.com/politics/2026/oct/16/uk-chinese-electric-vehicle-ev-tariffs-eu-made-in-europe-scheme",
-     "source": "Guardian",
-     "summary": "Beijing warns against \u2018discriminatory\u2019 step after France drops opposition to British role in Made in Europe packageNo 10 has left the door open to imposing tariffs on Chinese-made\u2026",
-     "published": "2026-10-16T18:09:34+00:00",
-     "image": "https://i.guim.co.uk/img/media/d50e0bb4a5fc6d77b7f869e6a131ef2969dbc048/1000_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=14d31939a47c4da3f3e2315e5ad5091a",
-     "kind": "article",
-     "id": "f5f1b4205845f9ab",
-     "first_seen": "2026-10-16T18:19:26.370529+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
     }
    ]
   },
@@ -139,6 +146,18 @@
    "row_detail": true,
    "more": 0,
    "items": [
+    {
+     "title": "AC/DC Clamp Meter App \u2013 Free Phone Current Meter | SoifGo",
+     "url": "https://www.hackster.io/ssm20985/ac-dc-clamp-meter-app-free-phone-current-meter-soifgo-33ec8c",
+     "source": "Hackster",
+     "summary": "Turn your Android phone into a free AC and DC clamp meter using its built-in magnetic sensor. Measure current on single wires or two-core ca",
+     "published": "2026-10-17T11:46:05+00:00",
+     "image": "https://hackster.imgix.net/uploads/attachments/2011810/_M7IjQ4Vhlh.blob",
+     "kind": "article",
+     "id": "fcd7243f6c019c48",
+     "first_seen": "2026-10-17T16:38:19.505928+00:00",
+     "is_new": true
+    },
     {
      "title": "SolidCraft is Parametric, Automation-friendly CAD for Desktop and Browser",
      "url": "https://hackaday.com/2026/10/17/solidcraft-is-parametric-automation-friendly-cad-for-desktop-and-browser/",
@@ -160,18 +179,6 @@
      "image": "https://hackster.imgix.net/uploads/attachments/2011790/_v3ZUMeh0VQ.blob",
      "kind": "article",
      "id": "68b9cf23010b51e4",
-     "first_seen": "2026-10-17T13:26:11.069806+00:00",
-     "is_new": true
-    },
-    {
-     "title": "TinyML LoRaWAN industrial machine vibration sensor",
-     "url": "https://www.hackster.io/nvzentech/tinyml-lorawan-industrial-machine-vibration-sensor-637bbc",
-     "source": "Hackster",
-     "summary": "We propose a optimized TinyML classifier on-device to continuously analyze vibration patterns and detect mechanical faults at the edge",
-     "published": "2026-10-17T07:20:20+00:00",
-     "image": "https://hackster.imgix.net/uploads/attachments/2011785/_STGSgPLSL8.blob",
-     "kind": "article",
-     "id": "e263747c6006e9de",
      "first_seen": "2026-10-17T13:26:11.069806+00:00",
      "is_new": true
     },
@@ -208,7 +215,21 @@
    "lead_image": false,
    "row_detail": false,
    "more": 0,
-   "items": []
+   "items": [
+    {
+     "title": "Brighton Base Layer - Chicago",
+     "url": "https://www.tracksmith.com/products/m-chicago-brighton-base-layer?sku=MT217CHI2604NCRN",
+     "source": "Tracksmith",
+     "summary": "",
+     "published": null,
+     "image": "https://cdn.shopify.com/s/files/1/1594/4353/files/Chicago26-Mens-Brighton-Base-Layer-On-Model.png?v=1787853162&width=800&height=800&crop=center",
+     "price": "$110",
+     "kind": "product",
+     "id": "440cc20c29afbf33",
+     "first_seen": "2026-10-17T16:38:19.505928+00:00",
+     "is_new": true
+    }
+   ]
   },
   {
    "id": "dispatches",
