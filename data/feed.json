@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-17T21:12:44.329232+00:00",
+ "generated_at": "2026-10-17T23:10:31.949451+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,13 +10,13 @@
    "more": 0,
    "items": [
     {
-     "title": "Sunny",
-     "phrase": "Sunny all day.",
-     "detail": "It reaches 48\u00b0 today and falls to 28\u00b0 overnight. The sun is up from 7:11 until 6:09.",
+     "title": "Clear",
+     "phrase": "Clear all day.",
+     "detail": "It reaches 55\u00b0 today and falls to 28\u00b0 overnight. The sun is up from 7:11 until 6:09.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 46,
-     "high": 48,
+     "temp": 41,
+     "high": 55,
      "low": 28,
      "sunrise": "7:11",
      "sunset": "6:09",
@@ -146,15 +146,15 @@
    "more": 0,
    "items": [
     {
-     "title": "Building a Flying Drone With a Single Propeller",
-     "url": "https://hackaday.com/2026/10/17/building-a-flying-drone-with-a-single-propeller/",
+     "title": "2026 Retrocomputing Challenge: Dollhouse Arcade Cabinet Runs Remote DOS Games",
+     "url": "https://hackaday.com/2026/10/17/2026-retrocomputing-challenge-dollhouse-arcade-cabinet-runs-remote-dos-games/",
      "source": "Hackaday",
-     "summary": "Technically all that you need in order to make a drone fly is a single motor and single propeller, but realistically it becomes basically impossible to fly it at that \u2026read more",
-     "published": "2026-10-17T20:00:11+00:00",
-     "image": "https://hackaday.com/wp-content/uploads/2026/10/single_propeller_drone_joshua_bird_youtube.jpg",
+     "summary": "Classic DOS games never ran from within stand-up arcade cabinets in dollhouses, but [Juha Lilja] imagines a world in which they did. His Micro DOS arcade cabinet is described as \u2026\u2026",
+     "published": "2026-10-17T23:00:24+00:00",
+     "image": "https://hackaday.com/wp-content/uploads/2026/10/Micro-DOS-Arcade-Cabinet-2-banner.png",
      "kind": "article",
-     "id": "559a6029f147a5c6",
-     "first_seen": "2026-10-17T21:12:44.329232+00:00",
+     "id": "67e63c7ba29a6ae9",
+     "first_seen": "2026-10-17T23:10:31.949451+00:00",
      "is_new": true
     },
     {
