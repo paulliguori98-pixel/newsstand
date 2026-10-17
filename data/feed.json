@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-17T16:38:19.505928+00:00",
+ "generated_at": "2026-10-17T18:48:45.865901+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,14 +10,14 @@
    "more": 0,
    "items": [
     {
-     "title": "Partly Sunny",
-     "phrase": "Partly Sunny all day.",
-     "detail": "It reaches 48\u00b0 today and falls to 25\u00b0 overnight. The sun is up from 7:11 until 6:09.",
+     "title": "Sunny",
+     "phrase": "Sunny all day.",
+     "detail": "It reaches 48\u00b0 today and falls to 28\u00b0 overnight. The sun is up from 7:11 until 6:09.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 46,
+     "temp": 48,
      "high": 48,
-     "low": 25,
+     "low": 28,
      "sunrise": "7:11",
      "sunset": "6:09",
      "id": "bb806d72c86dcec1",
@@ -64,20 +64,20 @@
    "more": 0,
    "items": [
     {
-     "title": "Trump\u2019s pause on Russia sanctions is \u2018reward\u2019 for Putin, Zelenskyy says",
-     "url": "https://www.theguardian.com/world/2026/oct/17/volodymyr-zelenskyy-donald-trump-lift-sanctions-russia-intensify-war-ukraine",
-     "source": "Guardian",
-     "summary": "Ukrainian president warns it will embolden Russian leader and intensify war as Moscow hits country\u2019s power plantsPower plant attacks reflect Russian blueprint to make Ukrainian ci\u2026",
-     "published": "2026-10-17T15:38:17+00:00",
-     "image": "https://i.guim.co.uk/img/media/66d7fc900581121c0e7d134eb1ebcd4cda702d73/153_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=8a30e5931032880fca4c56248a2fdec3",
+     "title": "Trump waives new Russia sanctions in the \"national interests\"",
+     "url": "https://www.axios.com/2026/10/17/trump-russia-sanctions",
+     "source": "Axios",
+     "summary": "President Trump waived new sanctions on Russia late Friday night, saying it was in the \"national interests\" to hold off on the sweeping levies under the Graham Act that he signed \u2026",
+     "published": "2026-10-17T17:20:45+00:00",
+     "image": "https://images.axios.com/AyQRHciTjgBxiAmzH5bFs0Djt8s=/0x67:3796x2202/1366x768/2026/10/17/1792229739170.jpeg",
      "kind": "article",
-     "id": "8094cfe51f0081ba",
-     "first_seen": "2026-10-17T16:38:19.505928+00:00",
+     "id": "a882d846fb06550b",
+     "first_seen": "2026-10-17T13:26:11.069806+00:00",
      "is_new": true,
      "corroboration": 4,
      "also_in": [
-      "Axios",
       "BBC",
+      "Guardian",
       "NPR"
      ],
      "boosted": true,
