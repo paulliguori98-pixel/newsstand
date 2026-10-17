@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-17T18:48:45.865901+00:00",
+ "generated_at": "2026-10-17T21:12:44.329232+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -15,7 +15,7 @@
      "detail": "It reaches 48\u00b0 today and falls to 28\u00b0 overnight. The sun is up from 7:11 until 6:09.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 48,
+     "temp": 46,
      "high": 48,
      "low": 28,
      "sunrise": "7:11",
@@ -64,60 +64,59 @@
    "more": 0,
    "items": [
     {
-     "title": "Trump waives new Russia sanctions in the \"national interests\"",
-     "url": "https://www.axios.com/2026/10/17/trump-russia-sanctions",
-     "source": "Axios",
-     "summary": "President Trump waived new sanctions on Russia late Friday night, saying it was in the \"national interests\" to hold off on the sweeping levies under the Graham Act that he signed \u2026",
-     "published": "2026-10-17T17:20:45+00:00",
-     "image": "https://images.axios.com/AyQRHciTjgBxiAmzH5bFs0Djt8s=/0x67:3796x2202/1366x768/2026/10/17/1792229739170.jpeg",
+     "title": "Graham Breaks With Trump Over Russia Sanctions Law Her Brother Championed",
+     "url": "https://www.nytimes.com/2026/10/17/us/politics/graham-trump-russia-sanctions-law.html",
+     "source": "New York Times",
+     "summary": "Senator Darline Graham, appointed to fill the Senate seat of her late brother, Lindsey, gently disagreed with the president\u2019s decision to exempt Russia from the sanctions legislat\u2026",
+     "published": "2026-10-17T20:14:00+00:00",
+     "image": "https://static01.nyt.com/images/2026/10/17/multimedia/17DC-GRAHAM-UKRAINE-2-zlcw/17DC-GRAHAM-UKRAINE-2-zlcw-mediumSquareAt3X.jpg",
      "kind": "article",
-     "id": "a882d846fb06550b",
-     "first_seen": "2026-10-17T13:26:11.069806+00:00",
+     "id": "bc1a0a29be5769e3",
+     "first_seen": "2026-10-17T21:12:44.329232+00:00",
      "is_new": true,
-     "corroboration": 4,
+     "corroboration": 2,
      "also_in": [
-      "BBC",
-      "Guardian",
-      "NPR"
+      "Axios"
      ],
      "boosted": true,
-     "score": 7
-    },
-    {
-     "title": "Pope Leo Leaves Hospital, Days After Lung Cancer Surgery",
-     "url": "https://www.nytimes.com/2026/10/17/world/europe/pope-leo-discharged-hospital.html",
-     "source": "New York Times",
-     "summary": "Leo XIV had been treated for lung cancer at Gemelli Hospital in Rome.",
-     "published": "2026-10-17T16:17:00+00:00",
-     "image": "https://static01.nyt.com/images/2026/10/17/multimedia/17int-pope-discharged-cfgk/17int-pope-discharged-cfgk-mediumSquareAt3X.jpg",
-     "kind": "article",
-     "id": "f76392c23980e2fc",
-     "first_seen": "2026-10-17T13:26:11.069806+00:00",
-     "is_new": true,
-     "corroboration": 5,
-     "also_in": [
-      "Axios",
-      "BBC",
-      "Guardian",
-      "NPR"
-     ],
-     "boosted": false,
      "score": 5
     },
     {
-     "title": "Hegseth Singled Out in Democrats\u2019 Campaign Attacks for War and High Prices",
-     "url": "https://www.nytimes.com/2026/10/17/us/elections/hegseth-singled-out-in-democrats-campaign-attacks-for-war-and-high-prices.html",
-     "source": "New York Times",
-     "summary": "Cabinet members are seldom major figures in campaigns, but the defense secretary\u2019s forays into politics and his bravado in defense of an unpopular war have made him a target.",
-     "published": "2026-10-17T16:17:50+00:00",
-     "image": "https://static01.nyt.com/images/2026/10/16/multimedia/00DC-HEGSETH-CAMPAIGN-lgfq/00DC-HEGSETH-CAMPAIGN-lgfq-mediumSquareAt3X.jpg",
+     "title": "Trump\u2019s pause on Russia sanctions is \u2018reward\u2019 for Putin, Zelenskyy says",
+     "url": "https://www.theguardian.com/world/2026/oct/17/volodymyr-zelenskyy-donald-trump-lift-sanctions-russia-intensify-war-ukraine",
+     "source": "Guardian",
+     "summary": "Ukrainian president warns it will embolden Russian leader and intensify war as Moscow hits country\u2019s power plantsPower plant attacks reflect Russian blueprint to make Ukrainian ci\u2026",
+     "published": "2026-10-17T15:38:17+00:00",
+     "image": "https://i.guim.co.uk/img/media/66d7fc900581121c0e7d134eb1ebcd4cda702d73/153_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=8a30e5931032880fca4c56248a2fdec3",
      "kind": "article",
-     "id": "5fd00f55d423041e",
-     "first_seen": "2026-10-17T13:26:11.069806+00:00",
+     "id": "8094cfe51f0081ba",
+     "first_seen": "2026-10-17T16:38:19.505928+00:00",
      "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
+     "corroboration": 2,
+     "also_in": [
+      "NPR"
+     ],
      "boosted": true,
+     "score": 5
+    },
+    {
+     "title": "Pope Leo XIV leaves hospital days after lung cancer surgery",
+     "url": "https://www.npr.org/2026/10/17/nx-s1-6006762/pope-leo-xiv-leaves-hospital-days-after-lung-cancer-surgery",
+     "source": "NPR",
+     "summary": "The Pope left Rome's Gemelli Hospital Saturday, days after surgery for lung cancer removed the lower lobe of his right lung. He is currently scheduled to travel to Latin America i\u2026",
+     "published": "2026-10-17T15:10:14+00:00",
+     "image": null,
+     "kind": "article",
+     "id": "fab603b3d3d93c76",
+     "first_seen": "2026-10-17T16:38:19.505928+00:00",
+     "is_new": true,
+     "corroboration": 4,
+     "also_in": [
+      "Axios",
+      "BBC",
+      "Guardian"
+     ],
+     "boosted": false,
      "score": 4
     },
     {
@@ -147,6 +146,18 @@
    "more": 0,
    "items": [
     {
+     "title": "Building a Flying Drone With a Single Propeller",
+     "url": "https://hackaday.com/2026/10/17/building-a-flying-drone-with-a-single-propeller/",
+     "source": "Hackaday",
+     "summary": "Technically all that you need in order to make a drone fly is a single motor and single propeller, but realistically it becomes basically impossible to fly it at that \u2026read more",
+     "published": "2026-10-17T20:00:11+00:00",
+     "image": "https://hackaday.com/wp-content/uploads/2026/10/single_propeller_drone_joshua_bird_youtube.jpg",
+     "kind": "article",
+     "id": "559a6029f147a5c6",
+     "first_seen": "2026-10-17T21:12:44.329232+00:00",
+     "is_new": true
+    },
+    {
      "title": "AC/DC Clamp Meter App \u2013 Free Phone Current Meter | SoifGo",
      "url": "https://www.hackster.io/ssm20985/ac-dc-clamp-meter-app-free-phone-current-meter-soifgo-33ec8c",
      "source": "Hackster",
@@ -156,18 +167,6 @@
      "kind": "article",
      "id": "fcd7243f6c019c48",
      "first_seen": "2026-10-17T16:38:19.505928+00:00",
-     "is_new": true
-    },
-    {
-     "title": "SolidCraft is Parametric, Automation-friendly CAD for Desktop and Browser",
-     "url": "https://hackaday.com/2026/10/17/solidcraft-is-parametric-automation-friendly-cad-for-desktop-and-browser/",
-     "source": "Hackaday",
-     "summary": "If you\u2019re looking to try a new, open source 3D modeling CAD suite, especially one with automation-friendly interfaces, take a look at SolidCraft. It\u2019s under development but there\u2019\u2026",
-     "published": "2026-10-17T11:00:51+00:00",
-     "image": "https://hackaday.com/wp-content/uploads/2026/10/rover-poster.jpg",
-     "kind": "article",
-     "id": "ef6847a1a2b5bc1a",
-     "first_seen": "2026-10-17T13:26:11.069806+00:00",
      "is_new": true
     },
     {
