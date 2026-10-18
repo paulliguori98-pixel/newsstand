@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-18T17:03:25.646310+00:00",
+ "generated_at": "2026-10-18T19:27:35.510972+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -12,12 +12,12 @@
     {
      "title": "Sunny",
      "phrase": "Sunny all day.",
-     "detail": "It reaches 58\u00b0 today and falls to 29\u00b0 overnight. The sun is up from 7:13 until 6:08.",
+     "detail": "It reaches 56\u00b0 today and falls to 32\u00b0 overnight. The sun is up from 7:13 until 6:08.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 53,
-     "high": 58,
-     "low": 29,
+     "temp": 55,
+     "high": 56,
+     "low": 32,
      "sunrise": "7:13",
      "sunset": "6:08",
      "id": "bb806d72c86dcec1",
@@ -82,6 +82,22 @@
      "score": 5
     },
     {
+     "title": "Trump defers federal diesel taxes to help farmers, but states issue warnings",
+     "url": "https://www.npr.org/2026/10/18/nx-s1-5996662/trump-suspends-federal-diesel-taxes-to-help-farmers-but-states-issue-warnings",
+     "source": "NPR",
+     "summary": "President Trump's executive order deferring federal taxes on diesel is aimed at helping farmers but it's more complicated than it sounds and states are warning drivers they may ow\u2026",
+     "published": "2026-10-18T12:00:57+00:00",
+     "image": null,
+     "kind": "article",
+     "id": "90e93dae573b4e5a",
+     "first_seen": "2026-10-18T19:27:35.510972+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
      "title": "Wanted: Chief small talk officers. Awkward applicants welcome",
      "url": "https://www.axios.com/2026/10/18/small-talk-officer-job-social-skills",
      "source": "Axios",
@@ -91,22 +107,6 @@
      "kind": "article",
      "id": "372b842aebd8e454",
      "first_seen": "2026-10-18T13:44:56.016493+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "Zelenskyy urges support for new US sanctions on Russia after Trump puts them on hold",
-     "url": "https://www.npr.org/2026/10/17/nx-s1-6006745/us-sanctions-russia",
-     "source": "NPR",
-     "summary": "Zelenskyy described the move as unfortunate, adding it would encourage Russia to continue its assault. Trump told Congress that the pause was in the national interest but gave no \u2026",
-     "published": "2026-10-17T14:25:10+00:00",
-     "image": null,
-     "kind": "article",
-     "id": "79f6bbd497cff1a6",
-     "first_seen": "2026-10-17T16:38:19.505928+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
@@ -288,5 +288,7 @@
    ]
   }
  ],
- "errors": []
+ "errors": [
+  "Drake's: RuntimeError \u2014 /products.json \u2192 empty \u2014 this store may not be Shopify (check https://us.drakes.com/products.json in a browser)"
+ ]
 }
