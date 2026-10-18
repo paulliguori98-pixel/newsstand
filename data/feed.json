@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-18T13:44:56.016493+00:00",
+ "generated_at": "2026-10-18T17:03:25.646310+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -15,7 +15,7 @@
      "detail": "It reaches 58\u00b0 today and falls to 29\u00b0 overnight. The sun is up from 7:13 until 6:08.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 36,
+     "temp": 53,
      "high": 58,
      "low": 29,
      "sunrise": "7:13",
@@ -143,15 +143,27 @@
    "more": 0,
    "items": [
     {
-     "title": "Evolving RC circuits",
-     "url": "https://hackaday.com/2026/10/18/evolving-rc-circuits/",
+     "title": "Building a Microscope with a 3D View",
+     "url": "https://hackaday.com/2026/10/18/building-a-microscope-with-a-3d-view/",
      "source": "Hackaday",
-     "summary": "We are surrounded by evolving algorithms and AI models, and it feels like we have to evolve to them as well. Of course, the world itself is always evolving, and \u2026read more",
-     "published": "2026-10-18T11:00:33+00:00",
-     "image": "https://hackaday.com/wp-content/uploads/2026/10/Screenshot-2026-10-16-212723.png",
+     "summary": "As electronic components grow ever smaller, a microscope has become an increasingly indispensable tool for any fine work; when inspecting electronics, though, especially solder jo\u2026",
+     "published": "2026-10-18T17:00:41+00:00",
+     "image": "https://hackaday.com/wp-content/uploads/2026/10/rotary_microscope.png",
      "kind": "article",
-     "id": "a4b1a635f078c95b",
-     "first_seen": "2026-10-18T13:44:56.016493+00:00",
+     "id": "70238fda99be88de",
+     "first_seen": "2026-10-18T17:03:25.646310+00:00",
+     "is_new": true
+    },
+    {
+     "title": "AI Agent Beats ARM CMSIS-NN by 3.74x on nRF54LM20",
+     "url": "https://www.hackster.io/maxxlife/ai-agent-beats-arm-cmsis-nn-by-3-74x-on-nrf54lm20-66158a",
+     "source": "Hackster",
+     "summary": "How an autonomous gemini-4-argon Hardware-in-the-Loop (HIL) agent wrote a kernel on Cortex-M33F that outperforms official ARM CMSIS-NN s4.",
+     "published": "2026-10-18T09:17:53+00:00",
+     "image": "https://hackster.imgix.net/uploads/attachments/2012003/_qcnzNL1aZy.blob",
+     "kind": "article",
+     "id": "092fe7b3758331f8",
+     "first_seen": "2026-10-18T17:03:25.646310+00:00",
      "is_new": true
     },
     {
@@ -164,18 +176,6 @@
      "kind": "article",
      "id": "fcd7243f6c019c48",
      "first_seen": "2026-10-17T16:38:19.505928+00:00",
-     "is_new": true
-    },
-    {
-     "title": "Smart Temperature Logger with Humidity and BLE Connectivity",
-     "url": "https://www.hackster.io/nvzentech/smart-temperature-logger-with-humidity-and-ble-connectivity-fe9cc3",
-     "source": "Hackster",
-     "summary": "Smart Temperature and Humidity logger featuring the nRF52832 Development Kit.",
-     "published": "2026-10-17T07:41:43+00:00",
-     "image": "https://hackster.imgix.net/uploads/attachments/2011790/_v3ZUMeh0VQ.blob",
-     "kind": "article",
-     "id": "68b9cf23010b51e4",
-     "first_seen": "2026-10-17T13:26:11.069806+00:00",
      "is_new": true
     },
     {
@@ -241,7 +241,7 @@
      "title": "Never Enough Suede",
      "url": "https://www.acl.news/p/never-enough-suede",
      "source": "A Continuous Lean",
-     "summary": "Special Editoin ACL x Rivay Alden Ranget Moccs",
+     "summary": "Special Editoin ACL x Rivay Alden Ranger Moccs",
      "published": "2026-10-18T11:08:34+00:00",
      "image": "https://substackcdn.com/image/fetch/$s_!_OSF!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F48872598-0d87-4dd3-8ef6-358539c37324_2048x2650.jpeg",
      "kind": "article",
