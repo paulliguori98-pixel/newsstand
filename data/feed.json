@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-18T19:27:35.510972+00:00",
+ "generated_at": "2026-10-18T21:49:36.845802+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -15,7 +15,7 @@
      "detail": "It reaches 56\u00b0 today and falls to 32\u00b0 overnight. The sun is up from 7:13 until 6:08.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 55,
+     "temp": 56,
      "high": 56,
      "low": 32,
      "sunrise": "7:13",
@@ -241,7 +241,7 @@
      "title": "Never Enough Suede",
      "url": "https://www.acl.news/p/never-enough-suede",
      "source": "A Continuous Lean",
-     "summary": "Special Editoin ACL x Rivay Alden Ranger Moccs",
+     "summary": "Special Edition ACL x Rivay Alden Ranger Moccs",
      "published": "2026-10-18T11:08:34+00:00",
      "image": "https://substackcdn.com/image/fetch/$s_!_OSF!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F48872598-0d87-4dd3-8ef6-358539c37324_2048x2650.jpeg",
      "kind": "article",
@@ -288,7 +288,5 @@
    ]
   }
  ],
- "errors": [
-  "Drake's: RuntimeError \u2014 /products.json \u2192 empty \u2014 this store may not be Shopify (check https://us.drakes.com/products.json in a browser)"
- ]
+ "errors": []
 }
