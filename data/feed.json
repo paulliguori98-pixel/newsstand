@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-18T21:49:36.845802+00:00",
+ "generated_at": "2026-10-18T23:53:14.267447+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,13 +10,13 @@
    "more": 0,
    "items": [
     {
-     "title": "Sunny",
-     "phrase": "Sunny all day.",
-     "detail": "It reaches 56\u00b0 today and falls to 32\u00b0 overnight. The sun is up from 7:13 until 6:08.",
+     "title": "Clear",
+     "phrase": "Clear all day.",
+     "detail": "It reaches 63\u00b0 today and falls to 32\u00b0 overnight. The sun is up from 7:13 until 6:08.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 56,
-     "high": 56,
+     "temp": 50,
+     "high": 63,
      "low": 32,
      "sunrise": "7:13",
      "sunset": "6:08",
@@ -64,15 +64,15 @@
    "more": 0,
    "items": [
     {
-     "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
-     "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+     "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
+     "url": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "summary": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
-     "published": "2026-10-18T01:10:25+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c147/live/f608c860-c9cf-11f1-84c1-fd3c3266bb86.jpg",
+     "summary": "The US president blocked numerous sanctions on Russia two days before they were due to take effect.",
+     "published": "2026-10-18T23:20:15+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4644/live/461bcc30-cb38-11f1-8a27-2de4c72fadc2.jpg",
      "kind": "article",
-     "id": "b6bb1637df093af8",
-     "first_seen": "2026-10-17T13:26:11.069806+00:00",
+     "id": "9aad51dd922952d5",
+     "first_seen": "2026-10-18T23:53:14.267447+00:00",
      "is_new": true,
      "corroboration": 2,
      "also_in": [
@@ -80,6 +80,22 @@
      ],
      "boosted": true,
      "score": 5
+    },
+    {
+     "title": "EU tariffs aimed at China hitting Ukraine, steel boss says",
+     "url": "https://www.bbc.co.uk/news/articles/cwdd8z6gyy96o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "summary": "The boss of one of Ukraine's biggest steel companies says the country has been \"bundled together\" in measures aimed at curbing cheap imports.",
+     "published": "2026-10-18T23:28:45+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29eb/live/c667f2d0-c96f-11f1-80fc-ab418b149008.jpg",
+     "kind": "article",
+     "id": "5987fe721f681929",
+     "first_seen": "2026-10-18T23:53:14.267447+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
     },
     {
      "title": "Trump defers federal diesel taxes to help farmers, but states issue warnings",
@@ -112,25 +128,6 @@
      "also_in": [],
      "boosted": true,
      "score": 4
-    },
-    {
-     "title": "Pope Leo says he will gradually resume duties after cancer surgery",
-     "url": "https://www.npr.org/2026/10/18/g-s1-148654/pope-leo-says-he-will-gradually-resume-duties-after-cancer-surgery",
-     "source": "NPR",
-     "summary": "Pope Leo XIV thanked thousands of faithful in St. Peter's Square on Sunday for their prayers while he was hospitalized, and said he plans to gradually return to his usual duties.",
-     "published": "2026-10-18T12:55:01+00:00",
-     "image": null,
-     "kind": "article",
-     "id": "e92138ec46d12fd1",
-     "first_seen": "2026-10-18T13:44:56.016493+00:00",
-     "is_new": true,
-     "corroboration": 3,
-     "also_in": [
-      "Axios",
-      "BBC"
-     ],
-     "boosted": false,
-     "score": 3
     }
    ]
   },
@@ -143,15 +140,15 @@
    "more": 0,
    "items": [
     {
-     "title": "Building a Microscope with a 3D View",
-     "url": "https://hackaday.com/2026/10/18/building-a-microscope-with-a-3d-view/",
+     "title": "Off-Grid Refrigeration Using Fire and Salt",
+     "url": "https://hackaday.com/2026/10/18/off-grid-refrigeration-using-fire-and-salt/",
      "source": "Hackaday",
-     "summary": "As electronic components grow ever smaller, a microscope has become an increasingly indispensable tool for any fine work; when inspecting electronics, though, especially solder jo\u2026",
-     "published": "2026-10-18T17:00:41+00:00",
-     "image": "https://hackaday.com/wp-content/uploads/2026/10/rotary_microscope.png",
+     "summary": "Refrigeration has been a challenge for humanity since the start. Ancient civilizations in dry climates like Persia and Egypt could use evaporative cooling on a large scale with sp\u2026",
+     "published": "2026-10-18T23:00:48+00:00",
+     "image": "https://hackaday.com/wp-content/uploads/2026/10/absorption-cooler-main.png",
      "kind": "article",
-     "id": "70238fda99be88de",
-     "first_seen": "2026-10-18T17:03:25.646310+00:00",
+     "id": "1f588f0032d18e8f",
+     "first_seen": "2026-10-18T23:53:14.267447+00:00",
      "is_new": true
     },
     {
@@ -200,7 +197,7 @@
      "kind": "article",
      "id": "d00c94a240e26780",
      "first_seen": "2026-10-14T22:20:21.312219+00:00",
-     "is_new": true
+     "is_new": false
     }
    ]
   },
