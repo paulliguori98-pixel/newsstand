@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-19T16:46:28.846325+00:00",
+ "generated_at": "2026-10-19T21:19:48.918872+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -12,12 +12,12 @@
     {
      "title": "Sunny",
      "phrase": "Sunny all day.",
-     "detail": "It reaches 63\u00b0 today and falls to 37\u00b0 overnight. The sun is up from 7:14 until 6:06.",
+     "detail": "It reaches 63\u00b0 today and falls to 38\u00b0 overnight. The sun is up from 7:14 until 6:06.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 57,
+     "temp": 60,
      "high": 63,
-     "low": 37,
+     "low": 38,
      "sunrise": "7:14",
      "sunset": "6:06",
      "id": "bb806d72c86dcec1",
@@ -64,14 +64,14 @@
    "more": 0,
    "items": [
     {
-     "title": "Warning signs over threats to Australian politicians were rising before MP hit by car",
-     "url": "https://www.bbc.co.uk/news/articles/cq398rk4p3exo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "summary": "The apparent attack on MP Helen Haines suggests the worst fears of politicians and public figures appear to have been realised.",
-     "published": "2026-10-19T16:32:47+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46e4/live/de2c13b0-cbd1-11f1-aba9-2bb2608f11d9.jpg",
+     "title": "Latest Climate Report Warns of Major Upheaval to California Way of Life",
+     "url": "https://www.nytimes.com/2026/10/19/us/california-climate-change-warning.html",
+     "source": "New York Times",
+     "summary": "The dire projections come from the state\u2019s Climate Change Assessment, which analyzes the impacts of changing weather patterns on the nation\u2019s most-populous state.",
+     "published": "2026-10-19T17:09:20+00:00",
+     "image": "https://static01.nyt.com/images/2026/10/19/multimedia/19nat-ca-climate-kfvm/19nat-ca-climate-kfvm-mediumSquareAt3X.jpg",
      "kind": "article",
-     "id": "035ff7b3f13409fa",
+     "id": "43207321de2aaae5",
      "first_seen": "2026-10-19T16:46:28.846325+00:00",
      "is_new": true,
      "corroboration": 1,
@@ -80,14 +80,14 @@
      "score": 4
     },
     {
-     "title": "Latest Climate Report Warns of Major Upheaval to California Way of Life",
-     "url": "https://www.nytimes.com/2026/10/19/us/california-climate-change-warning.html",
-     "source": "New York Times",
-     "summary": "The dire projections come from the state\u2019s Climate Change Assessment, which analyzes the impacts of changing weather patterns on the nation\u2019s most-populous state.",
-     "published": "2026-10-19T16:05:55+00:00",
-     "image": "https://static01.nyt.com/images/2026/10/19/multimedia/19nat-ca-climate-kfvm/19nat-ca-climate-kfvm-mediumSquareAt3X.jpg",
+     "title": "Warning signs over threats to Australian politicians were rising before MP hit by car",
+     "url": "https://www.bbc.co.uk/news/articles/cq398rk4p3exo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "summary": "The apparent attack on MP Helen Haines suggests the worst fears of politicians and public figures appear to have been realised.",
+     "published": "2026-10-19T16:32:47+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5abf/live/997b5110-cbde-11f1-b139-f77a8b036d06.jpg",
      "kind": "article",
-     "id": "43207321de2aaae5",
+     "id": "035ff7b3f13409fa",
      "first_seen": "2026-10-19T16:46:28.846325+00:00",
      "is_new": true,
      "corroboration": 1,
@@ -138,15 +138,27 @@
    "more": 0,
    "items": [
     {
-     "title": "One-stop Tool Shows Apple Intelligence The Door",
-     "url": "https://hackaday.com/2026/10/19/one-stop-tool-shows-apple-intelligence-the-door/",
+     "title": "Meshtastic Sniffer for DragonOS",
+     "url": "https://hackaday.com/2026/10/19/meshtastic-sniffer-for-dragonos/",
      "source": "Hackaday",
-     "summary": "Don\u2019t want AI features on your Mac? Tough luck, unless one wants to imperfectly do it by hunting down settings in about a dozen different places. Even then, the multi-gigabyte \u2026re\u2026",
-     "published": "2026-10-19T15:30:11+00:00",
-     "image": "https://hackaday.com/wp-content/uploads/2024/06/LargeLanguageModel.jpg",
+     "summary": "Meshtastic has gained a lot of popularity over the last few years thanks to its low barrier of entry. No licenses are needed and the hardware is dirt cheap, at \u2026read more",
+     "published": "2026-10-19T20:00:07+00:00",
+     "image": "https://hackaday.com/wp-content/uploads/2026/10/dragonos-meshtastic-main.png",
      "kind": "article",
-     "id": "7dc7741223806897",
-     "first_seen": "2026-10-19T16:46:28.846325+00:00",
+     "id": "e61186990edd9fd9",
+     "first_seen": "2026-10-19T21:19:48.918872+00:00",
+     "is_new": true
+    },
+    {
+     "title": "Ultra-Low-Power CO\u2082 Monitor Using CrowPanel E-Paper",
+     "url": "https://www.hackster.io/cubic9com/ultra-low-power-co-monitor-using-crowpanel-e-paper-d2a9fc",
+     "source": "Hackster",
+     "summary": "A low-power consumption CO2 concentration monitor using Sensirion's SCD41 and Elecrow's CrowPanel ESP32 E-Paper Display.",
+     "published": "2026-10-19T14:15:58+00:00",
+     "image": "https://hackster.imgix.net/uploads/attachments/2012254/_jTM2Ibd3XX.blob",
+     "kind": "article",
+     "id": "8a168d0f96b571bf",
+     "first_seen": "2026-10-19T21:19:48.918872+00:00",
      "is_new": true
     },
     {
@@ -158,18 +170,6 @@
      "image": "https://hackster.imgix.net/uploads/attachments/2012152/_BchiADDvkb.blob",
      "kind": "article",
      "id": "bcffd8b28a5cc71a",
-     "first_seen": "2026-10-19T16:46:28.846325+00:00",
-     "is_new": true
-    },
-    {
-     "title": "Ultra-Low-Latency IPC: RISCV<->Linux Part 3",
-     "url": "https://www.hackster.io/MichalsTC/ultra-low-latency-ipc-riscv-linux-part-3-0df0d4",
-     "source": "Hackster",
-     "summary": "Ultra-Low-Latency IPC: Connecting Linux and RISC-V on Allwinner T527 (Part 3)",
-     "published": "2026-10-19T01:03:15+00:00",
-     "image": "https://hackster.imgix.net/uploads/attachments/2012127/_kh0l2t9E1P.blob",
-     "kind": "article",
-     "id": "4af8aa662792d034",
      "first_seen": "2026-10-19T16:46:28.846325+00:00",
      "is_new": true
     },
@@ -206,7 +206,32 @@
    "lead_image": false,
    "row_detail": false,
    "more": 0,
-   "items": []
+   "items": [
+    {
+     "title": "Dark Olive Chunky Cord Big Chino",
+     "url": "https://www.buckmason.com/products/dark-olive-chunky-cord-big-chino",
+     "source": "Buck Mason",
+     "image": "https://cdn.shopify.com/s/files/1/0123/5065/2473/files/BM14194.928_CHUNKY_CORD_BIG_CHINO_DARK_OLIVE_83708_1.jpg?v=1790403911",
+     "price": "$198",
+     "published": "2026-10-19T21:01:24+00:00",
+     "kind": "product",
+     "id": "9612387ae6256bce",
+     "first_seen": "2026-10-19T21:19:48.918872+00:00",
+     "is_new": true
+    },
+    {
+     "title": "Navy Felted Shawl Coat",
+     "url": "https://www.buckmason.com/products/navy-felted-shawl-coat",
+     "source": "Buck Mason",
+     "image": "https://cdn.shopify.com/s/files/1/0123/5065/2473/files/BM17232.403_FELTEDSHAWLCOATNAVY_1.jpg?v=1792442298",
+     "price": "$298",
+     "published": "2026-10-19T20:38:42+00:00",
+     "kind": "product",
+     "id": "f61a45069aa5e0ed",
+     "first_seen": "2026-10-19T21:19:48.918872+00:00",
+     "is_new": true
+    }
+   ]
   },
   {
    "id": "dispatches",
