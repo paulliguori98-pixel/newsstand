@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-19T21:19:48.918872+00:00",
+ "generated_at": "2026-10-20T00:27:02.269395+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,12 +10,12 @@
    "more": 0,
    "items": [
     {
-     "title": "Sunny",
-     "phrase": "Sunny all day.",
+     "title": "Mostly Clear",
+     "phrase": "Mostly Clear all day.",
      "detail": "It reaches 63\u00b0 today and falls to 38\u00b0 overnight. The sun is up from 7:14 until 6:06.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 60,
+     "temp": 50,
      "high": 63,
      "low": 38,
      "sunrise": "7:14",
@@ -51,7 +51,7 @@
      "kind": "garden",
      "id": "7c2ce70a92a1859a",
      "first_seen": "2026-10-16T00:02:54.778898+00:00",
-     "is_new": true
+     "is_new": false
     }
    ]
   },
@@ -64,6 +64,54 @@
    "more": 0,
    "items": [
     {
+     "title": "Helen Haines live updates: independent MP in critical but stable condition as Asio boss warns about \u2018violent rhetoric\u2019",
+     "url": "https://www.theguardian.com/australia-news/live/2026/oct/20/helen-haines-independent-mp-alleged-car-attack-wangaratta-melbourne-hospital-ntwnfb",
+     "source": "Guardian",
+     "summary": "A joint counter-terrorism taskforce is investigating the incident, which Anthony Albanese alleged \u2018wasn\u2019t an accident\u2019\u2018Deeply appalled\u2019: politicians condemn alleged attack after H\u2026",
+     "published": "2026-10-20T00:19:27+00:00",
+     "image": "https://i.guim.co.uk/img/media/e095e9628412d9e77ce67e0af0ba05d71fc9eca9/464_0_5541_4435/master/5541.jpg?width=140&quality=85&auto=format&fit=max&s=69529824615a902110cb6a40346a52d3",
+     "kind": "article",
+     "id": "dc95bd901582229c",
+     "first_seen": "2026-10-19T21:19:48.918872+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
+     "title": "Tennis star Svitolina says emotional toll of Ukraine war led to Monfils separation",
+     "url": "https://www.bbc.co.uk/news/articles/ckd7qy12j148o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "summary": "The two top tennis pros married in 2021 and have one child together.",
+     "published": "2026-10-19T21:02:33+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/766b/live/02caf1d0-cbc0-11f1-a64c-550be9e3c66b.jpg",
+     "kind": "article",
+     "id": "1abb888cc27e5c1e",
+     "first_seen": "2026-10-20T00:27:02.269395+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
+     "title": "Trump open to summit with Xi and Putin \u2014 to discuss denuclearization",
+     "url": "https://www.axios.com/2026/10/19/trump-summit-xi-putin-denuclearization-ukraine",
+     "source": "Axios",
+     "summary": "President Trump wants to hold a trilateral summit with Chinese President Xi and Russian President Putin in China next month to discuss \"denuclearization\" \u2014 but not necessarily Ukr\u2026",
+     "published": "2026-10-19T20:04:17+00:00",
+     "image": "https://images.axios.com/oaY8E-B_v_Py9EEC_h-69JgjYEY=/0x0:1880x1058/1366x768/2026/10/19/1792439990352.jpeg",
+     "kind": "article",
+     "id": "3196d3576b0342be",
+     "first_seen": "2026-10-20T00:27:02.269395+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
      "title": "Latest Climate Report Warns of Major Upheaval to California Way of Life",
      "url": "https://www.nytimes.com/2026/10/19/us/california-climate-change-warning.html",
      "source": "New York Times",
@@ -72,54 +120,6 @@
      "image": "https://static01.nyt.com/images/2026/10/19/multimedia/19nat-ca-climate-kfvm/19nat-ca-climate-kfvm-mediumSquareAt3X.jpg",
      "kind": "article",
      "id": "43207321de2aaae5",
-     "first_seen": "2026-10-19T16:46:28.846325+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "Warning signs over threats to Australian politicians were rising before MP hit by car",
-     "url": "https://www.bbc.co.uk/news/articles/cq398rk4p3exo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "summary": "The apparent attack on MP Helen Haines suggests the worst fears of politicians and public figures appear to have been realised.",
-     "published": "2026-10-19T16:32:47+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5abf/live/997b5110-cbde-11f1-b139-f77a8b036d06.jpg",
-     "kind": "article",
-     "id": "035ff7b3f13409fa",
-     "first_seen": "2026-10-19T16:46:28.846325+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "Bob Woodward reveals \"dream source\" in memoir, \"Secrets,\" out next month",
-     "url": "https://www.axios.com/2026/10/19/bob-woodward-reveals-dream-source-in-memoir-secrets-out-next-month",
-     "source": "Axios",
-     "summary": "Bob Woodward \u2014 in an eye-opening excerpt from his forthcoming memoir, \"Secrets,\" that's previewed in the new issue of The New Yorker \u2014 reveals that one of his best friends, the la\u2026",
-     "published": "2026-10-19T10:34:33+00:00",
-     "image": "https://images.axios.com/saLAM7RhfefR-NTQXICagdt30eA=/0x0:1920x1080/1366x768/2026/10/19/1792402292623.jpg",
-     "kind": "article",
-     "id": "80f191318c4fd919",
-     "first_seen": "2026-10-19T16:46:28.846325+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "Putin\u2019s Bid to End the War in Ukraine on Moscow\u2019s Terms",
-     "url": "https://www.wsj.com/articles/putins-bid-to-end-the-war-in-ukraine-on-moscows-terms-3e09dfec?mod=rss_markets_main",
-     "source": "WSJ",
-     "summary": "Plus, a little-known private trust is looming over Anthropic\u2019s IPO, and French leaders are trading blame after rioting sweeps the nation.",
-     "published": "2026-10-19T10:02:00+00:00",
-     "image": "https://images.wsj.net/im-23438384",
-     "kind": "article",
-     "id": "99cb3535238aa85e",
      "first_seen": "2026-10-19T16:46:28.846325+00:00",
      "is_new": true,
      "corroboration": 1,
@@ -138,15 +138,15 @@
    "more": 0,
    "items": [
     {
-     "title": "Meshtastic Sniffer for DragonOS",
-     "url": "https://hackaday.com/2026/10/19/meshtastic-sniffer-for-dragonos/",
+     "title": "An RV on a Bike",
+     "url": "https://hackaday.com/2026/10/19/an-rv-on-a-bike/",
      "source": "Hackaday",
-     "summary": "Meshtastic has gained a lot of popularity over the last few years thanks to its low barrier of entry. No licenses are needed and the hardware is dirt cheap, at \u2026read more",
-     "published": "2026-10-19T20:00:07+00:00",
-     "image": "https://hackaday.com/wp-content/uploads/2026/10/dragonos-meshtastic-main.png",
+     "summary": "Bicycles are the ultimate form of transportation freedom. They\u2019re easy to repair, parts are cheap, and they will travel almost anywhere for free, as long as the rider has enough \u2026\u2026",
+     "published": "2026-10-19T23:00:30+00:00",
+     "image": "https://hackaday.com/wp-content/uploads/2026/10/bike-rv-main.png",
      "kind": "article",
-     "id": "e61186990edd9fd9",
-     "first_seen": "2026-10-19T21:19:48.918872+00:00",
+     "id": "9f2339e45213a35c",
+     "first_seen": "2026-10-20T00:27:02.269395+00:00",
      "is_new": true
     },
     {
@@ -186,16 +186,16 @@
      "is_new": true
     },
     {
-     "title": "Fruit Jam Face Detection",
-     "url": "https://learn.adafruit.com/fruit-jam-face-detection",
+     "title": "Crankfruit",
+     "url": "https://learn.adafruit.com/crankfruit",
      "source": "Adafruit",
-     "summary": "100% offline person detection with CircuitPythonIs someone here? This project can let you know! You can use a Fruit Jam running CircuitPython with a USB webcam to run a local fron\u2026",
-     "published": "2026-10-13T14:51:36+00:00",
-     "image": "https://cdn-learn.adafruit.com/guides/images/000/004/638/medium500thumb/Convert_to_GIF_project_-_October_14__2026_at_13.36.15%281%29.gif?1791999558",
+     "summary": "Playdate-like Lua game player in CircuitPython on Fruit JamHave fun playing crank-based games on an Adafruit Fruit Jam using LuaLearn More",
+     "published": "2026-10-15T01:16:15+00:00",
+     "image": "https://cdn-learn.adafruit.com/guides/images/000/004/639/medium500/crnk-5019.jpg?1792188584",
      "kind": "article",
-     "id": "d00c94a240e26780",
-     "first_seen": "2026-10-14T22:20:21.312219+00:00",
-     "is_new": false
+     "id": "6edcf9b9c0ff8e12",
+     "first_seen": "2026-10-20T00:27:02.269395+00:00",
+     "is_new": true
     }
    ]
   },
@@ -206,32 +206,7 @@
    "lead_image": false,
    "row_detail": false,
    "more": 0,
-   "items": [
-    {
-     "title": "Dark Olive Chunky Cord Big Chino",
-     "url": "https://www.buckmason.com/products/dark-olive-chunky-cord-big-chino",
-     "source": "Buck Mason",
-     "image": "https://cdn.shopify.com/s/files/1/0123/5065/2473/files/BM14194.928_CHUNKY_CORD_BIG_CHINO_DARK_OLIVE_83708_1.jpg?v=1790403911",
-     "price": "$198",
-     "published": "2026-10-19T21:01:24+00:00",
-     "kind": "product",
-     "id": "9612387ae6256bce",
-     "first_seen": "2026-10-19T21:19:48.918872+00:00",
-     "is_new": true
-    },
-    {
-     "title": "Navy Felted Shawl Coat",
-     "url": "https://www.buckmason.com/products/navy-felted-shawl-coat",
-     "source": "Buck Mason",
-     "image": "https://cdn.shopify.com/s/files/1/0123/5065/2473/files/BM17232.403_FELTEDSHAWLCOATNAVY_1.jpg?v=1792442298",
-     "price": "$298",
-     "published": "2026-10-19T20:38:42+00:00",
-     "kind": "product",
-     "id": "f61a45069aa5e0ed",
-     "first_seen": "2026-10-19T21:19:48.918872+00:00",
-     "is_new": true
-    }
-   ]
+   "items": []
   },
   {
    "id": "dispatches",
