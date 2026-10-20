@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-20T00:27:02.269395+00:00",
+ "generated_at": "2026-10-20T14:38:21.246022+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,16 +10,16 @@
    "more": 0,
    "items": [
     {
-     "title": "Mostly Clear",
-     "phrase": "Mostly Clear all day.",
-     "detail": "It reaches 63\u00b0 today and falls to 38\u00b0 overnight. The sun is up from 7:14 until 6:06.",
+     "title": "Sunny",
+     "phrase": "Sunny all day.",
+     "detail": "It reaches 64\u00b0 today and falls to 36\u00b0 overnight. The sun is up from 7:15 until 6:05.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 50,
-     "high": 63,
-     "low": 38,
-     "sunrise": "7:14",
-     "sunset": "6:06",
+     "temp": 51,
+     "high": 64,
+     "low": 36,
+     "sunrise": "7:15",
+     "sunset": "6:05",
      "id": "bb806d72c86dcec1",
      "first_seen": "2026-08-19T17:11:19.569450+00:00",
      "is_new": false
@@ -64,15 +64,47 @@
    "more": 0,
    "items": [
     {
-     "title": "Helen Haines live updates: independent MP in critical but stable condition as Asio boss warns about \u2018violent rhetoric\u2019",
-     "url": "https://www.theguardian.com/australia-news/live/2026/oct/20/helen-haines-independent-mp-alleged-car-attack-wangaratta-melbourne-hospital-ntwnfb",
-     "source": "Guardian",
-     "summary": "A joint counter-terrorism taskforce is investigating the incident, which Anthony Albanese alleged \u2018wasn\u2019t an accident\u2019\u2018Deeply appalled\u2019: politicians condemn alleged attack after H\u2026",
-     "published": "2026-10-20T00:19:27+00:00",
-     "image": "https://i.guim.co.uk/img/media/e095e9628412d9e77ce67e0af0ba05d71fc9eca9/464_0_5541_4435/master/5541.jpg?width=140&quality=85&auto=format&fit=max&s=69529824615a902110cb6a40346a52d3",
+     "title": "The Mayor of a City in Haiti Warned of a Massacre. No One Listened.",
+     "url": "https://www.nytimes.com/2026/10/20/world/americas/mayor-kenscoff-haiti-gangs-massacre.html",
+     "source": "New York Times",
+     "summary": "The mayor of Kenscoff, a town near Haiti\u2019s capital, wrote government officials hundreds of letters to warn of gang threats. Then dozens of people died, and he did, too.",
+     "published": "2026-10-20T12:30:00+00:00",
+     "image": "https://static01.nyt.com/images/2026/10/14/multimedia/00int-haiti-kenscoff-massacre01-photo-mwjb/00int-haiti-kenscoff-massacre01-photo-mwjb-mediumSquareAt3X.jpg",
      "kind": "article",
-     "id": "dc95bd901582229c",
-     "first_seen": "2026-10-19T21:19:48.918872+00:00",
+     "id": "da47f3ae60ca60f3",
+     "first_seen": "2026-10-20T14:38:21.246022+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
+     "title": "Serbian prosecutor who investigated Belgrade Trump tower project \u2018targeted with spyware\u2019",
+     "url": "https://www.theguardian.com/world/2026/oct/20/serbia-prosecutor-belgrade-trump-tower-project-targeted-spyware",
+     "source": "Guardian",
+     "summary": "Apparent attempt to hack Rade Baji\u0107\u2019s iPhone comes amid efforts to undermine landmark criminal caseA Serbian prosecutor who investigated the authorities\u2019 allegedly illegal scheme \u2026",
+     "published": "2026-10-20T09:00:21+00:00",
+     "image": "https://i.guim.co.uk/img/media/b3480eaf2fc3c53720e0df5d1b99ce803c659f31/480_0_6623_5299/master/6623.jpg?width=140&quality=85&auto=format&fit=max&s=b2c5bf24e93bdb4ccfc776da2bb08887",
+     "kind": "article",
+     "id": "b5590346ec5f1c28",
+     "first_seen": "2026-10-20T14:38:21.246022+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
+     "title": "Alberta voters reject a move toward independence in referendum backing Canadian unity",
+     "url": "https://www.npr.org/2026/10/20/nx-s1-6008832/alberta-referendum-canada",
+     "source": "NPR",
+     "summary": "Voters in Canada's oil-rich Alberta province overwhelmingly backed remaining in Canada, with early referendum results Tuesday delivering a boost to Prime Minister Carney's push fo\u2026",
+     "published": "2026-10-20T06:02:40+00:00",
+     "image": null,
+     "kind": "article",
+     "id": "ba105382ed87b53b",
+     "first_seen": "2026-10-20T14:38:21.246022+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
@@ -94,38 +126,6 @@
      "also_in": [],
      "boosted": true,
      "score": 4
-    },
-    {
-     "title": "Trump open to summit with Xi and Putin \u2014 to discuss denuclearization",
-     "url": "https://www.axios.com/2026/10/19/trump-summit-xi-putin-denuclearization-ukraine",
-     "source": "Axios",
-     "summary": "President Trump wants to hold a trilateral summit with Chinese President Xi and Russian President Putin in China next month to discuss \"denuclearization\" \u2014 but not necessarily Ukr\u2026",
-     "published": "2026-10-19T20:04:17+00:00",
-     "image": "https://images.axios.com/oaY8E-B_v_Py9EEC_h-69JgjYEY=/0x0:1880x1058/1366x768/2026/10/19/1792439990352.jpeg",
-     "kind": "article",
-     "id": "3196d3576b0342be",
-     "first_seen": "2026-10-20T00:27:02.269395+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "Latest Climate Report Warns of Major Upheaval to California Way of Life",
-     "url": "https://www.nytimes.com/2026/10/19/us/california-climate-change-warning.html",
-     "source": "New York Times",
-     "summary": "The dire projections come from the state\u2019s Climate Change Assessment, which analyzes the impacts of changing weather patterns on the nation\u2019s most-populous state.",
-     "published": "2026-10-19T17:09:20+00:00",
-     "image": "https://static01.nyt.com/images/2026/10/19/multimedia/19nat-ca-climate-kfvm/19nat-ca-climate-kfvm-mediumSquareAt3X.jpg",
-     "kind": "article",
-     "id": "43207321de2aaae5",
-     "first_seen": "2026-10-19T16:46:28.846325+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
     }
    ]
   },
@@ -138,15 +138,15 @@
    "more": 0,
    "items": [
     {
-     "title": "An RV on a Bike",
-     "url": "https://hackaday.com/2026/10/19/an-rv-on-a-bike/",
+     "title": "Super Mario Galaxy Now Runs on the GBA",
+     "url": "https://hackaday.com/2026/10/20/super-mario-galaxy-now-runs-on-the-gba/",
      "source": "Hackaday",
-     "summary": "Bicycles are the ultimate form of transportation freedom. They\u2019re easy to repair, parts are cheap, and they will travel almost anywhere for free, as long as the rider has enough \u2026\u2026",
-     "published": "2026-10-19T23:00:30+00:00",
-     "image": "https://hackaday.com/wp-content/uploads/2026/10/bike-rv-main.png",
+     "summary": "Joining the ranks of fresh backported Nintendo games is Super Mario Galaxy for the Nintendo Game Boy Advance (GBA), courtesy of [Tobias Friedly], AKA [Tobi]. In a recent video he \u2026",
+     "published": "2026-10-20T11:00:31+00:00",
+     "image": "https://hackaday.com/wp-content/uploads/2026/10/super_mario_galaxy_nintendo_gba_tobias_friedly_youtube.jpg",
      "kind": "article",
-     "id": "9f2339e45213a35c",
-     "first_seen": "2026-10-20T00:27:02.269395+00:00",
+     "id": "35aecc78dd65c7c4",
+     "first_seen": "2026-10-20T14:38:21.246022+00:00",
      "is_new": true
     },
     {
@@ -163,14 +163,14 @@
     },
     {
      "title": "Multithreaded RT-Spark MP3 Player using FreeRTOS",
-     "url": "https://www.hackster.io/binyusophsansarona/multithreaded-rt-spark-mp3-player-using-freertos-f30b88",
+     "url": "https://www.hackster.io/556333/multithreaded-rt-spark-mp3-player-using-freertos-f30b88",
      "source": "Hackster",
      "summary": "Transform an RT-Spark board into an MP3 player using FreeRTOS to concurrently manage audio playback, LCD updates, and hardware inputs.",
      "published": "2026-10-19T04:54:01+00:00",
      "image": "https://hackster.imgix.net/uploads/attachments/2012152/_BchiADDvkb.blob",
      "kind": "article",
-     "id": "bcffd8b28a5cc71a",
-     "first_seen": "2026-10-19T16:46:28.846325+00:00",
+     "id": "a490dcffd24cd8b6",
+     "first_seen": "2026-10-20T14:38:21.246022+00:00",
      "is_new": true
     },
     {
@@ -183,7 +183,7 @@
      "kind": "article",
      "id": "bc64c7a5e0467618",
      "first_seen": "2026-10-16T14:29:39.072855+00:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "title": "Crankfruit",
@@ -233,6 +233,22 @@
      "score": 4
     },
     {
+     "title": "The Print Edition",
+     "url": "https://www.acl.news/p/the-print-edition-c15",
+     "source": "A Continuous Lean",
+     "summary": "Meet the Scotland Issue",
+     "published": "2026-10-20T12:01:38+00:00",
+     "image": "https://substackcdn.com/image/fetch/$s_!ZHuz!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6b79f9dd-6bcb-45e6-9724-d49fdd636bf7_1440x2560.jpeg",
+     "kind": "article",
+     "id": "38f23c0ec2c7520c",
+     "first_seen": "2026-10-20T14:38:21.246022+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": false,
+     "score": 1
+    },
+    {
      "title": "Never Enough Suede",
      "url": "https://www.acl.news/p/never-enough-suede",
      "source": "A Continuous Lean",
@@ -257,22 +273,6 @@
      "image": null,
      "kind": "article",
      "id": "5ab78d18e1a578c8",
-     "first_seen": "2026-10-13T01:36:19.409143+00:00",
-     "is_new": false,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": false,
-     "score": 1
-    },
-    {
-     "title": "Jacket Season!",
-     "url": "https://www.putthison.com/jacket-season/",
-     "source": "Put This On",
-     "summary": "Hi everyone, it\u2019s your Shopkeeper Brynna, here with some more hot new items from the Put This On Shop. Everyone... The post Jacket Season! appeared first on Put This On.",
-     "published": "2026-10-12T19:40:58+00:00",
-     "image": null,
-     "kind": "article",
-     "id": "b9ea2de82fd00279",
      "first_seen": "2026-10-13T01:36:19.409143+00:00",
      "is_new": false,
      "corroboration": 1,
