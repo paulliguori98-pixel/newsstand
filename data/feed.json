@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-20T18:43:23.993800+00:00",
+ "generated_at": "2026-10-20T22:03:04.297165+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,13 +10,13 @@
    "more": 0,
    "items": [
     {
-     "title": "Sunny",
-     "phrase": "Sunny all day.",
-     "detail": "It reaches 63\u00b0 today and falls to 36\u00b0 overnight. The sun is up from 7:15 until 6:05.",
+     "title": "Clear",
+     "phrase": "Clear all day.",
+     "detail": "It reaches 58\u00b0 today and falls to 36\u00b0 overnight. The sun is up from 7:15 until 6:05.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 61,
-     "high": 63,
+     "temp": 56,
+     "high": 58,
      "low": 36,
      "sunrise": "7:15",
      "sunset": "6:05",
@@ -64,15 +64,15 @@
    "more": 0,
    "items": [
     {
-     "title": "Alberta voters reject a move toward independence in referendum backing Canadian unity",
-     "url": "https://www.npr.org/2026/10/20/nx-s1-6008832/alberta-referendum-canada",
-     "source": "NPR",
-     "summary": "Voters in Canada's oil-rich Alberta province overwhelmingly backed remaining in Canada, with early referendum results Tuesday delivering a boost to Prime Minister Carney's push fo\u2026",
-     "published": "2026-10-20T06:02:40+00:00",
-     "image": null,
+     "title": "Trump sued over Canadian tariffs in latest legal challenge",
+     "url": "https://www.bbc.co.uk/news/articles/cqrkyj13m588o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "summary": "The lawsuit argues the White House exceeded its authority in imposing the latest tariffs on the country and caused \"immediate harm to American businesses\".",
+     "published": "2026-10-20T19:30:05+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18fe/live/5bca92c0-ccb7-11f1-a64c-550be9e3c66b.jpg",
      "kind": "article",
-     "id": "ba105382ed87b53b",
-     "first_seen": "2026-10-20T14:38:21.246022+00:00",
+     "id": "ed215accf7d30394",
+     "first_seen": "2026-10-20T22:03:04.297165+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
@@ -112,20 +112,22 @@
      "score": 4
     },
     {
-     "title": "Bob Woodward reveals \"dream source\" in memoir, \"Secrets,\" out next month",
-     "url": "https://www.axios.com/2026/10/19/bob-woodward-reveals-dream-source-in-memoir-secrets-out-next-month",
-     "source": "Axios",
-     "summary": "Bob Woodward \u2014 in an eye-opening excerpt from his forthcoming memoir, \"Secrets,\" that's previewed in the new issue of The New Yorker \u2014 reveals that one of his best friends, the la\u2026",
-     "published": "2026-10-19T10:34:33+00:00",
-     "image": "https://images.axios.com/saLAM7RhfefR-NTQXICagdt30eA=/0x0:1920x1080/1366x768/2026/10/19/1792402292623.jpg",
+     "title": "Trump\u2019s Betrayal of Ukraine",
+     "url": "https://www.nytimes.com/2026/10/20/opinion/russia-ukraine-trump-us.html",
+     "source": "New York Times",
+     "summary": "The stakes in Ukraine are much larger than the fate of one nation.",
+     "published": "2026-10-20T20:57:29+00:00",
+     "image": "https://static01.nyt.com/images/2026/10/21/multimedia/20russia1-hmvk/20russia1-hmvk-mediumSquareAt3X.jpg",
      "kind": "article",
-     "id": "80f191318c4fd919",
-     "first_seen": "2026-10-19T16:46:28.846325+00:00",
+     "id": "3a17017472b1d543",
+     "first_seen": "2026-10-20T22:03:04.297165+00:00",
      "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
+     "corroboration": 2,
+     "also_in": [
+      "Guardian"
+     ],
+     "boosted": false,
+     "score": 2
     }
    ]
   },
@@ -138,15 +140,27 @@
    "more": 0,
    "items": [
     {
-     "title": "Spreading Life to Bleached Coral",
-     "url": "https://hackaday.com/2026/10/20/spreading-life-to-bleached-coral/",
+     "title": "Going Whole-Hog on a First Satellite Ground Station",
+     "url": "https://hackaday.com/2026/10/20/going-whole-hog-on-a-first-satellite-ground-station/",
      "source": "Hackaday",
-     "summary": "Coral bleaching is a major problem for ocean ecosystems as the ocean gets warmer. Researchers at Stanford have found a new method for regenerating bleached corals. Scientists work\u2026",
-     "published": "2026-10-20T15:30:22+00:00",
-     "image": "https://hackaday.com/wp-content/uploads/2026/10/Screenshot-2026-10-19-at-12.14.20-PM.png",
+     "summary": "When most radio enthusiasts start trying to pick up signals from satellites, they might put together a quick-and-dirty Yagi antenna and try to catch a repeater as is passes overhe\u2026",
+     "published": "2026-10-20T20:00:21+00:00",
+     "image": "https://hackaday.com/wp-content/uploads/2026/10/satellite-main.png",
      "kind": "article",
-     "id": "0149a4d27062983e",
-     "first_seen": "2026-10-20T18:43:23.993800+00:00",
+     "id": "7581a57bcc46e581",
+     "first_seen": "2026-10-20T22:03:04.297165+00:00",
+     "is_new": true
+    },
+    {
+     "title": "Build a Full-Wave Rectifier with a MUR3060PT",
+     "url": "https://www.hackster.io/lc2403478/build-a-full-wave-rectifier-with-a-mur3060pt-137e7f",
+     "source": "Hackster",
+     "summary": "Convert isolated low-voltage AC into DC and explore capacitor filtering with a simple rectifier circuit.",
+     "published": "2026-10-20T08:34:40+00:00",
+     "image": "https://hackster.imgix.net/uploads/attachments/2012431/_xZCnHE2GRS.blob",
+     "kind": "article",
+     "id": "f852bddc2cd034ac",
+     "first_seen": "2026-10-20T22:03:04.297165+00:00",
      "is_new": true
     },
     {
@@ -159,18 +173,6 @@
      "kind": "article",
      "id": "8a168d0f96b571bf",
      "first_seen": "2026-10-19T21:19:48.918872+00:00",
-     "is_new": true
-    },
-    {
-     "title": "Multithreaded RT-Spark MP3 Player using FreeRTOS",
-     "url": "https://www.hackster.io/556333/multithreaded-rt-spark-mp3-player-using-freertos-f30b88",
-     "source": "Hackster",
-     "summary": "Transform an RT-Spark board into an MP3 player using FreeRTOS to concurrently manage audio playback, LCD updates, and hardware inputs.",
-     "published": "2026-10-19T04:54:01+00:00",
-     "image": "https://hackster.imgix.net/uploads/attachments/2012152/_BchiADDvkb.blob",
-     "kind": "article",
-     "id": "a490dcffd24cd8b6",
-     "first_seen": "2026-10-20T14:38:21.246022+00:00",
      "is_new": true
     },
     {
@@ -231,6 +233,22 @@
    "more": 0,
    "items": [
     {
+     "title": "What Simon\u2019s looking forward to wearing this autumn",
+     "url": "https://www.permanentstyle.com/2026/09/what-simons-looking-forward-to-wearing-this-autumn.html",
+     "source": "Permanent Style",
+     "summary": "A reader asked me the other day that classic question, what I\u2019m looking forward to wearing this season. It sent me on a trawl through my outfit folder , and produced a list of six\u2026",
+     "published": "2026-09-30T08:00:41+00:00",
+     "image": "https://www.permanentstyle.com/wp-content/uploads/2026/09/Forestiere-modern-review.jpg",
+     "kind": "article",
+     "id": "750aa82ae1159629",
+     "first_seen": "2026-09-30T16:14:04.934325+00:00",
+     "is_new": false,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
      "title": "The Print Edition",
      "url": "https://www.acl.news/p/the-print-edition-c15",
      "source": "A Continuous Lean",
@@ -277,27 +295,9 @@
      "also_in": [],
      "boosted": false,
      "score": 1
-    },
-    {
-     "title": "Jacket Season!",
-     "url": "https://www.putthison.com/jacket-season/",
-     "source": "Put This On",
-     "summary": "Hi everyone, it\u2019s your Shopkeeper Brynna, here with some more hot new items from the Put This On Shop. Everyone... The post Jacket Season! appeared first on Put This On.",
-     "published": "2026-10-12T19:40:58+00:00",
-     "image": null,
-     "kind": "article",
-     "id": "b9ea2de82fd00279",
-     "first_seen": "2026-10-13T01:36:19.409143+00:00",
-     "is_new": false,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": false,
-     "score": 1
     }
    ]
   }
  ],
- "errors": [
-  "Permanent Style: RuntimeError \u2014 https://www.permanentstyle.com/feed \u2192 HTTP 415"
- ]
+ "errors": []
 }
