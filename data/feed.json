@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-20T22:03:04.297165+00:00",
+ "generated_at": "2026-10-21T00:39:53.366864+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,12 +10,12 @@
    "more": 0,
    "items": [
     {
-     "title": "Clear",
-     "phrase": "Clear all day.",
+     "title": "Mostly Clear",
+     "phrase": "Mostly Clear all day.",
      "detail": "It reaches 58\u00b0 today and falls to 36\u00b0 overnight. The sun is up from 7:15 until 6:05.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 56,
+     "temp": 46,
      "high": 58,
      "low": 36,
      "sunrise": "7:15",
@@ -64,6 +64,38 @@
    "more": 0,
    "items": [
     {
+     "title": "Odds of fifth interest rate hike this year likely to shorten as RBA deputy warns inflation outlook \u2018worsening\u2019",
+     "url": "https://www.theguardian.com/australia-news/2026/oct/21/odds-of-fifth-interest-rate-hike-this-year-likely-to-shorten-as-rba-deputy-warns-inflation-outlook-worsening",
+     "source": "Guardian",
+     "summary": "Andrew Hauser says central bank faces \u2018hard choices\u2019 as it looks to balance risks of entrenched inflation with desire to protect labour marketGet our breaking news email, free app\u2026",
+     "published": "2026-10-20T23:19:07+00:00",
+     "image": "https://i.guim.co.uk/img/media/3a1be6464f56d2fbb1e61805a0d2c582b5739cc9/327_0_5348_4281/master/5348.jpg?width=140&quality=85&auto=format&fit=max&s=e9eea5a4cf46545e50c5b33d8319c2fe",
+     "kind": "article",
+     "id": "1a3d9377c07c547f",
+     "first_seen": "2026-10-21T00:39:53.366864+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
+     "title": "Larry Ellison Went on Borrowing Spree to Bankroll His Son\u2019s Warner Bros. Bid",
+     "url": "https://www.wsj.com/finance/larry-ellison-warner-bros-loans-49918714?mod=rss_markets_main",
+     "source": "WSJ",
+     "summary": "The billionaire put up shares in Tesla, SpaceX and Paramount Skydance this year to borrow more from banks.",
+     "published": "2026-10-20T23:00:00+00:00",
+     "image": "https://images.wsj.net/im-77074711",
+     "kind": "article",
+     "id": "2a9c36addf1cc823",
+     "first_seen": "2026-10-21T00:39:53.366864+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
      "title": "Trump sued over Canadian tariffs in latest legal challenge",
      "url": "https://www.bbc.co.uk/news/articles/cqrkyj13m588o?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
@@ -94,40 +126,6 @@
      "also_in": [],
      "boosted": true,
      "score": 4
-    },
-    {
-     "title": "Trump open to summit with Xi and Putin \u2014 to discuss denuclearization",
-     "url": "https://www.axios.com/2026/10/19/trump-summit-xi-putin-denuclearization-ukraine",
-     "source": "Axios",
-     "summary": "President Trump wants to hold a trilateral summit with Chinese President Xi and Russian President Putin in China next month to discuss \"denuclearization\" \u2014 but not necessarily Ukr\u2026",
-     "published": "2026-10-19T20:04:17+00:00",
-     "image": "https://images.axios.com/oaY8E-B_v_Py9EEC_h-69JgjYEY=/0x0:1880x1058/1366x768/2026/10/19/1792439990352.jpeg",
-     "kind": "article",
-     "id": "3196d3576b0342be",
-     "first_seen": "2026-10-20T00:27:02.269395+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "Trump\u2019s Betrayal of Ukraine",
-     "url": "https://www.nytimes.com/2026/10/20/opinion/russia-ukraine-trump-us.html",
-     "source": "New York Times",
-     "summary": "The stakes in Ukraine are much larger than the fate of one nation.",
-     "published": "2026-10-20T20:57:29+00:00",
-     "image": "https://static01.nyt.com/images/2026/10/21/multimedia/20russia1-hmvk/20russia1-hmvk-mediumSquareAt3X.jpg",
-     "kind": "article",
-     "id": "3a17017472b1d543",
-     "first_seen": "2026-10-20T22:03:04.297165+00:00",
-     "is_new": true,
-     "corroboration": 2,
-     "also_in": [
-      "Guardian"
-     ],
-     "boosted": false,
-     "score": 2
     }
    ]
   },
@@ -152,15 +150,15 @@
      "is_new": true
     },
     {
-     "title": "Build a Full-Wave Rectifier with a MUR3060PT",
-     "url": "https://www.hackster.io/lc2403478/build-a-full-wave-rectifier-with-a-mur3060pt-137e7f",
+     "title": "Upgrade Nano KVM: 1080p 60fps Gaming KVM",
+     "url": "https://www.hackster.io/USBridge/upgrade-nano-kvm-1080p-60fps-gaming-kvm-2676f0",
      "source": "Hackster",
-     "summary": "Convert isolated low-voltage AC into DC and explore capacitor filtering with a simple rectifier circuit.",
-     "published": "2026-10-20T08:34:40+00:00",
-     "image": "https://hackster.imgix.net/uploads/attachments/2012431/_xZCnHE2GRS.blob",
+     "summary": "Transform your Nano KVM into a high-performance KVM solution (1080p at 60 fps) featuring ultra-low-latency streaming, gamepad support, and I",
+     "published": "2026-10-20T17:25:49+00:00",
+     "image": "https://hackster.imgix.net/uploads/attachments/2012520/_ql4XWgt5ah.blob",
      "kind": "article",
-     "id": "f852bddc2cd034ac",
-     "first_seen": "2026-10-20T22:03:04.297165+00:00",
+     "id": "b9bbe9ecf3ea9967",
+     "first_seen": "2026-10-21T00:39:53.366864+00:00",
      "is_new": true
     },
     {
@@ -210,16 +208,16 @@
    "more": 0,
    "items": [
     {
-     "title": "Black Sheep Cardigan",
-     "url": "https://www.bestmadeco.com/products/black-sheep-cardigan",
+     "title": "Black Sheep Crewneck",
+     "url": "https://www.bestmadeco.com/products/black-sheep-sweater",
      "source": "Best Made",
      "summary": "Tops",
-     "published": "2026-10-20T12:57:52-04:00",
-     "image": "https://cdn.shopify.com/s/files/1/0674/2985/9558/files/PDP-LAYOUTS-BS-CARDIGAN2.jpg?v=1792433443",
-     "price": "$368",
+     "published": "2026-10-20T19:54:09-04:00",
+     "image": "https://cdn.shopify.com/s/files/1/0674/2985/9558/files/PDP-LAYOUTS-BLACK-SHEEP-CREW2.jpg?v=1792433278",
+     "price": "$288",
      "kind": "product",
-     "id": "30dcc4fbe85951f8",
-     "first_seen": "2026-10-20T18:43:23.993800+00:00",
+     "id": "3ffbe829f33c6600",
+     "first_seen": "2026-10-21T00:39:53.366864+00:00",
      "is_new": true
     }
    ]
