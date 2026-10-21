@@ -5458,7 +5458,7 @@
   "url": "https://us.drakes.com/products/black-heavyweight-suede-a-2-bomber-jacket",
   "source": "Drake's",
   "image": "https://cdn.shopify.com/s/files/1/0649/6603/3653/files/595400070009B.jpg?v=1792056080",
-  "price": "$2,295",
+  "price": "$2,495",
   "published": "2026-10-15T06:01:27-04:00",
   "first_seen": "2026-10-15T14:38:15.449294+00:00"
  },
@@ -5722,5 +5722,14 @@
   "price": "$288",
   "published": "2026-10-20T19:54:09-04:00",
   "first_seen": "2026-10-21T00:39:53.366864+00:00"
+ },
+ "0bdb014977ac0049": {
+  "title": "Brighton Base Layer - Chicago",
+  "url": "https://www.tracksmith.com/products/m-chicago-brighton-base-layer?sku=MT217CHI2603NCRN",
+  "source": "Tracksmith",
+  "image": "https://cdn.shopify.com/s/files/1/1594/4353/files/Chicago26-Mens-Brighton-Base-Layer-On-Model.png?v=1787853162&width=800&height=800&crop=center",
+  "price": "$110",
+  "published": null,
+  "first_seen": "2026-10-21T19:05:30.829425+00:00"
  }
 }
