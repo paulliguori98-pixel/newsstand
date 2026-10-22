@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-22T14:59:02.140246+00:00",
+ "generated_at": "2026-10-22T19:02:17.346224+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -12,12 +12,12 @@
     {
      "title": "Sunny",
      "phrase": "Sunny all day.",
-     "detail": "It reaches 63\u00b0 today and falls to 32\u00b0 overnight. The sun is up from 7:18 until 6:02.",
+     "detail": "It reaches 63\u00b0 today and falls to 34\u00b0 overnight. The sun is up from 7:18 until 6:02.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 46,
+     "temp": 63,
      "high": 63,
-     "low": 32,
+     "low": 34,
      "sunrise": "7:18",
      "sunset": "6:02",
      "id": "bb806d72c86dcec1",
@@ -64,31 +64,15 @@
    "more": 0,
    "items": [
     {
-     "title": "\u2018America, this is a warning\u2019: pro- Trump Maga media in a froth over Europe protests",
-     "url": "https://www.theguardian.com/us-news/2026/oct/22/trump-maga-media-europe-protests",
-     "source": "Guardian",
-     "summary": "Fox News and others have toed president\u2019s line \u2013 seemingly hoping unrest abroad will make people vote RepublicanDonald Trump sought to capitalize on the scenes of unrest in France\u2026",
-     "published": "2026-10-22T11:00:42+00:00",
-     "image": "https://i.guim.co.uk/img/media/3b63018649405666ca20c4931bb1a07df8a84cb0/695_0_6946_5557/master/6946.jpg?width=140&quality=85&auto=format&fit=max&s=652910101951d6f6ddcb2cb5066584aa",
+     "title": "Canada hit back at Trump tariffs. Now the U.S. alleges possible election interference.",
+     "url": "https://www.axios.com/2026/10/22/us-canada-election-interference-tariffs-embassy",
+     "source": "Axios",
+     "summary": "The U.S. Embassy in Canada accused Canadian leaders of \"openly\" describing plans to \"influence American politics,\" doubling down on Ambassador Pete Hoekstra's claims of potential \u2026",
+     "published": "2026-10-22T15:45:24+00:00",
+     "image": "https://images.axios.com/f9nlQLt6AsMzL40bZY8gRrCP0ts=/0x0:5526x3108/1366x768/2026/10/22/1792677645587.jpeg",
      "kind": "article",
-     "id": "6f32ff0be0b464cd",
-     "first_seen": "2026-10-22T14:59:02.140246+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "New U.S.-Israeli Plans to Attack Iran, and Trump\u2019s Whistle-Blower Rewards Program",
-     "url": "https://www.nytimes.com/2026/10/22/podcasts/the-headlines/us-israel-iran-trump-whistleblower.html",
-     "source": "New York Times",
-     "summary": "Plus, America\u2019s newest national park.",
-     "published": "2026-10-22T10:02:49+00:00",
-     "image": "https://static01.nyt.com/images/2026/10/22/multimedia/22themorning-iran-03-vwtg/22themorning-iran-03-vwtg-mediumSquareAt3X.jpg",
-     "kind": "article",
-     "id": "075062f536fa3b21",
-     "first_seen": "2026-10-22T14:59:02.140246+00:00",
+     "id": "f933891c89f2c81d",
+     "first_seen": "2026-10-22T19:02:17.346224+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
@@ -126,6 +110,24 @@
      "also_in": [],
      "boosted": true,
      "score": 4
+    },
+    {
+     "title": "Trump ordered to answer questions under oath in BBC lawsuit",
+     "url": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "summary": "Trump is suing the BBC over an episode of Panorama that edited together two different sections of a speech he gave in 2021.",
+     "published": "2026-10-22T17:14:04+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6bf5/live/f171dec0-ce3b-11f1-a86f-f78305ec9987.jpg",
+     "kind": "article",
+     "id": "be9481d2600e1cca",
+     "first_seen": "2026-10-22T19:02:17.346224+00:00",
+     "is_new": true,
+     "corroboration": 2,
+     "also_in": [
+      "Axios"
+     ],
+     "boosted": false,
+     "score": 2
     }
    ]
   },
@@ -138,15 +140,27 @@
    "more": 0,
    "items": [
     {
-     "title": "Trying to Get Linux Running on a Nokia E6",
-     "url": "https://hackaday.com/2026/10/22/trying-to-get-linux-running-on-a-nokia-e6/",
+     "title": "Keeping Old Wi-Fi Radios Alive With Stream Conversion",
+     "url": "https://hackaday.com/2026/10/22/keeping-old-wi-fi-radios-alive-with-stream-conversion/",
      "source": "Hackaday",
-     "summary": "The Nokia E6 is a smartphone from back in the old days when Symbian was a thing. [fluffleswaffled] has been doing the work to get the ancient handset running Linux \u2026read more",
-     "published": "2026-10-22T08:00:17+00:00",
-     "image": "https://hackaday.com/wp-content/uploads/2026/10/23274-rotated-e1792558325798.jpg",
+     "summary": "There are plenty of Wi-Fi radios out there that were built over the last two decades or so. However, many older models are now becoming less useful because many internet \u2026read more",
+     "published": "2026-10-22T18:30:40+00:00",
+     "image": "https://hackaday.com/wp-content/uploads/2026/10/itsthabigolboondogglah.webp",
      "kind": "article",
-     "id": "bd9c86aa5fb9babf",
-     "first_seen": "2026-10-22T14:59:02.140246+00:00",
+     "id": "83481dcfe8900894",
+     "first_seen": "2026-10-22T19:02:17.346224+00:00",
+     "is_new": true
+    },
+    {
+     "title": "Clawd Handy: The Open-Source AI Gadget in Your Pocket",
+     "url": "https://www.hackster.io/Pikas/clawd-handy-the-open-source-ai-gadget-in-your-pocket-59d65d",
+     "source": "Hackster",
+     "summary": "Open-source Claude AI handheld on Adafruit MEMENTO: voice chat, retro cam, live space & weather data, ESP-NOW friends and games.",
+     "published": "2026-10-22T11:45:54+00:00",
+     "image": "https://hackster.imgix.net/uploads/attachments/2013063/_VAByjaC4zS.blob",
+     "kind": "article",
+     "id": "3e71014f2b5bbe13",
+     "first_seen": "2026-10-22T19:02:17.346224+00:00",
      "is_new": true
     },
     {
@@ -158,18 +172,6 @@
      "image": "https://hackster.imgix.net/uploads/attachments/2012914/_QcZXacEEwY.blob",
      "kind": "article",
      "id": "9e459c3905461b37",
-     "first_seen": "2026-10-22T14:59:02.140246+00:00",
-     "is_new": true
-    },
-    {
-     "title": "DIN Rail Home Power Monitor: ESP32 + OLED + Home Assistant",
-     "url": "https://www.hackster.io/sandrinmassimiliano/din-rail-home-power-monitor-esp32-oled-home-assistant-b20211",
-     "source": "Hackster",
-     "summary": "ESP32 and 1.3in OLED in a 3D printed 4-module DIN case: live watts from Home Assistant, kWh history, overload siren, web UI, OTA.",
-     "published": "2026-10-21T19:48:24+00:00",
-     "image": "https://hackster.imgix.net/uploads/attachments/2012819/_AEIQUSvYLZ.blob",
-     "kind": "article",
-     "id": "e911ba2cf624b3ec",
      "first_seen": "2026-10-22T14:59:02.140246+00:00",
      "is_new": true
     },
