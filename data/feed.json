@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-22T19:02:17.346224+00:00",
+ "generated_at": "2026-10-22T22:24:08.221939+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,13 +10,13 @@
    "more": 0,
    "items": [
     {
-     "title": "Sunny",
-     "phrase": "Sunny all day.",
-     "detail": "It reaches 63\u00b0 today and falls to 34\u00b0 overnight. The sun is up from 7:18 until 6:02.",
+     "title": "Partly Cloudy",
+     "phrase": "Partly Cloudy all day.",
+     "detail": "It reaches 56\u00b0 today and falls to 34\u00b0 overnight. The sun is up from 7:18 until 6:02.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 63,
-     "high": 63,
+     "temp": 58,
+     "high": 56,
      "low": 34,
      "sunrise": "7:18",
      "sunset": "6:02",
@@ -64,6 +64,22 @@
    "more": 0,
    "items": [
     {
+     "title": "Key Trump Health Adviser Resigns Ahead of Midterm Elections",
+     "url": "https://www.nytimes.com/2026/10/22/us/politics/calley-means-resigns-rfk-trump.html",
+     "source": "New York Times",
+     "summary": "Calley Means, who helped unite Robert F. Kennedy Jr. and President Trump, pushed food reforms but grew frustrated with stalled progress on the MAHA agenda.",
+     "published": "2026-10-22T20:45:27+00:00",
+     "image": "https://static01.nyt.com/images/2026/10/22/multimedia/22dc-means-mkpj/22dc-means-mkpj-mediumSquareAt3X.jpg",
+     "kind": "article",
+     "id": "34e723da962f76a0",
+     "first_seen": "2026-10-22T22:24:08.221939+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
      "title": "Canada hit back at Trump tariffs. Now the U.S. alleges possible election interference.",
      "url": "https://www.axios.com/2026/10/22/us-canada-election-interference-tariffs-embassy",
      "source": "Axios",
@@ -96,35 +112,19 @@
      "score": 4
     },
     {
-     "title": "Healthcare Stocks Are Rallying, and Flashing a Warning for the Rest of the Market",
-     "url": "https://www.wsj.com/finance/stocks/healthcare-stocks-are-rallying-and-flashing-a-warning-for-the-rest-of-the-market-ae13aa0b?mod=rss_markets_main",
-     "source": "WSJ",
-     "summary": "The sector is trading at a premium as investors seek safety from AI jitters.",
-     "published": "2026-10-21T09:30:00+00:00",
-     "image": "https://images.wsj.net/im-86073739",
+     "title": "Trump ordered to sit for deposition in $10 billion BBC lawsuit",
+     "url": "https://www.axios.com/2026/10/22/trump-bbc-lawsuit-december-deposition-deadline",
+     "source": "Axios",
+     "summary": "A federal judge on Thursday ordered President Trump to sit for a deposition by Dec. 11 in his $10 billion defamation lawsuit against the BBC over an edit of one of his speeches th\u2026",
+     "published": "2026-10-22T19:22:43+00:00",
+     "image": "https://images.axios.com/Qv16Iq6zWvrQpVkoZvdw5BbkPe4=/0x364:8192x4972/1366x768/2026/10/22/1792682353283.jpg",
      "kind": "article",
-     "id": "e2373702857db395",
-     "first_seen": "2026-10-21T14:49:31.659291+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "Trump ordered to answer questions under oath in BBC lawsuit",
-     "url": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "summary": "Trump is suing the BBC over an episode of Panorama that edited together two different sections of a speech he gave in 2021.",
-     "published": "2026-10-22T17:14:04+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6bf5/live/f171dec0-ce3b-11f1-a86f-f78305ec9987.jpg",
-     "kind": "article",
-     "id": "be9481d2600e1cca",
+     "id": "4aa723e43aba2b51",
      "first_seen": "2026-10-22T19:02:17.346224+00:00",
      "is_new": true,
      "corroboration": 2,
      "also_in": [
-      "Axios"
+      "BBC"
      ],
      "boosted": false,
      "score": 2
@@ -140,15 +140,27 @@
    "more": 0,
    "items": [
     {
-     "title": "Keeping Old Wi-Fi Radios Alive With Stream Conversion",
-     "url": "https://hackaday.com/2026/10/22/keeping-old-wi-fi-radios-alive-with-stream-conversion/",
+     "title": "An Open Source Linear Capacitive Encoder",
+     "url": "https://hackaday.com/2026/10/22/an-open-source-linear-capacitive-encoder/",
      "source": "Hackaday",
-     "summary": "There are plenty of Wi-Fi radios out there that were built over the last two decades or so. However, many older models are now becoming less useful because many internet \u2026read more",
-     "published": "2026-10-22T18:30:40+00:00",
-     "image": "https://hackaday.com/wp-content/uploads/2026/10/itsthabigolboondogglah.webp",
+     "summary": "If you\u2019ve ever pulled apart a set of digital calipers, you\u2019ve probably marvelled at the capacitive encoder that does all the measuring work. There\u2019s nothing stopping you from usin\u2026",
+     "published": "2026-10-22T20:00:48+00:00",
+     "image": "https://hackaday.com/wp-content/uploads/2026/10/Screenshot-2026-10-22-214534-e1792665961677.png",
      "kind": "article",
-     "id": "83481dcfe8900894",
-     "first_seen": "2026-10-22T19:02:17.346224+00:00",
+     "id": "b3aafeabb21ed5e2",
+     "first_seen": "2026-10-22T22:24:08.221939+00:00",
+     "is_new": true
+    },
+    {
+     "title": "RADIO DAYS \u2014 A Retro World Radio for Cardputer ADV",
+     "url": "https://www.hackster.io/hiakimoto/radio-days-a-retro-world-radio-for-cardputer-adv-89d065",
+     "source": "Hackster",
+     "summary": "Rediscover 1980s radio tuning with Cardputer ADV, a rotary dial, 42 stations worldwide, and nostalgic visuals. Try the Web version too!",
+     "published": "2026-10-22T12:42:53+00:00",
+     "image": "https://hackster.imgix.net/uploads/attachments/2013104/_eQ0d3CaaoN.blob",
+     "kind": "article",
+     "id": "ea0f0059fb6962c3",
+     "first_seen": "2026-10-22T22:24:08.221939+00:00",
      "is_new": true
     },
     {
@@ -161,18 +173,6 @@
      "kind": "article",
      "id": "3e71014f2b5bbe13",
      "first_seen": "2026-10-22T19:02:17.346224+00:00",
-     "is_new": true
-    },
-    {
-     "title": "How Silicon Microchips Are Made: A Step-by-Step Visual Guide",
-     "url": "https://www.hackster.io/electroniclovers/how-silicon-microchips-are-made-a-step-by-step-visual-guide-ca6f58",
-     "source": "Hackster",
-     "summary": "A complete breakdown and DIY educational guide based on 3D semiconductor fabrication animation.",
-     "published": "2026-10-22T03:27:09+00:00",
-     "image": "https://hackster.imgix.net/uploads/attachments/2012914/_QcZXacEEwY.blob",
-     "kind": "article",
-     "id": "9e459c3905461b37",
-     "first_seen": "2026-10-22T14:59:02.140246+00:00",
      "is_new": true
     },
     {
