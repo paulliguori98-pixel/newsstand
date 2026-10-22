@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-21T22:24:52.225878+00:00",
+ "generated_at": "2026-10-22T00:51:59.348051+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,12 +10,12 @@
    "more": 0,
    "items": [
     {
-     "title": "Sunny",
-     "phrase": "Sunny all day.",
+     "title": "Mostly Clear",
+     "phrase": "Mostly Clear all day.",
      "detail": "It reaches 62\u00b0 today and falls to 32\u00b0 overnight. The sun is up from 7:16 until 6:03.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 58,
+     "temp": 45,
      "high": 62,
      "low": 32,
      "sunrise": "7:16",
@@ -153,27 +153,27 @@
      "is_new": true
     },
     {
-     "title": "Smart Dual Relay Control System Using NodeMCU and Kiwisiot",
-     "url": "https://www.hackster.io/yuvansris2002/smart-dual-relay-control-system-using-nodemcu-and-kiwisiot-433360",
+     "title": "ESP32 NTP Clock on Dual WS2812B 8x32 LED Matrix",
+     "url": "https://www.hackster.io/sandrinmassimiliano/esp32-ntp-clock-on-dual-ws2812b-8x32-led-matrix-cddc03",
      "source": "Hackster",
-     "summary": "Control two electrical devices remotely using NodeMCU ESP8266, a 2-channel relay module, and the KiwisIoT platform.",
-     "published": "2026-10-21T13:13:52+00:00",
-     "image": "https://hackster.imgix.net/uploads/attachments/2012709/_tdMMsPk7wU.blob",
+     "summary": "Time and date always in sync via NTP on two 8x32 NeoPixel panels: web settings, night mode, OTA and Home Assistant API.",
+     "published": "2026-10-21T19:29:19+00:00",
+     "image": "https://hackster.imgix.net/uploads/attachments/2012801/_41boePPdZX.blob",
      "kind": "article",
-     "id": "3aa17ad3d611122a",
-     "first_seen": "2026-10-21T22:24:52.225878+00:00",
+     "id": "f677346dd92e10eb",
+     "first_seen": "2026-10-22T00:51:59.348051+00:00",
      "is_new": true
     },
     {
-     "title": "Designing a Compact Embedded Computing Platform Around eMCP",
-     "url": "https://www.hackster.io/Kieu234/designing-a-compact-embedded-computing-platform-around-emcp-736ea2",
+     "title": "Pico. Lab - Web-GUI Embedded Multitool",
+     "url": "https://www.hackster.io/maxkern/pico-lab-web-gui-embedded-multitool-2d6adc",
      "source": "Hackster",
-     "summary": "Exploring the hardware architecture, interface compatibility, power requirements, and validation workflow for a compact embedded computing p",
-     "published": "2026-10-21T09:10:49+00:00",
-     "image": "https://hackster.imgix.net/uploads/attachments/2012667/_XHx5Af4kHm.blob",
+     "summary": "An open-source embedded bring-up tool built around the Raspberry Pi RP2350 microcontroller. Easy-to-use, window-based web user interface.",
+     "published": "2026-10-21T16:25:35+00:00",
+     "image": "https://hackster.imgix.net/uploads/attachments/2012751/_BmYJmx6YJ1.blob",
      "kind": "article",
-     "id": "299ed76a383263c3",
-     "first_seen": "2026-10-21T19:05:30.829425+00:00",
+     "id": "cd7ccde6fdc1f54c",
+     "first_seen": "2026-10-22T00:51:59.348051+00:00",
      "is_new": true
     },
     {
@@ -209,34 +209,7 @@
    "lead_image": false,
    "row_detail": false,
    "more": 0,
-   "items": [
-    {
-     "title": "Brighton Base Layer - Chicago",
-     "url": "https://www.tracksmith.com/products/m-chicago-brighton-base-layer?sku=MT217CHI2603NCRN",
-     "source": "Tracksmith",
-     "summary": "",
-     "published": null,
-     "image": "https://cdn.shopify.com/s/files/1/1594/4353/files/Chicago26-Mens-Brighton-Base-Layer-On-Model.png?v=1787853162&width=800&height=800&crop=center",
-     "price": "$110",
-     "kind": "product",
-     "id": "0bdb014977ac0049",
-     "first_seen": "2026-10-21T19:05:30.829425+00:00",
-     "is_new": true
-    },
-    {
-     "title": "Black Sheep Crewneck",
-     "url": "https://www.bestmadeco.com/products/black-sheep-sweater",
-     "source": "Best Made",
-     "summary": "Tops",
-     "published": "2026-10-20T19:54:09-04:00",
-     "image": "https://cdn.shopify.com/s/files/1/0674/2985/9558/files/PDP-LAYOUTS-BLACK-SHEEP-CREW2.jpg?v=1792433278",
-     "price": "$288",
-     "kind": "product",
-     "id": "3ffbe829f33c6600",
-     "first_seen": "2026-10-21T00:39:53.366864+00:00",
-     "is_new": true
-    }
-   ]
+   "items": []
   },
   {
    "id": "dispatches",
