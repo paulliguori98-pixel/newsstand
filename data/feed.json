@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-22T22:24:08.221939+00:00",
+ "generated_at": "2026-10-23T00:54:33.223723+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,12 +10,12 @@
    "more": 0,
    "items": [
     {
-     "title": "Partly Cloudy",
-     "phrase": "Partly Cloudy all day.",
+     "title": "Mostly Clear",
+     "phrase": "Mostly Clear all day.",
      "detail": "It reaches 56\u00b0 today and falls to 34\u00b0 overnight. The sun is up from 7:18 until 6:02.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 58,
+     "temp": 50,
      "high": 56,
      "low": 34,
      "sunrise": "7:18",
@@ -68,11 +68,27 @@
      "url": "https://www.nytimes.com/2026/10/22/us/politics/calley-means-resigns-rfk-trump.html",
      "source": "New York Times",
      "summary": "Calley Means, who helped unite Robert F. Kennedy Jr. and President Trump, pushed food reforms but grew frustrated with stalled progress on the MAHA agenda.",
-     "published": "2026-10-22T20:45:27+00:00",
+     "published": "2026-10-22T23:33:19+00:00",
      "image": "https://static01.nyt.com/images/2026/10/22/multimedia/22dc-means-mkpj/22dc-means-mkpj-mediumSquareAt3X.jpg",
      "kind": "article",
      "id": "34e723da962f76a0",
      "first_seen": "2026-10-22T22:24:08.221939+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
+     "title": "Rebel Wilson secures another Australian court win as co-producers of The Deb awarded just $10",
+     "url": "https://www.theguardian.com/film/2026/oct/23/rebel-wilson-australian-court-win-co-producers-the-deb-film-ntwnfb",
+     "source": "Guardian",
+     "summary": "NSW supreme court judge otherwise dismisses case brought by film\u2019s co-producers and awards Wilson almost $400,000 after star countersuedAustralian A-lister Rebel Wilson has secure\u2026",
+     "published": "2026-10-22T23:31:22+00:00",
+     "image": "https://i.guim.co.uk/img/media/31201c1760c6e17c017d649709e8347212f4ae61/843_0_7857_6286/master/7857.jpg?width=140&quality=85&auto=format&fit=max&s=429c4ccea26425cd9eb0a5c4090363c0",
+     "kind": "article",
+     "id": "cbb52ea7b677d5f7",
+     "first_seen": "2026-10-23T00:54:33.223723+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
@@ -110,24 +126,6 @@
      "also_in": [],
      "boosted": true,
      "score": 4
-    },
-    {
-     "title": "Trump ordered to sit for deposition in $10 billion BBC lawsuit",
-     "url": "https://www.axios.com/2026/10/22/trump-bbc-lawsuit-december-deposition-deadline",
-     "source": "Axios",
-     "summary": "A federal judge on Thursday ordered President Trump to sit for a deposition by Dec. 11 in his $10 billion defamation lawsuit against the BBC over an edit of one of his speeches th\u2026",
-     "published": "2026-10-22T19:22:43+00:00",
-     "image": "https://images.axios.com/Qv16Iq6zWvrQpVkoZvdw5BbkPe4=/0x364:8192x4972/1366x768/2026/10/22/1792682353283.jpg",
-     "kind": "article",
-     "id": "4aa723e43aba2b51",
-     "first_seen": "2026-10-22T19:02:17.346224+00:00",
-     "is_new": true,
-     "corroboration": 2,
-     "also_in": [
-      "BBC"
-     ],
-     "boosted": false,
-     "score": 2
     }
    ]
   },
@@ -140,27 +138,15 @@
    "more": 0,
    "items": [
     {
-     "title": "An Open Source Linear Capacitive Encoder",
-     "url": "https://hackaday.com/2026/10/22/an-open-source-linear-capacitive-encoder/",
+     "title": "Car\u2019s Camera Footage Backed up to NAS",
+     "url": "https://hackaday.com/2026/10/22/cars-camera-footage-backed-up-to-nas/",
      "source": "Hackaday",
-     "summary": "If you\u2019ve ever pulled apart a set of digital calipers, you\u2019ve probably marvelled at the capacitive encoder that does all the measuring work. There\u2019s nothing stopping you from usin\u2026",
-     "published": "2026-10-22T20:00:48+00:00",
-     "image": "https://hackaday.com/wp-content/uploads/2026/10/Screenshot-2026-10-22-214534-e1792665961677.png",
+     "summary": "For as many sensors, cameras, and computers as there are on modern cars, they ought to be a dream to poke around in and customize to one\u2019s liking. Unfortunately they\u2019re \u2026read more",
+     "published": "2026-10-22T23:00:13+00:00",
+     "image": "https://hackaday.com/wp-content/uploads/2026/10/glovebox-main.png",
      "kind": "article",
-     "id": "b3aafeabb21ed5e2",
-     "first_seen": "2026-10-22T22:24:08.221939+00:00",
-     "is_new": true
-    },
-    {
-     "title": "RADIO DAYS \u2014 A Retro World Radio for Cardputer ADV",
-     "url": "https://www.hackster.io/hiakimoto/radio-days-a-retro-world-radio-for-cardputer-adv-89d065",
-     "source": "Hackster",
-     "summary": "Rediscover 1980s radio tuning with Cardputer ADV, a rotary dial, 42 stations worldwide, and nostalgic visuals. Try the Web version too!",
-     "published": "2026-10-22T12:42:53+00:00",
-     "image": "https://hackster.imgix.net/uploads/attachments/2013104/_eQ0d3CaaoN.blob",
-     "kind": "article",
-     "id": "ea0f0059fb6962c3",
-     "first_seen": "2026-10-22T22:24:08.221939+00:00",
+     "id": "24506286d97d51e0",
+     "first_seen": "2026-10-23T00:54:33.223723+00:00",
      "is_new": true
     },
     {
@@ -173,6 +159,18 @@
      "kind": "article",
      "id": "3e71014f2b5bbe13",
      "first_seen": "2026-10-22T19:02:17.346224+00:00",
+     "is_new": true
+    },
+    {
+     "title": "Printr: morning receipts for the whole family",
+     "url": "https://www.hackster.io/X99/printr-morning-receipts-for-the-whole-family-34bf54",
+     "source": "Hackster",
+     "summary": "Weather, puzzles, chores and bedtime stories printed every morning on a receipt printer, by a Raspberry Pi and a single Rust binary.",
+     "published": "2026-10-22T09:15:05+00:00",
+     "image": "https://hackster.imgix.net/uploads/attachments/2013003/_YTsk7rx68R.blob",
+     "kind": "article",
+     "id": "d8dd8d6325d6da08",
+     "first_seen": "2026-10-22T22:24:08.221939+00:00",
      "is_new": true
     },
     {
@@ -207,61 +205,8 @@
    "kind": "goods",
    "lead_image": false,
    "row_detail": false,
-   "more": 20,
-   "items": [
-    {
-     "title": "Navy Wool Melton Blouson",
-     "url": "https://us.drakes.com/products/navy-wool-melton-blouson",
-     "source": "Drake's",
-     "summary": "Jackets",
-     "published": "2026-10-22T05:48:20-04:00",
-     "image": "https://cdn.shopify.com/s/files/1/0649/6603/3653/files/26515.jpg?v=1792507307",
-     "price": "$1,395",
-     "kind": "product",
-     "id": "67fcb1454f58f341",
-     "first_seen": "2026-10-22T14:59:02.140246+00:00",
-     "is_new": true
-    },
-    {
-     "title": "Red Merino Wool Knitted Polo",
-     "url": "https://us.drakes.com/products/red-merino-wool-knitted-polo",
-     "source": "Drake's",
-     "summary": "Polos",
-     "published": "2026-10-22T04:56:26-04:00",
-     "image": "https://cdn.shopify.com/s/files/1/0649/6603/3653/files/26628.jpg?v=1792508391",
-     "price": "$495",
-     "kind": "product",
-     "id": "7a7c11631a62a60b",
-     "first_seen": "2026-10-22T14:59:02.140246+00:00",
-     "is_new": true
-    },
-    {
-     "title": "Grey Merino Wool Knitted Polo",
-     "url": "https://us.drakes.com/products/grey-merino-wool-knitted-polo-1",
-     "source": "Drake's",
-     "summary": "Polos",
-     "published": "2026-10-22T04:49:28-04:00",
-     "image": "https://cdn.shopify.com/s/files/1/0649/6603/3653/files/DR2A3H26628-01-600-1.jpg?v=1791470417",
-     "price": "$495",
-     "kind": "product",
-     "id": "e0f020911e73e366",
-     "first_seen": "2026-10-22T14:59:02.140246+00:00",
-     "is_new": true
-    },
-    {
-     "title": "Green, Red and Gold Multi Stripe Silk Tipped Tie",
-     "url": "https://us.drakes.com/products/green-red-and-gold-multi-stripe-silk-tipped-tie",
-     "source": "Drake's",
-     "summary": "Striped Tie",
-     "published": "2026-10-22T04:14:57-04:00",
-     "image": "https://cdn.shopify.com/s/files/1/0649/6603/3653/files/DR1AAN26749-01-702-1.jpg?v=1791967944",
-     "price": "$275",
-     "kind": "product",
-     "id": "68f7a33e9e0e8c03",
-     "first_seen": "2026-10-22T14:59:02.140246+00:00",
-     "is_new": true
-    }
-   ]
+   "more": 0,
+   "items": []
   },
   {
    "id": "dispatches",
