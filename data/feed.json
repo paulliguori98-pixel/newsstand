@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-23T18:42:17.306303+00:00",
+ "generated_at": "2026-10-23T21:49:23.471367+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -15,7 +15,7 @@
      "detail": "It reaches 57\u00b0 today and falls to 29\u00b0 overnight. The sun is up from 7:19 until 6:00.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 54,
+     "temp": 55,
      "high": 57,
      "low": 29,
      "sunrise": "7:19",
@@ -64,11 +64,11 @@
    "more": 0,
    "items": [
     {
-     "title": "Melania Trump has helped broker ceasefire in Russian-occupied Ukrainian town, says White House \u2013 Europe live",
+     "title": "Melania Trump has helped broker ceasefire in Russian-occupied Ukrainian town, says White House \u2013 as it happened",
      "url": "https://www.theguardian.com/world/live/2026/oct/23/starlink-ukraine-musk-trump-russia-black-sea-strikes-france-milan-europe-protests-latest-news-updates",
      "source": "Guardian",
-     "summary": "Residents in Oleshky have been enduring a worsening humanitarian crisis due to the lack of food, electricity and other resourcesThe French prime minister S\u00e9bastien Lecornu has jus\u2026",
-     "published": "2026-10-23T18:22:06+00:00",
+     "summary": "Residents in Oleshky have been enduring a worsening humanitarian crisis due to the lack of food, electricity and other resources The French prime minister S\u00e9bastien Lecornu has ju\u2026",
+     "published": "2026-10-23T19:51:21+00:00",
      "image": "https://i.guim.co.uk/img/media/ace22324730cef3ddc927de0d454abf728aaa232/301_0_1414_1132/master/1414.jpg?width=140&quality=85&auto=format&fit=max&s=63cd75431194c6bb3518fcb753e59fb2",
      "kind": "article",
      "id": "6f70964a9f4395b9",
@@ -138,15 +138,15 @@
    "more": 0,
    "items": [
     {
-     "title": "Running a Philips CD-i Off USB-C",
-     "url": "https://hackaday.com/2026/10/23/running-a-philips-cd-i-off-usb-c/",
+     "title": "Reconstructing the Ancient Chinese Storm of Crows Weapon",
+     "url": "https://hackaday.com/2026/10/23/reconstructing-the-ancient-chinese-storm-of-crows-weapon/",
      "source": "Hackaday",
-     "summary": "The Philips CD-i is a console with many shortcomings, and those include the power supply. For whatever reason, the engineering team decided it should use an 8P8C connector just li\u2026",
-     "published": "2026-10-23T18:30:09+00:00",
-     "image": "https://hackaday.com/wp-content/uploads/2026/10/Running-the-Philips-CD-i-off-USB-C.-because-why-not_-14-54-screenshot.png",
+     "summary": "The Chinese had been using large crossbows \u2013 akin to Greek and Roman ballistae \u2013 for warfare for many of the same reasons that European armies loved them. Their single, \u2026read more",
+     "published": "2026-10-23T20:00:09+00:00",
+     "image": "https://hackaday.com/wp-content/uploads/2026/10/multi-missile_crossbow_launcher_tods_workshop_youtube.jpg",
      "kind": "article",
-     "id": "0e16663d6418fc27",
-     "first_seen": "2026-10-23T18:42:17.306303+00:00",
+     "id": "8eaa1af69e18b0a3",
+     "first_seen": "2026-10-23T21:49:23.471367+00:00",
      "is_new": true
     },
     {
@@ -231,6 +231,22 @@
    "more": 0,
    "items": [
     {
+     "title": "The design and culture of the Land Rover",
+     "url": "https://www.permanentstyle.com/2026/10/the-design-and-culture-of-the-land-rover.html",
+     "source": "Permanent Style",
+     "summary": "I don\u2019t own a car, but if anything that\u2019s made me more fascinated \u2013 more keen to learn \u2013 about car design and the way it fits into our visual culture. Just like clothing, or watch\u2026",
+     "published": "2026-10-23T08:00:48+00:00",
+     "image": "https://www.permanentstyle.com/wp-content/uploads/2026/10/RAFsnow.jpg",
+     "kind": "article",
+     "id": "1d7ed7d87c816550",
+     "first_seen": "2026-10-23T14:38:03.732906+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": false,
+     "score": 1
+    },
+    {
      "title": "Omega Planet Ocean Gen 2 vs Gen 1 [The Champ]",
      "url": "https://www.menswearmusings.com/omega-planet-ocean-gen-2-vs-gen-1-the-champ/",
      "source": "Menswear Musings",
@@ -277,27 +293,9 @@
      "also_in": [],
      "boosted": false,
      "score": 1
-    },
-    {
-     "title": "Never Enough Suede",
-     "url": "https://www.acl.news/p/never-enough-suede",
-     "source": "A Continuous Lean",
-     "summary": "Special Edition ACL x Rivay Alden Ranger Moccs",
-     "published": "2026-10-18T11:08:34+00:00",
-     "image": "https://substackcdn.com/image/fetch/$s_!_OSF!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F48872598-0d87-4dd3-8ef6-358539c37324_2048x2650.jpeg",
-     "kind": "article",
-     "id": "d2a856bd2e5215ac",
-     "first_seen": "2026-10-18T13:44:56.016493+00:00",
-     "is_new": false,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": false,
-     "score": 1
     }
    ]
   }
  ],
- "errors": [
-  "Permanent Style: RuntimeError \u2014 https://www.permanentstyle.com/feed \u2192 HTTP 415"
- ]
+ "errors": []
 }
