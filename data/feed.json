@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-23T14:38:03.732906+00:00",
+ "generated_at": "2026-10-23T18:42:17.306303+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -12,12 +12,12 @@
     {
      "title": "Sunny",
      "phrase": "Sunny all day.",
-     "detail": "It reaches 56\u00b0 today and falls to 26\u00b0 overnight. The sun is up from 7:19 until 6:00.",
+     "detail": "It reaches 57\u00b0 today and falls to 29\u00b0 overnight. The sun is up from 7:19 until 6:00.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 45,
-     "high": 56,
-     "low": 26,
+     "temp": 54,
+     "high": 57,
+     "low": 29,
      "sunrise": "7:19",
      "sunset": "6:00",
      "id": "bb806d72c86dcec1",
@@ -68,7 +68,7 @@
      "url": "https://www.theguardian.com/world/live/2026/oct/23/starlink-ukraine-musk-trump-russia-black-sea-strikes-france-milan-europe-protests-latest-news-updates",
      "source": "Guardian",
      "summary": "Residents in Oleshky have been enduring a worsening humanitarian crisis due to the lack of food, electricity and other resourcesThe French prime minister S\u00e9bastien Lecornu has jus\u2026",
-     "published": "2026-10-23T14:21:39+00:00",
+     "published": "2026-10-23T18:22:06+00:00",
      "image": "https://i.guim.co.uk/img/media/ace22324730cef3ddc927de0d454abf728aaa232/301_0_1414_1132/master/1414.jpg?width=140&quality=85&auto=format&fit=max&s=63cd75431194c6bb3518fcb753e59fb2",
      "kind": "article",
      "id": "6f70964a9f4395b9",
@@ -84,8 +84,8 @@
      "url": "https://www.nytimes.com/2026/10/23/opinion/acton-ramaswamy-ad-trump-ohio.html",
      "source": "New York Times",
      "summary": "The G.O.P. nominee in Ohio has given conservatives space to reckon with the ethical degradation of Trumpism.",
-     "published": "2026-10-23T10:11:50+00:00",
-     "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23goldberg-qmkb/23goldberg-qmkb-mediumSquareAt3X.jpg",
+     "published": "2026-10-23T17:24:53+00:00",
+     "image": "https://static01.nyt.com/images/2026/10/24/multimedia/23goldberg-qmkb/23goldberg-qmkb-mediumSquareAt3X.jpg",
      "kind": "article",
      "id": "6ce3441b8c382604",
      "first_seen": "2026-10-23T14:38:03.732906+00:00",
@@ -96,15 +96,15 @@
      "score": 4
     },
     {
-     "title": "Nationals leader Matt Canavan eyes move to lower house as pollster warns of One Nation wipeout",
-     "url": "https://www.theguardian.com/australia-news/2026/oct/23/nationals-leader-matt-canavan-lower-house-capricornia-one-nation-ntwnfb",
+     "title": "US and Israel are warned against launching fresh strikes on Iran",
+     "url": "https://www.theguardian.com/world/2026/oct/23/european-middle-eastern-ministers-summit-iran-us-israel",
      "source": "Guardian",
-     "summary": "Michelle Landry announces she will not recontest her Queensland seat of Capricornia at the next electionGet our new political email, free app or daily news podcastMatt Canavan cou\u2026",
-     "published": "2026-10-23T03:59:41+00:00",
-     "image": "https://i.guim.co.uk/img/media/608725471af9e3e745f89c883a8cce7158b2ef2c/1376_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=bda939f6aee2bf4162773f923e500a30",
+     "summary": "Multinational \u2018anti-war bloc\u2019 uses Istanbul summit to call for a diplomatic solution to Middle East crisisForeign ministers at a summit of eight European and Middle Eastern countr\u2026",
+     "published": "2026-10-23T17:18:34+00:00",
+     "image": "https://i.guim.co.uk/img/media/6ac9cf9fbfcf811f0a3f36368ba9e219fcb7b7de/367_0_2560_2048/master/2560.jpg?width=140&quality=85&auto=format&fit=max&s=1e443ca4d1f01758bcb52a8d08db6dbd",
      "kind": "article",
-     "id": "27aedf231eb6a418",
-     "first_seen": "2026-10-23T14:38:03.732906+00:00",
+     "id": "29b110fe8dec7818",
+     "first_seen": "2026-10-23T18:42:17.306303+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
@@ -112,15 +112,15 @@
      "score": 4
     },
     {
-     "title": "Canada hit back at Trump tariffs. Now the U.S. alleges possible election interference.",
-     "url": "https://www.axios.com/2026/10/22/us-canada-election-interference-tariffs-embassy",
-     "source": "Axios",
-     "summary": "The U.S. Embassy in Canada accused Canadian leaders of \"openly\" describing plans to \"influence American politics,\" doubling down on Ambassador Pete Hoekstra's claims of potential \u2026",
-     "published": "2026-10-22T15:45:24+00:00",
-     "image": "https://images.axios.com/f9nlQLt6AsMzL40bZY8gRrCP0ts=/0x0:5526x3108/1366x768/2026/10/22/1792677645587.jpeg",
+     "title": "Russia and Ukraine agree to local ceasefire in Oleshky amid deepening humanitarian crisis",
+     "url": "https://www.theguardian.com/world/2026/oct/23/ukraine-troops-report-ongoing-problems-with-starlink-satellite-network",
+     "source": "Guardian",
+     "summary": "People in Russian-occupied city facing severe shortages of food, water and electricity, with some reportedly surviving on weedsThe White House has said that Russia and Ukraine hav\u2026",
+     "published": "2026-10-23T16:10:34+00:00",
+     "image": "https://i.guim.co.uk/img/media/ace22324730cef3ddc927de0d454abf728aaa232/301_0_1414_1132/master/1414.jpg?width=140&quality=85&auto=format&fit=max&s=63cd75431194c6bb3518fcb753e59fb2",
      "kind": "article",
-     "id": "f933891c89f2c81d",
-     "first_seen": "2026-10-22T19:02:17.346224+00:00",
+     "id": "cb9eec62df6fa77c",
+     "first_seen": "2026-10-23T14:38:03.732906+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
@@ -138,15 +138,15 @@
    "more": 0,
    "items": [
     {
-     "title": "When You Can\u2019t Pick Between Electric and Jet Power, This Buggy Has You Covered",
-     "url": "https://hackaday.com/2026/10/23/when-you-cant-pick-between-electric-and-jet-power-this-buggy-has-you-covered/",
+     "title": "Running a Philips CD-i Off USB-C",
+     "url": "https://hackaday.com/2026/10/23/running-a-philips-cd-i-off-usb-c/",
      "source": "Hackaday",
-     "summary": "Technically, what [Macona] built with a surplus Solar T-62 turbine is not a dune buggy, but a sand rail, but it does have the delightfully rare combination of electric and \u2026read m\u2026",
-     "published": "2026-10-23T11:00:10+00:00",
-     "image": "https://hackaday.com/wp-content/uploads/2026/10/turbine-hybrid-feat.jpg",
+     "summary": "The Philips CD-i is a console with many shortcomings, and those include the power supply. For whatever reason, the engineering team decided it should use an 8P8C connector just li\u2026",
+     "published": "2026-10-23T18:30:09+00:00",
+     "image": "https://hackaday.com/wp-content/uploads/2026/10/Running-the-Philips-CD-i-off-USB-C.-because-why-not_-14-54-screenshot.png",
      "kind": "article",
-     "id": "33ae21ccf18cd9f9",
-     "first_seen": "2026-10-23T14:38:03.732906+00:00",
+     "id": "0e16663d6418fc27",
+     "first_seen": "2026-10-23T18:42:17.306303+00:00",
      "is_new": true
     },
     {
@@ -231,22 +231,6 @@
    "more": 0,
    "items": [
     {
-     "title": "The design and culture of the Land Rover",
-     "url": "https://www.permanentstyle.com/2026/10/the-design-and-culture-of-the-land-rover.html",
-     "source": "Permanent Style",
-     "summary": "I don\u2019t own a car, but if anything that\u2019s made me more fascinated \u2013 more keen to learn \u2013 about car design and the way it fits into our visual culture. Just like clothing, or watch\u2026",
-     "published": "2026-10-23T08:00:48+00:00",
-     "image": "https://www.permanentstyle.com/wp-content/uploads/2026/10/RAFsnow.jpg",
-     "kind": "article",
-     "id": "1d7ed7d87c816550",
-     "first_seen": "2026-10-23T14:38:03.732906+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": false,
-     "score": 1
-    },
-    {
      "title": "Omega Planet Ocean Gen 2 vs Gen 1 [The Champ]",
      "url": "https://www.menswearmusings.com/omega-planet-ocean-gen-2-vs-gen-1-the-champ/",
      "source": "Menswear Musings",
@@ -293,9 +277,27 @@
      "also_in": [],
      "boosted": false,
      "score": 1
+    },
+    {
+     "title": "Never Enough Suede",
+     "url": "https://www.acl.news/p/never-enough-suede",
+     "source": "A Continuous Lean",
+     "summary": "Special Edition ACL x Rivay Alden Ranger Moccs",
+     "published": "2026-10-18T11:08:34+00:00",
+     "image": "https://substackcdn.com/image/fetch/$s_!_OSF!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F48872598-0d87-4dd3-8ef6-358539c37324_2048x2650.jpeg",
+     "kind": "article",
+     "id": "d2a856bd2e5215ac",
+     "first_seen": "2026-10-18T13:44:56.016493+00:00",
+     "is_new": false,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": false,
+     "score": 1
     }
    ]
   }
  ],
- "errors": []
+ "errors": [
+  "Permanent Style: RuntimeError \u2014 https://www.permanentstyle.com/feed \u2192 HTTP 415"
+ ]
 }
