@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-24T13:48:50.745197+00:00",
+ "generated_at": "2026-10-24T17:10:20.120768+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,12 +10,12 @@
    "more": 0,
    "items": [
     {
-     "title": "Partly Sunny",
-     "phrase": "Partly Sunny all day.",
+     "title": "Sunny",
+     "phrase": "Sunny all day.",
      "detail": "It reaches 58\u00b0 today and falls to 29\u00b0 overnight. The sun is up from 7:20 until 5:58.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 34,
+     "temp": 54,
      "high": 58,
      "low": 29,
      "sunrise": "7:20",
@@ -96,6 +96,24 @@
      "score": 4
     },
     {
+     "title": "Watch as fire engulfs Hitler's mountaintop Eagle's Nest retreat",
+     "url": "https://www.bbc.co.uk/news/videos/cq98z9xxy2n2o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "summary": "Police in the southern German state of Bavaria have detained a 33-year-old German man following the fire.",
+     "published": "2026-10-24T15:56:48+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfba/live/f1443bc0-cfbf-11f1-93e1-3b657b665bcf.jpg",
+     "kind": "article",
+     "id": "38dc07aa62de7188",
+     "first_seen": "2026-10-24T17:10:20.120768+00:00",
+     "is_new": true,
+     "corroboration": 2,
+     "also_in": [
+      "Guardian"
+     ],
+     "boosted": false,
+     "score": 2
+    },
+    {
      "title": "Gunmen open fire at a church during a funeral in Jordan, killing 7 and wounding 40",
      "url": "https://www.npr.org/2026/10/24/nx-s1-6015414/shooting-church-jordan",
      "source": "NPR",
@@ -109,24 +127,6 @@
      "corroboration": 2,
      "also_in": [
       "BBC"
-     ],
-     "boosted": false,
-     "score": 2
-    },
-    {
-     "title": "British woman dies after trying to rescue sons swept away at sea in the Bahamas",
-     "url": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "summary": "The children were subsequently rescued from the water, police say.",
-     "published": "2026-10-24T09:45:47+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/74f9/live/3c3ce1b0-cf8c-11f1-bef0-7f8eb636c50b.jpg",
-     "kind": "article",
-     "id": "d783cc6b4b3ca968",
-     "first_seen": "2026-10-24T13:48:50.745197+00:00",
-     "is_new": true,
-     "corroboration": 2,
-     "also_in": [
-      "Guardian"
      ],
      "boosted": false,
      "score": 2
@@ -154,6 +154,18 @@
      "is_new": true
     },
     {
+     "title": "Smart Alcohol Vapor Monitoring with ESP8266 and KiwisIoT",
+     "url": "https://www.hackster.io/kirusokumar/smart-alcohol-vapor-monitoring-with-esp8266-and-kiwisiot-56b17c",
+     "source": "Hackster",
+     "summary": "Build an alcohol-vapour monitoring prototype using the MQ-3 sensor and NodeMCU ESP8266, and visualize readings KiwisIoT on dashboard",
+     "published": "2026-10-24T09:06:35+00:00",
+     "image": "https://hackster.imgix.net/uploads/attachments/2013746/_0sEuqJCYOY.blob",
+     "kind": "article",
+     "id": "89845991c664ef70",
+     "first_seen": "2026-10-24T17:10:20.120768+00:00",
+     "is_new": true
+    },
+    {
      "title": "Remote IoT Alert Control with ESP8266 and KiwisIoT",
      "url": "https://www.hackster.io/kirusokumar/remote-iot-alert-control-with-esp8266-and-kiwisiot-8de81b",
      "source": "Hackster",
@@ -162,18 +174,6 @@
      "image": "https://hackster.imgix.net/uploads/attachments/2013720/_OJekwa2xgd.blob",
      "kind": "article",
      "id": "62b102a5199c51a8",
-     "first_seen": "2026-10-24T13:48:50.745197+00:00",
-     "is_new": true
-    },
-    {
-     "title": "Smart Water Monitoring with ESP8266 and KiwisIoT",
-     "url": "https://www.hackster.io/harispidy07/smart-water-monitoring-with-esp8266-and-kiwisiot-e2f838",
-     "source": "Hackster",
-     "summary": "Measure water pH using an analog pH sensor and NodeMCU ESP8266, then monitor calibrated readings on a KiwisIoT dashboard.",
-     "published": "2026-10-24T06:26:54+00:00",
-     "image": "https://hackster.imgix.net/uploads/attachments/2013708/_5E8MxbToOB.blob",
-     "kind": "article",
-     "id": "900920dfceeabcc3",
      "first_seen": "2026-10-24T13:48:50.745197+00:00",
      "is_new": true
     },
