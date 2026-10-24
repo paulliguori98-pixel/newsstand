@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-24T21:51:17.985723+00:00",
+ "generated_at": "2026-10-24T23:57:49.342270+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,13 +10,13 @@
    "more": 0,
    "items": [
     {
-     "title": "Sunny",
-     "phrase": "Sunny all day.",
-     "detail": "It reaches 58\u00b0 today and falls to 28\u00b0 overnight. The sun is up from 7:20 until 5:58.",
+     "title": "Mostly Clear",
+     "phrase": "Mostly Clear all day.",
+     "detail": "It reaches 62\u00b0 today and falls to 28\u00b0 overnight. The sun is up from 7:20 until 5:58.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 55,
-     "high": 58,
+     "temp": 47,
+     "high": 62,
      "low": 28,
      "sunrise": "7:20",
      "sunset": "5:58",
@@ -64,6 +64,22 @@
    "more": 0,
    "items": [
     {
+     "title": "Trade tariffs cause whiplash at Port Milwaukee",
+     "url": "https://www.npr.org/2026/10/24/nx-s1-6011193/trade-tariffs-cause-whiplash-at-port-milwaukee",
+     "source": "NPR",
+     "summary": "Sacha Pfeiffer visits Port Milwaukee to see how President Trump's tariffs have affected the flow of goods and impacted the regional economy.",
+     "published": "2026-10-24T21:20:55+00:00",
+     "image": null,
+     "kind": "article",
+     "id": "2f73099fcc5cc199",
+     "first_seen": "2026-10-24T23:57:49.342270+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
      "title": "Netanyahu Is Up for Re-election After Years of War. How Will Voters See Him?",
      "url": "https://www.nytimes.com/2026/10/24/world/middleeast/netanyahu-has-reinvented-himself-will-voters-think-its-enough.html",
      "source": "New York Times",
@@ -110,24 +126,6 @@
      "also_in": [],
      "boosted": true,
      "score": 4
-    },
-    {
-     "title": "British woman dies after trying to rescue sons swept away at sea in the Bahamas",
-     "url": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "summary": "Nathan Gregory says the loss of childhood sweetheart Leanne \"is unimaginable for our family\".",
-     "published": "2026-10-24T17:11:56+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b9f/live/09596b60-cfc8-11f1-b441-2b33b063138f.jpg",
-     "kind": "article",
-     "id": "d783cc6b4b3ca968",
-     "first_seen": "2026-10-24T13:48:50.745197+00:00",
-     "is_new": true,
-     "corroboration": 2,
-     "also_in": [
-      "Guardian"
-     ],
-     "boosted": false,
-     "score": 2
     }
    ]
   },
@@ -152,15 +150,15 @@
      "is_new": true
     },
     {
-     "title": "MP3 Player on the RT-Spark",
-     "url": "https://www.hackster.io/556662/mp3-player-on-the-rt-spark-9b75bb",
+     "title": "Running Micropython on E906",
+     "url": "https://www.hackster.io/MichalsTC/running-micropython-on-e906-c8ca9d",
      "source": "Hackster",
-     "summary": "8-song MP3 player on the RT-Spark: binary song select, 5 s confirm, RGB status LED, volume knob, 3 FreeRTOS threads.",
-     "published": "2026-10-24T13:31:44+00:00",
-     "image": "https://hackster.imgix.net/uploads/attachments/2013821/_VMyXw8S3vb.blob",
+     "summary": "Running Micropython on the E906 on the T527 Allwinner chip",
+     "published": "2026-10-24T14:51:00+00:00",
+     "image": "https://hackster.imgix.net/uploads/attachments/2013849/_0E4ccjbOWc.blob",
      "kind": "article",
-     "id": "eda7b7e54c4e883b",
-     "first_seen": "2026-10-24T21:51:17.985723+00:00",
+     "id": "31ff3402f7f92994",
+     "first_seen": "2026-10-24T23:57:49.342270+00:00",
      "is_new": true
     },
     {
