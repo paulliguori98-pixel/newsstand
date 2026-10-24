@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-24T19:31:57.151073+00:00",
+ "generated_at": "2026-10-24T21:51:17.985723+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -15,7 +15,7 @@
      "detail": "It reaches 58\u00b0 today and falls to 28\u00b0 overnight. The sun is up from 7:20 until 5:58.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 57,
+     "temp": 55,
      "high": 58,
      "low": 28,
      "sunrise": "7:20",
@@ -140,6 +140,30 @@
    "more": 0,
    "items": [
     {
+     "title": "EdgePulse:TinyML Acoustic & Vibration Predictive Maintenance",
+     "url": "https://www.hackster.io/yuvtushar/edgepulse-tinyml-acoustic-vibration-predictive-maintenance-41ff68",
+     "source": "Hackster",
+     "summary": "I am building EdgePulse, an ultra-low-power, non-invasive predictive maintenance sensor node powered by the Nordic nRF54LM20 DK.",
+     "published": "2026-10-24T14:56:13+00:00",
+     "image": "https://hackster.imgix.net/uploads/attachments/2013869/_lL0vH5R8SV.blob",
+     "kind": "article",
+     "id": "684a9dbb24c68c53",
+     "first_seen": "2026-10-24T21:51:17.985723+00:00",
+     "is_new": true
+    },
+    {
+     "title": "MP3 Player on the RT-Spark",
+     "url": "https://www.hackster.io/556662/mp3-player-on-the-rt-spark-9b75bb",
+     "source": "Hackster",
+     "summary": "8-song MP3 player on the RT-Spark: binary song select, 5 s confirm, RGB status LED, volume knob, 3 FreeRTOS threads.",
+     "published": "2026-10-24T13:31:44+00:00",
+     "image": "https://hackster.imgix.net/uploads/attachments/2013821/_VMyXw8S3vb.blob",
+     "kind": "article",
+     "id": "eda7b7e54c4e883b",
+     "first_seen": "2026-10-24T21:51:17.985723+00:00",
+     "is_new": true
+    },
+    {
      "title": "Watch VCF Southwest in Retrotastic SGI-Edited Footage",
      "url": "https://hackaday.com/2026/10/24/watch-vcf-southwest-in-retrotastic-sgi-edited-footage/",
      "source": "Hackaday",
@@ -148,30 +172,6 @@
      "image": "https://hackaday.com/wp-content/uploads/2026/10/VCF-on-SGI-e1792773738412.jpg",
      "kind": "article",
      "id": "a08d45f0b8cd2866",
-     "first_seen": "2026-10-24T13:48:50.745197+00:00",
-     "is_new": true
-    },
-    {
-     "title": "Smart Alcohol Vapor Monitoring with ESP8266 and KiwisIoT",
-     "url": "https://www.hackster.io/kirusokumar/smart-alcohol-vapor-monitoring-with-esp8266-and-kiwisiot-56b17c",
-     "source": "Hackster",
-     "summary": "Build an alcohol-vapour monitoring prototype using the MQ-3 sensor and NodeMCU ESP8266, and visualize readings KiwisIoT on dashboard",
-     "published": "2026-10-24T09:06:35+00:00",
-     "image": "https://hackster.imgix.net/uploads/attachments/2013746/_0sEuqJCYOY.blob",
-     "kind": "article",
-     "id": "89845991c664ef70",
-     "first_seen": "2026-10-24T17:10:20.120768+00:00",
-     "is_new": true
-    },
-    {
-     "title": "Remote IoT Alert Control with ESP8266 and KiwisIoT",
-     "url": "https://www.hackster.io/kirusokumar/remote-iot-alert-control-with-esp8266-and-kiwisiot-8de81b",
-     "source": "Hackster",
-     "summary": "Build a simple wireless alert system using a NodeMCU ESP8266, buzzer, and KiwisIoT dashboard to control the buzzer remotely.",
-     "published": "2026-10-24T07:09:40+00:00",
-     "image": "https://hackster.imgix.net/uploads/attachments/2013720/_OJekwa2xgd.blob",
-     "kind": "article",
-     "id": "62b102a5199c51a8",
      "first_seen": "2026-10-24T13:48:50.745197+00:00",
      "is_new": true
     },
