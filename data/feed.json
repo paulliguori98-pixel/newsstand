@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-24T17:10:20.120768+00:00",
+ "generated_at": "2026-10-24T19:31:57.151073+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -12,12 +12,12 @@
     {
      "title": "Sunny",
      "phrase": "Sunny all day.",
-     "detail": "It reaches 58\u00b0 today and falls to 29\u00b0 overnight. The sun is up from 7:20 until 5:58.",
+     "detail": "It reaches 58\u00b0 today and falls to 28\u00b0 overnight. The sun is up from 7:20 until 5:58.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 54,
+     "temp": 57,
      "high": 58,
-     "low": 29,
+     "low": 28,
      "sunrise": "7:20",
      "sunset": "5:58",
      "id": "bb806d72c86dcec1",
@@ -64,6 +64,22 @@
    "more": 0,
    "items": [
     {
+     "title": "Netanyahu Is Up for Re-election After Years of War. How Will Voters See Him?",
+     "url": "https://www.nytimes.com/2026/10/24/world/middleeast/netanyahu-has-reinvented-himself-will-voters-think-its-enough.html",
+     "source": "New York Times",
+     "summary": "The Oct. 7 attacks marred Prime Minister Benjamin Netanyahu\u2019s image as Mr. Security. Ahead of elections, he\u2019s trying to sell Israelis on the new, hawkish version of himself.",
+     "published": "2026-10-24T17:45:16+00:00",
+     "image": "https://static01.nyt.com/images/2026/10/22/multimedia/xxint-israel-netanyahu-profile-gvjt/xxint-israel-netanyahu-profile-gvjt-mediumSquareAt3X.jpg",
+     "kind": "article",
+     "id": "0d168ffe9474bca1",
+     "first_seen": "2026-10-24T19:31:57.151073+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
      "title": "White House lifts tariffs on some Canadian goods as midterm elections loom",
      "url": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
@@ -96,37 +112,19 @@
      "score": 4
     },
     {
-     "title": "Watch as fire engulfs Hitler's mountaintop Eagle's Nest retreat",
-     "url": "https://www.bbc.co.uk/news/videos/cq98z9xxy2n2o?at_medium=RSS&at_campaign=rss",
+     "title": "British woman dies after trying to rescue sons swept away at sea in the Bahamas",
+     "url": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "summary": "Police in the southern German state of Bavaria have detained a 33-year-old German man following the fire.",
-     "published": "2026-10-24T15:56:48+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfba/live/f1443bc0-cfbf-11f1-93e1-3b657b665bcf.jpg",
+     "summary": "Nathan Gregory says the loss of childhood sweetheart Leanne \"is unimaginable for our family\".",
+     "published": "2026-10-24T17:11:56+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b9f/live/09596b60-cfc8-11f1-b441-2b33b063138f.jpg",
      "kind": "article",
-     "id": "38dc07aa62de7188",
-     "first_seen": "2026-10-24T17:10:20.120768+00:00",
-     "is_new": true,
-     "corroboration": 2,
-     "also_in": [
-      "Guardian"
-     ],
-     "boosted": false,
-     "score": 2
-    },
-    {
-     "title": "Gunmen open fire at a church during a funeral in Jordan, killing 7 and wounding 40",
-     "url": "https://www.npr.org/2026/10/24/nx-s1-6015414/shooting-church-jordan",
-     "source": "NPR",
-     "summary": "Footage broadcast on Jordanian state television showed three gunmen firing shots at a Greek Orthodox church in the city of Karak on Friday.",
-     "published": "2026-10-24T11:59:08+00:00",
-     "image": null,
-     "kind": "article",
-     "id": "45b93fa6540e9881",
+     "id": "d783cc6b4b3ca968",
      "first_seen": "2026-10-24T13:48:50.745197+00:00",
      "is_new": true,
      "corroboration": 2,
      "also_in": [
-      "BBC"
+      "Guardian"
      ],
      "boosted": false,
      "score": 2
