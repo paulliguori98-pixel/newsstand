@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-24T23:57:49.342270+00:00",
+ "generated_at": "2026-10-25T14:04:34.601238+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,16 +10,16 @@
    "more": 0,
    "items": [
     {
-     "title": "Mostly Clear",
-     "phrase": "Mostly Clear all day.",
-     "detail": "It reaches 62\u00b0 today and falls to 28\u00b0 overnight. The sun is up from 7:20 until 5:58.",
+     "title": "Sunny",
+     "phrase": "Sunny all day.",
+     "detail": "It reaches 62\u00b0 today and falls to 32\u00b0 overnight. The sun is up from 7:21 until 5:57.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 47,
+     "temp": 42,
      "high": 62,
-     "low": 28,
-     "sunrise": "7:20",
-     "sunset": "5:58",
+     "low": 32,
+     "sunrise": "7:21",
+     "sunset": "5:57",
      "id": "bb806d72c86dcec1",
      "first_seen": "2026-08-19T17:11:19.569450+00:00",
      "is_new": false
@@ -64,6 +64,22 @@
    "more": 0,
    "items": [
     {
+     "title": "A New Level of Threat and Fear Risks Pushing the U.S. and Iran Back to Full War",
+     "url": "https://www.nytimes.com/2026/10/24/us/politics/trump-netanyahu-iran-new-phase-of-war.html",
+     "source": "New York Times",
+     "summary": "With new intelligence and the possibility of all sides seeking pretexts for action, the war in Iran is entering a dangerous phase ahead of elections in the United States and Israe\u2026",
+     "published": "2026-10-25T13:38:36+00:00",
+     "image": "https://static01.nyt.com/images/2026/10/24/multimedia/24dc-prexy-iran-pkhc/24dc-prexy-iran-pkhc-mediumSquareAt3X-v3.jpg",
+     "kind": "article",
+     "id": "e68687bba759c5d1",
+     "first_seen": "2026-10-25T14:04:34.601238+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
      "title": "Trade tariffs cause whiplash at Port Milwaukee",
      "url": "https://www.npr.org/2026/10/24/nx-s1-6011193/trade-tariffs-cause-whiplash-at-port-milwaukee",
      "source": "NPR",
@@ -73,54 +89,6 @@
      "kind": "article",
      "id": "2f73099fcc5cc199",
      "first_seen": "2026-10-24T23:57:49.342270+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "Netanyahu Is Up for Re-election After Years of War. How Will Voters See Him?",
-     "url": "https://www.nytimes.com/2026/10/24/world/middleeast/netanyahu-has-reinvented-himself-will-voters-think-its-enough.html",
-     "source": "New York Times",
-     "summary": "The Oct. 7 attacks marred Prime Minister Benjamin Netanyahu\u2019s image as Mr. Security. Ahead of elections, he\u2019s trying to sell Israelis on the new, hawkish version of himself.",
-     "published": "2026-10-24T17:45:16+00:00",
-     "image": "https://static01.nyt.com/images/2026/10/22/multimedia/xxint-israel-netanyahu-profile-gvjt/xxint-israel-netanyahu-profile-gvjt-mediumSquareAt3X.jpg",
-     "kind": "article",
-     "id": "0d168ffe9474bca1",
-     "first_seen": "2026-10-24T19:31:57.151073+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "White House lifts tariffs on some Canadian goods as midterm elections loom",
-     "url": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "summary": "From 30 October, tariffs will be eased on some products, including certain machinery, and placed on others, such as carpets.",
-     "published": "2026-10-24T00:36:47+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1860/live/f6b62750-cf1d-11f1-9796-954775b3a434.jpg",
-     "kind": "article",
-     "id": "a344deb0b7aeece1",
-     "first_seen": "2026-10-24T13:48:50.745197+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "Scoop: U.S. intel memo warns of \"advanced\" Iranian plots to kill officials abroad",
-     "url": "https://www.axios.com/2026/10/24/iran-war-us-embassies-evacuations-threat",
-     "source": "Axios",
-     "summary": "U.S. intelligence finds Iran has \"substantially increased\" its efforts to target American diplomats and officials in the Middle East and beyond, with lethal plots reaching \"advanc\u2026",
-     "published": "2026-10-24T00:16:19+00:00",
-     "image": "https://images.axios.com/aYEort63M5o6Kyt60Cd3fzdS2ZU=/0x0:5500x3094/1366x768/2026/10/23/1792799714333.jpeg",
-     "kind": "article",
-     "id": "506cfc8d091e321b",
-     "first_seen": "2026-10-24T13:48:50.745197+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
@@ -138,6 +106,30 @@
    "more": 0,
    "items": [
     {
+     "title": "Simple, Reliable RF Remote Control",
+     "url": "https://hackaday.com/2026/10/25/simple-reliable-rf-remote-control/",
+     "source": "Hackaday",
+     "summary": "Some of the first remote controls available to consumers used sound, visible light, or even just wires to communicate with their parent device. It was many years between these fir\u2026",
+     "published": "2026-10-25T14:00:48+00:00",
+     "image": "https://hackaday.com/wp-content/uploads/2026/10/rf-remote-main.png",
+     "kind": "article",
+     "id": "b4db0a880975a8d1",
+     "first_seen": "2026-10-25T14:04:34.601238+00:00",
+     "is_new": true
+    },
+    {
+     "title": "Smart 18650 Battery Charger with OLED",
+     "url": "https://www.hackster.io/Bambu3Design/smart-18650-battery-charger-with-oled-e4940c",
+     "source": "Hackster",
+     "summary": "A 3D-printed 18650 charger with OLED display for real-time current, voltage, battery level and charging capacity monitoring.",
+     "published": "2026-10-24T21:10:08+00:00",
+     "image": "https://hackster.imgix.net/uploads/attachments/2014009/_rA2IsVSMgO.blob",
+     "kind": "article",
+     "id": "db2ac28537b39940",
+     "first_seen": "2026-10-25T14:04:34.601238+00:00",
+     "is_new": true
+    },
+    {
      "title": "EdgePulse:TinyML Acoustic & Vibration Predictive Maintenance",
      "url": "https://www.hackster.io/yuvtushar/edgepulse-tinyml-acoustic-vibration-predictive-maintenance-41ff68",
      "source": "Hackster",
@@ -147,30 +139,6 @@
      "kind": "article",
      "id": "684a9dbb24c68c53",
      "first_seen": "2026-10-24T21:51:17.985723+00:00",
-     "is_new": true
-    },
-    {
-     "title": "Running Micropython on E906",
-     "url": "https://www.hackster.io/MichalsTC/running-micropython-on-e906-c8ca9d",
-     "source": "Hackster",
-     "summary": "Running Micropython on the E906 on the T527 Allwinner chip",
-     "published": "2026-10-24T14:51:00+00:00",
-     "image": "https://hackster.imgix.net/uploads/attachments/2013849/_0E4ccjbOWc.blob",
-     "kind": "article",
-     "id": "31ff3402f7f92994",
-     "first_seen": "2026-10-24T23:57:49.342270+00:00",
-     "is_new": true
-    },
-    {
-     "title": "Watch VCF Southwest in Retrotastic SGI-Edited Footage",
-     "url": "https://hackaday.com/2026/10/24/watch-vcf-southwest-in-retrotastic-sgi-edited-footage/",
-     "source": "Hackaday",
-     "summary": "There\u2019s just something about backing way, way off the cutting edge to rediscover the simpler joys of yesteryear. We\u2019ve got a contest about to wrap up along those lines, and \u2026read \u2026",
-     "published": "2026-10-24T11:00:56+00:00",
-     "image": "https://hackaday.com/wp-content/uploads/2026/10/VCF-on-SGI-e1792773738412.jpg",
-     "kind": "article",
-     "id": "a08d45f0b8cd2866",
-     "first_seen": "2026-10-24T13:48:50.745197+00:00",
      "is_new": true
     },
     {
