@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-25T14:04:34.601238+00:00",
+ "generated_at": "2026-10-25T17:40:49.266356+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -15,7 +15,7 @@
      "detail": "It reaches 62\u00b0 today and falls to 32\u00b0 overnight. The sun is up from 7:21 until 5:57.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 42,
+     "temp": 59,
      "high": 62,
      "low": 32,
      "sunrise": "7:21",
@@ -64,6 +64,26 @@
    "more": 0,
    "items": [
     {
+     "title": "Mar\u00eda Corina Machado Returns to Venezuela",
+     "url": "https://www.nytimes.com/2026/10/25/world/americas/machado-venezuela-return.html",
+     "source": "New York Times",
+     "summary": "After nearly 10 months in exile, Ms. Machado, the Nobel laureate and leader of Venezuela\u2019s opposition, returned to challenge leaders who have sidelined her and press for new elect\u2026",
+     "published": "2026-10-25T17:39:06+00:00",
+     "image": "https://static01.nyt.com/images/2026/10/25/multimedia/25int-venezuela-machado-jzmw/25int-venezuela-machado-jzmw-mediumSquareAt3X.jpg",
+     "kind": "article",
+     "id": "e5398442eae1f082",
+     "first_seen": "2026-10-25T17:40:49.266356+00:00",
+     "is_new": true,
+     "corroboration": 4,
+     "also_in": [
+      "BBC",
+      "Guardian",
+      "NPR"
+     ],
+     "boosted": false,
+     "score": 4
+    },
+    {
      "title": "A New Level of Threat and Fear Risks Pushing the U.S. and Iran Back to Full War",
      "url": "https://www.nytimes.com/2026/10/24/us/politics/trump-netanyahu-iran-new-phase-of-war.html",
      "source": "New York Times",
@@ -73,22 +93,6 @@
      "kind": "article",
      "id": "e68687bba759c5d1",
      "first_seen": "2026-10-25T14:04:34.601238+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "Trade tariffs cause whiplash at Port Milwaukee",
-     "url": "https://www.npr.org/2026/10/24/nx-s1-6011193/trade-tariffs-cause-whiplash-at-port-milwaukee",
-     "source": "NPR",
-     "summary": "Sacha Pfeiffer visits Port Milwaukee to see how President Trump's tariffs have affected the flow of goods and impacted the regional economy.",
-     "published": "2026-10-24T21:20:55+00:00",
-     "image": null,
-     "kind": "article",
-     "id": "2f73099fcc5cc199",
-     "first_seen": "2026-10-24T23:57:49.342270+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
@@ -106,15 +110,27 @@
    "more": 0,
    "items": [
     {
-     "title": "Simple, Reliable RF Remote Control",
-     "url": "https://hackaday.com/2026/10/25/simple-reliable-rf-remote-control/",
+     "title": "Mesh Network Telephony Over Bluetooth on Android Phones",
+     "url": "https://hackaday.com/2026/10/25/mesh-network-telephony-over-bluetooth-on-android-phones/",
      "source": "Hackaday",
-     "summary": "Some of the first remote controls available to consumers used sound, visible light, or even just wires to communicate with their parent device. It was many years between these fir\u2026",
-     "published": "2026-10-25T14:00:48+00:00",
-     "image": "https://hackaday.com/wp-content/uploads/2026/10/rf-remote-main.png",
+     "summary": "Telephony is a bit of a mixed bag. On the one hand, being able to talk to people in far off places is kind of neat, at least in theory. \u2026read more",
+     "published": "2026-10-25T17:00:31+00:00",
+     "image": "https://hackaday.com/wp-content/uploads/2026/10/MeshLive-screenshot.png",
      "kind": "article",
-     "id": "b4db0a880975a8d1",
-     "first_seen": "2026-10-25T14:04:34.601238+00:00",
+     "id": "1265e7c4086363f5",
+     "first_seen": "2026-10-25T17:40:49.266356+00:00",
+     "is_new": true
+    },
+    {
+     "title": "ESP32-S3 Smart Matrix(64x64) Wall Clock",
+     "url": "https://www.hackster.io/divyanshustacks123/esp32-s3-smart-matrix-64x64-wall-clock-dc318d",
+     "source": "Hackster",
+     "summary": "ESP32-S3 smart dashboard for 64x64 HUB75 RGB matrix: NTP clock, SHTC3 climate, live weather, and REST API flight tracker animation.",
+     "published": "2026-10-25T07:15:10+00:00",
+     "image": "https://hackster.imgix.net/uploads/attachments/2014045/_WRbwsugOAr.blob",
+     "kind": "article",
+     "id": "cd6a33d466a54137",
+     "first_seen": "2026-10-25T17:40:49.266356+00:00",
      "is_new": true
     },
     {
@@ -127,18 +143,6 @@
      "kind": "article",
      "id": "db2ac28537b39940",
      "first_seen": "2026-10-25T14:04:34.601238+00:00",
-     "is_new": true
-    },
-    {
-     "title": "EdgePulse:TinyML Acoustic & Vibration Predictive Maintenance",
-     "url": "https://www.hackster.io/yuvtushar/edgepulse-tinyml-acoustic-vibration-predictive-maintenance-41ff68",
-     "source": "Hackster",
-     "summary": "I am building EdgePulse, an ultra-low-power, non-invasive predictive maintenance sensor node powered by the Nordic nRF54LM20 DK.",
-     "published": "2026-10-24T14:56:13+00:00",
-     "image": "https://hackster.imgix.net/uploads/attachments/2013869/_lL0vH5R8SV.blob",
-     "kind": "article",
-     "id": "684a9dbb24c68c53",
-     "first_seen": "2026-10-24T21:51:17.985723+00:00",
      "is_new": true
     },
     {
@@ -242,7 +246,7 @@
      "kind": "article",
      "id": "5ae50e82b4aaf31a",
      "first_seen": "2026-10-21T14:49:31.659291+00:00",
-     "is_new": true,
+     "is_new": false,
      "corroboration": 1,
      "also_in": [],
      "boosted": false,
