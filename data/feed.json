@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-25T22:39:48.831451+00:00",
+ "generated_at": "2026-10-26T00:43:22.240962+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -12,12 +12,12 @@
     {
      "title": "Clear",
      "phrase": "Clear all day.",
-     "detail": "It reaches 67\u00b0 today and falls to 32\u00b0 overnight. The sun is up from 7:21 until 5:57.",
+     "detail": "It reaches 67\u00b0 today and falls to 29\u00b0 overnight. The sun is up from 7:21 until 5:57.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 57,
+     "temp": 46,
      "high": 67,
-     "low": 32,
+     "low": 29,
      "sunrise": "7:21",
      "sunset": "5:57",
      "id": "bb806d72c86dcec1",
@@ -68,8 +68,8 @@
      "url": "https://www.nytimes.com/2026/10/25/world/americas/machado-venezuela-return.html",
      "source": "New York Times",
      "summary": "After nearly 10 months in exile, Ms. Machado, a Nobel laureate, came back to challenge leaders who have sidelined her and press for new elections.",
-     "published": "2026-10-25T20:35:51+00:00",
-     "image": "https://static01.nyt.com/images/2026/10/25/multimedia/25int-venezuela-machado-wlbq/25int-venezuela-machado-wlbq-mediumSquareAt3X.jpg",
+     "published": "2026-10-26T00:32:49+00:00",
+     "image": "https://static01.nyt.com/images/2026/10/25/multimedia/25int-venezuela-machado-fglh/25int-venezuela-machado-fglh-mediumSquareAt3X.jpg",
      "kind": "article",
      "id": "e5398442eae1f082",
      "first_seen": "2026-10-25T17:40:49.266356+00:00",
@@ -84,19 +84,55 @@
      "score": 4
     },
     {
-     "title": "Aleksandar Vucic Concedes Defeat in Serbian Election",
-     "url": "https://www.nytimes.com/2026/10/25/world/europe/serbia-vucic-election-defeat.html",
-     "source": "New York Times",
-     "summary": "\u201cIt is clear that we have lost these elections,\u201d Aleksandar Vucic said in a surprisingly early speech congratulating his opponents.",
-     "published": "2026-10-25T22:33:53+00:00",
-     "image": "https://static01.nyt.com/images/2026/10/25/multimedia/25int-serbia-vucic-mpgv/25int-serbia-vucic-mpgv-mediumSquareAt3X.jpg",
+     "title": "Brazil's left-wing President Lula elected for fourth term",
+     "url": "https://www.npr.org/2026/10/25/nx-s1-6016299/brazil-lula-bolsonaro-election",
+     "source": "NPR",
+     "summary": "Brazil's 80-year-old left-wing leader President Lula defeats Fl\u00e1vio Bolsonaro in a bitterly contested runoff.",
+     "published": "2026-10-26T00:35:00+00:00",
+     "image": null,
      "kind": "article",
-     "id": "0c47f3e2ef543823",
-     "first_seen": "2026-10-25T22:39:48.831451+00:00",
+     "id": "d4946f64ebcc9f6e",
+     "first_seen": "2026-10-26T00:43:22.240962+00:00",
      "is_new": true,
      "corroboration": 2,
      "also_in": [
       "Guardian"
+     ],
+     "boosted": false,
+     "score": 2
+    },
+    {
+     "title": "Lula beats Bolsonaro to win Brazil presidential election",
+     "url": "https://www.axios.com/2026/10/26/brazil-election-results-bolsonaro-lula-trump",
+     "source": "Axios",
+     "summary": "Brazil President Luiz In\u00e1cio Lula da Silva was elected to a fourth, nonconsecutive term in the nation's presidential election according to early results released Sunday evening.Wh\u2026",
+     "published": "2026-10-26T00:26:15+00:00",
+     "image": "https://images.axios.com/g6MiT0p8DjaBO81oLUFF48MPfxk=/42x0:5377x3001/1366x768/2026/10/25/1792956137578.jpeg",
+     "kind": "article",
+     "id": "6c8174c3d48edc5b",
+     "first_seen": "2026-10-26T00:43:22.240962+00:00",
+     "is_new": true,
+     "corroboration": 2,
+     "also_in": [
+      "Guardian"
+     ],
+     "boosted": false,
+     "score": 2
+    },
+    {
+     "title": "Serbian leader Aleksandar Vu\u010di\u0107 ousted by student movement in seismic election",
+     "url": "https://www.theguardian.com/world/2026/oct/25/serbian-leader-aleksandar-vucic-concedes-defeat-in-fiercely-contested-parliamentary-election",
+     "source": "Guardian",
+     "summary": "Vu\u010di\u0107\u2019s 12-year reign looks to have been ended by record turnout of voters in election provoked by student-led protestsThe long-serving leader of Serbia, Aleksandar Vu\u010di\u0107, has con\u2026",
+     "published": "2026-10-25T23:42:32+00:00",
+     "image": "https://i.guim.co.uk/img/media/d6c1accd42c5230ae9bc413911da12e6910aa7f3/354_0_5833_4667/master/5833.jpg?width=140&quality=85&auto=format&fit=max&s=f72300c3937a751e79555738368950ec",
+     "kind": "article",
+     "id": "3a94b70ec6e9109a",
+     "first_seen": "2026-10-25T22:39:48.831451+00:00",
+     "is_new": true,
+     "corroboration": 2,
+     "also_in": [
+      "New York Times"
      ],
      "boosted": false,
      "score": 2
