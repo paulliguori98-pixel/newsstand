@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T16:26:09.682002+00:00",
+ "generated_at": "2026-10-26T21:10:45.899863+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,14 +10,14 @@
    "more": 0,
    "items": [
     {
-     "title": "Sunny",
-     "phrase": "Sunny all day.",
-     "detail": "It reaches 67\u00b0 today and falls to 33\u00b0 overnight. The sun is up from 7:23 until 5:56.",
+     "title": "Partly Sunny",
+     "phrase": "Partly Sunny all day.",
+     "detail": "It reaches 68\u00b0 today and falls to 32\u00b0 overnight. The sun is up from 7:23 until 5:56.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 58,
-     "high": 67,
-     "low": 33,
+     "temp": 64,
+     "high": 68,
+     "low": 32,
      "sunrise": "7:23",
      "sunset": "5:56",
      "id": "bb806d72c86dcec1",
@@ -64,11 +64,27 @@
    "more": 0,
    "items": [
     {
+     "title": "Brazil's election ignites MAGA's midterm warnings",
+     "url": "https://www.axios.com/2026/10/26/maga-influencers-bolsonaro-loss-brazil",
+     "source": "Axios",
+     "summary": "President Trump and MAGA-world influencers are echoing Brazilian presidential candidate Fl\u00e1vio Bolsonaro's claims of a rigged election after the Trump-aligned populist fell to the\u2026",
+     "published": "2026-10-26T20:32:30+00:00",
+     "image": "https://images.axios.com/bp0wXC52t3wymWw4OJwQ7PRyhsY=/0x0:1920x1080/1920x1080/2026/10/26/1793043077250.gif",
+     "kind": "article",
+     "id": "a03d5facc91b043c",
+     "first_seen": "2026-10-26T21:10:45.899863+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
      "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
      "url": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
      "summary": "The company will be the first true artificial intelligence company to go public as tech firms continue to invest heavily in AI.",
-     "published": "2026-10-26T15:27:54+00:00",
+     "published": "2026-10-26T16:27:17+00:00",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e394/live/7affbe60-d147-11f1-93e1-3b657b665bcf.jpg",
      "kind": "article",
      "id": "76ad05f5fc5335ea",
@@ -110,22 +126,6 @@
      "also_in": [],
      "boosted": true,
      "score": 4
-    },
-    {
-     "title": "The chaos in France is a \u2018warning signal\u2019 for Australia\u2019s public spending and rising costs",
-     "url": "https://www.theguardian.com/business/2026/oct/27/the-chaos-in-france-is-a-warning-signal-for-australias-public-spending-and-rising-costs",
-     "source": "Guardian",
-     "summary": "Australia\u2019s public debt may be well below that of France but there are lessons to be taken from its economic woesGet our daily political email, free app or daily news podcastThe e\u2026",
-     "published": "2026-10-26T14:00:43+00:00",
-     "image": "https://i.guim.co.uk/img/media/00f23c2e1f18af1734800fc6e067f93042e28d22/573_0_4520_3616/master/4520.jpg?width=140&quality=85&auto=format&fit=max&s=282979692db9aa6a1a7537c384567ca6",
-     "kind": "article",
-     "id": "88dbc3c2dc950ba7",
-     "first_seen": "2026-10-26T16:26:09.682002+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
     }
    ]
   },
@@ -138,27 +138,15 @@
    "more": 0,
    "items": [
     {
-     "title": "BMW i3 Mod Brings Small Trucks to the EV Future",
-     "url": "https://hackaday.com/2026/10/26/bmw-i3-mod-brings-small-trucks-to-the-ev-future/",
+     "title": "Practice Japanese on an Inkplate 4Tempera eInk Device",
+     "url": "https://hackaday.com/2026/10/26/practice-japanese-on-an-inkplate-4tempera-eink-device/",
      "source": "Hackaday",
-     "summary": "Trucks are handy, especially if you\u2019ve got messy or dirty loads, but there aren\u2019t a lot of options if you want a small electric pickup yet. [Michael Pick] decided to \u2026read more",
-     "published": "2026-10-26T15:30:42+00:00",
-     "image": "https://hackaday.com/wp-content/uploads/2026/10/Gas-Prices-Are-Insane-So-I-Built-My-Own-Electric-Truck-0-39-45.jpeg",
+     "summary": "Learning a new natural language can be a daunting proposition at the best of times, with repetition and immersion generally considered to be the best ways to build up not \u2026read mo\u2026",
+     "published": "2026-10-26T20:00:01+00:00",
+     "image": "https://hackaday.com/wp-content/uploads/2026/10/enkiplate_epaper_virpo_peter_hraska_github.jpg",
      "kind": "article",
-     "id": "3ffe95b14330abfc",
-     "first_seen": "2026-10-26T16:26:09.682002+00:00",
-     "is_new": true
-    },
-    {
-     "title": "Building a Basketball Dribble Tracker with BLE",
-     "url": "https://www.hackster.io/Himanshudada/building-a-basketball-dribble-tracker-with-ble-d95590",
-     "source": "Hackster",
-     "summary": "A youth basketball coach came to us with a simple ask: \"I need to know how hard my players are actually working when they practice on own.",
-     "published": "2026-10-26T08:34:26+00:00",
-     "image": "https://hackster.imgix.net/uploads/attachments/2014313/_Q52CNPIy46.blob",
-     "kind": "article",
-     "id": "370a025855a91c56",
-     "first_seen": "2026-10-26T16:26:09.682002+00:00",
+     "id": "e9f067c64b31eadf",
+     "first_seen": "2026-10-26T21:10:45.899863+00:00",
      "is_new": true
     },
     {
@@ -170,6 +158,18 @@
      "image": "https://hackster.imgix.net/uploads/attachments/2014307/_mvnOszn3u9.blob",
      "kind": "article",
      "id": "523434058753850f",
+     "first_seen": "2026-10-26T16:26:09.682002+00:00",
+     "is_new": true
+    },
+    {
+     "title": "How Does Electric Current Actually Flow? The Physics Behind",
+     "url": "https://www.hackster.io/electroniclovers/how-does-electric-current-actually-flow-the-physics-behind-1365d4",
+     "source": "Hackster",
+     "summary": "How Does Electric Current Actually Flow? The Physics Behind Electricity Explained",
+     "published": "2026-10-26T06:41:36+00:00",
+     "image": "https://hackster.imgix.net/uploads/attachments/2014261/_m6RsxMFLZ8.blob",
+     "kind": "article",
+     "id": "c9895e0dcfeacf66",
      "first_seen": "2026-10-26T16:26:09.682002+00:00",
      "is_new": true
     },
