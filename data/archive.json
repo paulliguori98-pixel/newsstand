@@ -6019,5 +6019,32 @@
   "price": "$240",
   "published": "2026-10-27T13:25:45-04:00",
   "first_seen": "2026-10-27T20:23:51.282105+00:00"
+ },
+ "8b3067af5ea19998": {
+  "title": "Nogent Micro Serrated Knife",
+  "url": "https://www.bestmadeco.com/products/nogent-expert-micro-serrated-knife",
+  "source": "Best Made",
+  "image": "https://cdn.shopify.com/s/files/1/0674/2985/9558/files/PDP-LAYOUTS-NOGENT-KNIFE2.jpg?v=1793023724",
+  "price": "$25",
+  "published": "2026-10-27T18:13:25-04:00",
+  "first_seen": "2026-10-27T23:58:47.036163+00:00"
+ },
+ "8511f8f73eb1d0a9": {
+  "title": "Le P'tit Tradi",
+  "url": "https://www.bestmadeco.com/products/le-ptit-tradi",
+  "source": "Best Made",
+  "image": "https://cdn.shopify.com/s/files/1/0674/2985/9558/files/PDP-LAYOUTS-GOYON4.jpg?v=1793023636",
+  "price": "$60",
+  "published": "2026-10-27T18:11:53-04:00",
+  "first_seen": "2026-10-27T23:58:47.036163+00:00"
+ },
+ "79677a3a9475120a": {
+  "title": "Le Grand Tradi",
+  "url": "https://www.bestmadeco.com/products/le-grand-tradi",
+  "source": "Best Made",
+  "image": "https://cdn.shopify.com/s/files/1/0674/2985/9558/files/PDP-LAYOUTS-GOYON3.jpg?v=1793023651",
+  "price": "$95",
+  "published": "2026-10-27T18:08:47-04:00",
+  "first_seen": "2026-10-27T23:58:47.036163+00:00"
  }
 }
