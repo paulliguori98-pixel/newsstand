@@ -5350,7 +5350,7 @@
   "url": "https://www.bestmadeco.com/products/lambswool-cpo-navy",
   "source": "Best Made",
   "image": "https://cdn.shopify.com/s/files/1/0674/2985/9558/files/WOOL-CPO-PDP-v2.jpg?v=1791934635",
-  "price": "$428",
+  "price": "$398",
   "published": "2026-10-14T09:18:19-04:00",
   "first_seen": "2026-10-14T14:51:31.870218+00:00"
  },
@@ -5956,5 +5956,32 @@
   "price": "$1,175",
   "published": "2026-10-23T09:32:14-04:00",
   "first_seen": "2026-10-23T14:38:03.732906+00:00"
+ },
+ "79e93a53a9a5485c": {
+  "title": "Stowe Jacket",
+  "url": "https://www.tracksmith.com/products/m-stowe-jacket?sku=7788659245143:mineral-blue__XS",
+  "source": "Tracksmith",
+  "image": "https://cdn.shopify.com/s/files/1/1594/4353/files/Fall26-Mens-Stowe-Jacket-Mineral-Blue-On-Model_1.png?v=1792171364&width=800&height=800&crop=center",
+  "price": "$215",
+  "published": null,
+  "first_seen": "2026-10-27T15:41:36.085542+00:00"
+ },
+ "d77d4c6afae80f43": {
+  "title": "Stowe Short",
+  "url": "https://www.tracksmith.com/products/m-stowe-shorts?sku=7788659277911:navy__XS",
+  "source": "Tracksmith",
+  "image": "https://cdn.shopify.com/s/files/1/1594/4353/files/Fall26-Mens-Stowe-Short-Navy.png?v=1792171362&width=800&height=800&crop=center",
+  "price": "$135",
+  "published": null,
+  "first_seen": "2026-10-27T15:41:36.085542+00:00"
+ },
+ "2031272a14255a93": {
+  "title": "5-Gauge Shetland Sweater",
+  "url": "https://www.bestmadeco.com/products/lightweight-harley-sweater",
+  "source": "Best Made",
+  "image": "https://cdn.shopify.com/s/files/1/0674/2985/9558/files/STEWARTS-SHOOT-102625-2636copy.jpg?v=1761589886",
+  "price": "$170",
+  "published": "2026-10-27T11:02:26-04:00",
+  "first_seen": "2026-10-27T15:41:36.085542+00:00"
  }
 }
