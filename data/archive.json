@@ -6082,5 +6082,41 @@
   "price": "$28",
   "published": "2026-10-28T09:08:29-04:00",
   "first_seen": "2026-10-28T16:24:49.693993+00:00"
+ },
+ "bf1e0b08f477b6f6": {
+  "title": "Hudson Merino Fleece Pullover",
+  "url": "https://www.tracksmith.com/products/m-hudson-merino-fleece-pullover?sku=7723704811607:cabernet__XS",
+  "source": "Tracksmith",
+  "image": "https://cdn-image.tracksmith.com/1793113197-plp-rollover-image.jpg?auto=format,compress&crop=faces&dpr=2&fit=crop&h=560&w=420",
+  "price": "$250",
+  "published": null,
+  "first_seen": "2026-10-28T21:18:21.147989+00:00"
+ },
+ "3ad28caa2db84216": {
+  "title": "Franklin Full Zip Fleece",
+  "url": "https://www.tracksmith.com/products/m-franklin-fleece?sku=7471993978967:navy-overlay__XS",
+  "source": "Tracksmith",
+  "image": "https://cdn-image.tracksmith.com/1762274079-ts_em_holiday_25_05653.jpg?auto=format,compress&crop=faces&dpr=2&fit=crop&h=560&w=420",
+  "price": "$200",
+  "published": null,
+  "first_seen": "2026-10-28T21:18:21.147989+00:00"
+ },
+ "18e2048e7545c97e": {
+  "title": "Navy Silk Shantung Tie",
+  "url": "https://www.buckmason.com/products/navy-silk-shantung-tie",
+  "source": "Buck Mason",
+  "image": "https://cdn.shopify.com/s/files/1/0123/5065/2473/files/rename-0477.jpg?v=1790195083",
+  "price": "$98",
+  "published": "2026-07-16T18:45:30+00:00",
+  "first_seen": "2026-10-28T21:18:21.147989+00:00"
+ },
+ "233bc8e53a13adc6": {
+  "title": "Brown Silk Shantung Tie",
+  "url": "https://www.buckmason.com/products/brown-silk-shantung-tie",
+  "source": "Buck Mason",
+  "image": "https://cdn.shopify.com/s/files/1/0123/5065/2473/files/rename-0473.jpg?v=1790195013",
+  "price": "$98",
+  "published": "2026-07-16T18:45:30+00:00",
+  "first_seen": "2026-10-28T21:18:21.147989+00:00"
  }
 }
