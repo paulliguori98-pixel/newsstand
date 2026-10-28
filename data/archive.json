@@ -6026,7 +6026,7 @@
   "source": "Best Made",
   "image": "https://cdn.shopify.com/s/files/1/0674/2985/9558/files/PDP-LAYOUTS-NOGENT-KNIFE2.jpg?v=1793023724",
   "price": "$25",
-  "published": "2026-10-27T18:13:25-04:00",
+  "published": "2026-10-28T09:07:37-04:00",
   "first_seen": "2026-10-27T23:58:47.036163+00:00"
  },
  "8511f8f73eb1d0a9": {
@@ -6035,7 +6035,7 @@
   "source": "Best Made",
   "image": "https://cdn.shopify.com/s/files/1/0674/2985/9558/files/PDP-LAYOUTS-GOYON4.jpg?v=1793023636",
   "price": "$60",
-  "published": "2026-10-27T18:11:53-04:00",
+  "published": "2026-10-28T09:05:42-04:00",
   "first_seen": "2026-10-27T23:58:47.036163+00:00"
  },
  "79677a3a9475120a": {
@@ -6044,7 +6044,43 @@
   "source": "Best Made",
   "image": "https://cdn.shopify.com/s/files/1/0674/2985/9558/files/PDP-LAYOUTS-GOYON3.jpg?v=1793023651",
   "price": "$95",
-  "published": "2026-10-27T18:08:47-04:00",
+  "published": "2026-10-28T09:05:18-04:00",
   "first_seen": "2026-10-27T23:58:47.036163+00:00"
+ },
+ "eb5452880848f411": {
+  "title": "Rust Heavyweight Suede Five-Pocket Chore Jacket",
+  "url": "https://us.drakes.com/products/rust-heavyweight-suede-five-pocket-chore-jacket-1",
+  "source": "Drake's",
+  "image": "https://cdn.shopify.com/s/files/1/0649/6603/3653/files/DR2A1B19520-01700-1.jpg?v=1753350051",
+  "price": "$1,995",
+  "published": "2026-10-28T12:02:05-04:00",
+  "first_seen": "2026-10-28T16:24:49.693993+00:00"
+ },
+ "f94fabb51986fdad": {
+  "title": "Cast Iron Grinder",
+  "url": "https://www.bestmadeco.com/products/skeppshult-spicemill",
+  "source": "Best Made",
+  "image": "https://cdn.shopify.com/s/files/1/0674/2985/9558/files/PDP-LAYOUTS-Skeppshult-GRINDER2.jpg?v=1793023693",
+  "price": "$75",
+  "published": "2026-10-28T09:45:31-04:00",
+  "first_seen": "2026-10-28T16:24:49.693993+00:00"
+ },
+ "cee332f3e288bddf": {
+  "title": "Cast Iron Mortar and Pestle",
+  "url": "https://www.bestmadeco.com/products/skeppshult-mortar-and-pestle",
+  "source": "Best Made",
+  "image": "https://cdn.shopify.com/s/files/1/0674/2985/9558/files/PDP-LAYOUTS-Skeppshult-MP2.jpg?v=1793023664",
+  "price": "$95",
+  "published": "2026-10-28T09:44:41-04:00",
+  "first_seen": "2026-10-28T16:24:49.693993+00:00"
+ },
+ "f696f0d89ca8fb05": {
+  "title": "Nogent French Can Opener",
+  "url": "https://www.bestmadeco.com/products/nogent-french-can-opener",
+  "source": "Best Made",
+  "image": "https://cdn.shopify.com/s/files/1/0674/2985/9558/files/PDP-LAYOUTS-NOGENT-OPENER2.jpg?v=1793023707",
+  "price": "$28",
+  "published": "2026-10-28T09:08:29-04:00",
+  "first_seen": "2026-10-28T16:24:49.693993+00:00"
  }
 }
