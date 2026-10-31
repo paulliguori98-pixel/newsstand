@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T21:00:47.298164+00:00",
+ "generated_at": "2026-10-31T00:51:08.716300+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,13 +10,13 @@
    "more": 0,
    "items": [
     {
-     "title": "Mostly Cloudy",
-     "phrase": "Mostly Cloudy all day.",
-     "detail": "It reaches 61\u00b0 today and falls to 35\u00b0 overnight. The sun is up from 7:28 until 5:50.",
+     "title": "Partly Cloudy",
+     "phrase": "Partly Cloudy all day.",
+     "detail": "It reaches 55\u00b0 today and falls to 35\u00b0 overnight. The sun is up from 7:28 until 5:50.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 55,
-     "high": 61,
+     "temp": 47,
+     "high": 55,
      "low": 35,
      "sunrise": "7:28",
      "sunset": "5:50",
@@ -150,6 +150,18 @@
      "is_new": true
     },
     {
+     "title": "Spooky Keychain Arcade",
+     "url": "https://www.hackster.io/Gokux/spooky-keychain-arcade-51c1bf",
+     "source": "Hackster",
+     "summary": "A super tiny arcade that can carry around",
+     "published": "2026-10-30T13:40:42+00:00",
+     "image": "https://hackster.imgix.net/uploads/attachments/2015834/_RKUqdvazIJ.blob",
+     "kind": "article",
+     "id": "c60da24356b7b3bd",
+     "first_seen": "2026-10-31T00:51:08.716300+00:00",
+     "is_new": true
+    },
+    {
      "title": "Desk Watch CYD: Touchscreen Clock and Digital Post-it",
      "url": "https://www.hackster.io/Pr_Belamine_Makerlab/desk-watch-cyd-touchscreen-clock-and-digital-post-it-3cfc62",
      "source": "Hackster",
@@ -158,18 +170,6 @@
      "image": "https://hackster.imgix.net/uploads/attachments/2015737/_1pwFU7eRUl.blob",
      "kind": "article",
      "id": "45471cb62bc74894",
-     "first_seen": "2026-10-30T16:30:38.120565+00:00",
-     "is_new": true
-    },
-    {
-     "title": "GenAI on Arduino UNO Q spots and describes anomalies",
-     "url": "https://www.hackster.io/sologithu/genai-on-arduino-uno-q-spots-and-describes-anomalies-5d1a49",
-     "source": "Hackster",
-     "summary": "Detect visual anomalies and explain them in natural language using a locally running Language Model on the Arduino UNO Q.",
-     "published": "2026-10-30T07:45:41+00:00",
-     "image": "https://hackster.imgix.net/uploads/attachments/2015705/_9lLbNN57Wh.blob",
-     "kind": "article",
-     "id": "3333991ba02804ae",
      "first_seen": "2026-10-30T16:30:38.120565+00:00",
      "is_new": true
     },
@@ -205,61 +205,8 @@
    "kind": "goods",
    "lead_image": false,
    "row_detail": false,
-   "more": 8,
-   "items": [
-    {
-     "title": "Thermal Long Sleeve",
-     "url": "https://www.tracksmith.com/products/m-thermal-long-sleeve?sku=7788659376215:cabernet__XS",
-     "source": "Tracksmith",
-     "summary": "",
-     "published": null,
-     "image": "https://cdn-image.tracksmith.com/1790631897-plp-rollover.jpg?auto=format,compress&crop=faces&dpr=2&fit=crop&h=560&w=420",
-     "price": "$85",
-     "kind": "product",
-     "id": "6ac0ee980d8f4fe8",
-     "first_seen": "2026-10-30T16:30:38.120565+00:00",
-     "is_new": true
-    },
-    {
-     "title": "C\u00e2bleami Brown Wool Flight Cap",
-     "url": "https://us.drakes.com/products/cableami-brown-wool-flight-cap",
-     "source": "Drake's",
-     "summary": "Hats",
-     "published": "2026-10-30T10:06:36-04:00",
-     "image": "https://cdn.shopify.com/s/files/1/0649/6603/3653/files/DR1AG426919-02300-1.jpg?v=1793368027",
-     "price": "$105",
-     "kind": "product",
-     "id": "0962c9ada45ea566",
-     "first_seen": "2026-10-30T16:30:38.120565+00:00",
-     "is_new": true
-    },
-    {
-     "title": "C\u00e2bleami Ecru Wool Flight Cap",
-     "url": "https://us.drakes.com/products/cableami-ecru-wool-flight-cap",
-     "source": "Drake's",
-     "summary": "Hats",
-     "published": "2026-10-30T10:06:35-04:00",
-     "image": "https://cdn.shopify.com/s/files/1/0649/6603/3653/files/DR1AG426919-01000-1.jpg?v=1793367100",
-     "price": "$105",
-     "kind": "product",
-     "id": "dafe8ee028f05273",
-     "first_seen": "2026-10-30T16:30:38.120565+00:00",
-     "is_new": true
-    },
-    {
-     "title": "C\u00e2bleami Olive Cotton Canvas Dixie Hat",
-     "url": "https://us.drakes.com/products/cableami-olive-cotton-canvas-dixie-hat",
-     "source": "Drake's",
-     "summary": "Hats",
-     "published": "2026-10-30T10:06:34-04:00",
-     "image": "https://cdn.shopify.com/s/files/1/0649/6603/3653/files/DR1AG326921-02400-1.jpg?v=1793365572",
-     "price": "$125",
-     "kind": "product",
-     "id": "faf59d38152b996b",
-     "first_seen": "2026-10-30T16:30:38.120565+00:00",
-     "is_new": true
-    }
-   ]
+   "more": 0,
+   "items": []
   },
   {
    "id": "dispatches",
