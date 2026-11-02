@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-01T20:48:34.145095+00:00",
+ "generated_at": "2026-11-02T00:11:29.945620+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,13 +10,13 @@
    "more": 0,
    "items": [
     {
-     "title": "Sunny",
-     "phrase": "Sunny all day.",
-     "detail": "It reaches 60\u00b0 today and falls to 34\u00b0 overnight. The sun is up from 6:30 until 4:47.",
+     "title": "Mostly Clear",
+     "phrase": "Mostly Clear all day.",
+     "detail": "It reaches 65\u00b0 today and falls to 34\u00b0 overnight. The sun is up from 6:30 until 4:47.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 60,
-     "high": 60,
+     "temp": 47,
+     "high": 65,
      "low": 34,
      "sunrise": "6:30",
      "sunset": "4:47",
@@ -64,11 +64,11 @@
    "more": 0,
    "items": [
     {
-     "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire to end",
+     "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
      "url": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "summary": "A rare humanitarian ceasefire has allowed civilians to evacuate the Russian-occupied city of Oleshky.",
-     "published": "2026-11-01T19:48:17+00:00",
+     "summary": "A rare humanitarian ceasefire allowed civilians to evacuate the Russian-occupied city of Oleshky.",
+     "published": "2026-11-01T21:55:01+00:00",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8e6/live/7871d270-d627-11f1-a947-0507737f09b2.jpg",
      "kind": "article",
      "id": "e630747aaad9fcfa",
@@ -138,15 +138,15 @@
    "more": 0,
    "items": [
     {
-     "title": "An Electronic Candle You Can Set On Fire",
-     "url": "https://hackaday.com/2026/11/01/an-electronic-candle-you-can-set-on-fire/",
+     "title": "Cheap FPGA Board Becomes Retro-Style Computer",
+     "url": "https://hackaday.com/2026/11/01/cheap-fpga-board-becomes-retro-style-computer/",
      "source": "Hackaday",
-     "summary": "Candles are pretty to look at, but they tend to be rather a fire risk and a negative influence on air quality, too. If you want the vibe without the \u2026read more",
-     "published": "2026-11-01T18:00:00+00:00",
-     "image": "https://hackaday.com/wp-content/uploads/2026/10/An-electronic-candle-that-you-set-on-fire-deliberately-3-38-screenshot-1.png",
+     "summary": "The Tang Nano 9K is a cheap FPGA development board that can usually be acquired for around $15 or so. [ThePartsBin] has been experimenting with this hardware and figured out \u2026read\u2026",
+     "published": "2026-11-02T00:00:00+00:00",
+     "image": "https://hackaday.com/wp-content/uploads/2026/10/Screenshot-2026-11-01-171115-e1793513503988.png",
      "kind": "article",
-     "id": "a12360bf5993a412",
-     "first_seen": "2026-11-01T20:48:34.145095+00:00",
+     "id": "159578d2040be814",
+     "first_seen": "2026-11-02T00:11:29.945620+00:00",
      "is_new": true
     },
     {
@@ -267,15 +267,15 @@
      "score": 1
     },
     {
-     "title": "A Day With Redan",
-     "url": "https://www.acl.news/p/a-day-with-redan",
-     "source": "A Continuous Lean",
-     "summary": "A Fishers Island Diary",
-     "published": "2026-10-29T11:17:33+00:00",
-     "image": "https://substackcdn.com/image/fetch/$s_!zCgb!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F55de30b7-0fb7-4ecc-bfed-5d6034df4cee_1536x2048.jpeg",
+     "title": "Bernhard\u2019s experience with bespoke shoes \u2013 and ageing feet",
+     "url": "https://www.permanentstyle.com/2026/10/bernhards-experience-with-bespoke-shoes-and-ageing-feet.html",
+     "source": "Permanent Style",
+     "summary": "By Bernhard Roetzel I started wearing Goodyear-welted shoes in the late 1980s. Since then I have hardly worn anything else. My first bespoke shoes were made in London in 1999, by \u2026",
+     "published": "2026-10-30T09:00:35+00:00",
+     "image": "https://www.permanentstyle.com/wp-content/uploads/2026/10/Larson-Jehan-2026-10-20-12.58.54.jpg",
      "kind": "article",
-     "id": "1bab6ee8519d426f",
-     "first_seen": "2026-10-29T16:34:04.920146+00:00",
+     "id": "eb7b7ed868d7ad11",
+     "first_seen": "2026-10-30T16:30:38.120565+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
@@ -285,7 +285,5 @@
    ]
   }
  ],
- "errors": [
-  "Permanent Style: RuntimeError \u2014 https://www.permanentstyle.com/feed \u2192 HTTP 415"
- ]
+ "errors": []
 }
