@@ -6478,5 +6478,32 @@
   "price": "$75",
   "published": null,
   "first_seen": "2026-11-03T17:29:16.053678+00:00"
+ },
+ "b8ff2910c8ede741": {
+  "title": "Cashmere Sweater",
+  "url": "https://www.tracksmith.com/products/m-cashmere-sweater?sku=7471993749591:emerald__XS",
+  "source": "Tracksmith",
+  "image": "https://cdn-image.tracksmith.com/1793288757-plp-rollover-image.png?auto=format,compress&crop=faces&dpr=2&fit=crop&h=560&w=420",
+  "price": "$298",
+  "published": null,
+  "first_seen": "2026-11-03T22:30:00.908775+00:00"
+ },
+ "9c167973610f8c98": {
+  "title": "Electrical Snips",
+  "url": "https://www.bestmadeco.com/products/electrical-snips",
+  "source": "Best Made",
+  "image": "https://cdn.shopify.com/s/files/1/0674/2985/9558/files/PS-PDP-LAYOUTS2.jpg?v=1779804990",
+  "price": "$78",
+  "published": "2026-11-03T12:44:12-05:00",
+  "first_seen": "2026-11-03T22:30:00.908775+00:00"
+ },
+ "10ba80ad44cf8d75": {
+  "title": "Cuckoo Clock",
+  "url": "https://www.bestmadeco.com/products/bmc-cuckoo-clock",
+  "source": "Best Made",
+  "image": "https://cdn.shopify.com/s/files/1/0674/2985/9558/files/PDP-LAYOUTS-CUCKOO-CLOCK2_24eac3c2-1395-407e-a6d6-cf470c5a0488.jpg?v=1793635676",
+  "price": "$948",
+  "published": "2026-11-03T12:39:56-05:00",
+  "first_seen": "2026-11-03T22:30:00.908775+00:00"
  }
 }
