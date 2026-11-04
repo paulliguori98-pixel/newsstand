@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T17:49:22.730818+00:00",
+ "generated_at": "2026-11-04T23:08:54.866861+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,12 +10,12 @@
    "more": 0,
    "items": [
     {
-     "title": "Sunny",
-     "phrase": "Sunny all day.",
+     "title": "Partly Cloudy",
+     "phrase": "Rain is near certain between 7am and 11am.",
      "detail": "It reaches 71\u00b0 today and falls to 54\u00b0 overnight. The sun is up from 6:34 until 4:43.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 66,
+     "temp": 65,
      "high": 71,
      "low": 54,
      "sunrise": "6:34",
@@ -64,11 +64,43 @@
    "more": 0,
    "items": [
     {
+     "title": "Appeals Court Allows Mamdani to Move Forward with Pied-\u00e0-Terre Tax",
+     "url": "https://www.nytimes.com/2026/11/04/nyregion/pied-a-terre-mamdani-appeal-win-home-tax.html",
+     "source": "New York Times",
+     "summary": "The court reversed a judge\u2019s order that had said New York erred in its rollout of the tax, granting Mayor Zohran Mamdani a victory over a key piece of his agenda.",
+     "published": "2026-11-04T21:30:52+00:00",
+     "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05-met-tax-appeal-PRINT/00met-tax-appeal-bwcj-mediumSquareAt3X.jpg",
+     "kind": "article",
+     "id": "e07c794e28f2be88",
+     "first_seen": "2026-11-04T23:08:54.866861+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
+     "title": "Oil prices plunge after Vance post on Iran war",
+     "url": "https://www.axios.com/2026/11/04/oil-prices-plunge-midterms-vance-democrats-iran",
+     "source": "Axios",
+     "summary": "Data: Financial Modeling Prep; Chart: Ben Geman/AxiosOil prices fell sharply Wednesday as traders weigh signs \u2014 including a widely circulated post by Vice President JD Vance \u2014 tha\u2026",
+     "published": "2026-11-04T19:34:07+00:00",
+     "image": "https://graphics.axios.com/hermesv2/2026-11-04-1403-brent-crude-oil/fallbacks/2026-11-04-1403-brent-crude-oil-fallback.png",
+     "kind": "article",
+     "id": "8076fbf2e28b7f67",
+     "first_seen": "2026-11-04T23:08:54.866861+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
      "title": "US midterm results a 'victory' for Canadians hopeful of tariff relief",
      "url": "https://www.bbc.co.uk/news/articles/cqev3mw3e0kdo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
      "summary": "With Canada-US trade talks back on, Tuesday\u2019s midterm Democratic wave puts pressure on the White House to come to a deal.",
-     "published": "2026-11-04T17:02:44+00:00",
+     "published": "2026-11-04T18:01:31+00:00",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0c3/live/16cca880-d85f-11f1-b441-2b33b063138f.jpg",
      "kind": "article",
      "id": "09b15d06b94263dd",
@@ -94,38 +126,6 @@
      "also_in": [],
      "boosted": true,
      "score": 4
-    },
-    {
-     "title": "Vance says the Iran war cost Republicans the midterms",
-     "url": "https://www.axios.com/2026/11/04/jd-vance-iran-war-trump-election",
-     "source": "Axios",
-     "summary": "The Iran war was the reason for the Democrats' blue tsunami that stunned Washington, Vice President Vance said in an X post Wednesday morning.Why it matters: The VP offered a surp\u2026",
-     "published": "2026-11-04T16:38:14+00:00",
-     "image": "https://images.axios.com/dZIkexiCzm8Z7X0kL7R6WnmE0zc=/0x0:5550x3122/1366x768/2026/11/04/1793807446869.jpeg",
-     "kind": "article",
-     "id": "543cce26f9fdeacd",
-     "first_seen": "2026-11-04T17:49:22.730818+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "Zelensky gives Melania Trump Ukraine's highest award after Oleshky ceasefire",
-     "url": "https://www.bbc.co.uk/news/articles/cm87zvpzwq0no?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "summary": "Russian and Ukrainian delegations will meet the US first lady at the White House on Thursday.",
-     "published": "2026-11-04T15:01:10+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8de/live/70270390-d859-11f1-93e1-3b657b665bcf.jpg",
-     "kind": "article",
-     "id": "2e5bac56c7a91ad0",
-     "first_seen": "2026-11-04T17:49:22.730818+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
     }
    ]
   },
@@ -138,15 +138,27 @@
    "more": 0,
    "items": [
     {
-     "title": "Using a Cheap DC Motor to Make a Go-Kart Go",
-     "url": "https://hackaday.com/2026/11/04/using-a-cheap-dc-motor-to-make-a-go-kart-go/",
+     "title": "It\u2019s DOOM",
+     "url": "https://hackaday.com/2026/11/04/its-doom-on-a-toy-camera/",
      "source": "Hackaday",
-     "summary": "Where Archimedes said that he could move the Earth given a large enough lever and a suitable fulcrum, [Current Concept] decided that he could give his own spin on this \u2026read more",
-     "published": "2026-11-04T16:30:32+00:00",
-     "image": "https://hackaday.com/wp-content/uploads/2026/11/14-motor_gearbox_go-kart_current_concept_youtube.jpg",
+     "summary": "Dirt cheap toy cameras have long been a target for the curious camera hacker, and we\u2019ve seen plenty of lens swaps and other hardware hacks. Until now their internals have \u2026read mo\u2026",
+     "published": "2026-11-04T21:00:47+00:00",
+     "image": "https://hackaday.com/wp-content/uploads/2026/11/doom-camera-featured.jpg",
      "kind": "article",
-     "id": "d39357b4ea4954bf",
-     "first_seen": "2026-11-04T17:49:22.730818+00:00",
+     "id": "dd728a7e9afc2585",
+     "first_seen": "2026-11-04T23:08:54.866861+00:00",
+     "is_new": true
+    },
+    {
+     "title": "ESP32 Robot Car School Edition: Easy Build for Kids",
+     "url": "https://www.hackster.io/ingmar-stapel/esp32-robot-car-school-edition-easy-build-for-kids-325862",
+     "source": "Hackster",
+     "summary": "A simplified ESP32 robot car for school project days. Two motors, PS5 control, ultrasonic sensor and three modes. No soldering needed.",
+     "published": "2026-11-04T13:24:51+00:00",
+     "image": "https://hackster.imgix.net/uploads/attachments/2017516/_lWRhDBwTxc.blob",
+     "kind": "article",
+     "id": "8e4c68153c3e3f03",
+     "first_seen": "2026-11-04T23:08:54.866861+00:00",
      "is_new": true
     },
     {
@@ -158,18 +170,6 @@
      "image": "https://hackster.imgix.net/uploads/attachments/2017481/_fwz16lgz8N.blob",
      "kind": "article",
      "id": "f781893a097b30fe",
-     "first_seen": "2026-11-04T17:49:22.730818+00:00",
-     "is_new": true
-    },
-    {
-     "title": "Water Quality at a Glance: Water EC Monitoring with KiwisIoT",
-     "url": "https://www.hackster.io/kirusokumar/water-quality-at-a-glance-water-ec-monitoring-with-kiwisiot-a72ba4",
-     "source": "Hackster",
-     "summary": "Water Quality at a Glance\u201d is a beginner-friendly IoT project that connects a Water EC Sensor with NodeMCU ESP8266 and KiwisIoT",
-     "published": "2026-11-04T09:27:28+00:00",
-     "image": "https://hackster.imgix.net/uploads/attachments/2017469/_pkVDRjgOnJ.blob",
-     "kind": "article",
-     "id": "2740026e94732f40",
      "first_seen": "2026-11-04T17:49:22.730818+00:00",
      "is_new": true
     },
