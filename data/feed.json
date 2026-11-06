@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T23:12:56.700966+00:00",
+ "generated_at": "2026-11-06T03:27:59.575392+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,12 +10,12 @@
    "more": 0,
    "items": [
     {
-     "title": "Partly Cloudy",
-     "phrase": "Partly Cloudy all day.",
+     "title": "Slight Chance Rain Showers",
+     "phrase": "Slight Chance Rain Showers all day.",
      "detail": "It reaches 66\u00b0 today and falls to 52\u00b0 overnight. The sun is up from 6:35 until 4:42.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 64,
+     "temp": 61,
      "high": 66,
      "low": 52,
      "sunrise": "6:35",
@@ -68,7 +68,7 @@
      "url": "https://www.nytimes.com/2026/11/05/us/politics/harmeet-dhillon-resigns-doj-civil-rights-unit.html",
      "source": "New York Times",
      "summary": "The move came after conflicts with Justice Department leaders, including disagreements over legal strategy in the midterm elections, people familiar with the matter said.",
-     "published": "2026-11-05T21:05:11+00:00",
+     "published": "2026-11-06T01:36:29+00:00",
      "image": "https://static01.nyt.com/images/2026/11/05/multimedia/dc-dhillon-gbkh/dc-dhillon-gbkh-mediumSquareAt3X.jpg",
      "kind": "article",
      "id": "1af816ccc65dbef2",
@@ -101,6 +101,22 @@
      "score": 5
     },
     {
+     "title": "Trump meets with national security team, says Iran war decision coming \"soon\"",
+     "url": "https://www.axios.com/2026/11/05/trump-iran-war-national-security-team-decision",
+     "source": "Axios",
+     "summary": "President Trump said after meeting with his national security advisers Thursday that he'll soon decide whether to resume all-out war in Iran now that the midterms are over.Why it \u2026",
+     "published": "2026-11-05T23:25:56+00:00",
+     "image": "https://images.axios.com/BV7Jka20NtPBBYroDuBQNQ7RE_s=/0x0:8452x4754/1366x768/2026/11/05/1793920302034.jpeg",
+     "kind": "article",
+     "id": "6477aa142612b2e5",
+     "first_seen": "2026-11-06T03:27:59.575392+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
      "title": "Bomb threats disrupt at least 25 flights across Europe, raising hybrid war fears",
      "url": "https://www.theguardian.com/world/2026/nov/05/bomb-threats-disrupt-flights-across-europe-and-renew-hybrid-warfare-fears",
      "source": "Guardian",
@@ -109,22 +125,6 @@
      "image": "https://i.guim.co.uk/img/media/8be530b5c237fee6a55ec439ba8a4e0c218f7f83/663_0_4160_3328/master/4160.jpg?width=140&quality=85&auto=format&fit=max&s=1a63489bf12b9e911ce58e10795eba5f",
      "kind": "article",
      "id": "155e203a7518751b",
-     "first_seen": "2026-11-05T17:49:41.953931+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "Beware \u2018sun, sea and surgery\u2019 cosmetic tourism packages, experts advise",
-     "url": "https://www.theguardian.com/society/2026/nov/05/beware-cosmetic-surgery-tourism-packages-experts-advise",
-     "source": "Guardian",
-     "summary": "British College of Aesthetic Medicine launches checklist as part of \u2018vet it before you get it\u2019 campaignCosmetic tourism is often sold as a package of sun, sea and surgery, but exp\u2026",
-     "published": "2026-11-05T17:17:00+00:00",
-     "image": "https://i.guim.co.uk/img/media/328676bd308b2026f8162d12204c9f870220cb95/0_90_5265_4214/master/5265.jpg?width=140&quality=85&auto=format&fit=max&s=dde28312e36881727682cfc2ceeedcbf",
-     "kind": "article",
-     "id": "a85489020ca6edfc",
      "first_seen": "2026-11-05T17:49:41.953931+00:00",
      "is_new": true,
      "corroboration": 1,
@@ -143,15 +143,15 @@
    "more": 0,
    "items": [
     {
-     "title": "Stunning Volumetric 3D Display Goes For a Spin",
-     "url": "https://hackaday.com/2026/11/05/stunning-volumetric-3d-display-goes-for-a-spin/",
+     "title": "Translating An Old Display To A New One",
+     "url": "https://hackaday.com/2026/11/05/translating-an-old-display-to-a-new-one/",
      "source": "Hackaday",
-     "summary": "[AncientJames] gives us a detailed look at Vortex, one of his impressive volumetric displays made with two back-to-back LED panels that spin at high speed with a Raspberry Pi 4 \u2026r\u2026",
-     "published": "2026-11-05T21:00:41+00:00",
-     "image": "https://hackaday.com/wp-content/uploads/2026/11/multivox-banner.png",
+     "summary": "A quick search through AliExpress will find PCBs that take HDMI or VGA and translate them to DSI lanes for TFT panels, and even boards that translate DSI to HDMI \u2026read more",
+     "published": "2026-11-06T03:00:11+00:00",
+     "image": "https://hackaday.com/wp-content/uploads/2026/11/pico-stn-featured.jpg",
      "kind": "article",
-     "id": "1fd11f2761e7319b",
-     "first_seen": "2026-11-05T23:12:56.700966+00:00",
+     "id": "33ea36c3ebb9f39f",
+     "first_seen": "2026-11-06T03:27:59.575392+00:00",
      "is_new": true
     },
     {
@@ -210,58 +210,19 @@
    "kind": "goods",
    "lead_image": false,
    "row_detail": false,
-   "more": 35,
+   "more": 0,
    "items": [
     {
-     "title": "Van Cortlandt Tee",
-     "url": "https://www.tracksmith.com/products/m-van-cortlandt-tee?sku=9672725194:navy-ivory__XS",
+     "title": "Van Cortlandt Singlet",
+     "url": "https://www.tracksmith.com/products/m-van-cortlandt-singlet?sku=9672724042:fired-brick-hare-print__XS",
      "source": "Tracksmith",
      "summary": "",
      "published": null,
-     "image": "https://cdn-image.tracksmith.com/1787249868-plp-rollover-image-5.jpg?auto=format,compress&crop=faces&dpr=2&fit=crop&h=560&w=420",
-     "price": "$80",
-     "kind": "product",
-     "id": "7839166f0ce1b3a1",
-     "first_seen": "2026-11-05T23:12:56.700966+00:00",
-     "is_new": true
-    },
-    {
-     "title": "Spread Collar Sport Shirt in Red/Blue/Green Multi Check Poplin",
-     "url": "https://shopmashburn.com/products/sid-mashburn-spread-collar-sport-shirt-red-blue-green-multi-check-poplin-s80786",
-     "source": "Sid Mashburn",
-     "summary": "Sid Sport Shirts",
-     "published": "2026-11-05T15:30:16-05:00",
-     "image": "https://cdn.shopify.com/s/files/1/0414/4532/6999/files/S80786_0023.jpg?v=1793805818",
-     "price": "$195",
-     "kind": "product",
-     "id": "6464b182d0352926",
-     "first_seen": "2026-11-05T23:12:56.700966+00:00",
-     "is_new": true
-    },
-    {
-     "title": "Chamula for Drake's Brown Rombos Stripe Merino Jumper",
-     "url": "https://us.drakes.com/products/chamula-for-drakes-brown-rombos-stripe-merino-jumper",
-     "source": "Drake's",
-     "summary": "Knitwear",
-     "published": "2026-11-05T10:09:44-05:00",
-     "image": "https://cdn.shopify.com/s/files/1/0649/6603/3653/files/DR2A3A26950-01301-1.jpg?v=1793808054",
-     "price": "$715",
-     "kind": "product",
-     "id": "cfd45572f5895a17",
-     "first_seen": "2026-11-05T17:49:41.953931+00:00",
-     "is_new": true
-    },
-    {
-     "title": "Twilight Shorts",
-     "url": "https://www.tracksmith.com/products/m-twilight-shorts?sku=7592453079127:dark-olive__XS",
-     "source": "Tracksmith",
-     "summary": "",
-     "published": null,
-     "image": "https://cdn-image.tracksmith.com/1787320729-plp-rollover-image-10.jpg?auto=format,compress&crop=faces&dpr=2&fit=crop&h=560&w=420",
+     "image": "https://cdn-image.tracksmith.com/1787231382-plp-rollover-image-1.jpg?auto=format,compress&crop=faces&dpr=2&fit=crop&h=560&w=420",
      "price": "$75",
      "kind": "product",
-     "id": "9804c71c36717e32",
-     "first_seen": "2026-11-05T23:12:56.700966+00:00",
+     "id": "3c0cc6eed9ddfa9e",
+     "first_seen": "2026-11-06T03:27:59.575392+00:00",
      "is_new": true
     }
    ]
