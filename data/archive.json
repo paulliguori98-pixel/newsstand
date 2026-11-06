@@ -7000,5 +7000,122 @@
   "price": "$250",
   "published": null,
   "first_seen": "2026-11-06T17:08:10.869965+00:00"
+ },
+ "5903a814f45b951d": {
+  "title": "Downeaster Half Zip",
+  "url": "https://www.tracksmith.com/products/m-downeaster?sku=MT229001GRL",
+  "source": "Tracksmith",
+  "image": "https://cdn-image.tracksmith.com/1760284202-ts_em_michigan03454.jpg?auto=format,compress&crop=faces&dpr=2&fit=crop&h=560&w=420",
+  "price": "$170",
+  "published": null,
+  "first_seen": "2026-11-06T22:09:22.136868+00:00"
+ },
+ "279ff87c9f812da4": {
+  "title": "Men's Tracksmith Eliot Runner",
+  "url": "https://www.tracksmith.com/products/m-tracksmith-eliot-runner?sku=7249339285591:white-navy__7",
+  "source": "Tracksmith",
+  "image": "https://cdn-image.tracksmith.com/1730210543-tracksmith-eliot-runner-u.jpg?auto=format,compress&crop=faces&dpr=2&fit=crop&h=560&w=420",
+  "price": "$198",
+  "published": null,
+  "first_seen": "2026-11-06T22:09:22.136868+00:00"
+ },
+ "1eaf8d47e3f273bf": {
+  "title": "Harrier Long Sleeve",
+  "url": "https://www.tracksmith.com/products/m-harrier-long-sleeve?sku=7361794375767:navy__XS",
+  "source": "Tracksmith",
+  "image": "https://cdn-image.tracksmith.com/1787604520-screenshot-2026-02-10-at-1-00-45-pm-1.jpg?auto=format,compress&crop=faces&dpr=2&fit=crop&h=560&w=420",
+  "price": "$110",
+  "published": null,
+  "first_seen": "2026-11-06T22:09:22.136868+00:00"
+ },
+ "63764f83b0efae63": {
+  "title": "Brighton Base Layer",
+  "url": "https://www.tracksmith.com/products/m-brighton-base-layer-ls?sku=9672701642:ivory__S",
+  "source": "Tracksmith",
+  "image": "https://cdn-image.tracksmith.com/1787599960-plp-rollover-image.jpg?auto=format,compress&crop=faces&dpr=2&fit=crop&h=560&w=420",
+  "price": "$100",
+  "published": null,
+  "first_seen": "2026-11-06T22:09:22.136868+00:00"
+ },
+ "37a4fda13e8b2b34": {
+  "title": "Session Shorts",
+  "url": "https://www.tracksmith.com/products/m-session-shorts?sku=7261542482007:black__XS",
+  "source": "Tracksmith",
+  "image": "https://cdn-image.tracksmith.com/1791299737-plp-rollover-image-1.png?auto=format,compress&crop=faces&dpr=2&fit=crop&h=560&w=420",
+  "price": "$85",
+  "published": null,
+  "first_seen": "2026-11-06T22:09:22.136868+00:00"
+ },
+ "3bbc465e9e1bbcc7": {
+  "title": "Thermal Long Sleeve",
+  "url": "https://www.tracksmith.com/products/m-thermal-long-sleeve?sku=MT226901N",
+  "source": "Tracksmith",
+  "image": "https://cdn-image.tracksmith.com/1790631897-plp-rollover.jpg?auto=format,compress&crop=faces&dpr=2&fit=crop&h=560&w=420",
+  "price": "$85",
+  "published": null,
+  "first_seen": "2026-11-06T22:09:22.136868+00:00"
+ },
+ "ec956b36f6b5ab4d": {
+  "title": "Session Tee",
+  "url": "https://www.tracksmith.com/products/m-session-tee?sku=6744160206935:ivory__XS",
+  "source": "Tracksmith",
+  "image": "https://cdn-image.tracksmith.com/1770945291-plp-rollover-image.png?auto=format,compress&crop=faces&dpr=2&fit=crop&h=560&w=420",
+  "price": "$85",
+  "published": null,
+  "first_seen": "2026-11-06T22:09:22.136868+00:00"
+ },
+ "72af1233bd4609c5": {
+  "title": "Twilight Tee",
+  "url": "https://www.tracksmith.com/products/m-twilight-tee?sku=7361930068055:ivory__XS",
+  "source": "Tracksmith",
+  "image": "https://cdn-image.tracksmith.com/1742824643-tracksmith_twilight_feb2025_6277-cropped.jpg?auto=format,compress&crop=faces&dpr=2&fit=crop&h=560&w=420",
+  "price": "$70",
+  "published": null,
+  "first_seen": "2026-11-06T22:09:22.136868+00:00"
+ },
+ "bf60b542febbbd56": {
+  "title": "Seeded Natural Field-Spec Rib L/S Tee",
+  "url": "https://www.buckmason.com/products/seeded-natural-field-spec-rib-ls-tee",
+  "source": "Buck Mason",
+  "image": "https://cdn.shopify.com/s/files/1/0123/5065/2473/files/BM11462.738_FIELD-SPECRIBLSTEESEEDEDNATURAL_1.jpg?v=1793987452",
+  "price": "$108",
+  "published": "2026-11-06T18:06:53+00:00",
+  "first_seen": "2026-11-06T22:09:22.136868+00:00"
+ },
+ "2ae516ff1de9b524": {
+  "title": "Olive Drab Field-Spec Rib L/S Tee",
+  "url": "https://www.buckmason.com/products/olive-drab-field-spec-rib-ls-tee",
+  "source": "Buck Mason",
+  "image": "https://cdn.shopify.com/s/files/1/0123/5065/2473/files/BM11462.738_FIELD-SPECRIBLSTEEOLIVEDRAB_1.jpg?v=1793987538",
+  "price": "$108",
+  "published": "2026-11-06T18:06:52+00:00",
+  "first_seen": "2026-11-06T22:09:22.136868+00:00"
+ },
+ "45c6bd453cc10831": {
+  "title": "L061 Japanese Loomstate Selvedge Full Saddle Jean",
+  "url": "https://www.buckmason.com/products/l061-japanese-loomstate-selvedge-full-saddle-jean",
+  "source": "Buck Mason",
+  "image": "https://cdn.shopify.com/s/files/1/0123/5065/2473/files/BM12126.1727_JAPANESESELVEDGEFULLSADDLEJEANLW60_1.jpg?v=1793987781",
+  "price": "$278",
+  "published": "2026-11-06T18:06:51+00:00",
+  "first_seen": "2026-11-06T22:09:22.136868+00:00"
+ },
+ "56ebec66ca457cf8": {
+  "title": "Asphalt Field-Spec Rib L/S Tee",
+  "url": "https://www.buckmason.com/products/asphalt-field-spec-rib-ls-tee",
+  "source": "Buck Mason",
+  "image": "https://cdn.shopify.com/s/files/1/0123/5065/2473/files/BM11462.738_FIELD-SPECRIBLSTEEASPHALT_1.jpg?v=1793987575",
+  "price": "$108",
+  "published": "2026-11-06T18:00:49+00:00",
+  "first_seen": "2026-11-06T22:09:22.136868+00:00"
+ },
+ "c8ef0353adc14298": {
+  "title": "Dress Navy Pima L/S Classic Henley",
+  "url": "https://www.buckmason.com/products/dress-navy-pima-ls-classic-henley",
+  "source": "Buck Mason",
+  "image": "https://cdn.shopify.com/s/files/1/0123/5065/2473/files/BM11293.285_PIMALSCLASSICHENLEYDRESSNAVY_1.jpg?v=1793987107",
+  "price": "$88",
+  "published": "2026-11-06T17:54:52+00:00",
+  "first_seen": "2026-11-06T22:09:22.136868+00:00"
  }
 }
