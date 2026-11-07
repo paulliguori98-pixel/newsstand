@@ -6521,7 +6521,7 @@
   "source": "Drake's",
   "image": "https://cdn.shopify.com/s/files/1/0649/6603/3653/files/DR2A1B26574-01-100-1.jpg?v=1789483042",
   "price": "$995",
-  "published": "2026-11-04T12:01:09-05:00",
+  "published": "2026-11-07T09:00:05-05:00",
   "first_seen": "2026-11-04T17:49:22.730818+00:00"
  },
  "622363893a87d075": {
@@ -7144,5 +7144,41 @@
   "price": "$598",
   "published": "2026-11-06T22:48:54+00:00",
   "first_seen": "2026-11-07T01:58:39.535295+00:00"
+ },
+ "56296978df9ef582": {
+  "title": "Light Brown Herringbone Wool Raglan Coat",
+  "url": "https://us.drakes.com/products/light-brown-herringbone-wool-raglan-coat",
+  "source": "Drake's",
+  "image": "https://cdn.shopify.com/s/files/1/0649/6603/3653/files/DR2A1Q26553-01-300-1.jpg?v=1789486897",
+  "price": "$2,295",
+  "published": "2026-11-07T09:00:05-05:00",
+  "first_seen": "2026-11-07T16:03:51.620570+00:00"
+ },
+ "82d9c47839f923c8": {
+  "title": "Yuketen Brown Leather Rob's Loafer with Vibram Sole",
+  "url": "https://us.drakes.com/products/yuketen-brown-leather-robs-loafer-with-vibram-sole",
+  "source": "Drake's",
+  "image": "https://cdn.shopify.com/s/files/1/0649/6603/3653/files/DR1AF326941-02300-1.jpg?v=1793965958",
+  "price": "$770",
+  "published": "2026-11-07T09:00:04-05:00",
+  "first_seen": "2026-11-07T16:03:51.620570+00:00"
+ },
+ "add33fd419626085": {
+  "title": "Yuketen Black Leather Rob's Loafer with Vibram Sole",
+  "url": "https://us.drakes.com/products/yuketen-black-leather-robs-loafer-with-vibram-sole",
+  "source": "Drake's",
+  "image": "https://cdn.shopify.com/s/files/1/0649/6603/3653/files/DR1AF326941-01100-1.jpg?v=1793964171",
+  "price": "$770",
+  "published": "2026-11-07T09:00:03-05:00",
+  "first_seen": "2026-11-07T16:03:51.620570+00:00"
+ },
+ "1ada2abad082ec0b": {
+  "title": "Brush Pant in Green Dry Waxed Canvas",
+  "url": "https://shopmashburn.com/products/sid-mashburn-brush-pant-green-dry-waxed-canvas-s80290",
+  "source": "Sid Mashburn",
+  "image": "https://cdn.shopify.com/s/files/1/0414/4532/6999/files/M-26-NOV-CATALOG-PDP-44.jpg?v=1793129754",
+  "price": "$295",
+  "published": "2026-11-05T15:25:15-05:00",
+  "first_seen": "2026-11-07T16:03:51.620570+00:00"
  }
 }
