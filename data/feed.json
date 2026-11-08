@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T16:29:51.621176+00:00",
+ "generated_at": "2026-11-08T20:44:33.692303+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,14 +10,14 @@
    "more": 0,
    "items": [
     {
-     "title": "Mostly Cloudy",
-     "phrase": "A one-in-three chance of rain between 3am and 4am.",
-     "detail": "It reaches 52\u00b0 today and falls to 42\u00b0 overnight. The sun is up from 6:39 until 4:39.",
+     "title": "Mostly Sunny",
+     "phrase": "A one-in-three chance of rain between 3am and 8am.",
+     "detail": "It reaches 53\u00b0 today and falls to 41\u00b0 overnight. The sun is up from 6:39 until 4:39.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 50,
-     "high": 52,
-     "low": 42,
+     "temp": 52,
+     "high": 53,
+     "low": 41,
      "sunrise": "6:39",
      "sunset": "4:39",
      "id": "bb806d72c86dcec1",
@@ -64,6 +64,38 @@
    "more": 0,
    "items": [
     {
+     "title": "Rubio Warned Officials About Nvidia Chief\u2019s Entanglement With Chinese Spy",
+     "url": "https://www.nytimes.com/2026/11/08/us/politics/rubio-nvidia-ceo-chinese-spy.html",
+     "source": "New York Times",
+     "summary": "The secretary of state\u2019s role in drafting a secret memo highlights how top officials were concerned by this past spring about Jensen Huang\u2019s relationship with a woman tied to Chin\u2026",
+     "published": "2026-11-08T20:23:12+00:00",
+     "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08dc-spy-chip-lkzp/08dc-spy-chip-lkzp-mediumSquareAt3X.jpg",
+     "kind": "article",
+     "id": "84ab0fe30f78624b",
+     "first_seen": "2026-11-08T20:44:33.692303+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
+     "title": "Lisa Nandy wary of \u2018circular arguments\u2019 about rejoining EU",
+     "url": "https://www.theguardian.com/politics/2026/nov/08/lisa-nandy-wary-of-circular-arguments-about-rejoining-eu",
+     "source": "Guardian",
+     "summary": "Culture secretary pushes back against talk of revisiting Brexit but says closer ties would fulfil referendum promisesOne of Andy Burnham\u2019s cabinet ministers has said she wants to \u2026",
+     "published": "2026-11-08T18:20:06+00:00",
+     "image": "https://i.guim.co.uk/img/media/5157f3976eae5a90891ee70050849ee9c60e26cb/540_86_2393_1914/master/2393.jpg?width=140&quality=85&auto=format&fit=max&s=b8a34d6bb3e1889ef0a95b2f5cdaf1c9",
+     "kind": "article",
+     "id": "2d584e416be5d768",
+     "first_seen": "2026-11-08T20:44:33.692303+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
      "title": "Weakening AI copyright law will spell \u2018disaster for creativity\u2019, global music body warns Albanese",
      "url": "https://www.theguardian.com/technology/2026/nov/09/weakening-ai-copyright-law-will-spell-disaster-for-creativity-australia",
      "source": "Guardian",
@@ -94,38 +126,6 @@
      "also_in": [],
      "boosted": true,
      "score": 4
-    },
-    {
-     "title": "Gaza wedding festival sees 250 couples married at the same time",
-     "url": "https://www.bbc.co.uk/news/videos/ckr5ygm78j76o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "summary": "A mass wedding for Palestinian brides and grooms has taken place in the rubble-strewn streets of Gaza.",
-     "published": "2026-11-07T17:58:41+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/354f/live/49a10e60-daba-11f1-b441-2b33b063138f.jpg",
-     "kind": "article",
-     "id": "c334eb223f390336",
-     "first_seen": "2026-11-07T20:16:16.085061+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "Trump's \"war-time consigliere\" and the Miller Doctrine",
-     "url": "https://www.axios.com/2026/11/07/stephen-miller-trump-chief-of-staff-style",
-     "source": "Axios",
-     "summary": "Stephen Miller is no Susie Wiles: He believes in almost limitless presidential power, considers the Democratic Party an extremist organization, and dreams of ruthless crackdowns o\u2026",
-     "published": "2026-11-07T13:43:44+00:00",
-     "image": "https://images.axios.com/kzGx1WwT7VIwZBSJk4n0rcuroc8=/0x0:1920x1080/1366x768/2026/11/06/1794002055440.jpeg",
-     "kind": "article",
-     "id": "65e9cbe2381821d5",
-     "first_seen": "2026-11-07T16:03:51.620570+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
     }
    ]
   },
@@ -137,6 +137,18 @@
    "row_detail": true,
    "more": 0,
    "items": [
+    {
+     "title": "Custom Game Boy Cart Speeds Up Development",
+     "url": "https://hackaday.com/2026/11/08/custom-game-boy-cart-speeds-up-development/",
+     "source": "Hackaday",
+     "summary": "These days, it is easy enough to get a flash cart for your Game Boy that makes it easy to run code \u2014 yours or otherwise \u2014 on it, but \u2026read more",
+     "published": "2026-11-08T18:00:09+00:00",
+     "image": "https://hackaday.com/wp-content/uploads/2026/11/gbdevcart_feat.jpg",
+     "kind": "article",
+     "id": "7c33d8be90ad3658",
+     "first_seen": "2026-11-08T20:44:33.692303+00:00",
+     "is_new": true
+    },
     {
      "title": "ESP32-C3 Fishing Line Counter with a 3D-Printed Wheel",
      "url": "https://www.hackster.io/ifreecox/esp32-c3-fishing-line-counter-with-a-3d-printed-wheel-b0b09d",
@@ -162,18 +174,6 @@
      "is_new": true
     },
     {
-     "title": "Making a Dog Car Wash Without (very) Fancy Tools",
-     "url": "https://hackaday.com/2026/11/07/making-a-dog-car-wash-without-very-fancy-tools/",
-     "source": "Hackaday",
-     "summary": "[Stuff Made Here] got fed up with the hassle of washing their dog, and in traditional engineer fashion, decided that automating the process would solve the problem. However, as sc\u2026",
-     "published": "2026-11-08T06:00:42+00:00",
-     "image": "https://hackaday.com/wp-content/uploads/2026/11/dogWashFeat.jpg",
-     "kind": "article",
-     "id": "9af9b6f2d6ee4769",
-     "first_seen": "2026-11-08T16:29:51.621176+00:00",
-     "is_new": true
-    },
-    {
      "title": "Metro ESP32-P4 Case",
      "url": "https://learn.adafruit.com/metro-esp32-p4-case",
      "source": "Adafruit",
@@ -195,7 +195,7 @@
      "kind": "article",
      "id": "ea681af01ece57c4",
      "first_seen": "2026-11-04T17:49:22.730818+00:00",
-     "is_new": true
+     "is_new": false
     }
    ]
   },
