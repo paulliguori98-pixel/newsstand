@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07T23:40:11.491218+00:00",
+ "generated_at": "2026-11-08T02:42:54.662950+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -11,13 +11,13 @@
    "items": [
     {
      "title": "Rain Showers",
-     "phrase": "Rain is near certain between 6pm and 3am.",
-     "detail": "It reaches 54\u00b0 today and falls to 43\u00b0 overnight. The sun is up from 6:38 until 4:40.",
+     "phrase": "Rain is near certain between 9pm and 4am.",
+     "detail": "It reaches 53\u00b0 today and falls to 45\u00b0 overnight. The sun is up from 6:38 until 4:40.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 48,
-     "high": 54,
-     "low": 43,
+     "temp": 46,
+     "high": 53,
+     "low": 45,
      "sunrise": "6:38",
      "sunset": "4:40",
      "id": "bb806d72c86dcec1",
@@ -87,7 +87,7 @@
      "title": "US offers $20m reward for information about Iran's nuclear programme",
      "url": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "summary": "Donald Trump has repeatedly raised the prospecting of renewing strikes against Iran's nuclear facilities.",
+     "summary": "Donald Trump has repeatedly raised the prospect of renewing strikes against Iran's nuclear facilities.",
      "published": "2026-11-07T18:14:38+00:00",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b84/live/0f887590-dad0-11f1-93e1-3b657b665bcf.jpg",
      "kind": "article",
@@ -209,60 +209,8 @@
    "kind": "goods",
    "lead_image": false,
    "row_detail": false,
-   "more": 15,
-   "items": [
-    {
-     "title": "Hudson Merino Fleece Pullover",
-     "url": "https://www.tracksmith.com/products/m-hudson-merino-fleece-pullover?sku=MT226802CAB",
-     "source": "Tracksmith",
-     "summary": "",
-     "published": null,
-     "image": "https://cdn-image.tracksmith.com/1793113197-plp-rollover-image.jpg?auto=format,compress&crop=faces&dpr=2&fit=crop&h=560&w=420",
-     "price": "$250",
-     "kind": "product",
-     "id": "ac12c5f232b2b548",
-     "first_seen": "2026-11-07T20:16:16.085061+00:00",
-     "is_new": true
-    },
-    {
-     "title": "Light Brown Herringbone Wool Raglan Coat",
-     "url": "https://us.drakes.com/products/light-brown-herringbone-wool-raglan-coat",
-     "source": "Drake's",
-     "summary": "Raglan Coats",
-     "published": "2026-11-07T09:00:05-05:00",
-     "image": "https://cdn.shopify.com/s/files/1/0649/6603/3653/files/DR2A1Q26553-01-300-1.jpg?v=1789486897",
-     "price": "$2,295",
-     "kind": "product",
-     "id": "56296978df9ef582",
-     "first_seen": "2026-11-07T16:03:51.620570+00:00",
-     "is_new": true
-    },
-    {
-     "title": "Red Anatomica X Buck Mason Lightweight Cotton Square Scarf",
-     "url": "https://www.buckmason.com/products/red-anatomica-x-buck-mason-lightweight-cotton-square-scarf",
-     "source": "Buck Mason",
-     "image": "https://cdn.shopify.com/s/files/1/0123/5065/2473/files/BM19254.2062_ANATOMICAXBUCKMASONLIGHTWEIGHTCOTTONSQUARESCARFRED_1.jpg?v=1793990121",
-     "price": "$108",
-     "published": "2026-11-06T22:48:57+00:00",
-     "kind": "product",
-     "id": "c737c7ce6eb0a37c",
-     "first_seen": "2026-11-07T01:58:39.535295+00:00",
-     "is_new": true
-    },
-    {
-     "title": "Spread Collar Sport Shirt in Forest/Tobacco Plaid Flannel",
-     "url": "https://shopmashburn.com/products/sid-mashburn-spread-collar-sport-shirt-forest-tobacco-plaid-flannel-s80213",
-     "source": "Sid Mashburn",
-     "summary": "Sid Sport Shirts",
-     "published": "2026-11-05T15:25:16-05:00",
-     "image": "https://cdn.shopify.com/s/files/1/0414/4532/6999/files/S80213_0030.jpg?v=1793802662",
-     "price": "$225",
-     "kind": "product",
-     "id": "12826fb19956ac7e",
-     "first_seen": "2026-11-07T20:16:16.085061+00:00",
-     "is_new": true
-    }
-   ]
+   "more": 0,
+   "items": []
   },
   {
    "id": "dispatches",
