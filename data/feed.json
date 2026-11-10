@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T20:23:19.781645+00:00",
+ "generated_at": "2026-11-10T02:54:01.036076+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,13 +10,13 @@
    "more": 0,
    "items": [
     {
-     "title": "Isolated Rain Showers",
-     "phrase": "A one-in-five chance of rain between 3pm and 5pm.",
-     "detail": "It reaches 57\u00b0 today and falls to 36\u00b0 overnight. The sun is up from 6:40 until 4:37.",
+     "title": "Mostly Cloudy",
+     "phrase": "Mostly Cloudy all day.",
+     "detail": "It reaches 58\u00b0 today and falls to 36\u00b0 overnight. The sun is up from 6:40 until 4:37.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 53,
-     "high": 57,
+     "temp": 44,
+     "high": 58,
      "low": 36,
      "sunrise": "6:40",
      "sunset": "4:37",
@@ -64,34 +64,47 @@
    "more": 0,
    "items": [
     {
-     "title": "A.I. Fueled Nvidia CEO Jensen Huang\u2019s Elite Status, but Scandal Followed",
-     "url": "https://www.nytimes.com/2026/11/09/technology/jensen-huang-nvidia-ai-chips-scandal.html",
+     "title": "Iran War Unexpectedly Drove Down Carbon Emissions This Year",
+     "url": "https://www.nytimes.com/2026/11/09/climate/global-emissions-iran-war.html",
      "source": "New York Times",
-     "summary": "As chips became essential components for A.I., executives like Nvidia\u2019s Jensen Huang saw their personal wealth and profiles soar in a way the industry has not experienced before.",
-     "published": "2026-11-09T17:58:28+00:00",
-     "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09biz-chips-ai-hcpj/09biz-chips-ai-hcpj-mediumSquareAt3X.jpg",
+     "summary": "It\u2019s the first drop in planet-warming pollution since the pandemic in 2020. But researchers cautioned that the decline could be short-lived.",
+     "published": "2026-11-10T01:01:05+00:00",
+     "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09cli-global-emissions-01-jlbf/09cli-global-emissions-01-jlbf-mediumSquareAt3X.jpg",
      "kind": "article",
-     "id": "de6c408987a1c0e4",
-     "first_seen": "2026-11-09T20:23:19.781645+00:00",
+     "id": "4164602cae72043d",
+     "first_seen": "2026-11-10T02:54:01.036076+00:00",
      "is_new": true,
-     "corroboration": 3,
-     "also_in": [
-      "Axios",
-      "Guardian"
-     ],
-     "boosted": false,
-     "score": 3
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
     },
     {
-     "title": "Jensen Huang\u2019s Affair Rings Alarm Bells for Nvidia Investors",
-     "url": "https://www.wsj.com/finance/stocks/jensen-huangs-affair-rings-alarm-bells-for-nvidia-investors-03e79135?mod=rss_markets_main",
-     "source": "WSJ",
-     "summary": "Even if the woman Huang had an affair with isn\u2019t a spy, a relationship with an executive of a major customer should matter to shareholders.",
-     "published": "2026-11-09T19:30:00+00:00",
-     "image": "https://images.wsj.net/im-00388303",
+     "title": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
+     "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "summary": "Kyiv, Washington and Moscow are all sending delegation to the United Arab Emirates for the first trilateral talks since February.",
+     "published": "2026-11-10T00:09:49+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d4a/live/c60a1ad0-dc88-11f1-851a-19e868620cad.jpg",
      "kind": "article",
-     "id": "07bc73f1ae48b4ce",
-     "first_seen": "2026-11-09T20:23:19.781645+00:00",
+     "id": "6c22ff3622d0e17f",
+     "first_seen": "2026-11-10T02:54:01.036076+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
+     "title": "Nvidia CEO Jensen Huang Told Trump He Did Not Know Chinese Woman Was Suspected Spy",
+     "url": "https://www.nytimes.com/2026/11/09/us/politics/trump-jensen-huang-spy.html",
+     "source": "New York Times",
+     "summary": "President Trump told reporters Monday that he believed Jensen Huang\u2019s account and said he did not recall receiving a briefing warning him about Mr. Huang\u2019s liaison.",
+     "published": "2026-11-10T02:13:11+00:00",
+     "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09dc-trump-jensen-tvfw/09dc-trump-jensen-tvfw-mediumSquareAt3X.jpg",
+     "kind": "article",
+     "id": "09239847482748da",
+     "first_seen": "2026-11-10T02:54:01.036076+00:00",
      "is_new": true,
      "corroboration": 2,
      "also_in": [
@@ -101,37 +114,19 @@
      "score": 2
     },
     {
-     "title": "Russell Brand Sentenced to 10 and a Half Years in Prison for Rape",
-     "url": "https://www.nytimes.com/2026/11/09/arts/russell-brand-prison-sentence-rape.html",
-     "source": "New York Times",
-     "summary": "A London judge said the former comedy star, who was convicted of rape and sexual assault last week, had shown a \u201ccasual, arrogant disregard\u201d for women\u2019s wishes.",
-     "published": "2026-11-09T18:52:41+00:00",
-     "image": "https://static01.nyt.com/images/2026/11/10/multimedia/09cul-russell-brand-sentencing-ktbl/09cul-russell-brand-sentencing-ktbl-mediumSquareAt3X.jpg",
+     "title": "Qantas to outsource 850 local jobs with most roles moving to India",
+     "url": "https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "summary": "The Australian airline said the move was aimed at modernising its IT systems and noted the impact of AI.",
+     "published": "2026-11-10T01:55:22+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47eb/live/926fac30-dca6-11f1-86c1-89409a3a3bd9.jpg",
      "kind": "article",
-     "id": "6ac0859469c7ec0c",
-     "first_seen": "2026-11-09T20:23:19.781645+00:00",
+     "id": "9b6cbbc69269973e",
+     "first_seen": "2026-11-10T02:54:01.036076+00:00",
      "is_new": true,
      "corroboration": 2,
      "also_in": [
-      "NPR"
-     ],
-     "boosted": false,
-     "score": 2
-    },
-    {
-     "title": "This Is How Democrats Won the Midterms",
-     "url": "https://www.nytimes.com/2026/11/09/opinion/democrats-midterms-populism.html",
-     "source": "New York Times",
-     "summary": "The Democrats still have a long way to go before they can govern the country productively. But the victors of 2026 have started to point the way.",
-     "published": "2026-11-09T10:03:38+00:00",
-     "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09politics-editorial-vtbj/09politics-editorial-vtbj-mediumSquareAt3X.jpg",
-     "kind": "article",
-     "id": "0f19f81994160148",
-     "first_seen": "2026-11-09T20:23:19.781645+00:00",
-     "is_new": true,
-     "corroboration": 2,
-     "also_in": [
-      "NPR"
+      "Guardian"
      ],
      "boosted": false,
      "score": 2
@@ -147,15 +142,15 @@
    "more": 0,
    "items": [
     {
-     "title": "Radon Active",
-     "url": "https://hackaday.com/2026/11/09/radon-active/",
+     "title": "Free Your Harley From The Dealer",
+     "url": "https://hackaday.com/2026/11/09/free-your-harley-from-the-dealer/",
      "source": "Hackaday",
-     "summary": "When you think about nuclear radiation, you often think about power plants, but it turns out there\u2019s radioactive stuff all over the place: smoke detectors, granite counters, banan\u2026",
-     "published": "2026-11-09T15:00:15+00:00",
-     "image": "https://hackaday.com/wp-content/uploads/2026/10/RadonDetector.jpg",
+     "summary": "Vehicles have come with diagnostic ports for many years now, and there are a host of easily available tools to interrogate them. Despite that, there are still proprietary aspects \u2026",
+     "published": "2026-11-10T00:00:08+00:00",
+     "image": "https://hackaday.com/wp-content/uploads/2026/11/harley-featured.jpg",
      "kind": "article",
-     "id": "da8860e75a95606b",
-     "first_seen": "2026-11-09T20:23:19.781645+00:00",
+     "id": "db5cf316e4505c53",
+     "first_seen": "2026-11-10T02:54:01.036076+00:00",
      "is_new": true
     },
     {
@@ -215,7 +210,32 @@
    "lead_image": false,
    "row_detail": false,
    "more": 0,
-   "items": []
+   "items": [
+    {
+     "title": "Heather Brown Loft-Lite Merino Collared Cardigan",
+     "url": "https://www.buckmason.com/products/heather-brown-loft-lite-merino-collared-cardigan",
+     "source": "Buck Mason",
+     "image": "https://cdn.shopify.com/s/files/1/0123/5065/2473/files/BM16362.763_LOFT-LITEMERINOCOLLAREDCARDIGANHEATHERBROWN_1.jpg?v=1794258069",
+     "price": "$248",
+     "published": "2026-11-09T22:48:19+00:00",
+     "kind": "product",
+     "id": "1fef7aadc77075df",
+     "first_seen": "2026-11-10T02:54:01.036076+00:00",
+     "is_new": true
+    },
+    {
+     "title": "Heather Elk Loft-Lite Merino Collared Cardigan",
+     "url": "https://www.buckmason.com/products/heather-elk-loft-lite-merino-collared-cardigan",
+     "source": "Buck Mason",
+     "image": "https://cdn.shopify.com/s/files/1/0123/5065/2473/files/BM16362.763_LOFT-LITEMERINOCOLLAREDCARDIGANHEATHERELK_1.jpg?v=1794258009",
+     "price": "$248",
+     "published": "2026-11-09T22:48:19+00:00",
+     "kind": "product",
+     "id": "f24aa1963e5ae830",
+     "first_seen": "2026-11-10T02:54:01.036076+00:00",
+     "is_new": true
+    }
+   ]
   },
   {
    "id": "dispatches",
