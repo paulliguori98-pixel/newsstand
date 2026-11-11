@@ -7284,7 +7284,7 @@
   "title": "Work Shirt in Airforce Flannel",
   "url": "https://shopmashburn.com/products/sid-mashburn-work-shirt-airforce-flannel-s80227",
   "source": "Sid Mashburn",
-  "image": "https://cdn.shopify.com/s/files/1/0414/4532/6999/files/M-26-NOV-CATALOG-PDP-49.jpg?v=1793127664",
+  "image": "https://cdn.shopify.com/s/files/1/0414/4532/6999/files/S80227_269.jpg?v=1794409079",
   "price": "$250",
   "published": "2026-11-05T15:25:14-05:00",
   "first_seen": "2026-11-07T20:16:16.085061+00:00"
@@ -7347,7 +7347,7 @@
   "title": "Black Barathea Cloth Hollywood Double Breasted Jacket",
   "url": "https://www.buckmason.com/products/black-barathea-cloth-hollywood-double-breasted-jacket",
   "source": "Buck Mason",
-  "image": "https://cdn.shopify.com/s/files/1/0123/5065/2473/files/BM17194.1236_BARATHEACLOTHHOLLYWOODDOUBLEBREASTEDJACKET_BLACK_86786_1.jpg?v=1794337895",
+  "image": "https://cdn.shopify.com/s/files/1/0123/5065/2473/files/BM17194.1236_BARATHEACLOTHHOLLYWOODDOUBLEBREASTEDJACKETBLACK_1.jpg?v=1794337894",
   "price": "$698",
   "published": "2026-11-10T19:24:40+00:00",
   "first_seen": "2026-11-10T22:30:22.567073+00:00"
@@ -7369,5 +7369,50 @@
   "price": "$110",
   "published": null,
   "first_seen": "2026-11-11T02:13:00.681707+00:00"
+ },
+ "1ea6106523658c85": {
+  "title": "Brighton Base Layer - Chicago",
+  "url": "https://www.tracksmith.com/products/m-chicago-brighton-base-layer?sku=6815399346263:navy-cranberry__S",
+  "source": "Tracksmith",
+  "image": "https://cdn.shopify.com/s/files/1/1594/4353/files/Chicago26-Mens-Brighton-Base-Layer-On-Model.png?v=1787853162&width=800&height=800&crop=center",
+  "price": "$110",
+  "published": null,
+  "first_seen": "2026-11-11T17:40:05.018187+00:00"
+ },
+ "cbc2088149ef5730": {
+  "title": "Trackhouse Sweatshirt - The Brooklyn Circus",
+  "url": "https://www.tracksmith.com/products/m-trackhouse-sweatshirt-the-brooklyn-circus?sku=MT238-XS-NY",
+  "source": "Tracksmith",
+  "image": "https://cdn-image.tracksmith.com/1793125422-plp-rollover-image.jpg?auto=format,compress&crop=faces&dpr=2&fit=crop&h=560&w=420",
+  "price": "$130",
+  "published": null,
+  "first_seen": "2026-11-11T17:40:05.018187+00:00"
+ },
+ "95181e6cbcf0832c": {
+  "title": "Brighton Base Layer - Berlin",
+  "url": "https://www.tracksmith.com/products/m-berlin-brighton-base-layer?sku=MT217BER2602PRTYY",
+  "source": "Tracksmith",
+  "image": "https://cdn-image.tracksmith.com/1785785830-description-panel-1.png?auto=format,compress&crop=faces&dpr=2&fit=crop&h=560&w=420",
+  "price": "$110",
+  "published": null,
+  "first_seen": "2026-11-11T17:40:05.018187+00:00"
+ },
+ "b6e84eff743375bf": {
+  "title": "Grey Merino Wool Knitted Polo",
+  "url": "https://us.drakes.com/products/grey-merino-wool-knitted-polo",
+  "source": "Drake's",
+  "image": "https://cdn.shopify.com/s/files/1/0649/6603/3653/products/DR2A3H21507-05600-1.jpg?v=1663184889",
+  "price": "$495",
+  "published": "2026-11-11T05:42:17-05:00",
+  "first_seen": "2026-11-11T17:40:05.018187+00:00"
+ },
+ "ddd11a6a6f101c94": {
+  "title": "Enamelware Call Signs",
+  "url": "https://www.bestmadeco.com/products/call-signs",
+  "source": "Best Made",
+  "image": "https://cdn.shopify.com/s/files/1/0674/2985/9558/files/PDP-LAYOUTS-SMALL-ENAMEL-SIGNS7.jpg?v=1793988595",
+  "price": "$28",
+  "published": "2026-11-10T12:51:57-05:00",
+  "first_seen": "2026-11-11T17:40:05.018187+00:00"
  }
 }
