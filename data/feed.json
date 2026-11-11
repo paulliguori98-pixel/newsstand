@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T22:30:22.567073+00:00",
+ "generated_at": "2026-11-11T02:13:00.681707+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,14 +10,14 @@
    "more": 0,
    "items": [
     {
-     "title": "Sunny",
-     "phrase": "Sunny all day.",
-     "detail": "It reaches 58\u00b0 today and falls to 37\u00b0 overnight. The sun is up from 6:42 until 4:36.",
+     "title": "Mostly Clear",
+     "phrase": "Mostly Clear all day.",
+     "detail": "It reaches 54\u00b0 today and falls to 39\u00b0 overnight. The sun is up from 6:42 until 4:36.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 56,
-     "high": 58,
-     "low": 37,
+     "temp": 49,
+     "high": 54,
+     "low": 39,
      "sunrise": "6:42",
      "sunset": "4:36",
      "id": "bb806d72c86dcec1",
@@ -64,6 +64,38 @@
    "more": 0,
    "items": [
     {
+     "title": "Scoop: Commerce Department received national security warning on Nvidia CEO affair",
+     "url": "https://www.axios.com/2026/11/10/lutnick-nvidia-jensen-huang-china-memo",
+     "source": "Axios",
+     "summary": "Commerce Secretary Howard Lutnick was sent a highly classified memo warning about Nvidia CEO Jensen Huang's relationship with suspected Chinese spy Alice Huang, multiple sources f\u2026",
+     "published": "2026-11-10T23:47:04+00:00",
+     "image": "https://images.axios.com/QdGvTen2GCBvveTn-c0W9R2D7XY=/0x0:4000x2250/1366x768/2026/11/10/1794352029848.jpeg",
+     "kind": "article",
+     "id": "d73ecac1b22e84a6",
+     "first_seen": "2026-11-11T02:13:00.681707+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
+     "title": "Trump swung between war and diplomacy \u2014 then chose a third way",
+     "url": "https://www.axios.com/2026/11/10/trump-iran-war-diplomacy-economic-crackdown",
+     "source": "Axios",
+     "summary": "When Secretary of State Marco Rubio met with his G7 counterparts in Paris on Tuesday, he told them that President Trump had considered resuming the war with Iran or cutting a deal\u2026",
+     "published": "2026-11-10T23:35:28+00:00",
+     "image": "https://images.axios.com/xGfOmVIktNG5-BTHExfrAwnjKiM=/0x0:4724x2657/1366x768/2026/11/10/1794352422192.jpeg",
+     "kind": "article",
+     "id": "1ea8f1a97f6f6169",
+     "first_seen": "2026-11-11T02:13:00.681707+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
      "title": "Makers of GLP-1 drugs ordered to add warnings about rare eye condition that can lead to blindness",
      "url": "https://www.bbc.co.uk/news/articles/crwydyde0lp3o?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
@@ -94,38 +126,6 @@
      "also_in": [],
      "boosted": true,
      "score": 4
-    },
-    {
-     "title": "French wartime resistance heroine Solange Alexandre dies aged 104",
-     "url": "https://www.bbc.co.uk/news/articles/cjdx3x7wg941o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "summary": "With 30 men under her orders, she organised sabotage operations, sheltered Allied airmen and joined the fight against the occupying German forces.",
-     "published": "2026-11-10T13:23:54+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b46b/live/32b5bef0-dd06-11f1-a701-fddedf244c16.jpg",
-     "kind": "article",
-     "id": "39299601a00cf4f9",
-     "first_seen": "2026-11-10T17:26:50.979624+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "Scoop: El Salvador blasts U.S. State Dept. over Haiti gang war",
-     "url": "https://www.axios.com/2026/11/10/el-salvador-state-department-haiti-gangs",
-     "source": "Axios",
-     "summary": "State Department officials have quietly raised objections to El Salvador's gang-fighting efforts in Haiti \u2014 even as President Trump has offered his full support, according to dipl\u2026",
-     "published": "2026-11-10T10:20:13+00:00",
-     "image": "https://images.axios.com/0krISO4gRBMaW_T3HezPQlRoeFM=/0x0:1920x1080/1366x768/2026/11/09/1794247850274.jpeg",
-     "kind": "article",
-     "id": "c2012605d59a4053",
-     "first_seen": "2026-11-10T17:26:50.979624+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
     }
    ]
   },
@@ -138,15 +138,15 @@
    "more": 0,
    "items": [
     {
-     "title": "Gesture Controls With Only a Camera",
-     "url": "https://hackaday.com/2026/11/10/gesture-controls-with-only-a-camera/",
+     "title": "Watching the Watchers",
+     "url": "https://hackaday.com/2026/11/10/watching-the-watchers/",
      "source": "Hackaday",
-     "summary": "Back in 2002, [Takahiro Yonemura] and others built a system that used a single webcam-like device to track a user\u2019s hand and generate inputs for a computer. Given that this \u2026read \u2026",
-     "published": "2026-11-10T21:00:32+00:00",
-     "image": "https://hackaday.com/wp-content/uploads/2026/11/gesture-controls-main.png",
+     "summary": "Although it used to be a much more rare event, now almost any time at dawn or dusk, provided clear weather, a human observer can walk outside, look up, and \u2026read more",
+     "published": "2026-11-11T00:00:28+00:00",
+     "image": "https://hackaday.com/wp-content/uploads/2026/11/satellite-tracker-main.png",
      "kind": "article",
-     "id": "2a0f31371a7c0fa2",
-     "first_seen": "2026-11-10T22:30:22.567073+00:00",
+     "id": "dbd960567f0a4dda",
+     "first_seen": "2026-11-11T02:13:00.681707+00:00",
      "is_new": true
     },
     {
@@ -205,57 +205,19 @@
    "kind": "goods",
    "lead_image": false,
    "row_detail": false,
-   "more": 2,
+   "more": 0,
    "items": [
     {
-     "title": "Van Cortlandt Grand Shorts",
-     "url": "https://www.tracksmith.com/products/m-van-cortlandt-grand-shorts?sku=MB310901FIBMPAW",
+     "title": "Twilight Tights",
+     "url": "https://www.tracksmith.com/products/m-twilight-tights?sku=7723705040983:black__XS",
      "source": "Tracksmith",
      "summary": "",
      "published": null,
-     "image": "https://cdn-image.tracksmith.com/1760551286-emilymaye_ts_fall25_london03046-hero.jpg?auto=format,compress&crop=faces&dpr=2&fit=crop&h=560&w=420",
-     "price": "$80",
+     "image": "https://cdn.shopify.com/s/files/1/1594/4353/files/Fall26-Mens-Twilight-Tights-Black-On-Model.png?v=1787587279&width=800&height=800&crop=center",
+     "price": "$110",
      "kind": "product",
-     "id": "2ee2637cd26a0a7d",
-     "first_seen": "2026-11-10T22:30:22.567073+00:00",
-     "is_new": true
-    },
-    {
-     "title": "Black Barathea Cloth Hollywood Double Breasted Jacket",
-     "url": "https://www.buckmason.com/products/black-barathea-cloth-hollywood-double-breasted-jacket",
-     "source": "Buck Mason",
-     "image": "https://cdn.shopify.com/s/files/1/0123/5065/2473/files/BM17194.1236_BARATHEACLOTHHOLLYWOODDOUBLEBREASTEDJACKET_BLACK_86786_1.jpg?v=1794337895",
-     "price": "$698",
-     "published": "2026-11-10T19:24:40+00:00",
-     "kind": "product",
-     "id": "0de61a0321811521",
-     "first_seen": "2026-11-10T22:30:22.567073+00:00",
-     "is_new": true
-    },
-    {
-     "title": "\u201cSmall-Big\u201d Enamel Steel Signs",
-     "url": "https://www.bestmadeco.com/products/s-b-t-enamel-signs",
-     "source": "Best Made",
-     "summary": "Workshop Desk",
-     "published": "2026-11-10T12:51:57-05:00",
-     "image": "https://cdn.shopify.com/s/files/1/0674/2985/9558/files/PDP-LAYOUTS-SMALL-ENAMEL-SIGNS7.jpg?v=1793988595",
-     "price": "$28",
-     "kind": "product",
-     "id": "6637049cf8999e1b",
-     "first_seen": "2026-11-10T22:30:22.567073+00:00",
-     "is_new": true
-    },
-    {
-     "title": "Grayboy Tee - The Brooklyn Circus",
-     "url": "https://www.tracksmith.com/products/m-grayboy-tee-the-brooklyn-circus?sku=UT2064-XS-NY",
-     "source": "Tracksmith",
-     "summary": "",
-     "published": null,
-     "image": "https://cdn-image.tracksmith.com/1793125404-plp-rollover-image.jpg?auto=format,compress&crop=faces&dpr=2&fit=crop&h=560&w=420",
-     "price": "$65",
-     "kind": "product",
-     "id": "e27556e3dad1e8fb",
-     "first_seen": "2026-11-10T22:30:22.567073+00:00",
+     "id": "f1e6c4349f5c6eb8",
+     "first_seen": "2026-11-11T02:13:00.681707+00:00",
      "is_new": true
     }
    ]
