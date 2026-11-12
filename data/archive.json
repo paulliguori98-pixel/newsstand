@@ -7421,7 +7421,7 @@
   "source": "Best Made",
   "image": "https://cdn.shopify.com/s/files/1/0674/2985/9558/files/PDP-LAYOUTS-JAPANESE-SOCKS6.jpg?v=1793989316",
   "price": "$29",
-  "published": "2026-11-12T12:38:21-05:00",
+  "published": "2026-11-12T16:24:16-05:00",
   "first_seen": "2026-11-12T17:52:58.612723+00:00"
  },
  "bd4ad20c101fb0a6": {
@@ -7430,7 +7430,7 @@
   "source": "Best Made",
   "image": "https://cdn.shopify.com/s/files/1/0674/2985/9558/files/PDP-LAYOUTS-JAPANESE-SOCKS10.jpg?v=1793989169",
   "price": "$38",
-  "published": "2026-11-12T12:38:00-05:00",
+  "published": "2026-11-12T15:06:34-05:00",
   "first_seen": "2026-11-12T17:52:58.612723+00:00"
  },
  "7add46b2b7f465b1": {
@@ -7648,5 +7648,41 @@
   "price": "$20",
   "published": "2026-11-12T11:41:56-05:00",
   "first_seen": "2026-11-12T17:52:58.612723+00:00"
+ },
+ "78d6f365122ed00c": {
+  "title": "Trouser Dress Socks in Yellow Extra Fine Merino",
+  "url": "https://shopmashburn.com/products/sid-mashburn-trouser-dress-socks-yellow-extra-fine-merino-s81509",
+  "source": "Sid Mashburn",
+  "image": "https://cdn.shopify.com/s/files/1/0414/4532/6999/files/S81509_0187.jpg?v=1794507180",
+  "price": "$28",
+  "published": "2026-11-12T14:36:07-05:00",
+  "first_seen": "2026-11-12T23:09:24.021113+00:00"
+ },
+ "9ca00ab98a925890": {
+  "title": "Trouser Dress Socks in Heather Blue Extra Fine Merino",
+  "url": "https://shopmashburn.com/products/sid-mashburn-trouser-dress-socks-heather-blue-extra-fine-merino-s81507",
+  "source": "Sid Mashburn",
+  "image": "https://cdn.shopify.com/s/files/1/0414/4532/6999/files/S81507_0192.jpg?v=1794507067",
+  "price": "$28",
+  "published": "2026-11-12T14:36:06-05:00",
+  "first_seen": "2026-11-12T23:09:24.021113+00:00"
+ },
+ "1ff5251920c50a50": {
+  "title": "Trouser Dress Socks in Persimmon Extra Fine Merino",
+  "url": "https://shopmashburn.com/products/sid-mashburn-trouser-dress-socks-persimmon-extra-fine-merino-s81510",
+  "source": "Sid Mashburn",
+  "image": "https://cdn.shopify.com/s/files/1/0414/4532/6999/files/S81510_0184.jpg?v=1794507205",
+  "price": "$28",
+  "published": "2026-11-12T14:36:06-05:00",
+  "first_seen": "2026-11-12T23:09:24.021113+00:00"
+ },
+ "429a98d052f71d86": {
+  "title": "Trouser Dress Socks in Grass Extra Fine Merino",
+  "url": "https://shopmashburn.com/products/sid-mashburn-trouser-dress-socks-grass-extra-fine-merino-s81508",
+  "source": "Sid Mashburn",
+  "image": "https://cdn.shopify.com/s/files/1/0414/4532/6999/files/S81508_0177.jpg?v=1794507133",
+  "price": "$28",
+  "published": "2026-11-12T14:36:06-05:00",
+  "first_seen": "2026-11-12T23:09:24.021113+00:00"
  }
 }
