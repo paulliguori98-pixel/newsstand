@@ -5979,7 +5979,7 @@
   "title": "5-Gauge Shetland Sweater",
   "url": "https://www.bestmadeco.com/products/lightweight-harley-sweater",
   "source": "Best Made",
-  "image": "https://cdn.shopify.com/s/files/1/0674/2985/9558/files/STEWARTS-SHOOT-102625-2636copy.jpg?v=1761589886",
+  "image": "https://cdn.shopify.com/s/files/1/0674/2985/9558/files/HARLEY-LIGHT-1.jpg?v=1761603442",
   "price": "$170",
   "published": "2026-10-27T11:02:26-04:00",
   "first_seen": "2026-10-27T15:41:36.085542+00:00"
@@ -7711,5 +7711,23 @@
   "price": "$960",
   "published": "2026-11-13T08:58:40-05:00",
   "first_seen": "2026-11-13T17:28:53.267615+00:00"
+ },
+ "4eb8bdeaa017879a": {
+  "title": "Faded Earth Welterweight Dugout Quarter Zip",
+  "url": "https://www.buckmason.com/products/faded-earth-welterweight-dugout-quarter-zip",
+  "source": "Buck Mason",
+  "image": "https://cdn.shopify.com/s/files/1/0123/5065/2473/files/BM15232.877_WELTWEIGHTDUGOUTQUARTERZIPFADEDEARTH_1.jpg?v=1794592751",
+  "price": "$158",
+  "published": "2026-11-13T18:18:19+00:00",
+  "first_seen": "2026-11-13T22:50:15.702932+00:00"
+ },
+ "f6f219f32f3f90f4": {
+  "title": "Dry Navy Welterweight Dugout Quarter Zip",
+  "url": "https://www.buckmason.com/products/dry-navy-welterweight-dugout-quarter-zip",
+  "source": "Buck Mason",
+  "image": "https://cdn.shopify.com/s/files/1/0123/5065/2473/files/BM15232.877_WELTWEIGHTDUGOUTQUARTERZIPDRYNAVY_1.jpg?v=1794592864",
+  "price": "$158",
+  "published": "2026-11-13T18:18:18+00:00",
+  "first_seen": "2026-11-13T22:50:15.702932+00:00"
  }
 }
