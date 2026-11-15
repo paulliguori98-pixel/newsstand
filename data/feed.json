@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T16:46:13.581176+00:00",
+ "generated_at": "2026-11-15T21:27:18.208727+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,14 +10,14 @@
    "more": 0,
    "items": [
     {
-     "title": "Mostly Sunny",
-     "phrase": "Mostly Sunny all day.",
-     "detail": "It reaches 46\u00b0 today and falls to 30\u00b0 overnight. The sun is up from 6:48 until 4:31.",
+     "title": "Mostly Cloudy",
+     "phrase": "Mostly Cloudy all day.",
+     "detail": "It reaches 48\u00b0 today and falls to 32\u00b0 overnight. The sun is up from 6:48 until 4:31.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
      "temp": 43,
-     "high": 46,
-     "low": 30,
+     "high": 48,
+     "low": 32,
      "sunrise": "6:48",
      "sunset": "4:31",
      "id": "bb806d72c86dcec1",
@@ -64,14 +64,14 @@
    "more": 0,
    "items": [
     {
-     "title": "The Reward for Black Women\u2019s Work in Georgia: Leaders Who Look Like Them",
-     "url": "https://www.nytimes.com/2026/11/15/us/black-women-georgia-leaders.html",
+     "title": "Saudi-Backed Forces Retreat in Yemen, Leaving Key Strait in Houthi Control",
+     "url": "https://www.nytimes.com/2026/11/15/world/middleeast/saudi-houthis-yemen-red-sea.html",
      "source": "New York Times",
-     "summary": "Diligent ground-level efforts by Black women helped make Democrats competitive again in Georgia. Now they\u2019ll hold seven of the top eight elected leadership roles in the state.",
-     "published": "2026-11-15T10:00:54+00:00",
-     "image": "https://static01.nyt.com/images/2026/11/15/multimedia/15nat-black-women-tfqj/15nat-black-women-tfqj-mediumSquareAt3X.jpg",
+     "summary": "It\u2019s a setback for the Yemeni government and its ally Saudi Arabia, as analysts said the momentum in country\u2019s civil war was tilting toward the Iran-backed Houthis.",
+     "published": "2026-11-15T20:37:52+00:00",
+     "image": "https://static01.nyt.com/images/2026/11/15/multimedia/15int-yemen-retreat-1-bhfc/15int-yemen-retreat-1-bhfc-mediumSquareAt3X.jpg",
      "kind": "article",
-     "id": "f559866c209682d3",
+     "id": "cc70f5ed8f709312",
      "first_seen": "2026-11-15T16:46:13.581176+00:00",
      "is_new": true,
      "corroboration": 1,
@@ -144,15 +144,27 @@
    "more": 0,
    "items": [
     {
-     "title": "Printing Smooth Upper Surfaces with a Non-Planar Slicer",
-     "url": "https://hackaday.com/2026/11/15/printing-smooth-upper-surfaces-with-a-non-planar-slicer/",
+     "title": "Loop Antennas for Transmitting",
+     "url": "https://hackaday.com/2026/11/15/loop-antennas-for-transmitting/",
      "source": "Hackaday",
-     "summary": "One of the most tantalizing prospects for 3D printing has been non-planar printing, which promises smoother surfaces without a staircase pattern, reduced or eliminated support str\u2026",
-     "published": "2026-11-15T15:00:54+00:00",
-     "image": "https://hackaday.com/wp-content/uploads/2026/11/non-planar_slicer.png",
+     "summary": "Loop antennas are becoming increasingly popular as more radio fans find they can\u2019t erect elaborate outdoor antennas. Like most things, of course, there are trade-offs. But, most o\u2026",
+     "published": "2026-11-15T21:00:35+00:00",
+     "image": "https://hackaday.com/wp-content/uploads/2026/11/loop.png",
      "kind": "article",
-     "id": "384c0cd338cd85e2",
-     "first_seen": "2026-11-15T16:46:13.581176+00:00",
+     "id": "84ea7d5ae4d930c5",
+     "first_seen": "2026-11-15T21:27:18.208727+00:00",
+     "is_new": true
+    },
+    {
+     "title": "Excited to share my CM5 UAV Carrier Board for UAVs & Robotic",
+     "url": "https://www.hackster.io/EmbeddedWorks/excited-to-share-my-cm5-uav-carrier-board-for-uavs-robotic-b1bfb4",
+     "source": "Hackster",
+     "summary": "A compact UAV carrier board designed for the Raspberry Pi Compute Module 5, with high-speed connectivity, dual MIPI interfaces.",
+     "published": "2026-11-15T13:35:57+00:00",
+     "image": "https://hackster.imgix.net/uploads/attachments/2020400/_HoCBITU5DL.blob",
+     "kind": "article",
+     "id": "29fc1bcb58785375",
+     "first_seen": "2026-11-15T21:27:18.208727+00:00",
      "is_new": true
     },
     {
@@ -165,18 +177,6 @@
      "kind": "article",
      "id": "355246b8a1bd4f5d",
      "first_seen": "2026-11-15T16:46:13.581176+00:00",
-     "is_new": true
-    },
-    {
-     "title": "Poise",
-     "url": "https://www.hackster.io/aadikhatri45/poise-95fde5",
-     "source": "Hackster",
-     "summary": "A 500 Hz haptic hand stabiliser powered by the Renesas RA4M1. Uses zero-latency ELC hardware timing and passivity control to smooth tremor.",
-     "published": "2026-11-14T16:16:11+00:00",
-     "image": "https://hackster.imgix.net/uploads/attachments/2020258/_z2XFcAlr2B.blob",
-     "kind": "article",
-     "id": "d4b27873a6af2652",
-     "first_seen": "2026-11-15T00:41:32.315158+00:00",
      "is_new": true
     },
     {
