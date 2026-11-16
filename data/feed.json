@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T21:27:18.208727+00:00",
+ "generated_at": "2026-11-16T01:21:24.611782+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,13 +10,13 @@
    "more": 0,
    "items": [
     {
-     "title": "Mostly Cloudy",
-     "phrase": "Mostly Cloudy all day.",
-     "detail": "It reaches 48\u00b0 today and falls to 32\u00b0 overnight. The sun is up from 6:48 until 4:31.",
+     "title": "Partly Cloudy",
+     "phrase": "Partly Cloudy all day.",
+     "detail": "It reaches 46\u00b0 today and falls to 32\u00b0 overnight. The sun is up from 6:48 until 4:31.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 43,
-     "high": 48,
+     "temp": 38,
+     "high": 46,
      "low": 32,
      "sunrise": "6:48",
      "sunset": "4:31",
@@ -35,23 +35,23 @@
    "more": 0,
    "items": [
     {
-     "title": "Mulch after the ground freezes.",
-     "summary": "Not before. Mulch laid on warm soil is an invitation to voles, who will spend the winter eating the garlic.",
-     "kicker": "Zone 5b \u00b7 1\u201315 November",
+     "title": "Cut the asparagus down, turn the compost.",
+     "summary": "Cut the ferns once they've yellowed and not before \u2014 they're feeding the crowns until then. Brussels are sweeter now; frost does that.",
+     "kicker": "Zone 5b \u00b7 16\u201330 November",
      "plantings": [],
      "reading": [
       {
        "source": "Margaret Roach",
-       "title": "Fall pest patrol: deer, cabbage worms, squash bugs, voles",
-       "url": "https://awaytogarden.com/fall-pest-patrol-work-now-to-foil-deer-cabbage-worms-viburnum-beetle-squash-bugs-voles/"
+       "title": "Growing, cooking and stashing asparagus: 12 don'ts",
+       "url": "https://awaytogarden.com/growing-cooking-stashing-asparagus-12-donts/"
       }
      ],
-     "url": "https://awaytogarden.com/fall-pest-patrol-work-now-to-foil-deer-cabbage-worms-viburnum-beetle-squash-bugs-voles/",
+     "url": "https://awaytogarden.com/growing-cooking-stashing-asparagus-12-donts/",
      "source": "Zone 5b",
      "kind": "garden",
-     "id": "54bd35c5de7cbb0f",
-     "first_seen": "2026-11-01T01:48:27.042402+00:00",
-     "is_new": false
+     "id": "79b0583a62723ef6",
+     "first_seen": "2026-11-16T01:21:24.611782+00:00",
+     "is_new": true
     }
    ]
   },
@@ -64,11 +64,27 @@
    "more": 0,
    "items": [
     {
+     "title": "Prince Harry tells Ukrainians they are \u2018going to win war\u2019 on surprise trip to Lviv",
+     "url": "https://www.theguardian.com/uk-news/2026/nov/15/prince-harry-ukraine-war-surprise-trip-invictus-games",
+     "source": "Guardian",
+     "summary": "Duke of Sussex meets wounded veterans in city and says country could one day host Invictus GamesPrince Harry has told Ukrainian soldiers they are going to win the war with Russia,\u2026",
+     "published": "2026-11-15T22:00:24+00:00",
+     "image": "https://i.guim.co.uk/img/media/082248113d66f00317e3a188a707a740b59e16b9/191_193_2669_2135/master/2669.jpg?width=140&quality=85&auto=format&fit=max&s=ec896eb5e828c19c1a39e8a6177db095",
+     "kind": "article",
+     "id": "c66d5c11acd4d66c",
+     "first_seen": "2026-11-16T01:21:24.611782+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
      "title": "Saudi-Backed Forces Retreat in Yemen, Leaving Key Strait in Houthi Control",
      "url": "https://www.nytimes.com/2026/11/15/world/middleeast/saudi-houthis-yemen-red-sea.html",
      "source": "New York Times",
      "summary": "It\u2019s a setback for the Yemeni government and its ally Saudi Arabia, as analysts said the momentum in country\u2019s civil war was tilting toward the Iran-backed Houthis.",
-     "published": "2026-11-15T20:37:52+00:00",
+     "published": "2026-11-15T21:26:18+00:00",
      "image": "https://static01.nyt.com/images/2026/11/15/multimedia/15int-yemen-retreat-1-bhfc/15int-yemen-retreat-1-bhfc-mediumSquareAt3X.jpg",
      "kind": "article",
      "id": "cc70f5ed8f709312",
@@ -78,24 +94,6 @@
      "also_in": [],
      "boosted": true,
      "score": 4
-    },
-    {
-     "title": "Judge blocks Trump closure of 'Trash Island' Washington DC golf course on Sunday",
-     "url": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "summary": "The temporary order is part of a months-long challenge to the US president's plans to upgrade East Potomac Golf Links into a championship course.",
-     "published": "2026-11-15T15:57:03+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4be0/live/054b94d0-e09e-11f1-a701-fddedf244c16.jpg",
-     "kind": "article",
-     "id": "76222d4d3122ef18",
-     "first_seen": "2026-11-15T16:46:13.581176+00:00",
-     "is_new": true,
-     "corroboration": 2,
-     "also_in": [
-      "NPR"
-     ],
-     "boosted": false,
-     "score": 2
     },
     {
      "title": "South Korea's top scorer in tax accountancy exam admits cheating",
@@ -111,24 +109,6 @@
      "corroboration": 2,
      "also_in": [
       "Guardian"
-     ],
-     "boosted": false,
-     "score": 2
-    },
-    {
-     "title": "FAA ground stop disrupts college football",
-     "url": "https://www.npr.org/2026/11/14/nx-s1-6041115/faa-ground-stop-college-football-delays",
-     "source": "NPR",
-     "summary": "Some college football games were delayed a few hours on Saturday or postponed to Sunday. And in Oklahoma at least, there will be perks for fans to make up for the inconvenience, i\u2026",
-     "published": "2026-11-15T01:13:59+00:00",
-     "image": null,
-     "kind": "article",
-     "id": "bdef44745e9a1511",
-     "first_seen": "2026-11-15T16:46:13.581176+00:00",
-     "is_new": true,
-     "corroboration": 2,
-     "also_in": [
-      "Axios"
      ],
      "boosted": false,
      "score": 2
@@ -156,6 +136,18 @@
      "is_new": true
     },
     {
+     "title": "Tessera: a touchscreen macro deck on a 7-inch ESP32-P4",
+     "url": "https://www.hackster.io/catorendal/tessera-a-touchscreen-macro-deck-on-a-7-inch-esp32-p4-8e0e4d",
+     "source": "Hackster",
+     "summary": "Open-source keys, live PC gauges and a sound mixer on one touchscreen, with no soldering.",
+     "published": "2026-11-15T19:09:00+00:00",
+     "image": "https://hackster.imgix.net/uploads/attachments/2020461/_utEaylNReP.blob",
+     "kind": "article",
+     "id": "51e329ea2a8b7d33",
+     "first_seen": "2026-11-16T01:21:24.611782+00:00",
+     "is_new": true
+    },
+    {
      "title": "Excited to share my CM5 UAV Carrier Board for UAVs & Robotic",
      "url": "https://www.hackster.io/EmbeddedWorks/excited-to-share-my-cm5-uav-carrier-board-for-uavs-robotic-b1bfb4",
      "source": "Hackster",
@@ -165,18 +157,6 @@
      "kind": "article",
      "id": "29fc1bcb58785375",
      "first_seen": "2026-11-15T21:27:18.208727+00:00",
-     "is_new": true
-    },
-    {
-     "title": "Aura AQ: 7-Inch Open-Source ESP32 Air Quality Monitor",
-     "url": "https://www.hackster.io/21cncstudio/aura-aq-7-inch-open-source-esp32-air-quality-monitor-48646c",
-     "source": "Hackster",
-     "summary": "What's new in Aura AQ: two screen sizes, Sensor Hub PCBs, more sensors, local history, and improvements shaped by the community.",
-     "published": "2026-11-14T17:50:30+00:00",
-     "image": "https://hackster.imgix.net/uploads/attachments/2020280/_mbudWiCQ6K.blob",
-     "kind": "article",
-     "id": "355246b8a1bd4f5d",
-     "first_seen": "2026-11-15T16:46:13.581176+00:00",
      "is_new": true
     },
     {
