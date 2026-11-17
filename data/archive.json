@@ -7846,5 +7846,23 @@
   "price": "$450",
   "published": "2026-11-16T09:26:59-05:00",
   "first_seen": "2026-11-16T19:59:00.784676+00:00"
+ },
+ "d4e5fcb930f67cc8": {
+  "title": "Men's Tracksmith Eliot Ryder",
+  "url": "https://www.tracksmith.com/products/m-tracksmith-eliot-ryder?sku=FT1005H07WT",
+  "source": "Tracksmith",
+  "image": "https://cdn-image.tracksmith.com/1782945054-plp-rollover-image-1.jpg?auto=format,compress&crop=faces&dpr=2&fit=crop&h=560&w=420",
+  "price": "$220",
+  "published": null,
+  "first_seen": "2026-11-17T18:55:30.449664+00:00"
+ },
+ "981ff7ce92bf075a": {
+  "title": "Brown 'No Ball Games' Merino Wool Baseball Cap",
+  "url": "https://us.drakes.com/products/brown-no-ball-games-merino-wool-baseball-cap",
+  "source": "Drake's",
+  "image": "https://cdn.shopify.com/s/files/1/0649/6603/3653/files/26701-01.jpg?v=1794910920",
+  "price": "$115",
+  "published": "2026-11-17T05:32:26-05:00",
+  "first_seen": "2026-11-17T18:55:30.449664+00:00"
  }
 }

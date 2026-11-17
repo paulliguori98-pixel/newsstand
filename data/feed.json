@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T02:50:52.246657+00:00",
+ "generated_at": "2026-11-17T18:55:30.449664+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,15 +10,15 @@
    "more": 0,
    "items": [
     {
-     "title": "Clear",
-     "phrase": "Clear all day.",
-     "detail": "It reaches 53\u00b0 today and falls to 29\u00b0 overnight. The sun is up from 6:49 until 4:30.",
+     "title": "Sunny",
+     "phrase": "Sunny all day.",
+     "detail": "It reaches 52\u00b0 today and falls to 34\u00b0 overnight. The sun is up from 6:51 until 4:30.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 34,
-     "high": 53,
-     "low": 29,
-     "sunrise": "6:49",
+     "temp": 52,
+     "high": 52,
+     "low": 34,
+     "sunrise": "6:51",
      "sunset": "4:30",
      "id": "bb806d72c86dcec1",
      "first_seen": "2026-08-19T17:11:19.569450+00:00",
@@ -64,15 +64,15 @@
    "more": 0,
    "items": [
     {
-     "title": "Chase Bank Resumes Normal Operations After \u2018Software Bug\u2019 Disrupted Transactions",
-     "url": "https://www.nytimes.com/2026/11/16/us/bank-outages-down.html",
-     "source": "New York Times",
-     "summary": "After technical problems grounded flights nationwide and Microsoft products failed, the banking issues added to a sense of doom about the systems underpinning daily life.",
-     "published": "2026-11-17T02:02:57+00:00",
-     "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16xp-chase-zpkc/16xp-chase-zpkc-mediumSquareAt3X.jpg",
+     "title": "UK sanctions firms over Israeli West Bank settlements",
+     "url": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "summary": "It marks the first sanctions since the UK announced a tougher approach to Israeli actions in the territory.",
+     "published": "2026-11-17T18:27:27+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b109/live/1b3b72b0-e283-11f1-b166-176de21e2352.jpg",
      "kind": "article",
-     "id": "a3be9526776929e4",
-     "first_seen": "2026-11-17T02:50:52.246657+00:00",
+     "id": "4b6f10c89569f078",
+     "first_seen": "2026-11-17T18:55:30.449664+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
@@ -80,15 +80,31 @@
      "score": 4
     },
     {
-     "title": "Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war",
-     "url": "https://www.bbc.co.uk/news/articles/ckx27v6dpjz0o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "summary": "Russia said Ukraine had launched over 2,000 drones over the course of a day, while Kyiv came under a record 17 air raid alerts.",
-     "published": "2026-11-16T14:58:12+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f174/live/bc6fa8f0-e1c4-11f1-a094-5fdc692f3e33.jpg",
+     "title": "Tech leaders tell Fed chairman Warsh how AI could transform the economy",
+     "url": "https://www.axios.com/2026/11/17/ai-fed-economic-growth-andreessen",
+     "source": "Axios",
+     "summary": "Just maybe, both the extreme techno-optimists and AI doom-and-gloomers are wrong about the economic impact of the technology.That's the argument that venture capitalist Marc Andre\u2026",
+     "published": "2026-11-17T17:00:13+00:00",
+     "image": "https://images.axios.com/oxxYCo6yVxgH_qZaDqjdPUQDuU0=/0x208:4000x2458/1366x768/2026/11/17/1794927327608.jpeg",
      "kind": "article",
-     "id": "717c962de6d5987c",
-     "first_seen": "2026-11-16T19:59:00.784676+00:00",
+     "id": "af8ebd3cedf11692",
+     "first_seen": "2026-11-17T18:55:30.449664+00:00",
+     "is_new": true,
+     "corroboration": 1,
+     "also_in": [],
+     "boosted": true,
+     "score": 4
+    },
+    {
+     "title": "Hundreds arrested in anti-Trump protests in Philippines amid anger over Iran war and AI pact",
+     "url": "https://www.theguardian.com/world/2026/nov/17/hundreds-arrested-manila-anti-trump-protests-philippines",
+     "source": "Guardian",
+     "summary": "Organisers say up to 10,000 people could join next round of demonstrations as US president arrives for Asean summitAsean and Apec summits \u2013 live updatesHundreds of people have bee\u2026",
+     "published": "2026-11-17T11:00:39+00:00",
+     "image": "https://i.guim.co.uk/img/media/75ec4cfc6a89c1babfe1389687fbafa71b3713af/333_0_3333_2666/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=d705d30eaf39229da515c775b9c5324e",
+     "kind": "article",
+     "id": "9efce15ccb9c7114",
+     "first_seen": "2026-11-17T18:55:30.449664+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
@@ -110,24 +126,6 @@
      "also_in": [],
      "boosted": true,
      "score": 4
-    },
-    {
-     "title": "United Airlines Flights Resume After \u2018Widespread System Outage\u2019",
-     "url": "https://www.nytimes.com/2026/11/16/business/united-airlines-outage-flights.html",
-     "source": "New York Times",
-     "summary": "The brief disruption, after a nationwide ground stop last week, added to concerns about air travel ahead of a busy Thanksgiving travel period.",
-     "published": "2026-11-17T00:59:37+00:00",
-     "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16xp-united-czbh/16xp-united-czbh-mediumSquareAt3X.jpg",
-     "kind": "article",
-     "id": "0ba32fcb7f50296a",
-     "first_seen": "2026-11-17T02:50:52.246657+00:00",
-     "is_new": true,
-     "corroboration": 2,
-     "also_in": [
-      "Axios"
-     ],
-     "boosted": false,
-     "score": 2
     }
    ]
   },
@@ -140,39 +138,39 @@
    "more": 0,
    "items": [
     {
-     "title": "Can\u2019t Get the Right Cassette Mechanism? Have a Go at Making Your Own!",
-     "url": "https://hackaday.com/2026/11/16/cant-get-the-right-cassette-mechanism-have-a-go-at-making-your-own/",
+     "title": "Making an Affordable Two-Axis Solar Tracker",
+     "url": "https://hackaday.com/2026/11/17/making-an-affordable-two-axis-solar-tracker/",
      "source": "Hackaday",
-     "summary": "In the world of cassette tape enthusiasts, it\u2019s an oft-repeated factoid that there is only one tape deck mechanism still being manufactured. The truth may be a tiny bit murky \u2026rea\u2026",
-     "published": "2026-11-17T00:00:27+00:00",
-     "image": "https://hackaday.com/wp-content/uploads/2026/11/cassette-deck-featured.jpg",
+     "summary": "Setting up a photovoltaic panel is simple, but you lose a lot of potential power if you merely bolt said panel into place. With a tracker the panel will instead \u2026read more",
+     "published": "2026-11-17T16:30:33+00:00",
+     "image": "https://hackaday.com/wp-content/uploads/2026/11/two-axis_solar_tracker_greenhill_forge_youtube.jpg",
      "kind": "article",
-     "id": "e5643e9202a6ca77",
-     "first_seen": "2026-11-17T02:50:52.246657+00:00",
+     "id": "85425c58993a8a47",
+     "first_seen": "2026-11-17T18:55:30.449664+00:00",
      "is_new": true
     },
     {
-     "title": "Niko: Emotional Math & Weather Robot (UNO R4)",
-     "url": "https://www.hackster.io/ramakantadgitm/niko-emotional-math-weather-robot-uno-r4-ec7cbd",
+     "title": "Biomedical Sensor Signal Validation",
+     "url": "https://www.hackster.io/sejutidhali/biomedical-sensor-signal-validation-cb83cd",
      "source": "Hackster",
-     "summary": "An expressive desk pet that quizzes you with timed math games and reacts with chimes and face animations, while tracking live Wi-Fi weather.",
-     "published": "2026-11-16T16:41:40+00:00",
-     "image": "https://hackster.imgix.net/uploads/attachments/2020988/_gOGiFGmJh3.blob",
+     "summary": "A two-bit digital controller lights a status LED after three consecutive simulated pulse detection and resets when contact is lost.",
+     "published": "2026-11-17T10:49:10+00:00",
+     "image": "https://hackster.imgix.net/uploads/attachments/2021308/_pIK7Q098p5.blob",
      "kind": "article",
-     "id": "a51979e320e64b9e",
-     "first_seen": "2026-11-17T02:50:52.246657+00:00",
+     "id": "a0574003c1f97ae2",
+     "first_seen": "2026-11-17T18:55:30.449664+00:00",
      "is_new": true
     },
     {
-     "title": "Echo Studio: Touchless Air Drum Instrument",
-     "url": "https://www.hackster.io/techak974/echo-studio-touchless-air-drum-instrument-925049",
+     "title": "Face to Laser: Photo, Preview and Burn",
+     "url": "https://www.hackster.io/platisd/face-to-laser-photo-preview-and-burn-0cb7d4",
      "source": "Hackster",
-     "summary": "A compact, L-shaped desktop touchless drum-looping instrument built with an Arduino and infrared proximity sensors.",
-     "published": "2026-11-16T15:58:48+00:00",
-     "image": "https://hackster.imgix.net/uploads/attachments/2020952/_oel4fWpiZI.blob",
+     "summary": "Ever wanted your face on a fridge magnet? Easy! Photo. Preview. Beautify. Burn. \ud83d\udd25",
+     "published": "2026-11-17T10:21:50+00:00",
+     "image": "https://hackster.imgix.net/uploads/attachments/2021300/_H1lWkpw6q4.blob",
      "kind": "article",
-     "id": "e5e26b5931d72315",
-     "first_seen": "2026-11-16T19:59:00.784676+00:00",
+     "id": "624a92cce95b598f",
+     "first_seen": "2026-11-17T18:55:30.449664+00:00",
      "is_new": true
     },
     {
@@ -185,7 +183,7 @@
      "kind": "article",
      "id": "766574711ea68572",
      "first_seen": "2026-11-13T17:28:53.267615+00:00",
-     "is_new": true
+     "is_new": false
     },
     {
      "title": "Metro ESP32-P4 Case",
@@ -208,7 +206,34 @@
    "lead_image": false,
    "row_detail": false,
    "more": 0,
-   "items": []
+   "items": [
+    {
+     "title": "Men's Tracksmith Eliot Ryder",
+     "url": "https://www.tracksmith.com/products/m-tracksmith-eliot-ryder?sku=FT1005H07WT",
+     "source": "Tracksmith",
+     "summary": "",
+     "published": null,
+     "image": "https://cdn-image.tracksmith.com/1782945054-plp-rollover-image-1.jpg?auto=format,compress&crop=faces&dpr=2&fit=crop&h=560&w=420",
+     "price": "$220",
+     "kind": "product",
+     "id": "d4e5fcb930f67cc8",
+     "first_seen": "2026-11-17T18:55:30.449664+00:00",
+     "is_new": true
+    },
+    {
+     "title": "Brown 'No Ball Games' Merino Wool Baseball Cap",
+     "url": "https://us.drakes.com/products/brown-no-ball-games-merino-wool-baseball-cap",
+     "source": "Drake's",
+     "summary": "Hats",
+     "published": "2026-11-17T05:32:26-05:00",
+     "image": "https://cdn.shopify.com/s/files/1/0649/6603/3653/files/26701-01.jpg?v=1794910920",
+     "price": "$115",
+     "kind": "product",
+     "id": "981ff7ce92bf075a",
+     "first_seen": "2026-11-17T18:55:30.449664+00:00",
+     "is_new": true
+    }
+   ]
   },
   {
    "id": "dispatches",
@@ -237,10 +262,10 @@
      "score": 2
     },
     {
-     "title": "Interesting first winter outerwear from P Johnson",
+     "title": "Interesting first winter outerwear from P. Johnson",
      "url": "https://www.permanentstyle.com/2026/11/the-first-p-johnson-collection-aimed-at-winter.html",
      "source": "Permanent Style",
-     "summary": "Back in the spring we wrote about the new P Johnson store in London, and how refreshing the style felt compared to a lot of the more conservative brands here. The unusual fabrics \u2026",
+     "summary": "Back in the spring we wrote about the new P. Johnson store in London, and how refreshing the style felt compared to a lot of the more conservative brands here. The unusual fabrics\u2026",
      "published": "2026-11-16T09:00:04+00:00",
      "image": "https://www.permanentstyle.com/wp-content/uploads/2026/11/PS-P-JOHNSON-6-copy.jpg",
      "kind": "article",
