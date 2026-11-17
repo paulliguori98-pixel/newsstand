@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T19:59:00.784676+00:00",
+ "generated_at": "2026-11-17T02:50:52.246657+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,13 +10,13 @@
    "more": 0,
    "items": [
     {
-     "title": "Mostly Sunny",
-     "phrase": "Mostly Sunny all day.",
-     "detail": "It reaches 49\u00b0 today and falls to 29\u00b0 overnight. The sun is up from 6:49 until 4:30.",
+     "title": "Clear",
+     "phrase": "Clear all day.",
+     "detail": "It reaches 53\u00b0 today and falls to 29\u00b0 overnight. The sun is up from 6:49 until 4:30.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 49,
-     "high": 49,
+     "temp": 34,
+     "high": 53,
      "low": 29,
      "sunrise": "6:49",
      "sunset": "4:30",
@@ -64,15 +64,15 @@
    "more": 0,
    "items": [
     {
-     "title": "Elon Musk Dreams of Merging Tesla and SpaceX in Move Toward Tech Supremacy",
-     "url": "https://www.nytimes.com/2026/11/16/business/elon-musk-tesla-spacex-conglomerate.html",
+     "title": "Chase Bank Resumes Normal Operations After \u2018Software Bug\u2019 Disrupted Transactions",
+     "url": "https://www.nytimes.com/2026/11/16/us/bank-outages-down.html",
      "source": "New York Times",
-     "summary": "The history of the sprawling corporate combinations is rich, colorful and mostly disappointing. Could a SpaceX-Tesla merger be a success story?",
-     "published": "2026-11-16T18:57:59+00:00",
-     "image": "https://static01.nyt.com/images/2026/11/16/business/16biz-digital-conglomerates/16biz-digital-conglomerates-mediumSquareAt3X.jpg",
+     "summary": "After technical problems grounded flights nationwide and Microsoft products failed, the banking issues added to a sense of doom about the systems underpinning daily life.",
+     "published": "2026-11-17T02:02:57+00:00",
+     "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16xp-chase-zpkc/16xp-chase-zpkc-mediumSquareAt3X.jpg",
      "kind": "article",
-     "id": "a2fe02c25120413a",
-     "first_seen": "2026-11-16T19:59:00.784676+00:00",
+     "id": "a3be9526776929e4",
+     "first_seen": "2026-11-17T02:50:52.246657+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
@@ -96,22 +96,6 @@
      "score": 4
     },
     {
-     "title": "Albanese treads tightrope in upcoming Trump meeting, wanting Indo-Pacific engagement and end to Iran and Ukraine wars",
-     "url": "https://www.theguardian.com/australia-news/2026/nov/16/albanese-treads-tightrope-in-upcoming-trump-meeting-wanting-indo-pacific-engagement-and-end-to-iran-and-ukraine-wars",
-     "source": "Guardian",
-     "summary": "Quad leaders\u2019 summit in Philippines is Trump\u2019s first, as Australia joins US and Japan to protect AI technologies in face of China efforts to dominateGet our daily political email,\u2026",
-     "published": "2026-11-16T09:40:29+00:00",
-     "image": "https://i.guim.co.uk/img/media/b57480f6f6d59b1e608fcb68882810c017ea2e92/499_0_4985_3988/master/4985.jpg?width=140&quality=85&auto=format&fit=max&s=dcd65629c0528069bb39b7b12ba209c6",
-     "kind": "article",
-     "id": "db43089f31ad646a",
-     "first_seen": "2026-11-16T19:59:00.784676+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
      "title": "Delaware hit by rare November tornado",
      "url": "https://www.theguardian.com/environment/2026/nov/16/delaware-hit-by-rare-november-tornado",
      "source": "Guardian",
@@ -126,6 +110,24 @@
      "also_in": [],
      "boosted": true,
      "score": 4
+    },
+    {
+     "title": "United Airlines Flights Resume After \u2018Widespread System Outage\u2019",
+     "url": "https://www.nytimes.com/2026/11/16/business/united-airlines-outage-flights.html",
+     "source": "New York Times",
+     "summary": "The brief disruption, after a nationwide ground stop last week, added to concerns about air travel ahead of a busy Thanksgiving travel period.",
+     "published": "2026-11-17T00:59:37+00:00",
+     "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16xp-united-czbh/16xp-united-czbh-mediumSquareAt3X.jpg",
+     "kind": "article",
+     "id": "0ba32fcb7f50296a",
+     "first_seen": "2026-11-17T02:50:52.246657+00:00",
+     "is_new": true,
+     "corroboration": 2,
+     "also_in": [
+      "Axios"
+     ],
+     "boosted": false,
+     "score": 2
     }
    ]
   },
@@ -138,15 +140,27 @@
    "more": 0,
    "items": [
     {
-     "title": "Making a Universal, Self-Centering Tap Wrench",
-     "url": "https://hackaday.com/2026/11/16/making-a-universal-self-centering-tap-wrench/",
+     "title": "Can\u2019t Get the Right Cassette Mechanism? Have a Go at Making Your Own!",
+     "url": "https://hackaday.com/2026/11/16/cant-get-the-right-cassette-mechanism-have-a-go-at-making-your-own/",
      "source": "Hackaday",
-     "summary": "Although many people will just use the tap wrench that came with the tap and die set, once you get a larger shop it can be nice to not have \u2026read more",
-     "published": "2026-11-16T19:00:46+00:00",
-     "image": "https://hackaday.com/wp-content/uploads/2026/11/universal_tap_handle_inheritance_machining_youtube.jpg",
+     "summary": "In the world of cassette tape enthusiasts, it\u2019s an oft-repeated factoid that there is only one tape deck mechanism still being manufactured. The truth may be a tiny bit murky \u2026rea\u2026",
+     "published": "2026-11-17T00:00:27+00:00",
+     "image": "https://hackaday.com/wp-content/uploads/2026/11/cassette-deck-featured.jpg",
      "kind": "article",
-     "id": "7d47fd31a096eb0e",
-     "first_seen": "2026-11-16T19:59:00.784676+00:00",
+     "id": "e5643e9202a6ca77",
+     "first_seen": "2026-11-17T02:50:52.246657+00:00",
+     "is_new": true
+    },
+    {
+     "title": "Niko: Emotional Math & Weather Robot (UNO R4)",
+     "url": "https://www.hackster.io/ramakantadgitm/niko-emotional-math-weather-robot-uno-r4-ec7cbd",
+     "source": "Hackster",
+     "summary": "An expressive desk pet that quizzes you with timed math games and reacts with chimes and face animations, while tracking live Wi-Fi weather.",
+     "published": "2026-11-16T16:41:40+00:00",
+     "image": "https://hackster.imgix.net/uploads/attachments/2020988/_gOGiFGmJh3.blob",
+     "kind": "article",
+     "id": "a51979e320e64b9e",
+     "first_seen": "2026-11-17T02:50:52.246657+00:00",
      "is_new": true
     },
     {
@@ -158,18 +172,6 @@
      "image": "https://hackster.imgix.net/uploads/attachments/2020952/_oel4fWpiZI.blob",
      "kind": "article",
      "id": "e5e26b5931d72315",
-     "first_seen": "2026-11-16T19:59:00.784676+00:00",
-     "is_new": true
-    },
-    {
-     "title": "IoT-Based Port Environment Monitoring",
-     "url": "https://www.hackster.io/harispidy07/iot-based-port-environment-monitoring-5e3682",
-     "source": "Hackster",
-     "summary": "ESP8266 collects and processes the sensor readings and transmits the information through Wi-Fi to the KiwisIoT platform.",
-     "published": "2026-11-16T12:28:22+00:00",
-     "image": "https://hackster.imgix.net/uploads/attachments/2020754/_uWyQBqcB4F.blob",
-     "kind": "article",
-     "id": "9ebd57c2cbe819b7",
      "first_seen": "2026-11-16T19:59:00.784676+00:00",
      "is_new": true
     },
@@ -205,60 +207,8 @@
    "kind": "goods",
    "lead_image": false,
    "row_detail": false,
-   "more": 4,
-   "items": [
-    {
-     "title": "Clove Felted Cyclist Jacket",
-     "url": "https://www.buckmason.com/products/clove-felted-cyclist-jacket",
-     "source": "Buck Mason",
-     "image": "https://cdn.shopify.com/s/files/1/0123/5065/2473/files/BM17347.403_FELTEDCYCLISTJACKETCLOVE_2.jpg?v=1794857728",
-     "price": "$268",
-     "published": "2026-11-16T19:48:30+00:00",
-     "kind": "product",
-     "id": "8b053bde761de4ba",
-     "first_seen": "2026-11-16T19:59:00.784676+00:00",
-     "is_new": true
-    },
-    {
-     "title": "Navy Corduroy Two-Pocket Long Point Collar Work Shirt",
-     "url": "https://us.drakes.com/products/navy-corduroy-two-pocket-long-point-collar-work-shirt",
-     "source": "Drake's",
-     "summary": "Casual Shirts",
-     "published": "2026-11-16T09:52:30-05:00",
-     "image": "https://cdn.shopify.com/s/files/1/0649/6603/3653/files/DR2A4Q26666-01-250-1_46770800-8c5b-4919-aa10-0d46b54d234c.jpg?v=1794840233",
-     "price": "$425",
-     "kind": "product",
-     "id": "4fc9420ab962d828",
-     "first_seen": "2026-11-16T19:59:00.784676+00:00",
-     "is_new": true
-    },
-    {
-     "title": "Brown Fair Isle Wool Sleeveless Cardigan",
-     "url": "https://us.drakes.com/products/brown-fair-isle-wool-sleeveless-cardigan",
-     "source": "Drake's",
-     "summary": "Knitwear",
-     "published": "2026-11-16T09:28:51-05:00",
-     "image": "https://cdn.shopify.com/s/files/1/0649/6603/3653/files/26690.jpg?v=1792508914",
-     "price": "$595",
-     "kind": "product",
-     "id": "eb991f160863f7ee",
-     "first_seen": "2026-11-16T19:59:00.784676+00:00",
-     "is_new": true
-    },
-    {
-     "title": "Brown Fair Isle Wool Sleeveless V-Neck Jumper",
-     "url": "https://us.drakes.com/products/brown-fair-isle-wool-sleeveless-v-neck-jumper",
-     "source": "Drake's",
-     "summary": "Knitwear",
-     "published": "2026-11-16T09:28:33-05:00",
-     "image": "https://cdn.shopify.com/s/files/1/0649/6603/3653/files/26689.jpg?v=1792508815",
-     "price": "$595",
-     "kind": "product",
-     "id": "1e68d00ea32dc2f6",
-     "first_seen": "2026-11-16T19:59:00.784676+00:00",
-     "is_new": true
-    }
-   ]
+   "more": 0,
+   "items": []
   },
   {
    "id": "dispatches",
