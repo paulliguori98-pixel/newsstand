@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T17:04:11.835059+00:00",
+ "generated_at": "2026-11-21T22:12:42.624226+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -12,12 +12,12 @@
     {
      "title": "Sunny",
      "phrase": "Sunny all day.",
-     "detail": "It reaches 60\u00b0 today and falls to 37\u00b0 overnight. The sun is up from 6:56 until 4:26.",
+     "detail": "It reaches 58\u00b0 today and falls to 38\u00b0 overnight. The sun is up from 6:56 until 4:26.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 55,
-     "high": 60,
-     "low": 37,
+     "temp": 53,
+     "high": 58,
+     "low": 38,
      "sunrise": "6:56",
      "sunset": "4:26",
      "id": "bb806d72c86dcec1",
@@ -80,22 +80,6 @@
      "score": 4
     },
     {
-     "title": "Vape users hospitalised after losing consciousness, prompting public health warning in New South Wales",
-     "url": "https://www.theguardian.com/australia-news/2026/nov/20/vape-users-hospitalised-after-losing-consciousness-prompting-public-health-warning-in-new-south-wales",
-     "source": "Guardian",
-     "summary": "Testing confirms presence of etomidate, a strong and fast-acting sedative used as a general anaesthetic overseas but not registered for medical use in AustraliaGet our breaking ne\u2026",
-     "published": "2026-11-20T07:17:01+00:00",
-     "image": "https://i.guim.co.uk/img/media/a8c083df952ff966868d4c06e9dd4da0fa335d1a/481_0_3661_2929/master/3661.jpg?width=140&quality=85&auto=format&fit=max&s=5df6a99a90c9e39471ef25a952defa4a",
-     "kind": "article",
-     "id": "667188f0eb953f5e",
-     "first_seen": "2026-11-20T18:15:13.352525+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
      "title": "Federal jury convicts man of starting the deadly 2025 Palisades Fire in Los Angeles",
      "url": "https://www.npr.org/2026/11/21/nx-s1-6049625/palisades-fire-conviction",
      "source": "NPR",
@@ -142,15 +126,15 @@
    "more": 0,
    "items": [
     {
-     "title": "LiDAR Glasses For the Visually Impaired",
-     "url": "https://hackaday.com/2026/11/21/lidar-glasses-for-the-visually-impaired/",
+     "title": "Automation For The Swimming Pool",
+     "url": "https://hackaday.com/2026/11/21/automation-for-the-swimming-pool/",
      "source": "Hackaday",
-     "summary": "The human brain has a fairly remarkable ability to take any sensory input and convert it into another type. Most notably, those with vision impairments can use systems that produc\u2026",
-     "published": "2026-11-21T15:00:59+00:00",
-     "image": "https://hackaday.com/wp-content/uploads/2026/11/lidar-glasses-main.png",
+     "summary": "Swimming pools demand constant maintenance if they are to avoid becoming disgusting pools of fetid, bacterial soup. [ingTacchelli] has been working on an automation system for thi\u2026",
+     "published": "2026-11-21T18:00:23+00:00",
+     "image": "https://hackaday.com/wp-content/uploads/2026/11/4805701792398468069-e1795094773583.png",
      "kind": "article",
-     "id": "c6f9ca6d033addf5",
-     "first_seen": "2026-11-21T17:04:11.835059+00:00",
+     "id": "9220314281dc4617",
+     "first_seen": "2026-11-21T22:12:42.624226+00:00",
      "is_new": true
     },
     {
