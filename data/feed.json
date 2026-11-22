@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T17:34:53.940065+00:00",
+ "generated_at": "2026-11-22T22:45:26.746493+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -11,12 +11,12 @@
    "items": [
     {
      "title": "Cloudy",
-     "phrase": "A one-in-three chance of rain between 8pm and 4am.",
-     "detail": "It reaches 57\u00b0 today and falls to 46\u00b0 overnight. The sun is up from 6:57 until 4:26.",
+     "phrase": "Cloudy all day.",
+     "detail": "It reaches 55\u00b0 today and falls to 46\u00b0 overnight. The sun is up from 6:57 until 4:26.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 54,
-     "high": 57,
+     "temp": 52,
+     "high": 55,
      "low": 46,
      "sunrise": "6:57",
      "sunset": "4:26",
@@ -64,10 +64,28 @@
    "more": 0,
    "items": [
     {
+     "title": "Russian warship sinks in Benghazi after suspected Ukrainian drone attack",
+     "url": "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya",
+     "source": "Guardian",
+     "summary": "No one has claimed responsibility for the strike on the vessel, which had docked on its way back to RussiaA Russian warship docked in the Libyan port city of Benghazi was struck i\u2026",
+     "published": "2026-11-22T21:33:44+00:00",
+     "image": "https://i.guim.co.uk/img/media/196206fc578eb19b5303b6bfe5930996ed24961b/0_0_900_720/master/900.jpg?width=140&quality=85&auto=format&fit=max&s=4a5a7fec09c73b0d217b6d1303a01b0c",
+     "kind": "article",
+     "id": "969b3e367a9a8e12",
+     "first_seen": "2026-11-22T17:34:53.940065+00:00",
+     "is_new": true,
+     "corroboration": 2,
+     "also_in": [
+      "BBC"
+     ],
+     "boosted": true,
+     "score": 5
+    },
+    {
      "title": "James Bond\u2019s Bare Wrist Sets Off Watch Industry War",
      "url": "https://www.wsj.com/business/retail/james-bonds-bare-wrist-sets-off-watch-industry-war-b6b179a9?mod=rss_markets_main",
      "source": "WSJ",
-     "summary": "007 has worn an Omega watch for three decades, but the brand was missing from this week\u2019s big reveal.",
+     "summary": "007 has worn an Omega watch for three decades, but the brand was missing from the big reveal.",
      "published": "2026-11-22T10:30:00+00:00",
      "image": "https://images.wsj.net/im-34867808",
      "kind": "article",
@@ -80,15 +98,15 @@
      "score": 4
     },
     {
-     "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
-     "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+     "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
+     "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "summary": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
-     "published": "2026-11-22T17:16:47+00:00",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0559/live/3e9dd1e0-e692-11f1-936e-1fd1d31671db.jpg",
+     "summary": "The talks fail to make a breakthrough on tackling climate change after a row about mentioning fossil fuels.",
+     "published": "2026-11-22T18:17:59+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afca/live/39aa8840-e69c-11f1-936e-1fd1d31671db.jpg",
      "kind": "article",
-     "id": "2b240001538629c1",
-     "first_seen": "2026-11-22T17:34:53.940065+00:00",
+     "id": "ca50e27920630fd1",
+     "first_seen": "2026-11-22T22:45:26.746493+00:00",
      "is_new": true,
      "corroboration": 2,
      "also_in": [
@@ -114,24 +132,6 @@
      ],
      "boosted": false,
      "score": 2
-    },
-    {
-     "title": "South Korean minister quits after AI cheating scandal engulfs university exams",
-     "url": "https://www.theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams",
-     "source": "Guardian",
-     "summary": "Choi Kyo-jin says he \u2018failed to prepare adequately\u2019 for entrance exams following last-minute scramble to tighten measuresSouth Korea\u2019s education minister has resigned after an AI-\u2026",
-     "published": "2026-11-22T12:12:07+00:00",
-     "image": "https://i.guim.co.uk/img/media/3d9052371f434580f71c25a962110e47f2e6a076/605_0_6228_4986/master/6228.jpg?width=140&quality=85&auto=format&fit=max&s=b27cbf562e91080e6b506b93ff0b44c3",
-     "kind": "article",
-     "id": "f908da6e29c938c7",
-     "first_seen": "2026-11-22T17:34:53.940065+00:00",
-     "is_new": true,
-     "corroboration": 2,
-     "also_in": [
-      "BBC"
-     ],
-     "boosted": false,
-     "score": 2
     }
    ]
   },
@@ -144,39 +144,39 @@
    "more": 0,
    "items": [
     {
-     "title": "Soft Robot Made for the Races",
-     "url": "https://hackaday.com/2026/11/22/soft-robot-made-for-the-races/",
+     "title": "Recycling Thousands of Coffee Capsules into a Moka Pot",
+     "url": "https://hackaday.com/2026/11/22/recycling-thousands-of-coffee-capsules-into-a-moka-pot/",
      "source": "Hackaday",
-     "summary": "Soft robotics is a relatively untapped field of robotics. However, that doesn\u2019t mean there aren\u2019t some good examples of what it could do in the near future. Speed is a \u2026read more",
-     "published": "2026-11-22T15:00:49+00:00",
-     "image": "https://hackaday.com/wp-content/uploads/2026/11/scirobotics.aei1264-f1.jpg",
+     "summary": "Everyone who has ever used a Nespresso or similar single-use pod system to make coffee may have noticed how much waste this produces in terms of empty capsules. A happy \u2026read more",
+     "published": "2026-11-22T21:00:56+00:00",
+     "image": "https://hackaday.com/wp-content/uploads/2026/11/moka_pot_coffee_capsules_shake_the_future_youtube.jpg",
      "kind": "article",
-     "id": "360926c2ef8f2072",
-     "first_seen": "2026-11-22T17:34:53.940065+00:00",
+     "id": "16f6acc1873d0c43",
+     "first_seen": "2026-11-22T22:45:26.746493+00:00",
      "is_new": true
     },
     {
-     "title": "Smart Plant Pot: Soil Moisture Monitor",
-     "url": "https://www.hackster.io/lila5/smart-plant-pot-soil-moisture-monitor-e4f005",
+     "title": "Toggling An LED With A Push Button On The Avnet K24 Board",
+     "url": "https://www.hackster.io/haqq/toggling-an-led-with-a-push-button-on-the-avnet-k24-board-dba9dc",
      "source": "Hackster",
-     "summary": "An Arduino Nano monitors soil moisture and alerts users with LEDs, a buzzer, and a live Python dashboard.",
-     "published": "2026-11-22T11:29:07+00:00",
-     "image": "https://hackster.imgix.net/uploads/attachments/2026238/_cbYAhDFwIr.blob",
+     "summary": "Read a push button and toggle an LED from C on the Cortex-A53, with no FPGA logic at all. Then find out why a 10 ms polling loop was quietly",
+     "published": "2026-11-22T15:40:02+00:00",
+     "image": "https://hackster.imgix.net/uploads/attachments/2026363/_oaMzNVL3AX.blob",
      "kind": "article",
-     "id": "6e8379c62d63ae5b",
-     "first_seen": "2026-11-22T17:34:53.940065+00:00",
+     "id": "706f0d0a8d7184ab",
+     "first_seen": "2026-11-22T22:45:26.746493+00:00",
      "is_new": true
     },
     {
-     "title": "Radar Snowman: A Glove Puppet Animatronic on a Pico 2 W",
-     "url": "https://www.hackster.io/drjonea/radar-snowman-a-glove-puppet-animatronic-on-a-pico-2-w-21fd5d",
+     "title": "Building a Parameterized APB FIFO Controller in Verilog",
+     "url": "https://www.hackster.io/mohammedelmir594/building-a-parameterized-apb-fifo-controller-in-verilog-da36c0",
      "source": "Hackster",
-     "summary": "A second-hand snowman puppet with a Pico 2 W, four servos and a 24 GHz radar inside, that decides if you've been naughty or nice.",
-     "published": "2026-11-22T07:05:30+00:00",
-     "image": "https://hackster.imgix.net/uploads/attachments/2025981/_B64WRA1lYA.blob",
+     "summary": "Design a memory-mapped FIFO peripheral in Verilog using an APB-style interface, parameterized storage, status registers, and error detection",
+     "published": "2026-11-22T12:56:10+00:00",
+     "image": "https://hackster.imgix.net/uploads/attachments/2026296/_f4MhpaP6XX.blob",
      "kind": "article",
-     "id": "9c247798d8a162e9",
-     "first_seen": "2026-11-22T17:34:53.940065+00:00",
+     "id": "797a368f9d0415e7",
+     "first_seen": "2026-11-22T22:45:26.746493+00:00",
      "is_new": true
     },
     {
