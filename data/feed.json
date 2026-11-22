@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T22:12:42.624226+00:00",
+ "generated_at": "2026-11-22T02:17:48.487457+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,13 +10,13 @@
    "more": 0,
    "items": [
     {
-     "title": "Sunny",
-     "phrase": "Sunny all day.",
-     "detail": "It reaches 58\u00b0 today and falls to 38\u00b0 overnight. The sun is up from 6:56 until 4:26.",
+     "title": "Mostly Cloudy",
+     "phrase": "Mostly Cloudy all day.",
+     "detail": "It reaches 56\u00b0 today and falls to 38\u00b0 overnight. The sun is up from 6:56 until 4:26.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 53,
-     "high": 58,
+     "temp": 44,
+     "high": 56,
      "low": 38,
      "sunrise": "6:56",
      "sunset": "4:26",
@@ -64,15 +64,15 @@
    "more": 0,
    "items": [
     {
-     "title": "Teenager allegedly organised arsons and kidnapping on Signal during Melbourne hospitality wars",
-     "url": "https://www.theguardian.com/australia-news/2026/nov/21/teenager-allegedly-organised-arsons-and-kidnapping-on-signal-during-melbourne-hospitality-wars-ntwnfb",
+     "title": "\u2018No time for a culture war\u2019: Victoria\u2019s electricity supply is at risk. Can it avoid power shortages and bill shocks?",
+     "url": "https://www.theguardian.com/australia-news/2026/nov/22/victoria-election-2026-what-are-parties-promising-energy-policy",
      "source": "Guardian",
-     "summary": "Victoria police say boy, 17, communicated with offenders under username \u2018Onepercent\u2019Get our breaking news email, free app or daily news podcastVictorian police allege a 17-year-ol\u2026",
-     "published": "2026-11-21T04:44:00+00:00",
-     "image": "https://i.guim.co.uk/img/media/99136bef967ae4aba72dfc6e04e06a4ec0dc1eab/0_1497_4284_3427/master/4284.jpg?width=140&quality=85&auto=format&fit=max&s=cb1363336ef34583a49d6bf4a024f358",
+     "summary": "State faces electricity supply gap when Yallourn coal-fired power station closes in 2028 as experts warn neither Labor nor the Coalition has adequate plansSign up for climate and \u2026",
+     "published": "2026-11-22T01:00:13+00:00",
+     "image": "https://i.guim.co.uk/img/media/2ba7cd3a290bb4876a32e7f44df6d629f62996df/0_0_6112_4892/master/6112.jpg?width=140&quality=85&auto=format&fit=max&s=22179d96566a2b070ce58d80039fc533",
      "kind": "article",
-     "id": "e75debc60ef612de",
-     "first_seen": "2026-11-21T17:04:11.835059+00:00",
+     "id": "a6ca28dfe395ec2a",
+     "first_seen": "2026-11-22T02:17:48.487457+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
@@ -126,15 +126,27 @@
    "more": 0,
    "items": [
     {
-     "title": "Automation For The Swimming Pool",
-     "url": "https://hackaday.com/2026/11/21/automation-for-the-swimming-pool/",
+     "title": "Thermite Powered Instant Phone Charger",
+     "url": "https://hackaday.com/2026/11/21/thermite-powered-instant-phone-charger/",
      "source": "Hackaday",
-     "summary": "Swimming pools demand constant maintenance if they are to avoid becoming disgusting pools of fetid, bacterial soup. [ingTacchelli] has been working on an automation system for thi\u2026",
-     "published": "2026-11-21T18:00:23+00:00",
-     "image": "https://hackaday.com/wp-content/uploads/2026/11/4805701792398468069-e1795094773583.png",
+     "summary": "Thermite is an amazing material, using mostly easily obtainable ingredients like aluminium and iron(III) oxide in a redox reaction to create a rather spectacular amount of thermal\u2026",
+     "published": "2026-11-22T00:00:29+00:00",
+     "image": "https://hackaday.com/wp-content/uploads/2026/11/thermite_phone_charger_the_thought_emporium_youtube.jpg",
      "kind": "article",
-     "id": "9220314281dc4617",
-     "first_seen": "2026-11-21T22:12:42.624226+00:00",
+     "id": "d0c62c235360e1c1",
+     "first_seen": "2026-11-22T02:17:48.487457+00:00",
+     "is_new": true
+    },
+    {
+     "title": "M5Paper E-Ink Weather Calendar Clock with Touch UI",
+     "url": "https://www.hackster.io/hiramxu/m5paper-e-ink-weather-calendar-clock-with-touch-ui-969039",
+     "source": "Hackster",
+     "summary": "E-ink weather clock with touch UI, bilingual holidays, and deep sleep \u2014 all on an M5Paper, no wiring needed.",
+     "published": "2026-11-21T12:42:00+00:00",
+     "image": "https://hackster.imgix.net/uploads/attachments/2024792/_CnhMQ2pdGW.blob",
+     "kind": "article",
+     "id": "0c86d295701f4e83",
+     "first_seen": "2026-11-22T02:17:48.487457+00:00",
      "is_new": true
     },
     {
@@ -147,18 +159,6 @@
      "kind": "article",
      "id": "6fcc6aac65ff8bd9",
      "first_seen": "2026-11-21T17:04:11.835059+00:00",
-     "is_new": true
-    },
-    {
-     "title": "RFID Student Attendance System with Arduino & Python",
-     "url": "https://www.hackster.io/mousavii/rfid-student-attendance-system-with-arduino-python-ed09b6",
-     "source": "Hackster",
-     "summary": "A low-cost, contactless attendance system using an MFRC522 RFID reader, an Arduino Nano, and a Python Tkinter desktop application that logs",
-     "published": "2026-11-20T13:54:31+00:00",
-     "image": "https://hackster.imgix.net/uploads/attachments/2023259/_SS0r8tpF0t.blob",
-     "kind": "article",
-     "id": "87bfe4c7b8a69ecf",
-     "first_seen": "2026-11-21T00:00:30.881617+00:00",
      "is_new": true
     },
     {
@@ -194,21 +194,7 @@
    "lead_image": false,
    "row_detail": false,
    "more": 0,
-   "items": [
-    {
-     "title": "Trouser Dress Socks in Charcoal/Seamoss Stripe Extra Fine Merino",
-     "url": "https://shopmashburn.com/products/sid-mashburn-trouser-dress-socks-charcoal-seamoss-stripe-extra-fine-merino-s81526",
-     "source": "Sid Mashburn",
-     "summary": "Sid Dress Socks",
-     "published": "2026-11-20T16:29:50-05:00",
-     "image": "https://cdn.shopify.com/s/files/1/0414/4532/6999/files/S81526_0052.jpg?v=1795175164",
-     "price": "$32",
-     "kind": "product",
-     "id": "fe37f165b5b7bccd",
-     "first_seen": "2026-11-21T00:00:30.881617+00:00",
-     "is_new": true
-    }
-   ]
+   "items": []
   },
   {
    "id": "dispatches",
