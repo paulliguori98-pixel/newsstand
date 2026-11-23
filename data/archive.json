@@ -8319,7 +8319,7 @@
   "title": "Il Bisonte Brown Leather Card Case",
   "url": "https://us.drakes.com/products/il-bisonte-brown-leather-card-case",
   "source": "Drake's",
-  "image": "https://cdn.shopify.com/s/files/1/0649/6603/3653/files/DR1AL125593-02300-2.jpg?v=1795185043",
+  "image": "https://cdn.shopify.com/s/files/1/0649/6603/3653/files/DR1AL125593-02300-1.jpg?v=1795185043",
   "price": "$100",
   "published": "2026-11-20T09:37:15-05:00",
   "first_seen": "2026-11-20T18:15:13.352525+00:00"
@@ -8332,5 +8332,14 @@
   "price": "$32",
   "published": "2026-11-20T16:29:50-05:00",
   "first_seen": "2026-11-21T00:00:30.881617+00:00"
+ },
+ "dd2f362ba56b8acf": {
+  "title": "Men's Tracksmith Eliot Ryder",
+  "url": "https://www.tracksmith.com/products/m-tracksmith-eliot-ryder?sku=7673226330199:black__7",
+  "source": "Tracksmith",
+  "image": "https://cdn-image.tracksmith.com/1782945054-plp-rollover-image-1.jpg?auto=format,compress&crop=faces&dpr=2&fit=crop&h=560&w=420",
+  "price": "$220",
+  "published": null,
+  "first_seen": "2026-11-23T21:52:21.335680+00:00"
  }
 }
