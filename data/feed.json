@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T19:24:00.611593+00:00",
+ "generated_at": "2026-11-27T02:23:14.079914+00:00",
  "sections": [
   {
    "id": "almanac",
@@ -10,13 +10,13 @@
    "more": 0,
    "items": [
     {
-     "title": "Cloudy",
-     "phrase": "Rain is near certain between 4pm and 7am.",
-     "detail": "It reaches 43\u00b0 today and falls to 33\u00b0 overnight. The sun is up from 7:02 until 4:23.",
+     "title": "Rain",
+     "phrase": "Rain is near certain between 9pm and 2pm.",
+     "detail": "It reaches 53\u00b0 today and falls to 33\u00b0 overnight. The sun is up from 7:02 until 4:23.",
      "url": "https://forecast.weather.gov/MapClick.php?lat=43.08&lon=-73.78",
      "source": "Saratoga Springs",
-     "temp": 42,
-     "high": 43,
+     "temp": 36,
+     "high": 53,
      "low": 33,
      "sunrise": "7:02",
      "sunset": "4:23",
@@ -64,38 +64,6 @@
    "more": 0,
    "items": [
     {
-     "title": "Trump\u2019s Latest Tariffs Revive Focus on Pressuring China",
-     "url": "https://www.nytimes.com/2026/11/26/business/trump-tariffs-asia.html",
-     "source": "New York Times",
-     "summary": "President Trump sent a message to trading partners across Asia, many of which depend on trade and investment from both the United States and China, that he is ready to escalate ta\u2026",
-     "published": "2026-11-26T17:03:31+00:00",
-     "image": "https://static01.nyt.com/images/2026/11/26/multimedia/26Biz-Asia-Tariffs-01-fzkq/26Biz-Asia-Tariffs-01-fzkq-mediumSquareAt3X.jpg",
-     "kind": "article",
-     "id": "a2f8f08b11e41b4b",
-     "first_seen": "2026-11-26T19:24:00.611593+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
-     "title": "Brazilian Duped Into Fighting for Russia: \u2018War Is Hell\u2019",
-     "url": "https://www.nytimes.com/2026/11/26/world/americas/brazil-soldier-ukraine-war.html",
-     "source": "New York Times",
-     "summary": "Dozens of Brazilians have joined the Russian army, some say lured by a pair of recruiters promising money and adventure. Here is one soldier\u2019s story.",
-     "published": "2026-11-26T15:27:03+00:00",
-     "image": null,
-     "kind": "article",
-     "id": "c954a7b13b4c8d30",
-     "first_seen": "2026-11-26T19:24:00.611593+00:00",
-     "is_new": true,
-     "corroboration": 1,
-     "also_in": [],
-     "boosted": true,
-     "score": 4
-    },
-    {
      "title": "North Korea's Kim vows to build more nuclear weapons after ignoring Trump's overture",
      "url": "https://www.npr.org/2026/11/26/g-s1-155955/north-korea-kim-nuclear-weapons-trump",
      "source": "NPR",
@@ -112,20 +80,56 @@
      "score": 4
     },
     {
-     "title": "Asian Stocks Rise as Investors Shrug Off U.S. Tariff Plan",
-     "url": "https://www.wsj.com/finance/asian-stocks-rise-as-investors-shrug-off-u-s-tariff-plan-f8daa85b?mod=rss_markets_main",
+     "title": "Aschenbrenner\u2019s Situational Awareness Tells Investors It Lost 65% in Third Quarter",
+     "url": "https://www.wsj.com/finance/investing/aschenbrenners-situational-awareness-tells-investors-it-lost-65-in-third-quarter-de8e9797?mod=rss_markets_main",
      "source": "WSJ",
-     "summary": "Asian markets rose Thursday as investors brushed aside new U.S. tariff proposals and Wall Street recouped most of its sharp losses ahead of the Thanksgiving holiday.",
-     "published": "2026-11-26T05:22:00+00:00",
-     "image": "https://images.wsj.net/im-98798504",
+     "summary": "The hedge fund that nearly went out of business after steep losses this summer said it has worked to learn from its mistakes.",
+     "published": "2026-11-26T01:04:00+00:00",
+     "image": "https://images.wsj.net/im-27526714",
      "kind": "article",
-     "id": "070ff147720c331f",
-     "first_seen": "2026-11-26T19:24:00.611593+00:00",
+     "id": "20712555c0ba71a7",
+     "first_seen": "2026-11-26T02:36:51.650658+00:00",
      "is_new": true,
      "corroboration": 1,
      "also_in": [],
      "boosted": true,
      "score": 4
+    },
+    {
+     "title": "Tributes for Duran Duran guitarist Andy Taylor after his death aged 65",
+     "url": "https://www.bbc.co.uk/news/articles/cmp3vk6vr44po?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "summary": "Simon Le Bon and his other bandmates say Taylor \"brought an indelible fire and swagger to our music\".",
+     "published": "2026-11-26T12:33:23+00:00",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c5d/live/e49fa530-e996-11f1-b880-15b494ba858d.jpg",
+     "kind": "article",
+     "id": "10aa4833139dc223",
+     "first_seen": "2026-11-26T19:24:00.611593+00:00",
+     "is_new": true,
+     "corroboration": 2,
+     "also_in": [
+      "NPR"
+     ],
+     "boosted": false,
+     "score": 2
+    },
+    {
+     "title": "Powerful storms disrupt holiday travel, as Macy's Thanksgiving Day Parade is postponed",
+     "url": "https://www.npr.org/2026/11/26/nx-s1-6054079/storms-expected-on-both-coasts-as-millions-travel-for-thanksgiving",
+     "source": "NPR",
+     "summary": "Extreme weather that has unleashed strong winds, high tides, heavy rain and floods is expected to impact travel plans of an estimated 81.5 million people as they travel across the\u2026",
+     "published": "2026-11-26T09:43:27+00:00",
+     "image": null,
+     "kind": "article",
+     "id": "ed6f106e29d2e7dd",
+     "first_seen": "2026-11-26T19:24:00.611593+00:00",
+     "is_new": true,
+     "corroboration": 2,
+     "also_in": [
+      "Axios"
+     ],
+     "boosted": false,
+     "score": 2
     }
    ]
   },
@@ -138,15 +142,15 @@
    "more": 0,
    "items": [
     {
-     "title": "Location-Accurate Weather For Your Gecko",
-     "url": "https://hackaday.com/2026/11/26/location-accurate-weather-for-your-gecko/",
+     "title": "Another Split Flap Display You Can Print Yourself",
+     "url": "https://hackaday.com/2026/11/26/another-split-flap-display-you-can-print-yourself/",
      "source": "Hackaday",
-     "summary": "When building a terrarium, most people do their best to make it an acceptable environment for its inhabitant. Temperature and lighting can be regulated, and habitat-appropriate pr\u2026",
-     "published": "2026-11-26T18:00:31+00:00",
-     "image": "https://hackaday.com/wp-content/uploads/2026/11/gecko-home-featured.jpg",
+     "summary": "Split flap displays were once widely popular in everything from airport terminal displays to alarm clocks. Now they\u2019re a little bit out of vogue in the mainstream, but that doesn\u2019\u2026",
+     "published": "2026-11-26T21:00:35+00:00",
+     "image": "https://hackaday.com/wp-content/uploads/2026/11/DIY-Split-Flap-Display_-3D-Printed-Open-Source-_-OpenFlaps-0-46-screenshot.png",
      "kind": "article",
-     "id": "9320d6e9c3e95d5f",
-     "first_seen": "2026-11-26T19:24:00.611593+00:00",
+     "id": "98ae5e8c043fb931",
+     "first_seen": "2026-11-27T02:23:14.079914+00:00",
      "is_new": true
     },
     {
@@ -205,61 +209,8 @@
    "kind": "goods",
    "lead_image": false,
    "row_detail": false,
-   "more": 2,
-   "items": [
-    {
-     "title": "Multi Stripe Cotton Pyjama Set",
-     "url": "https://us.drakes.com/products/multi-stripe-cotton-pyjama-set",
-     "source": "Drake's",
-     "summary": "Pyjamas",
-     "published": "2026-11-26T09:19:56-05:00",
-     "image": "https://cdn.shopify.com/s/files/1/0649/6603/3653/files/DR3AC027680-01-662-1.jpg?v=1795619331",
-     "price": "$495",
-     "kind": "product",
-     "id": "54fecbaf01e44cbd",
-     "first_seen": "2026-11-26T19:24:00.611593+00:00",
-     "is_new": true
-    },
-    {
-     "title": "Hand-Stitched Cashmere-Lined Gloves in Saddle Nappa Leather",
-     "url": "https://shopmashburn.com/products/sid-mashburn-hand-stitched-cashmere-lined-gloves-saddle-nappa-leather-s81065",
-     "source": "Sid Mashburn",
-     "summary": "Sid Gloves",
-     "published": "2026-11-25T15:21:41-05:00",
-     "image": "https://cdn.shopify.com/s/files/1/0414/4532/6999/files/S81065_0054.jpg?v=1795561147",
-     "price": "$195",
-     "kind": "product",
-     "id": "961345beae768b22",
-     "first_seen": "2026-11-26T02:36:51.650658+00:00",
-     "is_new": true
-    },
-    {
-     "title": "Side-Tab Dress Trouser in Heather Wheat Cashmere/Cotton Flannel",
-     "url": "https://shopmashburn.com/products/sid-mashburn-side-tab-dress-trouser-heather-wheat-cashmere-cotton-flannel-s80624",
-     "source": "Sid Mashburn",
-     "summary": "Sid Dress Trousers",
-     "published": "2026-11-25T15:21:41-05:00",
-     "image": "https://cdn.shopify.com/s/files/1/0414/4532/6999/files/S80624_0220.jpg?v=1795560070",
-     "price": "$425",
-     "kind": "product",
-     "id": "9f7567e0f06cdf2d",
-     "first_seen": "2026-11-26T02:36:51.650658+00:00",
-     "is_new": true
-    },
-    {
-     "title": "Over-The-Calf Dress Socks in Moss Extra Fine Merino",
-     "url": "https://shopmashburn.com/products/sid-mashburn-over-the-calf-dress-socks-moss-extra-fine-merino-s81517",
-     "source": "Sid Mashburn",
-     "summary": "Sid Dress Socks",
-     "published": "2026-11-25T15:21:40-05:00",
-     "image": "https://cdn.shopify.com/s/files/1/0414/4532/6999/files/S81517_0067.jpg?v=1795616662",
-     "price": "$32",
-     "kind": "product",
-     "id": "695da2d579ba206f",
-     "first_seen": "2026-11-26T02:36:51.650658+00:00",
-     "is_new": true
-    }
-   ]
+   "more": 0,
+   "items": []
   },
   {
    "id": "dispatches",
